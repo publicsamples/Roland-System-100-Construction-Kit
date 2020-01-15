@@ -1,0 +1,659 @@
+// this file was generated from sys101 Max PW Hi Res Square.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=8 hikey=24 pitch_keycenter=24 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=251768 loop_end=363062 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C0-16-Q4XB.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=248700 loop_end=361337 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C0-32-G7YX.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=251855 loop_end=364494 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C0-48-RLUK.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=230252 loop_end=342888 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C0-64-N8UK.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=248509 loop_end=362486 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C0-79-CUU6.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=246749 loop_end=359394 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C0-95-KGAQ.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=240139 loop_end=352784 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C0-111-OFL7.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=240635 loop_end=353276 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C0-127-CC39.wav
+<group> key=25 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=239447 loop_end=361059 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C#0-16-UKJV.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=231084 loop_end=353964 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C#0-32-VAUB.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=237314 loop_end=360190 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C#0-48-5J02.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=285514 loop_end=358994 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C#0-64-8OGL.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=287646 loop_end=361123 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C#0-79-CVH8.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=287672 loop_end=361147 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C#0-95-O2B5.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=245356 loop_end=320100 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C#0-111-XN5I.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=284311 loop_end=359053 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C#0-127-U4CB.wav
+<group> key=26 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=329 loop_end=73302 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D0-16-F3W9.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=231127 loop_end=351955 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D0-32-2BP0.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=240442 loop_end=360074 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D0-48-SKL7.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=239524 loop_end=360353 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D0-64-20R8.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=238487 loop_end=358120 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D0-79-IGNZ.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=230263 loop_end=349894 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D0-95-K3ZB.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=249655 loop_end=364515 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D0-111-FPG2.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=238353 loop_end=360384 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D0-127-CZ0V.wav
+<group> key=27 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=880 loop_end=74305 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D#0-16-WCDB.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=212796 loop_end=355142 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D#0-32-MRCP.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=244615 loop_end=342904 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D#0-48-EQON.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=215983 loop_end=357200 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D#0-64-XIG7.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=220142 loop_end=362489 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D#0-79-MESF.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=254787 loop_end=363238 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D#0-95-519M.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=240356 loop_end=338645 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D#0-111-8KRF.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=246638 loop_end=343799 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D#0-127-NJGX.wav
+<group> key=28 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=490 loop_end=74127 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-E0-16-GYMJ.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=287677 loop_end=364514 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-E0-32-UZVP.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=285656 loop_end=360362 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-E0-48-R2DW.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=277485 loop_end=352193 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-E0-64-U1QV.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=275511 loop_end=351284 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-E0-79-KPIR.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=274397 loop_end=349104 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-E0-95-YEOK.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=274427 loop_end=349132 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-E0-111-E7AI.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=269182 loop_end=346025 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-E0-127-JUH4.wav
+<group> key=29 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=234511 loop_end=360473 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F0-16-GSXV.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=213445 loop_end=341429 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F0-32-W9B6.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=203578 loop_end=329543 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F0-48-YP20.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=207852 loop_end=335834 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F0-64-ZJO7.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=225219 loop_end=352196 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F0-79-2S25.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=233372 loop_end=361360 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F0-95-7KD7.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=235290 loop_end=361255 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F0-111-8ZJJ.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=217883 loop_end=343850 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F0-127-20GM.wav
+<group> key=30 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=256907 loop_end=350158 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F#0-16-1VYX.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=265241 loop_end=361345 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F#0-32-MPOM.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=265123 loop_end=358376 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F#0-48-BA68.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=274367 loop_end=354302 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F#0-64-C4QD.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=270383 loop_end=353177 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F#0-79-TPTR.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=271444 loop_end=352333 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F#0-95-R63L.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=268376 loop_end=363536 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F#0-111-HRFF.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=265247 loop_end=359454 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F#0-127-DQIX.wav
+<group> key=31 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=267496 loop_end=361828 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G0-16-P00O.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=267030 loop_end=362263 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G0-32-1V87.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=266422 loop_end=356276 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G0-48-PH1N.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=263318 loop_end=357658 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G0-64-MM4Z.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=261343 loop_end=356578 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G0-79-4T9U.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=254915 loop_end=350151 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G0-95-41H4.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=265380 loop_end=362415 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G0-111-LA0U.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=262269 loop_end=357507 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G0-127-564C.wav
+<group> key=32 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=267479 loop_end=360826 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G#0-16-7R57.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=264545 loop_end=359592 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G#0-32-PRBM.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=266562 loop_end=361607 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G#0-48-OSYU.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=268481 loop_end=361830 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G#0-64-PLGS.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=266151 loop_end=360348 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G#0-79-L56D.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=263432 loop_end=357627 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G#0-95-NQUR.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=269200 loop_end=363396 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G#0-111-YI27.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=254886 loop_end=348231 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G#0-127-FJUM.wav
+<group> key=33 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=282769 loop_end=362880 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A0-16-XO6F.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=289925 loop_end=363630 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A0-32-QVME.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=288192 loop_end=362701 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A0-48-9CCD.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=286153 loop_end=359864 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A0-64-VV2F.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=286943 loop_end=360656 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A0-79-Y7D6.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=290123 loop_end=363036 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A0-95-Q3C4.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=279758 loop_end=353472 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A0-111-DHN6.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=289112 loop_end=364431 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A0-127-WYT3.wav
+<group> key=34 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=278441 loop_end=361643 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A#0-16-YMWE.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=278362 loop_end=361568 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A#0-32-FNA2.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=279519 loop_end=363484 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A#0-48-GZ68.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=274630 loop_end=359352 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A#0-64-E40U.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=273813 loop_end=357774 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A#0-79-GQ0I.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=276727 loop_end=361448 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A#0-95-FTBU.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=280452 loop_end=364417 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A#0-111-OWVY.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=278039 loop_end=362012 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A#0-127-0POK.wav
+<group> key=35 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=35625 loop_end=127797 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-B0-16-0HXI.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=270616 loop_end=362783 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-B0-32-8II8.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=271500 loop_end=363669 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-B0-48-7SIO.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=271268 loop_end=362721 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-B0-64-KTCS.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=267616 loop_end=359782 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-B0-79-ILQ2.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=270567 loop_end=363451 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-B0-95-8VDF.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=270916 loop_end=363085 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-B0-111-C56N.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=267933 loop_end=360101 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-B0-127-MJ5K.wav
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=23911 loop_end=164205 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C1-16-IDSY.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=276833 loop_end=362495 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C1-32-GG6O.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=256121 loop_end=340435 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C1-48-0C8Y.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=277843 loop_end=362158 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C1-64-NEMI.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=280957 loop_end=363246 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C1-79-1HRT.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=275883 loop_end=358170 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C1-95-S5F1.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=278416 loop_end=361379 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C1-111-PW31.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=280446 loop_end=363415 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C1-127-5X1M.wav
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=265524 loop_end=341937 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C#1-16-9VQ7.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=288065 loop_end=363842 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C#1-32-T8U2.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=275314 loop_end=349822 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C#1-48-OVC0.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=287663 loop_end=362808 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C#1-64-WBRW.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=283020 loop_end=363263 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C#1-79-NM03.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=287640 loop_end=363422 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C#1-95-XN1S.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=283541 loop_end=363142 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C#1-111-ZA3L.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=282103 loop_end=364253 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C#1-127-KM7E.wav
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=287864 loop_end=363608 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D1-16-YOVV.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=288391 loop_end=363536 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D1-32-79SV.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=280082 loop_end=362436 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D1-48-8OL0.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=280225 loop_end=362580 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D1-64-ZJDX.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=278993 loop_end=362554 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D1-79-8NK8.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=278397 loop_end=359554 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D1-95-RQSW.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=288466 loop_end=363010 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D1-111-UM6F.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=281531 loop_end=364487 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D1-127-CFPG.wav
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=255966 loop_end=333177 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D#1-16-P1AO.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=285342 loop_end=363120 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D#1-32-0YBG.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=283771 loop_end=360980 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D#1-48-TDDJ.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=281160 loop_end=358940 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D#1-64-R9DL.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=282709 loop_end=362188 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D#1-79-NI2M.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=275003 loop_end=363567 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D#1-95-AJK2.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=273869 loop_end=364135 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D#1-111-ZITA.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=274933 loop_end=363496 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D#1-127-6U2Q.wav
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=271530 loop_end=350303 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-E1-16-3DDN.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=282642 loop_end=363022 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-E1-32-IWXP.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=282432 loop_end=362276 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-E1-48-Z8VB.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=282027 loop_end=363482 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-E1-64-23Q6.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=282319 loop_end=363236 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-E1-79-55BD.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=283127 loop_end=362970 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-E1-95-XYMG.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=282087 loop_end=364073 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-E1-111-08GY.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=280694 loop_end=362145 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-E1-127-Y1BH.wav
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=289570 loop_end=363431 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F1-16-OHZO.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=289688 loop_end=363039 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F1-32-R705.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=278341 loop_end=363330 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F1-48-FZ7Q.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=280311 loop_end=362264 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F1-64-IOGX.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=280826 loop_end=360753 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F1-79-M7SJ.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=287959 loop_end=364346 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F1-95-AQF0.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=281968 loop_end=363417 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F1-111-35L3.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=280726 loop_end=362683 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F1-127-ZRB5.wav
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=286370 loop_end=363252 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F#1-16-4O1N.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=285767 loop_end=363121 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F#1-32-V1MG.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=285946 loop_end=364258 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F#1-48-7VUE.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=281429 loop_end=359739 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F#1-64-01VS.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=285927 loop_end=363280 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F#1-79-37U0.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=279897 loop_end=357733 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F#1-95-981B.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=279178 loop_end=356056 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F#1-111-LHID.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=286387 loop_end=363745 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F#1-127-BVYO.wav
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=285253 loop_end=359657 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G1-16-FGTV.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=288472 loop_end=362876 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G1-32-UWCV.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=287575 loop_end=363778 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G1-48-E37S.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=286945 loop_end=364050 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G1-64-VSHX.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=270080 loop_end=344482 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G1-79-P7X9.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=286671 loop_end=361076 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G1-95-6K6G.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=283804 loop_end=359560 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G1-111-OEUS.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=285918 loop_end=363474 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G1-127-T457.wav
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=287634 loop_end=362546 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G#1-16-51RE.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=287209 loop_end=362120 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G#1-32-URVQ.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=288283 loop_end=362767 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G#1-48-HIZ8.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=286420 loop_end=363030 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G#1-64-M7QM.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=283213 loop_end=363231 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G#1-79-T959.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=282207 loop_end=363078 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G#1-95-KHXF.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=289113 loop_end=362749 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G#1-111-EPQS.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=274195 loop_end=347405 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G#1-127-KBX5.wav
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=278168 loop_end=351294 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A1-16-DX9S.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=289687 loop_end=363614 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A1-32-DSPW.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=289309 loop_end=364042 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A1-48-3CRX.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=288578 loop_end=362910 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A1-64-0KOT.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=286120 loop_end=361665 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A1-79-P7ZR.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=279463 loop_end=352596 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A1-95-S2UT.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=288988 loop_end=363728 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A1-111-IGW8.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=286379 loop_end=360715 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A1-127-P5EA.wav
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=281172 loop_end=354402 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A#1-16-S63U.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=324 loop_end=76591 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A#1-32-5FOT.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=288180 loop_end=362542 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A#1-48-GTQW.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=289150 loop_end=363136 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A#1-64-DWAU.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=288229 loop_end=362973 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A#1-79-EAJM.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=289473 loop_end=363079 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A#1-95-5VY5.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=288227 loop_end=364491 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A#1-111-7W8A.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=288066 loop_end=363191 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A#1-127-ILE0.wav
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=25399 loop_end=127113 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-B1-16-4U91.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=510 loop_end=74644 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-B1-32-DCEB.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=288999 loop_end=363848 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-B1-48-SD49.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=280001 loop_end=352700 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-B1-64-PE9R.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=290571 loop_end=363985 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-B1-79-JDP9.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=290686 loop_end=363741 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-B1-95-6P82.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=290555 loop_end=363614 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-B1-111-0MPR.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=286757 loop_end=361249 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-B1-127-0E7L.wav
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=23371 loop_end=182587 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C2-16-N36B.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=671 loop_end=74703 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C2-32-QXU9.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=288900 loop_end=364282 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C2-48-HBL5.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290766 loop_end=363781 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C2-64-YS1E.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=290810 loop_end=363823 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C2-79-BX28.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=290169 loop_end=364537 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C2-95-MOZP.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=286448 loop_end=361155 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C2-111-SPK2.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=290790 loop_end=362791 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C2-127-XFS6.wav
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=40230 loop_end=363130 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C#2-16-37EK.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=289372 loop_end=363396 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C#2-32-6SSV.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=289431 loop_end=363134 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C#2-48-E4IC.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290565 loop_end=363630 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C#2-64-TRPF.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=290612 loop_end=362718 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C#2-79-WEN5.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=289499 loop_end=361609 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C#2-95-PBL1.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=289700 loop_end=361807 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C#2-111-MQKP.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=289272 loop_end=363935 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C#2-127-F1IF.wav
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=221775 loop_end=295284 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D2-16-490L.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=289257 loop_end=361564 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D2-32-LDHK.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=288970 loop_end=363088 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D2-48-YTJY.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=289002 loop_end=363422 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D2-64-LDYL.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=287878 loop_end=362294 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D2-79-3A4J.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=289769 loop_end=364494 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D2-95-KEDZ.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=274080 loop_end=346395 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D2-111-3WMQ.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=284753 loop_end=359171 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D2-127-OEWS.wav
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=48505 loop_end=364441 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D#2-16-RDZN.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=288952 loop_end=364310 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D#2-32-T5RF.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=290183 loop_end=362699 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D#2-48-TOF4.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=289701 loop_end=364206 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D#2-64-QRTH.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=290524 loop_end=363323 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D#2-79-IWCX.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=289650 loop_end=363018 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D#2-95-TDNG.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=266641 loop_end=340865 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D#2-111-5QK3.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=286476 loop_end=358706 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D#2-127-839K.wav
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=46273 loop_end=363797 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-E2-16-PHGM.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=289327 loop_end=362335 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-E2-32-Q2RQ.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=289621 loop_end=363970 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-E2-48-RU3N.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290671 loop_end=363943 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-E2-64-DL0B.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=290486 loop_end=362686 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-E2-79-V0JU.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=288679 loop_end=361682 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-E2-95-OG4N.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=290353 loop_end=364434 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-E2-111-32UK.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=265358 loop_end=340512 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-E2-127-D4SL.wav
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=229869 loop_end=302600 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F2-16-JZQR.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=289511 loop_end=362746 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F2-32-EIIU.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=290594 loop_end=363831 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F2-48-QBF1.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290041 loop_end=364037 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F2-64-QGYP.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=288721 loop_end=360690 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F2-79-8TM6.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=286342 loop_end=360083 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F2-95-YX5R.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=290811 loop_end=363791 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F2-111-CQOS.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=290181 loop_end=363415 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F2-127-2699.wav
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=41142 loop_end=358774 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F#2-16-RALA.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=288548 loop_end=362213 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F#2-32-V373.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=290282 loop_end=364426 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F#2-48-RX9X.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=289008 loop_end=363152 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F#2-64-KEAM.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=283026 loop_end=356695 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F#2-79-XII0.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=290752 loop_end=363703 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F#2-95-4DPS.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=289503 loop_end=364126 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F#2-111-I9SY.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=282653 loop_end=356559 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F#2-127-5F00.wav
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=38490 loop_end=363324 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G2-16-QGJV.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=289801 loop_end=362717 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G2-32-ASZP.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=273898 loop_end=347262 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G2-48-3VE0.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290072 loop_end=364117 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G2-64-YHXN.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=270833 loop_end=343744 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G2-79-FJUM.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=290522 loop_end=364112 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G2-95-7GJ0.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=289742 loop_end=364462 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G2-111-0FEV.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=263531 loop_end=337350 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G2-127-NOSX.wav
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=38937 loop_end=357871 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G#2-16-9Z3M.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=130 loop_end=76615 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G#2-32-BF3I.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=290603 loop_end=363468 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G#2-48-3RRM.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=289562 loop_end=362641 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G#2-64-8LZ2.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=289705 loop_end=364488 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G#2-79-PEGW.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=289802 loop_end=363309 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G#2-95-RYIW.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=267705 loop_end=340571 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G#2-111-203K.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=288807 loop_end=363162 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G#2-127-DSDF.wav
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=38177 loop_end=364054 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A2-16-2RO5.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=177 loop_end=75207 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A2-32-63TH.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=289953 loop_end=362777 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A2-48-O5F9.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290737 loop_end=364361 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A2-64-J4UK.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=290470 loop_end=364496 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A2-79-AKDJ.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=289993 loop_end=363013 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A2-95-RG2O.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=277592 loop_end=351215 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A2-111-AR42.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=289680 loop_end=363104 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A2-127-RDLY.wav
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=39792 loop_end=355732 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A#2-16-SFVP.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=305 loop_end=73780 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A#2-32-FAU6.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=1183 loop_end=75605 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A#2-48-3ELJ.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290782 loop_end=364448 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A#2-64-WD1N.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=288732 loop_end=362212 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A#2-79-0RF7.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=238734 loop_end=312970 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A#2-95-8K16.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=268124 loop_end=341981 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A#2-111-GOWC.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=283036 loop_end=356513 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A#2-127-TXJU.wav
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=219815 loop_end=292204 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-B2-16-B5Z1.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=2194 loop_end=76728 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-B2-32-3P1T.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=286530 loop_end=359455 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-B2-48-D2RA.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=289761 loop_end=361614 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-B2-64-248R.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=263042 loop_end=336506 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-B2-79-SP85.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=289233 loop_end=363413 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-B2-95-WZLH.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=270058 loop_end=342267 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-B2-111-7FUG.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=288778 loop_end=363489 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-B2-127-YP6G.wav
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=241545 loop_end=313581 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C3-16-DI7C.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=290252 loop_end=364321 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C3-32-73BP.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=283923 loop_end=357820 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C3-48-B8EJ.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=289761 loop_end=364503 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C3-64-7OTT.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=290733 loop_end=364126 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C3-79-36UP.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=290248 loop_end=364484 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C3-95-VVX2.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=255197 loop_end=329432 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C3-111-0L4Y.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=270779 loop_end=344677 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C3-127-QOML.wav
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=282373 loop_end=355815 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C#3-16-TXQN.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=289983 loop_end=363424 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C#3-32-GB93.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=289669 loop_end=364389 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C#3-48-MG05.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=287797 loop_end=363153 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C#3-64-BKEK.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=286276 loop_end=360354 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C#3-79-SGA0.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=286169 loop_end=360728 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C#3-95-EF1J.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=274922 loop_end=349001 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C#3-111-VQZE.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=287828 loop_end=363343 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C#3-127-VOWQ.wav
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=226872 loop_end=300403 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D3-16-KTDU.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=69613 loop_end=142693 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D3-32-23YK.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=289272 loop_end=362955 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D3-48-VQX6.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=289933 loop_end=362564 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D3-64-RCDQ.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=289232 loop_end=364425 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D3-79-6Y46.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=290443 loop_end=364124 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D3-95-GWCO.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=279148 loop_end=353131 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D3-111-CVI2.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=288598 loop_end=361678 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D3-127-MG0L.wav
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=236447 loop_end=310670 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D#3-16-9092.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=70498 loop_end=143446 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D#3-32-AGVL.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=3175 loop_end=78820 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D#3-48-F38B.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=283991 loop_end=357783 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D#3-64-M7L5.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=289952 loop_end=363890 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D#3-79-D8VP.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=288254 loop_end=361906 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D#3-95-Q2D0.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=280382 loop_end=353609 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D#3-111-95DK.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=276016 loop_end=349535 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D#3-127-X6L5.wav
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=227739 loop_end=300512 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-E3-16-C5MI.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=81838 loop_end=155418 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-E3-32-G6VX.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=288474 loop_end=362457 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-E3-48-YUJ5.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=278852 loop_end=353774 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-E3-64-5VH6.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=282864 loop_end=355641 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-E3-79-KHVO.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=272317 loop_end=344692 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-E3-95-R2RU.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=279098 loop_end=352814 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-E3-111-SNZE.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=289332 loop_end=363986 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-E3-127-YG8V.wav
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=222446 loop_end=295943 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F3-16-XYRX.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=81677 loop_end=154670 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F3-32-Y6HB.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=2090 loop_end=77236 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F3-48-4V7G.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=289083 loop_end=363719 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F3-64-XIJD.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=282115 loop_end=357006 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F3-79-FTQ2.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=264593 loop_end=337708 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F3-95-CFI4.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=283426 loop_end=357306 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F3-111-8F2L.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=285054 loop_end=357535 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F3-127-MYT5.wav
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=218543 loop_end=291374 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F#3-16-I9YC.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=87623 loop_end=162012 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F#3-32-33PO.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=105 loop_end=75572 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F#3-48-GTZ6.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=289903 loop_end=362734 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F#3-64-AMSK.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=285799 loop_end=361379 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F#3-79-U3SE.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=290022 loop_end=363326 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F#3-95-3OH1.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=289132 loop_end=364471 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F#3-111-5S2U.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=268243 loop_end=341905 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F#3-127-E8NX.wav
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=206941 loop_end=281880 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G3-16-KUF3.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=280716 loop_end=353623 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G3-32-EL6G.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=288902 loop_end=362599 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G3-48-Y5RO.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=105 loop_end=75607 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G3-64-81VA.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=286635 loop_end=359203 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G3-79-QT9F.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=280689 loop_end=354387 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G3-95-WF6X.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=289351 loop_end=363841 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G3-111-G82E.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=280133 loop_end=352929 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G3-127-XJ6E.wav
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=213268 loop_end=287863 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G#3-16-S9U7.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=290642 loop_end=363962 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G#3-32-N0D6.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=87 loop_end=75541 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G#3-48-8EKG.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=1080 loop_end=76424 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G#3-64-9SUP.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=289932 loop_end=363145 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G#3-79-CDZV.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=290503 loop_end=364146 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G#3-95-F5VB.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=273537 loop_end=347288 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G#3-111-O8CV.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=281396 loop_end=353972 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G#3-127-W5NM.wav
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=219259 loop_end=293086 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A3-16-BNLL.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=290741 loop_end=362758 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A3-32-KBU9.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=116 loop_end=75551 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A3-48-B1KS.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=289677 loop_end=361897 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A3-64-1TU9.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=289563 loop_end=363193 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A3-79-72J1.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=290272 loop_end=364301 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A3-95-6JHH.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=289038 loop_end=364475 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A3-111-IZO8.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=277569 loop_end=359844 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A3-127-CWNB.wav
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=258543 loop_end=332767 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A#3-16-TRP9.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=288724 loop_end=363332 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A#3-32-LBDQ.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=211 loop_end=75672 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A#3-48-THJ7.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290333 loop_end=362760 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A#3-64-C90V.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=274360 loop_end=348023 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A#3-79-FO7Z.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=269792 loop_end=343449 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A#3-95-R30O.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=272330 loop_end=345037 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A#3-111-QFY1.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=265770 loop_end=339422 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A#3-127-RDPX.wav
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=212039 loop_end=287408 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-B3-16-MQCN.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=289043 loop_end=362533 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-B3-32-6462.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=288932 loop_end=362868 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-B3-48-22TA.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290762 loop_end=364343 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-B3-64-7G3L.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=289712 loop_end=364009 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-B3-79-AG6R.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=289518 loop_end=362921 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-B3-95-ZL2M.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=289672 loop_end=364059 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-B3-111-QDTK.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=284532 loop_end=359186 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-B3-127-DMDR.wav
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=267157 loop_end=363415 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C4-16-RTJY.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=290671 loop_end=362737 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C4-32-85SI.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=289521 loop_end=362685 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C4-48-KY3E.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290400 loop_end=364413 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C4-64-JWYL.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=286161 loop_end=360765 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C4-79-JU1T.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=289092 loop_end=364459 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C4-95-DAS3.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=284339 loop_end=358271 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C4-111-R31B.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=290734 loop_end=364068 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C4-127-W2A0.wav
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=279431 loop_end=353672 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C#4-16-HFKY.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=288619 loop_end=360620 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C#4-32-O3XS.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=72446 loop_end=145008 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C#4-48-HC4P.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=288830 loop_end=363789 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C#4-64-7J05.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=288437 loop_end=362680 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C#4-79-AI1L.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=283617 loop_end=356658 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C#4-95-ERJT.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=264226 loop_end=338065 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C#4-111-4YDP.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=266273 loop_end=341949 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C#4-127-IX4V.wav
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=274861 loop_end=349062 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D4-16-UCM6.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=277140 loop_end=349911 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D4-32-1A73.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=72060 loop_end=145661 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D4-48-WGUC.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=289981 loop_end=364484 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D4-64-FVBF.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=282884 loop_end=357088 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D4-79-PWS7.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=284399 loop_end=358302 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D4-95-VVZ5.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=288698 loop_end=363431 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D4-111-R8LH.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=254696 loop_end=329579 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D4-127-3AH2.wav
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=230307 loop_end=326195 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D#4-16-H51R.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=288941 loop_end=364409 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D#4-32-BQ4I.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=83403 loop_end=157593 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D#4-48-VTVN.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=283717 loop_end=357199 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D#4-64-EFT7.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=290682 loop_end=364017 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D#4-79-Q3IJ.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=282440 loop_end=355710 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D#4-95-R7FV.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=277848 loop_end=351260 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D#4-111-PF49.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=223732 loop_end=297642 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D#4-127-TVVR.wav
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=198312 loop_end=307405 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-E4-16-U9LC.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=277294 loop_end=350806 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-E4-32-7LAU.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=282150 loop_end=354857 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-E4-48-3PKQ.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=289882 loop_end=362522 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-E4-64-99RC.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=55 loop_end=75917 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-E4-79-T5Z5.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=281913 loop_end=357305 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-E4-95-98HI.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=289362 loop_end=363075 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-E4-111-ALMS.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=273668 loop_end=347382 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-E4-127-LMCS.wav
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=282999 loop_end=357960 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F4-16-OSM3.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=289258 loop_end=361558 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F4-32-61KD.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=287544 loop_end=364216 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F4-48-7BVA.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=289198 loop_end=361814 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F4-64-UJ65.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=78 loop_end=75733 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F4-79-SE55.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=289063 loop_end=364473 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F4-95-FEFC.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=263064 loop_end=336322 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F4-111-4C6I.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=282569 loop_end=356266 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F4-127-LLZJ.wav
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=206623 loop_end=357572 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F#4-16-KW0Q.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=289217 loop_end=363434 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F#4-32-JWVW.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=275829 loop_end=351064 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F#4-48-N8X6.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=285622 loop_end=358821 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F#4-64-F54N.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=1084 loop_end=76675 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F#4-79-N4X9.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=274485 loop_end=349776 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F#4-95-JGS4.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=269912 loop_end=344006 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F#4-111-6SOB.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=261949 loop_end=336162 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F#4-127-MGRL.wav
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=202356 loop_end=288634 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G4-16-WGH1.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=289529 loop_end=362261 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G4-32-PGT6.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=290061 loop_end=363301 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G4-48-OO1X.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=289552 loop_end=362620 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G4-64-02WO.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=289912 loop_end=363772 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G4-79-EOMO.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=290624 loop_end=364317 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G4-95-6805.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=257948 loop_end=331357 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G4-111-4E59.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=279682 loop_end=353317 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G4-127-9OOI.wav
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=215494 loop_end=288984 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G#4-16-M6W0.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=266491 loop_end=339607 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G#4-32-SBAK.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=290100 loop_end=362519 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G#4-48-HB1Q.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=115 loop_end=74563 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G#4-64-8GPU.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=288873 loop_end=362893 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G#4-79-LZQ2.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=289567 loop_end=364330 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G#4-95-UYNK.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=278608 loop_end=353746 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G#4-111-VLY9.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=286778 loop_end=361435 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G#4-127-JO3N.wav
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=277789 loop_end=351267 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A4-16-OV3Q.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=289653 loop_end=362732 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A4-32-0TOD.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=289479 loop_end=362857 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A4-48-HS55.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=276137 loop_end=348211 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A4-64-55QR.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=290662 loop_end=364245 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A4-79-JDWB.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=283797 loop_end=357478 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A4-95-9QOD.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=279308 loop_end=351480 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A4-111-H8GX.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=287174 loop_end=361005 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A4-127-17B4.wav
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=210847 loop_end=336535 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A#4-16-H36B.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=281640 loop_end=354718 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A#4-32-066B.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=288558 loop_end=363963 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A#4-48-30DT.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=285492 loop_end=357624 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A#4-64-3NMS.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=289228 loop_end=364447 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A#4-79-0JCC.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=279672 loop_end=352327 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A#4-95-XRQV.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=285869 loop_end=361040 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A#4-111-NKOG.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=287711 loop_end=361317 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A#4-127-83X8.wav
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=204772 loop_end=306475 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-B4-16-S2R2.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=290402 loop_end=364045 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-B4-32-EOHI.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=289112 loop_end=363382 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-B4-48-7NJU.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=73912 loop_end=156383 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-B4-64-82B6.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=274896 loop_end=349746 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-B4-79-8GIF.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=288852 loop_end=363747 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-B4-95-FHYZ.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=283174 loop_end=356324 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-B4-111-VNED.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=264182 loop_end=338905 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-B4-127-0P1U.wav
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=207833 loop_end=340828 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C5-16-F429.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=270520 loop_end=345772 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C5-32-QB8U.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=286555 loop_end=358846 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C5-48-0TXD.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=71556 loop_end=144778 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C5-64-YTEK.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=290642 loop_end=363274 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C5-79-YUP5.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=286266 loop_end=360420 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C5-95-LROR.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=288072 loop_end=361847 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C5-111-SWDD.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=278494 loop_end=351506 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C5-127-KWH4.wav
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=253052 loop_end=330947 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C#5-16-R203.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=263719 loop_end=336938 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C#5-32-K1M6.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=287938 loop_end=360763 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C#5-48-DP3S.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=86454 loop_end=160554 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C#5-64-P3JZ.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=287964 loop_end=360984 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C#5-79-TV9G.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=274964 loop_end=347306 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C#5-95-68YI.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=290587 loop_end=363529 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C#5-111-JSQK.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=257067 loop_end=331367 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C#5-127-MOKH.wav
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=199848 loop_end=333575 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D5-16-BGXZ.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=256562 loop_end=332123 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D5-32-0BJC.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=289212 loop_end=362535 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D5-48-461R.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=274092 loop_end=347685 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D5-64-P87R.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=284088 loop_end=358285 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D5-79-07AU.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=1065 loop_end=83406 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D5-95-KNHV.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=285432 loop_end=357519 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D5-111-3BS2.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=252464 loop_end=326174 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D5-127-QL7V.wav
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=201547 loop_end=362531 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D#5-16-G0EL.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=132062 loop_end=205543 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D#5-32-WKU0.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=281315 loop_end=354654 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D#5-48-YZW3.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290603 loop_end=363867 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D#5-64-IIYE.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=243622 loop_end=316819 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D#5-79-LFS3.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=283578 loop_end=357592 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D#5-95-HILX.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=253568 loop_end=328579 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D#5-111-4YYR.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=274892 loop_end=348341 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-D#5-127-KALT.wav
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=214537 loop_end=335148 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-E5-16-8TZ6.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=248391 loop_end=322282 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-E5-32-P2ZL.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=257721 loop_end=330771 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-E5-48-1725.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=286814 loop_end=360673 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-E5-64-IL60.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=290722 loop_end=362530 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-E5-79-DPWL.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=72320 loop_end=145373 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-E5-95-CNNI.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=271440 loop_end=344092 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-E5-111-GYE6.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=266970 loop_end=347686 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-E5-127-R0DW.wav
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=260085 loop_end=336139 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F5-16-7I8Q.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=270954 loop_end=344467 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F5-32-8Y8W.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=260716 loop_end=334768 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F5-48-DOZ6.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290772 loop_end=362701 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F5-64-0MW0.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=286546 loop_end=358475 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F5-79-82YC.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=68424 loop_end=142096 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F5-95-F764.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=273154 loop_end=353891 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F5-111-ZQBE.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=283468 loop_end=356946 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F5-127-DRP4.wav
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=210512 loop_end=287701 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F#5-16-PM6B.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=105637 loop_end=179473 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F#5-32-86II.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=289052 loop_end=364177 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F#5-48-YBHJ.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=281040 loop_end=355268 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F#5-64-KDNT.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=286251 loop_end=360330 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F#5-79-X6GI.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=288715 loop_end=361810 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F#5-95-9URB.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=280485 loop_end=352471 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F#5-111-O3XF.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=281559 loop_end=354950 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-F#5-127-P7T0.wav
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=208924 loop_end=342007 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G5-16-A85Q.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=237255 loop_end=333559 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G5-32-WM4J.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=290723 loop_end=364371 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G5-48-5QT0.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=287234 loop_end=360514 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G5-64-Q2HW.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=288864 loop_end=362566 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G5-79-MNK5.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=275352 loop_end=348938 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G5-95-1FUG.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=271238 loop_end=345677 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G5-111-GYWZ.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=246680 loop_end=320436 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G5-127-8XYX.wav
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=195391 loop_end=308579 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G#5-16-BANK.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=231291 loop_end=327946 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G#5-32-O81M.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=287817 loop_end=363035 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G#5-48-LVKP.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=283363 loop_end=364370 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G#5-64-UHDG.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=65349 loop_end=138972 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G#5-79-EKD9.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=289044 loop_end=363917 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G#5-95-NUVJ.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=267582 loop_end=340563 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G#5-111-G5BN.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=289501 loop_end=364451 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-G#5-127-0UL4.wav
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=198111 loop_end=305387 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A5-16-W64A.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=175922 loop_end=248679 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A5-32-AC35.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=289993 loop_end=362753 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A5-48-BXAM.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=289698 loop_end=363214 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A5-64-4KLY.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=80772 loop_end=154513 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A5-79-P6XQ.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=274373 loop_end=347428 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A5-95-OSE5.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=211598 loop_end=286621 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A5-111-GNEK.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=233872 loop_end=308037 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A5-127-IPNI.wav
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=195517 loop_end=287714 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A#5-16-23DS.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=205845 loop_end=292547 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A#5-32-1I7U.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=289178 loop_end=362646 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A#5-48-201A.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=289128 loop_end=361766 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A#5-64-3I3B.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=90446 loop_end=164529 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A#5-79-G978.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=245310 loop_end=318157 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A#5-95-TGIP.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=273888 loop_end=347450 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A#5-111-V0CT.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=288630 loop_end=362431 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-A#5-127-BK65.wav
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=268275 loop_end=357203 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-B5-16-CR41.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=205613 loop_end=279468 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-B5-32-FX6H.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=281292 loop_end=356177 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-B5-48-3PP0.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=255436 loop_end=329624 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-B5-64-UPZF.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=98884 loop_end=172221 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-B5-79-LIPU.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=283318 loop_end=357730 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-B5-95-Q8N8.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=10953 loop_end=84986 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-B5-111-BCD8.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=261353 loop_end=335295 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-B5-127-LLDR.wav
+<group>lokey=96 hikey=127 pitch_keycenter=96 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=195524 loop_end=329299 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C6-16-2KIM.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=221102 loop_end=304926 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C6-32-L6W1.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=288574 loop_end=362131 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C6-48-5VHS.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=272024 loop_end=345324 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C6-64-O6JY.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=278762 loop_end=352298 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C6-79-MGYW.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=235186 loop_end=307431 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C6-95-9SNJ.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=262754 loop_end=336269 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C6-111-CR8N.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=264502 loop_end=354270 sample=../Audio/Squares/sys101 Max PW Hi Res Square/(20161025 112831)/sys-C6-127-P5T6.wav

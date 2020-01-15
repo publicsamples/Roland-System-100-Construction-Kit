@@ -1,0 +1,443 @@
+// this file was generated from sys101 STO FM.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=0 hikey=24 pitch_keycenter=24 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=177618 loop_end=283176 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C0-16-OVXC.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=153302 loop_end=270390 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C0-32-XXQ2.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=260683 loop_end=363063 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C0-48-21S0.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=155544 loop_end=296939 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C0-64-NF8L.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=210157 loop_end=315700 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C0-79-8YF1.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=126020 loop_end=200879 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C0-95-9IHJ.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=171102 loop_end=256180 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C0-111-9HVI.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=237712 loop_end=333030 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C0-127-IW34.wav
+<group> key=25 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=164648 loop_end=241372 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C#0-16-WKXK.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=95526 loop_end=188636 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C#0-32-2JB7.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=137868 loop_end=224916 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C#0-48-26IG.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=93036 loop_end=190352 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C#0-64-F5QA.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=132506 loop_end=229821 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C#0-79-2O8I.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=66928 loop_end=143690 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C#0-95-E1H3.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=255772 loop_end=356122 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C#0-111-YOB5.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=192266 loop_end=322319 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C#0-127-8AP4.wav
+<group> key=26 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=210554 loop_end=362516 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-D0-16-C2IK.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=173143 loop_end=266802 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-D0-32-G5YC.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=128152 loop_end=201804 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-D0-48-8QXW.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=122726 loop_end=196418 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-D0-64-JDYR.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=132277 loop_end=275619 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-D0-79-5KDH.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=236257 loop_end=353936 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-D0-95-07S8.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=257939 loop_end=341936 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-D0-111-WIRV.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=142114 loop_end=220946 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-D0-127-RL8Y.wav
+<group> key=27 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=221790 loop_end=362026 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-D#0-16-B8IA.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=168000 loop_end=261334 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-D#0-32-ZJ4N.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=258929 loop_end=332822 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-D#0-48-TN7M.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=138723 loop_end=258533 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-D#0-64-TQ3V.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=134882 loop_end=246659 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-D#0-79-8N84.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=263980 loop_end=364350 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-D#0-95-5JYX.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=110003 loop_end=222743 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-D#0-111-5F5O.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=165181 loop_end=275836 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-D#0-127-PXH2.wav
+<group> key=28 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=212730 loop_end=359131 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-E0-16-S9JQ.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=132559 loop_end=282036 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-E0-32-YPGU.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=222567 loop_end=363875 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-E0-48-SQZQ.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=191967 loop_end=359855 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-E0-64-7CHK.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=194130 loop_end=360014 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-E0-79-RD9N.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=193488 loop_end=350188 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-E0-95-CEHE.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=177207 loop_end=296084 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-E0-111-VJWX.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=194695 loop_end=363682 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-E0-127-15GU.wav
+<group> key=29 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=202259 loop_end=276948 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-F0-16-4K2C.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=234501 loop_end=323665 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-F0-32-YP7P.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=103418 loop_end=188276 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-F0-48-RDTL.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=148716 loop_end=254221 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-F0-64-KPSC.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=228813 loop_end=309731 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-F0-79-8LXR.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=209299 loop_end=339353 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-F0-95-EC5Z.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=246181 loop_end=343468 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-F0-111-4DT0.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=227021 loop_end=324317 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-F0-127-JJZH.wav
+<group> key=30 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=187854 loop_end=344544 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-F#0-16-C5NG.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=180567 loop_end=333146 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-F#0-32-LUZ0.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=14784 loop_end=96749 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-F#0-48-FOGN.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=149946 loop_end=235946 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-F#0-64-MHBC.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=223801 loop_end=321136 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-F#0-79-XI4Y.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=99957 loop_end=172693 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-F#0-95-CVQ2.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=240610 loop_end=347421 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-F#0-111-WL5E.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=268644 loop_end=360906 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-F#0-127-SWU8.wav
+<group> key=31 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=186476 loop_end=261852 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-G0-16-I4UQ.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=289146 loop_end=362587 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-G0-32-DTK9.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=174957 loop_end=254849 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-G0-48-9S52.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=41356 loop_end=121254 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-G0-64-KH8B.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=251783 loop_end=348043 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-G0-79-VI6E.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=139075 loop_end=356177 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-G0-95-KCL6.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=243154 loop_end=363973 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-G0-111-7D6K.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=201751 loop_end=362516 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-G0-127-3KHS.wav
+<group> key=32 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=125921 loop_end=201087 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-G#0-16-IPAR.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=198381 loop_end=284850 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-G#0-32-66C2.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=167048 loop_end=278692 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-G#0-48-LOCT.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=144675 loop_end=285949 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-G#0-64-BZN9.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=240569 loop_end=322544 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-G#0-79-AX30.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=195712 loop_end=311412 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-G#0-95-P2FB.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=272197 loop_end=345674 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-G#0-111-89WW.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=143522 loop_end=223496 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-G#0-127-ULZP.wav
+<group> key=33 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=220631 loop_end=306515 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-A0-16-IPFZ.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=166469 loop_end=255397 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-A0-32-RTDS.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=166668 loop_end=252504 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-A0-48-2ZM7.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=214647 loop_end=357954 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-A0-64-EI3S.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=227834 loop_end=305611 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-A0-79-5XXR.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=164087 loop_end=268717 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-A0-95-R2O3.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=222687 loop_end=356789 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-A0-111-XKXQ.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=221395 loop_end=308408 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-A0-127-DI79.wav
+<group> key=34 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=173527 loop_end=268728 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-A#0-16-M8SF.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=192082 loop_end=318043 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-A#0-32-962F.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=196038 loop_end=363964 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-A#0-48-3VTV.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=133051 loop_end=211924 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-A#0-64-F6EU.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=206498 loop_end=307818 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-A#0-79-PDYY.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=274469 loop_end=363523 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-A#0-95-LFBB.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=126199 loop_end=216343 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-A#0-111-PRCQ.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=236009 loop_end=313475 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-A#0-127-TOAR.wav
+<group> key=35 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=238851 loop_end=335237 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-B0-16-V792.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=127341 loop_end=208348 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-B0-32-D810.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=200171 loop_end=278817 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-B0-48-UJ0R.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=219680 loop_end=338630 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-B0-64-SKD6.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=196130 loop_end=276131 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-B0-79-V9YV.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=219323 loop_end=362579 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-B0-95-19B8.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=196445 loop_end=278154 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-B0-111-MGC5.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=220145 loop_end=302211 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-B0-127-JGPR.wav
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=125947 loop_end=202481 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C1-16-D2AI.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=227293 loop_end=363465 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C1-32-BXO2.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=224088 loop_end=319239 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C1-48-Q80Y.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=80602 loop_end=177991 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C1-64-Q6EY.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=131555 loop_end=330464 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C1-79-TCTO.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=97891 loop_end=179789 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C1-95-ETME.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=216391 loop_end=292220 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C1-111-FFN5.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=141225 loop_end=241585 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C1-127-QT2Q.wav
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=117920 loop_end=191333 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C#1-16-FXHF.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=274894 loop_end=350457 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C#1-32-PEZ4.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=183160 loop_end=259947 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C#1-48-MNSN.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=144934 loop_end=230889 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C#1-64-459M.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=174459 loop_end=258291 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C#1-79-AL01.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=249712 loop_end=331419 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C#1-95-I1GU.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=203953 loop_end=299365 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C#1-111-TRHU.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=200617 loop_end=283540 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C#1-127-45KL.wav
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=198001 loop_end=363852 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-D1-16-RQJT.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=290407 loop_end=364118 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-D1-32-U5EC.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=161260 loop_end=234945 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-D1-48-02EV.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=201289 loop_end=284199 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-D1-64-TJ1F.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=138779 loop_end=211023 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-D1-79-OEJ6.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=284225 loop_end=364241 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-D1-95-IRGA.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=137819 loop_end=257637 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-D1-111-1VV7.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=184885 loop_end=273899 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-D1-127-1DRF.wav
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=183233 loop_end=261032 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-D#1-16-KX0T.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=220377 loop_end=299278 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-D#1-32-8E5Y.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=238566 loop_end=312298 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-D#1-48-IM6C.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=190511 loop_end=264242 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-D#1-64-0CV8.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=193457 loop_end=287899 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-D#1-79-2YHB.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=151707 loop_end=225440 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-D#1-95-ANXL.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=205319 loop_end=294534 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-D#1-111-JB8F.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=207639 loop_end=302572 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-D#1-127-3RC9.wav
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=182384 loop_end=347249 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-E1-16-Y864.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=249757 loop_end=363257 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-E1-32-UQLR.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=228815 loop_end=323063 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-E1-48-XFFB.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=197636 loop_end=355319 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-E1-64-N1Y5.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=223423 loop_end=350515 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-E1-79-K7UZ.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=187678 loop_end=292165 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-E1-95-IIK7.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=190684 loop_end=290019 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-E1-111-KD22.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=261868 loop_end=355019 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-E1-127-P211.wav
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=286374 loop_end=363228 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-F1-16-OHLF.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=220423 loop_end=316947 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-F1-32-V8AS.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=197561 loop_end=272215 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-F1-48-8DW7.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=188226 loop_end=271123 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-F1-64-DIGQ.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=280184 loop_end=353865 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-F1-79-PQNJ.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=155783 loop_end=230417 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-F1-95-UF0W.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=229688 loop_end=324926 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-F1-111-56MV.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=183737 loop_end=268588 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-F1-127-1MGW.wav
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=163916 loop_end=256127 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-F#1-16-JIL7.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=190568 loop_end=264245 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-F#1-32-W2LG.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=221342 loop_end=315605 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-F#1-48-2AG6.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=246446 loop_end=364317 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-F#1-64-PD3I.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=254725 loop_end=356152 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-F#1-79-RQ1S.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=140876 loop_end=215736 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-F#1-95-3J7L.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=264016 loop_end=355115 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-F#1-111-RDF3.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=160717 loop_end=266225 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-F#1-127-MWCP.wav
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=232936 loop_end=359795 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-G1-16-IIWT.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=205302 loop_end=279026 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-G1-32-8QVJ.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=176722 loop_end=299721 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-G1-48-6SKL.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=241245 loop_end=318002 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-G1-64-013Q.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=213483 loop_end=294322 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-G1-79-7WF5.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=144816 loop_end=221731 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-G1-95-GWKK.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=257052 loop_end=345266 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-G1-111-R9P6.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=170197 loop_end=250016 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-G1-127-4RPL.wav
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=212909 loop_end=294785 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-G#1-16-FH7A.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=72191 loop_end=360089 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-G#1-32-CSI5.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=155594 loop_end=238622 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-G#1-48-2HPE.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=101865 loop_end=218583 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-G#1-64-H8D5.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=182455 loop_end=321700 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-G#1-79-OHCI.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=78327 loop_end=169821 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-G#1-95-QNQI.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=215034 loop_end=308402 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-G#1-111-JPRI.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=208374 loop_end=283599 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-G#1-127-AMY5.wav
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=247011 loop_end=352487 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-A1-16-83PU.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=275099 loop_end=363240 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-A1-32-YHVJ.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=272658 loop_end=361543 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-A1-48-PNCR.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=169738 loop_end=344731 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-A1-64-5IGU.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=141723 loop_end=240096 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-A1-79-GD6F.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=270909 loop_end=349712 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-A1-95-C4N1.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=187493 loop_end=276504 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-A1-111-34TB.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=157962 loop_end=234603 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-A1-127-YCGZ.wav
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=204839 loop_end=287724 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-A#1-16-TZO7.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=257736 loop_end=331361 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-A#1-32-KDZ9.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=175401 loop_end=256271 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-A#1-48-WBB8.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=239355 loop_end=320244 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-A#1-64-IZ1F.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=244371 loop_end=327229 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-A#1-79-98UW.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=270531 loop_end=352503 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-A#1-95-RQWK.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=282088 loop_end=362807 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-A#1-111-D34T.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=217126 loop_end=293859 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-A#1-127-3B55.wav
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=199301 loop_end=288390 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-B1-16-WI4G.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=234693 loop_end=321604 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-B1-32-RHQO.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=140765 loop_end=220607 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-B1-48-QEZL.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=281525 loop_end=363435 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-B1-64-GK75.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=62024 loop_end=137577 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-B1-79-ZHEW.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=631 loop_end=74337 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-B1-95-HW8D.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=177832 loop_end=266155 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-B1-111-JVMG.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=230441 loop_end=334556 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-B1-127-QO2B.wav
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=78733 loop_end=197433 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C2-16-ZJQZ.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=268889 loop_end=346365 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C2-32-4V8Y.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=192417 loop_end=353659 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C2-48-GHZ5.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=189753 loop_end=284892 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C2-64-HBHV.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=128361 loop_end=221050 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C2-79-09ED.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=124847 loop_end=209608 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C2-95-H0PL.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=38269 loop_end=124985 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C2-111-VNX8.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=153369 loop_end=230478 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C2-127-1XCT.wav
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=179569 loop_end=260773 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C#2-16-TYOU.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=184661 loop_end=274477 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C#2-32-HR8O.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=226945 loop_end=301955 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C#2-48-RPOI.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=65328 loop_end=147155 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C#2-64-V1NC.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=190768 loop_end=267702 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C#2-79-CI9H.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=251696 loop_end=332633 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C#2-95-HSB1.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=251291 loop_end=333703 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C#2-111-SWV5.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=287631 loop_end=361841 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C#2-127-OL0L.wav
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=219037 loop_end=301039 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-D2-16-LVPA.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=214778 loop_end=312777 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-D2-32-HFQL.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=250050 loop_end=325330 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-D2-48-8J61.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=231241 loop_end=314146 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-D2-64-F7WE.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=289434 loop_end=362575 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-D2-79-Q7AT.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=279214 loop_end=352846 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-D2-95-GYNN.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=246967 loop_end=327209 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-D2-111-UII6.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=196577 loop_end=283760 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-D2-127-JVRV.wav
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=138414 loop_end=218661 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-D#2-16-802F.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=200855 loop_end=306789 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-D#2-32-J43Z.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=267664 loop_end=343066 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-D#2-48-KAFR.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=211549 loop_end=293767 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-D#2-64-ODL4.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=285719 loop_end=362441 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-D#2-79-ZBV6.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=723 loop_end=90026 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-D#2-95-KEGI.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=274464 loop_end=351336 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-D#2-111-I0T7.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=228357 loop_end=309291 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-D#2-127-9T64.wav
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=250622 loop_end=337875 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-E2-16-79CT.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=188890 loop_end=263139 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-E2-32-MS15.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=272954 loop_end=348593 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-E2-48-GOPQ.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=213133 loop_end=285893 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-E2-64-EU66.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=225274 loop_end=314373 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-E2-79-YIDP.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=247007 loop_end=336792 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-E2-95-PM44.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=269114 loop_end=364321 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-E2-111-48ZQ.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=238741 loop_end=355823 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-E2-127-3SA0.wav
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=173002 loop_end=260993 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-F2-16-F7IP.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=229176 loop_end=309614 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-F2-32-I2ZD.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=273849 loop_end=361895 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-F2-48-JMKC.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=250247 loop_end=330470 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-F2-64-ZW69.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=266552 loop_end=340138 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-F2-79-1G6A.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=250248 loop_end=353335 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-F2-95-EPD2.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=289841 loop_end=364097 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-F2-111-G0OW.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=187877 loop_end=263554 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-F2-127-SCX1.wav
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=266001 loop_end=360206 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-F#2-16-LMOZ.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=168010 loop_end=241727 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-F#2-32-GYU1.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=288423 loop_end=363196 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-F#2-48-BCWE.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=203275 loop_end=275731 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-F#2-64-SHUC.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=212451 loop_end=284926 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-F#2-79-4240.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=157259 loop_end=232062 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-F#2-95-CNPG.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=262680 loop_end=338412 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-F#2-111-LL0M.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=179926 loop_end=257665 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-F#2-127-KXBO.wav
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=111158 loop_end=192973 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-G2-16-308Y.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=91727 loop_end=173643 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-G2-32-Y7Z5.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=240295 loop_end=320227 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-G2-48-OE71.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=223530 loop_end=312602 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-G2-64-OQ4H.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=231040 loop_end=363096 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-G2-79-EGQN.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=198345 loop_end=354028 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-G2-95-B7S3.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=186054 loop_end=282384 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-G2-111-7C2T.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=245155 loop_end=348544 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-G2-127-VOA8.wav
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=223602 loop_end=327067 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-G#2-16-FUB3.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=148834 loop_end=222562 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-G#2-32-Q0C0.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=219196 loop_end=338800 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-G#2-48-ELQW.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=281803 loop_end=362759 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-G#2-64-BR1S.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=98557 loop_end=174959 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-G#2-79-C01F.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=145590 loop_end=222517 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-G#2-95-QDXH.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=122045 loop_end=197890 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-G#2-111-ZU0X.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=282861 loop_end=356615 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-G#2-127-I1VD.wav
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=199396 loop_end=287434 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-A2-16-4D4U.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=265459 loop_end=350467 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-A2-32-84R2.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=147287 loop_end=229109 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-A2-48-00PS.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=138487 loop_end=213275 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-A2-64-F2X2.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=58571 loop_end=132424 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-A2-79-RDNV.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=153368 loop_end=235204 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-A2-95-T2IA.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=257368 loop_end=338858 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-A2-111-OCR8.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=274104 loop_end=363279 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-A2-127-992H.wav
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=80856 loop_end=153703 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-A#2-16-3M1K.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=260546 loop_end=342637 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-A#2-32-Z68X.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=176633 loop_end=250561 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-A#2-48-7OZV.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=260698 loop_end=334561 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-A#2-64-HYB5.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=281335 loop_end=362249 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-A#2-79-WX1E.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=274609 loop_end=364267 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-A#2-95-QX03.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=240781 loop_end=321827 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-A#2-111-7BEA.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=234044 loop_end=308698 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-A#2-127-GXY7.wav
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=233138 loop_end=306280 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-B2-16-4NAS.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=113244 loop_end=194246 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-B2-32-SELR.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=166685 loop_end=240379 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-B2-48-5WXG.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=251692 loop_end=333308 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-B2-64-QEPN.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=166760 loop_end=240393 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-B2-79-BW93.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=247413 loop_end=321115 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-B2-95-Q4DZ.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=239052 loop_end=312478 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-B2-111-651Z.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=265725 loop_end=360541 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-B2-127-UDYU.wav
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=279670 loop_end=354212 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C3-16-NC3U.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=256949 loop_end=362931 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C3-32-GTUZ.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=244570 loop_end=318120 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C3-48-IKYJ.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=254230 loop_end=335090 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C3-64-K7NS.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=288823 loop_end=363814 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C3-79-WJEX.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=273641 loop_end=347760 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C3-95-UP8E.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=274791 loop_end=362947 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C3-111-J5N1.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=174184 loop_end=262493 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C3-127-2MFT.wav
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=282487 loop_end=363593 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C#3-16-K4CT.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=135608 loop_end=210757 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C#3-32-CA1K.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=288737 loop_end=362136 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C#3-48-00DC.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=212798 loop_end=285047 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C#3-64-HTGH.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=272919 loop_end=354090 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C#3-79-S05I.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=246723 loop_end=327695 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C#3-95-HXLY.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=266663 loop_end=348503 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C#3-111-ZNAL.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=272314 loop_end=345120 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C#3-127-OBIV.wav
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=231778 loop_end=353203 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-D3-16-B7QO.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=268771 loop_end=341182 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-D3-32-NHSH.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=268448 loop_end=342510 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-D3-48-W9L5.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=288959 loop_end=362604 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-D3-64-5X7I.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=350 loop_end=73155 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-D3-79-SRW2.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=268597 loop_end=351412 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-D3-95-W2PB.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=262338 loop_end=337097 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-D3-111-KDIV.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=137084 loop_end=225079 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-D3-127-LRBW.wav
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=182599 loop_end=331381 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-D#3-16-0PVI.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=253369 loop_end=342346 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-D#3-32-MAGU.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=273342 loop_end=346095 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-D#3-48-5136.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=134143 loop_end=237269 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-D#3-64-4S9K.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=225502 loop_end=299104 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-D#3-79-5H4U.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=287635 loop_end=360791 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-D#3-95-T3C7.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=235828 loop_end=310850 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-D#3-111-VZCK.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=251793 loop_end=331632 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-D#3-127-YJ1D.wav
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=257000 loop_end=331718 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-E3-16-LE26.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=149571 loop_end=223804 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-E3-32-33HP.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=263132 loop_end=344178 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-E3-48-P62K.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=260471 loop_end=357582 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-E3-64-J801.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=272419 loop_end=354011 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-E3-79-UDY6.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=273262 loop_end=347026 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-E3-95-16C1.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=175875 loop_end=255377 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-E3-111-81UK.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=290361 loop_end=363256 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-E3-127-5VDB.wav
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=256942 loop_end=338825 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-F3-16-6PFE.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=55484 loop_end=188913 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-F3-32-S4EL.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=64929 loop_end=139758 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-F3-48-U084.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=177104 loop_end=272416 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-F3-64-10FY.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=254116 loop_end=336084 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-F3-79-7PHY.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=113717 loop_end=197586 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-F3-95-MNL2.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=229687 loop_end=304210 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-F3-111-BRTC.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=251339 loop_end=327410 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-F3-127-7UKT.wav
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=196923 loop_end=270702 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-F#3-16-HFQ0.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=131891 loop_end=206547 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-F#3-32-PLJV.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=260055 loop_end=332961 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-F#3-48-U0Q0.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=133738 loop_end=207742 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-F#3-64-29LP.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=287469 loop_end=360859 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-F#3-79-N7TL.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=281939 loop_end=363859 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-F#3-95-JNWG.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=254238 loop_end=327974 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-F#3-111-W7WV.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=274708 loop_end=348837 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-F#3-127-CHZW.wav
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=192069 loop_end=266230 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-G3-16-2S6K.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=148710 loop_end=222387 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-G3-32-PXFN.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=182192 loop_end=256442 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-G3-48-O0K0.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=267144 loop_end=347553 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-G3-64-IJGV.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=238099 loop_end=320108 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-G3-79-1YIY.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=272935 loop_end=345704 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-G3-95-ULRU.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=224766 loop_end=298051 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-G3-111-MPFA.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=238418 loop_end=340168 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-G3-127-73P7.wav
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=174330 loop_end=329077 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-G#3-16-J75N.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=281100 loop_end=363431 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-G#3-32-SQT8.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=179414 loop_end=253104 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-G#3-48-3STU.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=205424 loop_end=278946 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-G#3-64-GENV.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=163682 loop_end=238183 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-G#3-79-34CA.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=286465 loop_end=360784 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-G#3-95-MVQM.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=272524 loop_end=346753 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-G#3-111-ATPH.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=289993 loop_end=364282 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-G#3-127-QGND.wav
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=284745 loop_end=358630 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-A3-16-98SD.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=290768 loop_end=363053 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-A3-32-VWCQ.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=256461 loop_end=330226 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-A3-48-U96W.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=222210 loop_end=333237 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-A3-64-V9V7.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=278389 loop_end=352616 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-A3-79-ILPV.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=240393 loop_end=314019 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-A3-95-K8B3.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=161360 loop_end=234114 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-A3-111-MZ6O.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=266050 loop_end=361591 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-A3-127-ROLC.wav
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=199858 loop_end=274085 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-A#3-16-PT4V.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=272454 loop_end=352534 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-A#3-32-AG1I.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=217527 loop_end=298463 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-A#3-48-0MN1.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=136409 loop_end=217151 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-A#3-64-ENDR.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=261597 loop_end=335158 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-A#3-79-968E.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=244153 loop_end=318006 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-A#3-95-P09R.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=174632 loop_end=262353 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-A#3-111-H9LV.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=132456 loop_end=236257 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-A#3-127-ITZS.wav
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=964 loop_end=72773 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-B3-16-I3DM.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=257877 loop_end=337346 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-B3-32-UXNF.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=258300 loop_end=333322 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-B3-48-H398.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=131621 loop_end=219786 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-B3-64-E2YZ.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=222355 loop_end=303896 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-B3-79-6QCE.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=245352 loop_end=326055 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-B3-95-LVDF.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=289381 loop_end=364162 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-B3-111-D3H0.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=254382 loop_end=334815 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-B3-127-VUMR.wav
+<group>lokey=72 hikey=125 pitch_keycenter=72 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=78611 loop_end=218797 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C4-16-HH9I.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=283484 loop_end=357240 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C4-32-12DJ.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=209533 loop_end=364528 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C4-48-1SUC.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=123074 loop_end=196664 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C4-64-4X2U.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=282061 loop_end=356303 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C4-79-L3N5.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=196205 loop_end=343888 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C4-95-9VVF.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=158909 loop_end=269362 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C4-111-VGCX.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=112446 loop_end=185927 sample=../Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C4-127-8ZJI.wav

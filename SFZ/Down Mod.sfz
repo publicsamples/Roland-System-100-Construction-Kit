@@ -1,0 +1,113 @@
+// this file was generated from Down Mod.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=2 hikey=36 pitch_keycenter=36 pitch_keytrack=1
+	<region> lovel=001 hivel=010 amp_velcurve_010=1 volume=7 offset=1140 sample=../Audio/Bonus Audio/Down Mod/mod101-36-10-ICWH.wav
+	<region> lovel=011 hivel=127 amp_velcurve_127=1 volume=7 offset=1150 end=619335 sample=../Audio/Bonus Audio/Down Mod/mod101-36-127-FPSZ.wav
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=010 amp_velcurve_010=1 volume=8 offset=1026 end=619018 sample=../Audio/Bonus Audio/Down Mod/mod101-37-10-5YZO.wav
+	<region> lovel=011 hivel=127 amp_velcurve_127=1 volume=6 offset=993 end=610213 sample=../Audio/Bonus Audio/Down Mod/mod101-37-127-8EC2.wav
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=010 amp_velcurve_010=1 volume=8 offset=1087 end=618291 sample=../Audio/Bonus Audio/Down Mod/mod101-38-10-NW19.wav
+	<region> lovel=011 hivel=127 amp_velcurve_127=1 volume=6 offset=1160 end=612232 sample=../Audio/Bonus Audio/Down Mod/mod101-38-127-A64V.wav
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=010 amp_velcurve_010=1 volume=7 offset=1058 end=612013 sample=../Audio/Bonus Audio/Down Mod/mod101-39-10-IRIY.wav
+	<region> lovel=011 hivel=127 amp_velcurve_127=1 volume=6 offset=1222 end=617466 sample=../Audio/Bonus Audio/Down Mod/mod101-39-127-WVNG.wav
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=010 amp_velcurve_010=1 volume=8 offset=1174 end=601213 sample=../Audio/Bonus Audio/Down Mod/mod101-40-10-VO1D.wav
+	<region> lovel=011 hivel=127 amp_velcurve_127=1 volume=6 offset=1324 end=608110 sample=../Audio/Bonus Audio/Down Mod/mod101-40-127-GZB9.wav
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=010 amp_velcurve_010=1 volume=7 offset=996 end=604906 sample=../Audio/Bonus Audio/Down Mod/mod101-41-10-H2XP.wav
+	<region> lovel=011 hivel=127 amp_velcurve_127=1 volume=7 offset=1126 sample=../Audio/Bonus Audio/Down Mod/mod101-41-127-R92E.wav
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=010 amp_velcurve_010=1 volume=7 offset=1124 sample=../Audio/Bonus Audio/Down Mod/mod101-42-10-IP7T.wav
+	<region> lovel=011 hivel=127 amp_velcurve_127=1 volume=7 offset=1274 end=625034 sample=../Audio/Bonus Audio/Down Mod/mod101-42-127-DRWS.wav
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=010 amp_velcurve_010=1 volume=8 offset=1066 sample=../Audio/Bonus Audio/Down Mod/mod101-43-10-KW8F.wav
+	<region> lovel=011 hivel=127 amp_velcurve_127=1 volume=6 offset=1090 end=614784 sample=../Audio/Bonus Audio/Down Mod/mod101-43-127-UILA.wav
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=010 amp_velcurve_010=1 volume=6 offset=1306 end=614925 sample=../Audio/Bonus Audio/Down Mod/mod101-44-10-3TKM.wav
+	<region> lovel=011 hivel=127 amp_velcurve_127=1 volume=6 offset=1232 sample=../Audio/Bonus Audio/Down Mod/mod101-44-127-MHGB.wav
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=010 amp_velcurve_010=1 volume=7 offset=986 end=629376 sample=../Audio/Bonus Audio/Down Mod/mod101-45-10-6B8Z.wav
+	<region> lovel=011 hivel=127 amp_velcurve_127=1 volume=6 offset=1184 end=612801 sample=../Audio/Bonus Audio/Down Mod/mod101-45-127-B2RI.wav
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=010 amp_velcurve_010=1 volume=6 offset=1133 end=621356 sample=../Audio/Bonus Audio/Down Mod/mod101-46-10-Y236.wav
+	<region> lovel=011 hivel=127 amp_velcurve_127=1 volume=6 offset=1170 sample=../Audio/Bonus Audio/Down Mod/mod101-46-127-Y7O6.wav
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=010 amp_velcurve_010=1 volume=7 offset=1075 end=605769 sample=../Audio/Bonus Audio/Down Mod/mod101-47-10-U0FV.wav
+	<region> lovel=011 hivel=127 amp_velcurve_127=1 sample=../Audio/Bonus Audio/Down Mod/mod101-47-127-78PG.wav
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=010 amp_velcurve_010=1 volume=6 offset=1234 end=613265 sample=../Audio/Bonus Audio/Down Mod/mod101-48-10-QUFJ.wav
+	<region> lovel=011 hivel=127 amp_velcurve_127=1 volume=6 offset=1167 end=617728 sample=../Audio/Bonus Audio/Down Mod/mod101-48-127-YVQ4.wav
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=010 amp_velcurve_010=1 volume=6 offset=1047 end=615548 sample=../Audio/Bonus Audio/Down Mod/mod101-49-10-RO35.wav
+	<region> lovel=011 hivel=127 amp_velcurve_127=1 volume=6 offset=1232 end=615040 sample=../Audio/Bonus Audio/Down Mod/mod101-49-127-67QA.wav
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=010 amp_velcurve_010=1 volume=7 offset=1249 end=604762 sample=../Audio/Bonus Audio/Down Mod/mod101-50-10-HTT7.wav
+	<region> lovel=011 hivel=127 amp_velcurve_127=1 volume=6 offset=1008 sample=../Audio/Bonus Audio/Down Mod/mod101-50-127-CW8I.wav
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=010 amp_velcurve_010=1 volume=7 offset=1092 end=621897 sample=../Audio/Bonus Audio/Down Mod/mod101-51-10-UF8O.wav
+	<region> lovel=011 hivel=127 amp_velcurve_127=1 volume=6 offset=1113 end=622976 sample=../Audio/Bonus Audio/Down Mod/mod101-51-127-J8P2.wav
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=010 amp_velcurve_010=1 volume=7 offset=1167 end=603538 sample=../Audio/Bonus Audio/Down Mod/mod101-52-10-TOPU.wav
+	<region> lovel=011 hivel=127 amp_velcurve_127=1 volume=6 offset=1112 end=616571 sample=../Audio/Bonus Audio/Down Mod/mod101-52-127-3EBG.wav
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=010 amp_velcurve_010=1 volume=6 offset=1137 end=620930 sample=../Audio/Bonus Audio/Down Mod/mod101-53-10-UAX7.wav
+	<region> lovel=011 hivel=127 amp_velcurve_127=1 volume=6 offset=1202 sample=../Audio/Bonus Audio/Down Mod/mod101-53-127-5LKU.wav
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=010 amp_velcurve_010=1 volume=7 offset=1141 end=617708 sample=../Audio/Bonus Audio/Down Mod/mod101-54-10-7NM9.wav
+	<region> lovel=011 hivel=127 amp_velcurve_127=1 volume=6 offset=1103 end=607501 sample=../Audio/Bonus Audio/Down Mod/mod101-54-127-KO16.wav
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=010 amp_velcurve_010=1 volume=6 offset=1227 sample=../Audio/Bonus Audio/Down Mod/mod101-55-10-6WOR.wav
+	<region> lovel=011 hivel=127 amp_velcurve_127=1 sample=../Audio/Bonus Audio/Down Mod/mod101-55-127-ICQ4.wav
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=010 amp_velcurve_010=1 volume=6 offset=1236 end=609644 sample=../Audio/Bonus Audio/Down Mod/mod101-56-10-G501.wav
+	<region> lovel=011 hivel=127 amp_velcurve_127=1 volume=7 offset=1163 end=619033 sample=../Audio/Bonus Audio/Down Mod/mod101-56-127-8FJZ.wav
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=010 amp_velcurve_010=1 volume=6 offset=1235 end=612692 sample=../Audio/Bonus Audio/Down Mod/mod101-57-10-XX00.wav
+	<region> lovel=011 hivel=127 amp_velcurve_127=1 volume=7 offset=1098 end=607265 sample=../Audio/Bonus Audio/Down Mod/mod101-57-127-ZOW5.wav
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=010 amp_velcurve_010=1 volume=6 offset=1175 end=612608 sample=../Audio/Bonus Audio/Down Mod/mod101-58-10-UFEZ.wav
+	<region> lovel=011 hivel=127 amp_velcurve_127=1 volume=7 offset=1167 end=618875 sample=../Audio/Bonus Audio/Down Mod/mod101-58-127-D2KN.wav
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=010 amp_velcurve_010=1 volume=7 offset=1115 end=599832 sample=../Audio/Bonus Audio/Down Mod/mod101-59-10-VJEB.wav
+	<region> lovel=011 hivel=127 amp_velcurve_127=1 volume=6 offset=1235 end=611456 sample=../Audio/Bonus Audio/Down Mod/mod101-59-127-N0C3.wav
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=010 amp_velcurve_010=1 volume=7 offset=1163 end=610048 sample=../Audio/Bonus Audio/Down Mod/mod101-60-10-BDJE.wav
+	<region> lovel=011 hivel=127 amp_velcurve_127=1 volume=6 offset=1091 sample=../Audio/Bonus Audio/Down Mod/mod101-60-127-IGEE.wav
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=010 amp_velcurve_010=1 volume=6 offset=1233 end=609278 sample=../Audio/Bonus Audio/Down Mod/mod101-61-10-S2AL.wav
+	<region> lovel=011 hivel=127 amp_velcurve_127=1 volume=6 offset=1291 end=624051 sample=../Audio/Bonus Audio/Down Mod/mod101-61-127-07NC.wav
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=010 amp_velcurve_010=1 volume=7 offset=1228 sample=../Audio/Bonus Audio/Down Mod/mod101-62-10-Q98O.wav
+	<region> lovel=011 hivel=127 amp_velcurve_127=1 volume=7 offset=1018 end=617346 sample=../Audio/Bonus Audio/Down Mod/mod101-62-127-Y5Q0.wav
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=010 amp_velcurve_010=1 volume=6 offset=1166 end=603914 sample=../Audio/Bonus Audio/Down Mod/mod101-63-10-CAJE.wav
+	<region> lovel=011 hivel=127 amp_velcurve_127=1 volume=6 offset=1036 end=614680 sample=../Audio/Bonus Audio/Down Mod/mod101-63-127-NXVW.wav
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=010 amp_velcurve_010=1 volume=6 offset=1035 sample=../Audio/Bonus Audio/Down Mod/mod101-64-10-VCK8.wav
+	<region> lovel=011 hivel=127 amp_velcurve_127=1 volume=7 offset=1097 end=620161 sample=../Audio/Bonus Audio/Down Mod/mod101-64-127-JNOO.wav
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=010 amp_velcurve_010=1 volume=7 offset=1241 end=609875 sample=../Audio/Bonus Audio/Down Mod/mod101-65-10-6J6K.wav
+	<region> lovel=011 hivel=127 amp_velcurve_127=1 volume=7 offset=1237 end=616978 sample=../Audio/Bonus Audio/Down Mod/mod101-65-127-QBMH.wav
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=010 amp_velcurve_010=1 volume=6 offset=1311 sample=../Audio/Bonus Audio/Down Mod/mod101-66-10-WVZP.wav
+	<region> lovel=011 hivel=127 amp_velcurve_127=1 volume=6 offset=1037 end=617344 sample=../Audio/Bonus Audio/Down Mod/mod101-66-127-M4M1.wav
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=010 amp_velcurve_010=1 volume=7 offset=1233 sample=../Audio/Bonus Audio/Down Mod/mod101-67-10-H0O5.wav
+	<region> lovel=011 hivel=127 amp_velcurve_127=1 volume=6 offset=1243 end=613248 sample=../Audio/Bonus Audio/Down Mod/mod101-67-127-KJQ3.wav
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=010 amp_velcurve_010=1 volume=6 offset=1110 end=589887 sample=../Audio/Bonus Audio/Down Mod/mod101-68-10-6H4U.wav
+	<region> lovel=011 hivel=127 amp_velcurve_127=1 volume=6 offset=1109 end=618343 sample=../Audio/Bonus Audio/Down Mod/mod101-68-127-QUGZ.wav
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=010 amp_velcurve_010=1 volume=7 offset=1317 end=593846 sample=../Audio/Bonus Audio/Down Mod/mod101-69-10-O98A.wav
+	<region> lovel=011 hivel=127 amp_velcurve_127=1 volume=6 offset=1286 end=625678 sample=../Audio/Bonus Audio/Down Mod/mod101-69-127-8C7P.wav
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=010 amp_velcurve_010=1 volume=6 offset=1295 sample=../Audio/Bonus Audio/Down Mod/mod101-70-10-CG0O.wav
+	<region> lovel=011 hivel=127 amp_velcurve_127=1 volume=6 offset=1230 end=625957 sample=../Audio/Bonus Audio/Down Mod/mod101-70-127-WGM0.wav
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=010 amp_velcurve_010=1 volume=7 offset=1088 end=611000 sample=../Audio/Bonus Audio/Down Mod/mod101-71-10-YU4P.wav
+	<region> lovel=011 hivel=127 amp_velcurve_127=1 volume=6 offset=1140 end=622466 sample=../Audio/Bonus Audio/Down Mod/mod101-71-127-NKQZ.wav
+<group>lokey=72 hikey=127 pitch_keycenter=72 pitch_keytrack=1
+	<region> lovel=001 hivel=010 amp_velcurve_010=1 volume=6 offset=1052 end=595968 sample=../Audio/Bonus Audio/Down Mod/mod101-72-10-1CRT.wav
+	<region> lovel=011 hivel=127 amp_velcurve_127=1 volume=6 offset=1078 end=623748 sample=../Audio/Bonus Audio/Down Mod/mod101-72-127-E6ZQ.wav

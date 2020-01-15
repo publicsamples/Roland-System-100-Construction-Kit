@@ -1,0 +1,76 @@
+// this file was generated from Gracie.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=0 hikey=36 pitch_keycenter=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=136734 loop_end=218038 sample=../Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 36-36 1-127-BSON.wav
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=117798 loop_end=211313 sample=../Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 37-37 1-127-LVLQ.wav
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=21831 loop_end=348466 sample=../Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 38-38 1-127-7VOR.wav
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=19767 loop_end=328465 sample=../Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 39-39 1-127-ARNE.wav
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=42254 loop_end=332874 sample=../Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 40-40 1-127-Q4NR.wav
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=38569 loop_end=313823 sample=../Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 41-41 1-127-S0S8.wav
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=76711 loop_end=334688 sample=../Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 42-42 1-127-9N8M.wav
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=120712 loop_end=364498 sample=../Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 43-43 1-127-IM3J.wav
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=68816 loop_end=299763 sample=../Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 44-44 1-127-POSX.wav
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=44136 loop_end=262866 sample=../Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 45-45 1-127-NL5L.wav
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=60968 loop_end=266207 sample=../Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 46-46 1-127-IFD4.wav
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=162091 loop_end=355377 sample=../Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 47-47 1-127-V02P.wav
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=173783 loop_end=357108 sample=../Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 48-48 1-127-IGQ3.wav
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=182526 loop_end=356148 sample=../Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 49-49 1-127-V3HX.wav
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=172722 loop_end=335776 sample=../Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 50-50 1-127-IHD8.wav
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=161996 loop_end=315932 sample=../Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 51-51 1-127-ZSBM.wav
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=153490 loop_end=298558 sample=../Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 52-52 1-127-U69O.wav
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=130033 loop_end=266977 sample=../Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 53-53 1-127-9CG1.wav
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=64911 loop_end=323818 sample=../Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 54-54 1-127-8IPK.wav
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=128854 loop_end=251055 sample=../Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 55-55 1-127-WIUE.wav
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=236824 loop_end=352297 sample=../Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 56-56 1-127-L2X6.wav
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=223105 loop_end=331897 sample=../Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 57-57 1-127-C4K8.wav
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=49736 loop_end=358763 sample=../Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 58-58 1-127-9FM9.wav
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=199036 loop_end=296028 sample=../Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 59-59 1-127-6I4O.wav
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=177891 loop_end=360969 sample=../Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 60-60 1-127-DQDI.wav
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=90412 loop_end=349476 sample=../Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 61-61 1-127-P632.wav
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=167038 loop_end=330092 sample=../Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 62-62 1-127-3U0S.wav
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=157303 loop_end=234374 sample=../Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 63-63 1-127-LULV.wav
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=148255 loop_end=293430 sample=../Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 64-64 1-127-5ENB.wav
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=132858 loop_end=338553 sample=../Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 65-65 1-127-OU8U.wav
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=132080 loop_end=326244 sample=../Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 66-66 1-127-OQR0.wav
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=63389 loop_end=185501 sample=../Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 67-67 1-127-CH1O.wav
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=111445 loop_end=284578 sample=../Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 68-68 1-127-RI68.wav
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=159353 loop_end=268056 sample=../Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 69-69 1-127-IYBE.wav
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=103928 loop_end=257872 sample=../Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 70-70 1-127-9QRH.wav
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=141938 loop_end=335822 sample=../Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 71-71 1-127-05NE.wav
+<group>lokey=72 hikey=125 pitch_keycenter=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=88262 loop_end=362960 sample=../Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 72-72 1-127-U8XV.wav

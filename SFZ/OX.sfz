@@ -1,0 +1,101 @@
+// this file was generated from OX.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=3 hikey=49 pitch_keycenter=48 pitch_keytrack=1
+	<region> lovel=001 hivel=010 amp_velcurve_010=1 loop_mode=loop_sustain loop_start=191699 loop_end=347356 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-C#2-10-BC5V.wav
+	<region> lovel=011 hivel=020 amp_velcurve_020=1 loop_mode=loop_sustain loop_start=94451 loop_end=505078 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-C#2-20-49JH.wav
+	<region> lovel=021 hivel=029 amp_velcurve_029=1 loop_mode=loop_sustain loop_start=142655 loop_end=302357 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-C#2-29-SF8U.wav
+	<region> lovel=030 hivel=039 amp_velcurve_039=1 loop_mode=loop_sustain loop_start=11491 loop_end=171201 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-C#2-39-9CY2.wav
+	<region> lovel=040 hivel=049 amp_velcurve_049=1 loop_mode=loop_sustain loop_start=6170 loop_end=165881 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-C#2-49-56B5.wav
+	<region> lovel=050 hivel=059 amp_velcurve_059=1 loop_mode=loop_sustain loop_start=47138 loop_end=206846 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-C#2-59-GTAA.wav
+	<region> lovel=060 hivel=068 amp_velcurve_068=1 loop_mode=loop_sustain loop_start=10803 loop_end=170517 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-C#2-68-AV2I.wav
+	<region> lovel=069 hivel=078 amp_velcurve_078=1 loop_mode=loop_sustain loop_start=2160 loop_end=161881 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-C#2-78-3XMO.wav
+	<region> lovel=079 hivel=088 amp_velcurve_088=1 loop_mode=loop_sustain loop_start=24247 loop_end=183959 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-C#2-88-ID5M.wav
+	<region> lovel=089 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=20222 loop_end=179926 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-C#2-127-T5CQ.wav
+<group>lokey=50 hikey=54 pitch_keycenter=53 pitch_keytrack=1
+	<region> lovel=001 hivel=010 amp_velcurve_010=1 loop_mode=loop_sustain loop_start=275455 loop_end=533504 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-F#2-10-YXAN.wav
+	<region> lovel=011 hivel=020 amp_velcurve_020=1 loop_mode=loop_sustain loop_start=265535 loop_end=522578 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-F#2-20-DPXU.wav
+	<region> lovel=021 hivel=029 amp_velcurve_029=1 loop_mode=loop_sustain loop_start=274682 loop_end=532720 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-F#2-29-6YRN.wav
+	<region> lovel=030 hivel=039 amp_velcurve_039=1 loop_mode=loop_sustain loop_start=262570 loop_end=520616 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-F#2-39-4HDJ.wav
+	<region> lovel=040 hivel=049 amp_velcurve_049=1 loop_mode=loop_sustain loop_start=172277 loop_end=430326 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-F#2-49-GA5P.wav
+	<region> lovel=050 hivel=059 amp_velcurve_059=1 loop_mode=loop_sustain loop_start=197986 loop_end=456030 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-F#2-59-C1AN.wav
+	<region> lovel=060 hivel=068 amp_velcurve_068=1 loop_mode=loop_sustain loop_start=167321 loop_end=426356 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-F#2-68-VS5Q.wav
+	<region> lovel=069 hivel=078 amp_velcurve_078=1 loop_mode=loop_sustain loop_start=285188 loop_end=544221 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-F#2-78-FA08.wav
+	<region> lovel=079 hivel=088 amp_velcurve_088=1 loop_mode=loop_sustain loop_start=254736 loop_end=513771 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-F#2-88-OY3S.wav
+	<region> lovel=089 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=117755 loop_end=376792 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-F#2-127-EU9X.wav
+<group>lokey=55 hikey=59 pitch_keycenter=58 pitch_keytrack=1
+	<region> lovel=001 hivel=010 amp_velcurve_010=1 loop_mode=loop_sustain loop_start=332171 loop_end=543175 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-B2-10-OKVR.wav
+	<region> lovel=011 hivel=020 amp_velcurve_020=1 loop_mode=loop_sustain loop_start=241077 loop_end=521663 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-B2-20-Q0KU.wav
+	<region> lovel=021 hivel=029 amp_velcurve_029=1 loop_mode=loop_sustain loop_start=266680 loop_end=512476 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-B2-29-IFF8.wav
+	<region> lovel=030 hivel=039 amp_velcurve_039=1 loop_mode=loop_sustain loop_start=299411 loop_end=545208 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-B2-39-BKIN.wav
+	<region> lovel=040 hivel=049 amp_velcurve_049=1 loop_mode=loop_sustain loop_start=262255 loop_end=542851 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-B2-49-PGD3.wav
+	<region> lovel=050 hivel=059 amp_velcurve_059=1 loop_mode=loop_sustain loop_start=154910 loop_end=539148 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-B2-59-9C8F.wav
+	<region> lovel=060 hivel=068 amp_velcurve_068=1 loop_mode=loop_sustain loop_start=80206 loop_end=219396 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-B2-68-421U.wav
+	<region> lovel=069 hivel=078 amp_velcurve_078=1 loop_mode=loop_sustain loop_start=249781 loop_end=460785 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-B2-78-CR2V.wav
+	<region> lovel=079 hivel=088 amp_velcurve_088=1 loop_mode=loop_sustain loop_start=175620 loop_end=456218 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-B2-88-YY8A.wav
+	<region> lovel=089 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=205237 loop_end=416241 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-B2-127-FUB0.wav
+<group>lokey=60 hikey=64 pitch_keycenter=63 pitch_keytrack=1
+	<region> lovel=001 hivel=010 amp_velcurve_010=1 loop_mode=loop_sustain loop_start=397810 loop_end=523161 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-E3-10-7VS4.wav
+	<region> lovel=011 hivel=020 amp_velcurve_020=1 loop_mode=loop_sustain loop_start=326743 loop_end=526400 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-E3-20-R5TU.wav
+	<region> lovel=021 hivel=029 amp_velcurve_029=1 loop_mode=loop_sustain loop_start=264518 loop_end=464176 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-E3-29-PHX8.wav
+	<region> lovel=030 hivel=039 amp_velcurve_039=1 loop_mode=loop_sustain loop_start=402807 loop_end=528156 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-E3-39-4LQF.wav
+	<region> lovel=040 hivel=049 amp_velcurve_049=1 loop_mode=loop_sustain loop_start=316101 loop_end=541837 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-E3-49-K8BC.wav
+	<region> lovel=050 hivel=059 amp_velcurve_059=1 loop_mode=loop_sustain loop_start=408145 loop_end=532929 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-E3-59-L2FQ.wav
+	<region> lovel=060 hivel=068 amp_velcurve_068=1 loop_mode=loop_sustain loop_start=302313 loop_end=501973 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-E3-68-96G7.wav
+	<region> lovel=069 hivel=078 amp_velcurve_078=1 loop_mode=loop_sustain loop_start=297869 loop_end=497530 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-E3-78-TP9G.wav
+	<region> lovel=079 hivel=088 amp_velcurve_088=1 loop_mode=loop_sustain loop_start=237481 loop_end=536418 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-E3-88-DO96.wav
+	<region> lovel=089 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=219580 loop_end=545139 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-E3-127-XO1D.wav
+<group>lokey=65 hikey=69 pitch_keycenter=68 pitch_keytrack=1
+	<region> lovel=001 hivel=010 amp_velcurve_010=1 loop_mode=loop_sustain loop_start=433449 loop_end=544831 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-A3-10-KA9E.wav
+	<region> lovel=011 hivel=020 amp_velcurve_020=1 loop_mode=loop_sustain loop_start=390231 loop_end=502040 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-A3-20-F1RF.wav
+	<region> lovel=021 hivel=029 amp_velcurve_029=1 loop_mode=loop_sustain loop_start=388902 loop_end=537281 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-A3-29-LA5K.wav
+	<region> lovel=030 hivel=039 amp_velcurve_039=1 loop_mode=loop_sustain loop_start=394218 loop_end=542597 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-A3-39-S1TE.wav
+	<region> lovel=040 hivel=049 amp_velcurve_049=1 loop_mode=loop_sustain loop_start=396276 loop_end=508084 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-A3-49-3IME.wav
+	<region> lovel=050 hivel=059 amp_velcurve_059=1 loop_mode=loop_sustain loop_start=315191 loop_end=481854 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-A3-59-LIFO.wav
+	<region> lovel=060 hivel=068 amp_velcurve_068=1 loop_mode=loop_sustain loop_start=355146 loop_end=485240 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-A3-68-4AOW.wav
+	<region> lovel=069 hivel=078 amp_velcurve_078=1 loop_mode=loop_sustain loop_start=338259 loop_end=468352 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-A3-78-SM9J.wav
+	<region> lovel=079 hivel=088 amp_velcurve_088=1 loop_mode=loop_sustain loop_start=294430 loop_end=535081 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-A3-88-G38P.wav
+	<region> lovel=089 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=382205 loop_end=512299 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-A3-127-39MR.wav
+<group>lokey=70 hikey=74 pitch_keycenter=73 pitch_keytrack=1
+	<region> lovel=001 hivel=010 amp_velcurve_010=1 loop_mode=loop_sustain loop_start=421812 loop_end=534358 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-D4-10-8U3K.wav
+	<region> lovel=011 hivel=020 amp_velcurve_020=1 loop_mode=loop_sustain loop_start=395069 loop_end=545545 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-D4-20-A4V6.wav
+	<region> lovel=021 hivel=029 amp_velcurve_029=1 loop_mode=loop_sustain loop_start=389393 loop_end=539870 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-D4-29-P6SH.wav
+	<region> lovel=030 hivel=039 amp_velcurve_039=1 loop_mode=loop_sustain loop_start=401674 loop_end=540028 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-D4-39-EUPK.wav
+	<region> lovel=040 hivel=049 amp_velcurve_049=1 loop_mode=loop_sustain loop_start=368094 loop_end=531008 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-D4-49-0FW2.wav
+	<region> lovel=050 hivel=059 amp_velcurve_059=1 loop_mode=loop_sustain loop_start=417859 loop_end=542841 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-D4-59-JN41.wav
+	<region> lovel=060 hivel=068 amp_velcurve_068=1 loop_mode=loop_sustain loop_start=404742 loop_end=517285 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-D4-68-5TWF.wav
+	<region> lovel=069 hivel=078 amp_velcurve_078=1 loop_mode=loop_sustain loop_start=237752 loop_end=388227 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-D4-78-YZIV.wav
+	<region> lovel=079 hivel=088 amp_velcurve_088=1 loop_mode=loop_sustain loop_start=308460 loop_end=471375 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-D4-88-DESY.wav
+	<region> lovel=089 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=279311 loop_end=542648 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-D4-127-Z83Z.wav
+<group>lokey=75 hikey=79 pitch_keycenter=78 pitch_keytrack=1
+	<region> lovel=001 hivel=010 amp_velcurve_010=1 loop_mode=loop_sustain loop_start=389912 loop_end=537272 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-G4-10-VD3S.wav
+	<region> lovel=011 hivel=020 amp_velcurve_020=1 loop_mode=loop_sustain loop_start=380671 loop_end=538535 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-G4-20-CRHZ.wav
+	<region> lovel=021 hivel=029 amp_velcurve_029=1 loop_mode=loop_sustain loop_start=325603 loop_end=453378 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-G4-29-R84V.wav
+	<region> lovel=030 hivel=039 amp_velcurve_039=1 loop_mode=loop_sustain loop_start=368009 loop_end=506046 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-G4-39-XTBD.wav
+	<region> lovel=040 hivel=049 amp_velcurve_049=1 loop_mode=loop_sustain loop_start=363972 loop_end=482895 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-G4-49-GF3G.wav
+	<region> lovel=050 hivel=059 amp_velcurve_059=1 loop_mode=loop_sustain loop_start=408883 loop_end=527806 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-G4-59-UM9C.wav
+	<region> lovel=060 hivel=068 amp_velcurve_068=1 loop_mode=loop_sustain loop_start=295246 loop_end=433520 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-G4-68-GU2N.wav
+	<region> lovel=069 hivel=078 amp_velcurve_078=1 loop_mode=loop_sustain loop_start=428728 loop_end=547413 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-G4-78-OHO0.wav
+	<region> lovel=079 hivel=088 amp_velcurve_088=1 loop_mode=loop_sustain loop_start=423453 loop_end=542375 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-G4-88-5CY3.wav
+	<region> lovel=089 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=341639 loop_end=460323 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-G4-127-MTZE.wav
+<group>lokey=80 hikey=83 pitch_keycenter=83 pitch_keytrack=1
+	<region> lovel=001 hivel=010 amp_velcurve_010=1 loop_mode=loop_sustain loop_start=393476 loop_end=516182 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-B4-10-3SGO.wav
+	<region> lovel=011 hivel=020 amp_velcurve_020=1 loop_mode=loop_sustain loop_start=398524 loop_end=521409 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-B4-20-LO4U.wav
+	<region> lovel=021 hivel=029 amp_velcurve_029=1 loop_mode=loop_sustain loop_start=388738 loop_end=540249 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-B4-29-PEO0.wav
+	<region> lovel=030 hivel=039 amp_velcurve_039=1 loop_mode=loop_sustain loop_start=417953 loop_end=540839 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-B4-39-EM9A.wav
+	<region> lovel=040 hivel=049 amp_velcurve_049=1 loop_mode=loop_sustain loop_start=324259 loop_end=541404 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-B4-49-CY47.wav
+	<region> lovel=050 hivel=059 amp_velcurve_059=1 loop_mode=loop_sustain loop_start=423986 loop_end=539715 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-B4-59-EZS9.wav
+	<region> lovel=060 hivel=068 amp_velcurve_068=1 loop_mode=loop_sustain loop_start=311606 loop_end=521595 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-B4-68-MSJ6.wav
+	<region> lovel=069 hivel=078 amp_velcurve_078=1 loop_mode=loop_sustain loop_start=356701 loop_end=545220 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-B4-78-CL9M.wav
+	<region> lovel=079 hivel=088 amp_velcurve_088=1 loop_mode=loop_sustain loop_start=357146 loop_end=538331 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-B4-88-213P.wav
+	<region> lovel=089 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=400481 loop_end=545884 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-B4-127-IBGY.wav
+<group>lokey=84 hikey=127 pitch_keycenter=84 pitch_keytrack=1
+	<region> lovel=001 hivel=010 amp_velcurve_010=1 loop_mode=loop_sustain loop_start=410575 loop_end=525184 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-C5-10-5W8S.wav
+	<region> lovel=011 hivel=020 amp_velcurve_020=1 loop_mode=loop_sustain loop_start=415693 loop_end=543644 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-C5-20-X0K0.wav
+	<region> lovel=021 hivel=029 amp_velcurve_029=1 loop_mode=loop_sustain loop_start=393541 loop_end=534831 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-C5-29-FUAQ.wav
+	<region> lovel=030 hivel=039 amp_velcurve_039=1 loop_mode=loop_sustain loop_start=368715 loop_end=536682 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-C5-39-AUN9.wav
+	<region> lovel=040 hivel=049 amp_velcurve_049=1 loop_mode=loop_sustain loop_start=393761 loop_end=535049 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-C5-49-60D7.wav
+	<region> lovel=050 hivel=059 amp_velcurve_059=1 loop_mode=loop_sustain loop_start=371366 loop_end=485977 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-C5-59-EMSY.wav
+	<region> lovel=060 hivel=068 amp_velcurve_068=1 loop_mode=loop_sustain loop_start=375040 loop_end=516330 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-C5-68-O1KT.wav
+	<region> lovel=069 hivel=078 amp_velcurve_078=1 loop_mode=loop_sustain loop_start=423213 loop_end=537825 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-C5-78-6V8E.wav
+	<region> lovel=079 hivel=088 amp_velcurve_088=1 loop_mode=loop_sustain loop_start=350893 loop_end=465672 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-C5-88-5GY3.wav
+	<region> lovel=089 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=343966 loop_end=540587 sample=../Audio/Bonus Audio/OX/(2016726 151719)/OX-C5-127-07VF.wav

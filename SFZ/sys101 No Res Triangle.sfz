@@ -1,0 +1,659 @@
+// this file was generated from sys101 No Res Triangle.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=8 hikey=24 pitch_keycenter=24 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=386 loop_end=74310 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C0-16-W502.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=721 loop_end=74677 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C0-32-KTNK.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=778 loop_end=73388 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C0-48-1VON.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=275711 loop_end=363111 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C0-64-HRFP.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=273694 loop_end=362436 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C0-79-49CJ.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=272635 loop_end=360033 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C0-95-JFBN.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=272689 loop_end=361430 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C0-111-5IRZ.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=273445 loop_end=362185 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C0-127-UMMI.wav
+<group> key=25 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=16 loop_end=73775 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C#0-16-DGCC.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=738 loop_end=74407 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C#0-32-QTDN.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=466 loop_end=74142 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C#0-48-0WGP.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=262362 loop_end=362713 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C#0-64-SOUH.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=262410 loop_end=362766 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C#0-79-SW8N.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=287985 loop_end=361673 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C#0-95-UILM.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=286651 loop_end=360335 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C#0-111-AF4U.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=274285 loop_end=355588 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C#0-127-1YVF.wav
+<group> key=26 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=308 loop_end=74681 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D0-16-ZMJW.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=683 loop_end=73860 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D0-32-3W5Q.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=532 loop_end=73709 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D0-48-ZTDO.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=278784 loop_end=362755 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D0-64-M3MX.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=279741 loop_end=363709 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D0-79-Z8VZ.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=279745 loop_end=363712 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D0-95-XOU1.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=282898 loop_end=359669 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D0-111-LJ6E.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=286925 loop_end=363698 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D0-127-6750.wav
+<group> key=27 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=181 loop_end=73823 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D#0-16-624M.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=977 loop_end=74608 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D#0-32-ZEAX.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=555 loop_end=74185 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D#0-48-4SIC.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=289155 loop_end=363918 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D#0-64-PHU8.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=289522 loop_end=364284 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D#0-79-JWAD.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=288595 loop_end=363361 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D#0-95-904S.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=288580 loop_end=363343 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D#0-111-TK8T.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=289178 loop_end=363943 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D#0-127-AUS3.wav
+<group> key=28 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=40 loop_end=73990 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-E0-16-6AUR.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=537 loop_end=74377 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-E0-32-10J6.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=826 loop_end=74666 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-E0-48-6OO7.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290079 loop_end=363916 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-E0-64-1POS.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=287668 loop_end=360435 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-E0-79-69KL.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=289595 loop_end=364503 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-E0-95-U8AD.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=281027 loop_end=353796 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-E0-111-LGTG.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=276964 loop_end=349730 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-E0-127-WA6F.wav
+<group> key=29 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=49 loop_end=73838 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F0-16-5RXZ.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=394 loop_end=74152 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F0-32-XCOC.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=506 loop_end=74261 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F0-48-EBO1.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=289955 loop_end=362698 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F0-64-CRIG.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=290290 loop_end=364042 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F0-79-68B3.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=288838 loop_end=362589 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F0-95-PEYB.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=290752 loop_end=363494 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F0-111-QF7W.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=289001 loop_end=363764 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F0-127-ZI6Z.wav
+<group> key=30 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=134 loop_end=74652 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F#0-16-DNYT.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=691 loop_end=74145 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F#0-32-T4PT.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=697 loop_end=74153 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F#0-48-PHP5.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=282919 loop_end=359234 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F#0-64-WKFG.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=281713 loop_end=358985 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F#0-79-YL8H.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=283794 loop_end=361063 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F#0-95-VOOA.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=281168 loop_end=357481 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F#0-111-O456.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=285897 loop_end=363165 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F#0-127-50PT.wav
+<group> key=31 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=74 loop_end=74019 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G0-16-US03.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=724 loop_end=74576 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G0-32-LVRI.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=600 loop_end=74452 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G0-48-YL1A.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=288946 loop_end=362801 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G0-64-5TBZ.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=289696 loop_end=362649 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G0-79-QK9C.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=289334 loop_end=364089 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G0-95-6KEF.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=289425 loop_end=364180 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G0-111-1LO8.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=288203 loop_end=362955 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G0-127-CWB5.wav
+<group> key=32 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=13 loop_end=74021 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G#0-16-68AG.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=921 loop_end=74081 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G#0-32-DA88.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=835 loop_end=73993 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G#0-48-H4YP.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=285162 loop_end=363422 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G#0-64-EDO6.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=283584 loop_end=360997 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G#0-79-1MBH.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=287207 loop_end=362066 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G#0-95-2M4O.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=283723 loop_end=361985 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G#0-111-AH2B.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=286226 loop_end=364486 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G#0-127-B3HH.wav
+<group> key=33 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=624 loop_end=74508 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A0-16-7UG3.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=525 loop_end=74415 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A0-32-BFVU.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=555 loop_end=74445 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A0-48-IK8U.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=280798 loop_end=362714 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A0-64-R6AZ.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=289750 loop_end=363630 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A0-79-WBAP.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=278002 loop_end=359914 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A0-95-8SBT.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=279976 loop_end=361892 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A0-111-Q4PO.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=279583 loop_end=363105 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A0-127-EZC4.wav
+<group> key=34 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=604 loop_end=73385 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A#0-16-P3O9.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=571 loop_end=74108 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A#0-32-NM2A.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=732 loop_end=74272 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A#0-48-M55T.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=288208 loop_end=363262 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A#0-64-SR54.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=286249 loop_end=362055 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A#0-79-CAQQ.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=287516 loop_end=361809 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A#0-95-YWU3.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=287218 loop_end=363031 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A#0-111-Q415.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=288447 loop_end=364257 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A#0-127-28Q4.wav
+<group> key=35 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=153 loop_end=73916 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-B0-16-HZDR.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=544 loop_end=74293 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-B0-32-N8PM.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=261 loop_end=74723 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-B0-48-1E8B.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=288953 loop_end=364132 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-B0-64-BEHT.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=287284 loop_end=359601 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-B0-79-SWHP.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=290282 loop_end=364031 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-B0-95-GPBK.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=289651 loop_end=364113 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-B0-111-MG5Z.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=290785 loop_end=363817 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-B0-127-3FYB.wav
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=184 loop_end=73869 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C1-16-KMI8.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=520 loop_end=74193 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C1-32-XWXZ.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=312 loop_end=74661 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C1-48-G4G2.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=203 loop_end=73877 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C1-64-EMFL.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=290271 loop_end=363267 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C1-79-S7V7.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=289113 loop_end=362781 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C1-95-P1B2.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=289204 loop_end=364225 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C1-111-E236.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=290587 loop_end=364257 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C1-127-6HGK.wav
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=34 loop_end=74104 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C#1-16-JV7V.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=9686 loop_end=83703 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C#1-32-FPZU.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=354 loop_end=74375 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C#1-48-PL6T.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290274 loop_end=363651 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C#1-64-IQ2K.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=289481 loop_end=364132 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C#1-79-0PDN.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=290783 loop_end=362883 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C#1-95-XT1U.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=287815 loop_end=362462 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C#1-111-D82G.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=290122 loop_end=364132 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C#1-127-4HJZ.wav
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=272 loop_end=74370 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D1-16-9QXB.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=275 loop_end=74356 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D1-32-T471.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=649 loop_end=74128 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D1-48-YJCQ.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=288171 loop_end=361653 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D1-64-S0RN.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=289874 loop_end=363356 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D1-79-80JT.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=289418 loop_end=361690 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D1-95-OFCC.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=290401 loop_end=364480 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D1-111-ZOG9.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=290373 loop_end=364451 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D1-127-5DVY.wav
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=22 loop_end=74552 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D#1-16-N3VV.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=161 loop_end=74110 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D#1-32-ZQQS.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=290664 loop_end=364035 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D#1-48-AHGD.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290180 loop_end=364122 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D#1-64-7FTB.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=285001 loop_end=362355 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D#1-79-L04V.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=284228 loop_end=362148 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D#1-95-NXPO.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=288609 loop_end=363119 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D#1-111-GZSG.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=289239 loop_end=364318 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D#1-127-55JH.wav
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=190 loop_end=73770 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-E1-16-Q8UU.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=367 loop_end=74455 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-E1-32-KHMS.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=290423 loop_end=363972 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-E1-48-8630.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290334 loop_end=364418 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-E1-64-YQJ9.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=288123 loop_end=363281 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-E1-79-C2OT.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=287170 loop_end=363406 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-E1-95-HZZG.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=287534 loop_end=364306 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-E1-111-BGLA.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=290761 loop_end=363772 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-E1-127-W919.wav
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=131 loop_end=73114 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F1-16-TZJS.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=289 loop_end=74287 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F1-32-E40G.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=306 loop_end=73795 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F1-48-VAOW.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290778 loop_end=363761 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F1-64-TUJ8.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=290110 loop_end=364103 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F1-79-ALAF.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=289980 loop_end=364479 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F1-95-8YH9.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=290453 loop_end=364446 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F1-111-DGF5.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=290551 loop_end=364038 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F1-127-VFUF.wav
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=152 loop_end=74314 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F#1-16-ZBX2.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=364 loop_end=73555 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F#1-32-P40W.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=289194 loop_end=363340 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F#1-48-JZPL.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=289325 loop_end=361557 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F#1-64-HL58.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=288335 loop_end=363438 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F#1-79-TQVD.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=288264 loop_end=364322 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F#1-95-AP8M.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=290732 loop_end=363444 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F#1-111-1QS7.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=290322 loop_end=363993 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F#1-127-TUK2.wav
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=114 loop_end=74668 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G1-16-BKU7.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=289387 loop_end=363023 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G1-32-VUVP.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=290569 loop_end=364204 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G1-48-ZTU2.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=288038 loop_end=363031 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G1-64-6CBV.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=287623 loop_end=363975 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G1-79-4YTP.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=286802 loop_end=363153 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G1-95-ZYZD.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=289488 loop_end=364034 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G1-111-OKZQ.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=286251 loop_end=363958 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G1-127-8RGM.wav
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=117 loop_end=74323 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G#1-16-17DI.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=167438 loop_end=240783 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G#1-32-PA06.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=289332 loop_end=363951 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G#1-48-TUCC.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=288531 loop_end=363155 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G#1-64-FM5C.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=288534 loop_end=364013 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G#1-79-TP5K.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=286893 loop_end=364073 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G#1-95-5DMK.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=290313 loop_end=364503 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G#1-111-KZUE.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=288504 loop_end=364405 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G#1-127-BA12.wav
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=596 loop_end=73052 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A1-16-0IO0.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=429 loop_end=72883 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A1-32-7JOF.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=189 loop_end=74250 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A1-48-MCJS.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=285371 loop_end=358624 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A1-64-LU1Y.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=290021 loop_end=364481 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A1-79-H33T.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=290096 loop_end=362548 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A1-95-JBI3.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=290692 loop_end=364349 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A1-111-7M66.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=290509 loop_end=364165 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A1-127-YSA7.wav
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=64 loop_end=73440 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A#1-16-71KV.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=161399 loop_end=233609 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A#1-32-E3H9.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=174020 loop_end=247370 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A#1-48-9SHU.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290567 loop_end=363537 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A#1-64-V9P4.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=288498 loop_end=364507 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A#1-79-NEWO.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=288925 loop_end=364177 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A#1-95-KBLL.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=290599 loop_end=364325 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A#1-111-TVN9.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=290462 loop_end=364191 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A#1-127-WJH7.wav
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=151280 loop_end=223743 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-B1-16-GBND.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=286347 loop_end=359886 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-B1-32-JX7Y.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=264711 loop_end=338248 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-B1-48-WWWE.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290762 loop_end=364300 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-B1-64-AIC3.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=287353 loop_end=364477 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-B1-79-SV2M.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=290715 loop_end=364256 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-B1-95-LXA9.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=290465 loop_end=364363 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-B1-111-VNON.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=290623 loop_end=364158 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-B1-127-1JLB.wav
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=70 loop_end=73907 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C2-16-PNG6.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=135 loop_end=74293 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C2-32-50WZ.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=285 loop_end=74443 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C2-48-ZR9H.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=156 loop_end=74651 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C2-64-NJLZ.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=290533 loop_end=362654 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C2-79-7N5R.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=289453 loop_end=362256 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C2-95-ABKK.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=290640 loop_end=364460 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C2-111-2HL8.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=290676 loop_end=364491 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C2-127-SJ3H.wav
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=163543 loop_end=237049 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C#2-16-MWBH.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=290394 loop_end=364219 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C#2-32-M3ES.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=289711 loop_end=363537 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C#2-48-INO5.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=287650 loop_end=363707 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C#2-64-OGJM.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=287712 loop_end=364415 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C#2-79-CY7O.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=290646 loop_end=362552 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C#2-95-ZDY0.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=290745 loop_end=363610 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C#2-111-VHXV.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=290776 loop_end=364277 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C#2-127-OSO2.wav
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=155844 loop_end=230378 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D2-16-AXPS.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=94 loop_end=74629 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D2-32-NOUM.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=290733 loop_end=363457 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D2-48-1WLH.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290454 loop_end=363478 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D2-64-6644.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=288612 loop_end=364350 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D2-79-UZPP.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=287744 loop_end=364391 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D2-95-5GR2.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=290560 loop_end=363588 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D2-111-VZV1.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=290582 loop_end=364212 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D2-127-TTBV.wav
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=149388 loop_end=221735 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D#2-16-OM8H.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=106 loop_end=74450 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D#2-32-RC4O.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=290341 loop_end=364395 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D#2-48-3VRF.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290142 loop_end=364479 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D#2-64-ZS8Z.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=287865 loop_end=364197 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D#2-79-6LZ5.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=288645 loop_end=364404 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D#2-95-NL96.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=290784 loop_end=364265 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D#2-111-KBJK.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=289682 loop_end=364303 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D#2-127-22AK.wav
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=162573 loop_end=237035 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-E2-16-8TSN.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=290533 loop_end=364457 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-E2-32-OPE0.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=290672 loop_end=362715 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-E2-48-1V56.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290132 loop_end=364324 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-E2-64-773V.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=286865 loop_end=364282 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-E2-79-PAYX.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=288475 loop_end=364011 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-E2-95-06JS.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=289192 loop_end=364458 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-E2-111-ID5J.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=289762 loop_end=364488 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-E2-127-QFHU.wav
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=137 loop_end=74002 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F2-16-9I49.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=90 loop_end=74702 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F2-32-WKF1.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=92 loop_end=74704 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F2-48-HVIQ.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=241 loop_end=74601 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F2-64-N48T.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=290512 loop_end=363606 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F2-79-DRB2.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=290172 loop_end=364280 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F2-95-LYHE.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=290704 loop_end=364301 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F2-111-5Q6U.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=290721 loop_end=363049 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F2-127-GMEZ.wav
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=168519 loop_end=241578 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F#2-16-FJD1.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=290220 loop_end=364471 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F#2-32-P04F.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=290131 loop_end=364382 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F#2-48-312B.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290744 loop_end=364518 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F#2-64-8R3Q.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=288734 loop_end=363946 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F#2-79-H48H.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=286872 loop_end=364236 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F#2-95-8RJ3.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=288901 loop_end=364350 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F#2-111-H8IG.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=287164 loop_end=364287 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F#2-127-RDRQ.wav
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=473 loop_end=74396 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G2-16-74O7.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=196 loop_end=74573 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G2-32-KTE3.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=62 loop_end=74662 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G2-48-FZ14.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=103 loop_end=74708 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G2-64-QE9P.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=285451 loop_end=359376 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G2-79-EQII.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=290712 loop_end=364409 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G2-95-0IOP.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=290643 loop_end=363885 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G2-111-BGYY.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=289702 loop_end=364302 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G2-127-1TLN.wav
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=155253 loop_end=228006 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G#2-16-HX01.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=290542 loop_end=364362 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G#2-32-8UGE.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=290191 loop_end=364011 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G#2-48-35C5.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290483 loop_end=364516 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G#2-64-4X4C.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=288584 loop_end=364326 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G#2-79-T2BO.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=287494 loop_end=363021 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G#2-95-JOK6.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=290673 loop_end=364066 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G#2-111-9E6T.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=290431 loop_end=364466 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G#2-127-FBCE.wav
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=147055 loop_end=221993 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A2-16-2LN2.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=97 loop_end=73426 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A2-32-M9OV.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=289576 loop_end=363300 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A2-48-6UBK.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290600 loop_end=364121 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A2-64-K8TZ.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=289680 loop_end=363001 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A2-79-8F3G.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=275871 loop_end=351205 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A2-95-DUTI.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=288632 loop_end=363765 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A2-111-L2WR.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=289984 loop_end=363711 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A2-127-IN2N.wav
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=145295 loop_end=218494 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A#2-16-A315.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=168705 loop_end=241708 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A#2-32-TVQS.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=194 loop_end=74722 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A#2-48-YHTK.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290061 loop_end=364018 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A#2-64-F7II.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=289085 loop_end=363421 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A#2-79-CKD4.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=290723 loop_end=364491 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A#2-95-6B5W.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=290611 loop_end=363045 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A#2-111-B556.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=290720 loop_end=364103 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A#2-127-36BL.wav
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=157037 loop_end=230595 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-B2-16-HU2I.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=284600 loop_end=358152 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-B2-32-6VQD.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=290013 loop_end=362671 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-B2-48-BH94.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=289920 loop_end=364196 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-B2-64-APBZ.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=288044 loop_end=364472 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-B2-79-UAND.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=288716 loop_end=362811 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-B2-95-0CZ9.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=290723 loop_end=364459 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-B2-111-AHVO.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=290613 loop_end=364168 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-B2-127-6N25.wav
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=82 loop_end=72728 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C3-16-IXP6.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=86 loop_end=74600 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C3-32-NZX6.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=84 loop_end=74257 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C3-48-9MG6.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=67 loop_end=74575 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C3-64-5JDL.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=289953 loop_end=362763 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C3-79-9VUJ.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=290652 loop_end=363971 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C3-95-XBAU.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=290492 loop_end=364488 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C3-111-UP7I.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=290773 loop_end=364259 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C3-127-CCK2.wav
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=62 loop_end=74240 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C#3-16-E2CS.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=136 loop_end=73674 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C#3-32-HSMV.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=290412 loop_end=363626 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C#3-48-16BV.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=289540 loop_end=364346 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C#3-64-AVDR.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=290542 loop_end=364392 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C#3-79-KHQD.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=286882 loop_end=364249 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C#3-95-7RRA.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=286933 loop_end=363499 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C#3-111-DYG2.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=290696 loop_end=364224 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C#3-127-EEK9.wav
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=144592 loop_end=219424 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D3-16-RQTL.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=287322 loop_end=362156 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D3-32-3RMW.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=287554 loop_end=361629 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D3-48-IVST.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=289743 loop_end=364121 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D3-64-FJE5.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=287274 loop_end=362860 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D3-79-LZGZ.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=287784 loop_end=364274 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D3-95-C56E.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=287244 loop_end=363583 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D3-111-MJRF.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=289762 loop_end=364440 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D3-127-TCT6.wav
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=159227 loop_end=233118 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D#3-16-9TG5.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=155358 loop_end=228112 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D#3-32-IYL0.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=290593 loop_end=364486 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D#3-48-3GPX.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=288983 loop_end=364442 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D#3-64-HQLN.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=290651 loop_end=364254 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D#3-79-7T17.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=288343 loop_end=364510 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D#3-95-6134.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=288654 loop_end=364106 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D#3-111-Z7PQ.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=290683 loop_end=362577 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D#3-127-EBFN.wav
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=148069 loop_end=222006 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-E3-16-Y2MO.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=43 loop_end=74650 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-E3-32-ILQD.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=38 loop_end=74515 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-E3-48-CU48.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=40 loop_end=74513 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-E3-64-3TEF.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=290753 loop_end=364414 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-E3-79-LFZ6.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=290713 loop_end=364242 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-E3-95-M1VL.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=288683 loop_end=364229 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-E3-111-WEWO.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=288475 loop_end=364289 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-E3-127-BMSP.wav
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=62 loop_end=72892 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F3-16-X1S6.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=87 loop_end=74685 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F3-32-ST1Z.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=79 loop_end=74672 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F3-48-0IHT.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290541 loop_end=363738 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F3-64-00QR.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=290433 loop_end=364132 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F3-79-1JJ1.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=290591 loop_end=363785 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F3-95-7DHO.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=290772 loop_end=364092 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F3-111-PRAO.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=290673 loop_end=364374 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F3-127-0S0L.wav
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=0 loop_end=74495 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F#3-16-B6OI.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=36 loop_end=72947 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F#3-32-E3ZV.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=36 loop_end=74385 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F#3-48-Y1Z6.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=58 loop_end=74645 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F#3-64-FPAX.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=290752 loop_end=364496 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F#3-79-GLH1.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=289672 loop_end=364493 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F#3-95-QOVE.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=289041 loop_end=364457 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F#3-111-QV2B.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=289292 loop_end=363987 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F#3-127-6O4Q.wav
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=136583 loop_end=211028 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G3-16-AE37.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=45 loop_end=74378 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G3-32-1ZAY.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=45 loop_end=74609 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G3-48-2DKS.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290562 loop_end=362525 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G3-64-598E.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=290012 loop_end=364458 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G3-79-VRGQ.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=290432 loop_end=364201 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G3-95-DJ3P.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=290692 loop_end=364465 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G3-111-BJW5.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=289661 loop_end=364448 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G3-127-RIMT.wav
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=167271 loop_end=245573 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G#3-16-2YX1.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=166891 loop_end=240808 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G#3-32-IETZ.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=290643 loop_end=363392 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G#3-48-QVYE.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290753 loop_end=363925 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G#3-64-GFAQ.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=290692 loop_end=364181 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G#3-79-EO54.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=290611 loop_end=363678 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G#3-95-LXKJ.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=288555 loop_end=363648 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G#3-111-7AK4.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=288642 loop_end=364160 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G#3-127-IL08.wav
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=175936 loop_end=256471 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A3-16-FH00.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=157052 loop_end=229536 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A3-32-6DQF.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=290771 loop_end=364155 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A3-48-XJAC.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290452 loop_end=364139 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A3-64-B0BS.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=290332 loop_end=364321 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A3-79-72R5.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=290463 loop_end=364451 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A3-95-UIZL.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=288674 loop_end=364473 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A3-111-GFD5.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=288715 loop_end=363910 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A3-127-AK5H.wav
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=166504 loop_end=241459 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A#3-16-M18R.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=156331 loop_end=230427 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A#3-32-UXR6.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=288898 loop_end=363185 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A#3-48-01EM.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290763 loop_end=364388 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A#3-64-2GG4.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=290673 loop_end=362680 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A#3-79-G1NF.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=289592 loop_end=363499 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A#3-95-KF57.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=287154 loop_end=363726 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A#3-111-GU81.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=290641 loop_end=364357 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A#3-127-DIQO.wav
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=190408 loop_end=263595 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-B3-16-DN2V.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=155516 loop_end=228436 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-B3-32-OOX6.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=38 loop_end=74572 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-B3-48-ZKM3.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290312 loop_end=362782 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-B3-64-WZ77.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=288791 loop_end=362604 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-B3-79-COMT.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=290112 loop_end=363386 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-B3-95-HTW0.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=287024 loop_end=364068 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-B3-111-C3F0.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=288014 loop_end=364518 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-B3-127-LWM3.wav
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=159986 loop_end=237518 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C4-16-12EF.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=159441 loop_end=233085 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C4-32-FJ7R.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=54 loop_end=74633 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C4-48-I2SX.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=111 loop_end=74603 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C4-64-MFJ2.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=289632 loop_end=363784 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C4-79-6PA8.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=290452 loop_end=363669 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C4-95-PMA7.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=288624 loop_end=364384 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C4-111-UIBO.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=290702 loop_end=364261 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C4-127-TZWS.wav
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=163745 loop_end=357783 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C#4-16-4C7P.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=153045 loop_end=225818 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C#4-32-8423.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=289545 loop_end=363749 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C#4-48-H4FX.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=289682 loop_end=362693 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C#4-64-2BWE.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=289533 loop_end=363983 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C#4-79-V0KI.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=289819 loop_end=364505 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C#4-95-0VB2.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=290755 loop_end=364163 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C#4-111-ROQ3.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=286851 loop_end=364416 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C#4-127-XTHF.wav
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=190731 loop_end=284584 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D4-16-KI3I.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=152765 loop_end=226117 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D4-32-FU56.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=60 loop_end=74622 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D4-48-PLGM.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=289352 loop_end=363156 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D4-64-X7ZY.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=289892 loop_end=364146 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D4-79-V9DH.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=289962 loop_end=364516 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D4-95-TVX2.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=288684 loop_end=363771 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D4-111-1KQ7.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=290132 loop_end=364159 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D4-127-JNDK.wav
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=234562 loop_end=314284 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D#4-16-Y8DI.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=159150 loop_end=232253 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D#4-32-OW3E.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=80 loop_end=74678 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D#4-48-LE5O.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290313 loop_end=363060 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D#4-64-4NPA.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=189 loop_end=74648 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D#4-79-UCNP.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=290712 loop_end=364451 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D#4-95-8QGN.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=290222 loop_end=362679 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D#4-111-3AV7.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=290252 loop_end=363993 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D#4-127-FA22.wav
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=181489 loop_end=353463 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-E4-16-YBD5.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=158921 loop_end=232342 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-E4-32-D4OC.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=159581 loop_end=233204 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-E4-48-6W1W.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290452 loop_end=363942 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-E4-64-TCP7.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=290162 loop_end=364457 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-E4-79-C1CZ.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=290332 loop_end=364422 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-E4-95-MVZA.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=290302 loop_end=364059 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-E4-111-5E3R.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=290512 loop_end=364472 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-E4-127-8LG2.wav
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=280476 loop_end=355166 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F4-16-BFXZ.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=154180 loop_end=226584 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F4-32-SZ9U.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=156618 loop_end=230293 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F4-48-9DN8.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=289621 loop_end=362852 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F4-64-2JQO.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=288882 loop_end=363824 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F4-79-XHT7.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=290222 loop_end=364027 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F4-95-S6S7.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=290702 loop_end=364504 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F4-111-15H2.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=290072 loop_end=364252 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F4-127-34JR.wav
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=252973 loop_end=359956 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F#4-16-Q4YI.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=170236 loop_end=244550 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F#4-32-ONDL.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=36 loop_end=74112 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F#4-48-X8M5.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290322 loop_end=363377 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F#4-64-06S7.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=47 loop_end=74601 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F#4-79-A4JK.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=288922 loop_end=364490 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F#4-95-52XH.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=288810 loop_end=363360 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F#4-111-3DFL.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=290734 loop_end=364506 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F#4-127-1ZWZ.wav
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=181681 loop_end=281683 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G4-16-NG7H.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=155353 loop_end=228345 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G4-32-ICIW.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=47 loop_end=74680 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G4-48-K11X.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=289132 loop_end=363478 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G4-64-V8TJ.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=289132 loop_end=362576 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G4-79-MTZH.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=290692 loop_end=363346 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G4-95-UF6A.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=290762 loop_end=364037 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G4-111-4PG0.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=290512 loop_end=362543 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G4-127-SMUE.wav
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=216155 loop_end=321244 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G#4-16-0BD1.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=154450 loop_end=226378 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G#4-32-WW13.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=161727 loop_end=233496 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G#4-48-J361.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290472 loop_end=362611 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G#4-64-5X4P.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=290761 loop_end=364283 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G#4-79-VK9Z.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=290763 loop_end=364017 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G#4-95-XVJN.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=288871 loop_end=364316 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G#4-111-WESS.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=290781 loop_end=364513 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G#4-127-KUUB.wav
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=220141 loop_end=345833 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A4-16-EN0O.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=160206 loop_end=234072 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A4-32-VFUW.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=155937 loop_end=229147 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A4-48-J0RS.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290582 loop_end=364499 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A4-64-NFF6.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=290397 loop_end=364310 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A4-79-137W.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=290652 loop_end=364214 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A4-95-3LIK.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=290252 loop_end=364518 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A4-111-HS44.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=288409 loop_end=364140 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A4-127-8S3W.wav
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=279185 loop_end=352677 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A#4-16-VFVH.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=154260 loop_end=228841 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A#4-32-ZYH7.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=24 loop_end=73565 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A#4-48-1M14.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=35 loop_end=74616 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A#4-64-VY3S.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=35 loop_end=74569 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A#4-79-K5KM.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=57 loop_end=74640 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A#4-95-WYIO.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=289677 loop_end=363406 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A#4-111-6EAC.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=290773 loop_end=364498 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A#4-127-9RR7.wav
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=228109 loop_end=332849 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-B4-16-GP16.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=154172 loop_end=228288 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-B4-32-N1O9.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=155638 loop_end=228452 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-B4-48-GAZE.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=289042 loop_end=364011 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-B4-64-FZ6K.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=290652 loop_end=364458 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-B4-79-FQNZ.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=290492 loop_end=364383 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-B4-95-XBON.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=289832 loop_end=364487 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-B4-111-DWF4.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=290722 loop_end=364300 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-B4-127-YIBZ.wav
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=286090 loop_end=359546 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C5-16-Y7M5.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=175319 loop_end=264223 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C5-32-XUMH.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=158166 loop_end=232129 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C5-48-MZZD.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=289312 loop_end=364419 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C5-64-NYEB.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=290742 loop_end=363982 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C5-79-R80U.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=288708 loop_end=362840 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C5-95-Y4UK.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=289522 loop_end=363483 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C5-111-CMBE.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=290452 loop_end=364456 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C5-127-13AO.wav
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=135448 loop_end=210445 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C#5-16-76IE.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=147487 loop_end=222366 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C#5-32-H1RY.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=156289 loop_end=228930 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C#5-48-NM8M.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=160870 loop_end=236388 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C#5-64-J36D.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=290551 loop_end=364512 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C#5-79-QEVT.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=60 loop_end=74658 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C#5-95-X5T6.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=288716 loop_end=361997 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C#5-111-CCSL.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=290422 loop_end=364503 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C#5-127-LG1Q.wav
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=243067 loop_end=317284 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D5-16-981F.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=162316 loop_end=242792 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D5-32-F5A8.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=166736 loop_end=239326 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D5-48-3YL8.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=163665 loop_end=235994 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D5-64-A891.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=290252 loop_end=364166 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D5-79-F4EE.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=290661 loop_end=363932 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D5-95-W57G.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=290572 loop_end=364408 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D5-111-PPP0.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=290713 loop_end=364435 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D5-127-UIQG.wav
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=274948 loop_end=348445 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D#5-16-QES3.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=173432 loop_end=248780 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D#5-32-XWYP.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=165403 loop_end=237688 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D#5-48-9FJG.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=163706 loop_end=237452 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D#5-64-FYV5.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=290252 loop_end=363607 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D#5-79-U5MZ.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=284408 loop_end=357301 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D#5-95-SYDO.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=289822 loop_end=363638 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D#5-111-HP8B.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=290732 loop_end=363017 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-D#5-127-81S4.wav
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=164224 loop_end=260130 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-E5-16-UCOT.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=171980 loop_end=252874 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-E5-32-8X37.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=939 loop_end=72829 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-E5-48-6RCB.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=54 loop_end=16347 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-E5-64-0AGY.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=81 loop_end=74624 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-E5-79-SIX8.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=62 loop_end=74711 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-E5-95-MA6U.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=76 loop_end=74656 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-E5-111-4Z10.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=61 loop_end=74644 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-E5-127-2D29.wav
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=252924 loop_end=364294 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F5-16-ZQKH.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=189946 loop_end=262713 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F5-32-J4HQ.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=151942 loop_end=224998 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F5-48-ZGCE.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=59 loop_end=72927 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F5-64-3RGE.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=290662 loop_end=364347 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F5-79-E0AE.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=290692 loop_end=363996 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F5-95-5EZ0.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=290762 loop_end=364387 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F5-111-6F7J.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=288862 loop_end=362549 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F5-127-SUAO.wav
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=234475 loop_end=310940 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F#5-16-GALO.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=138155 loop_end=218967 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F#5-32-D7KY.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=162464 loop_end=236415 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F#5-48-SUB6.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=80 loop_end=74509 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F#5-64-LOBV.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=290597 loop_end=362926 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F#5-79-DX7M.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=289527 loop_end=364374 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F#5-95-ZV2Q.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=284706 loop_end=359494 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F#5-111-N1IE.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=290712 loop_end=364389 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-F#5-127-FCCK.wav
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=267526 loop_end=340594 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G5-16-7T39.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=282783 loop_end=362835 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G5-32-6B0P.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=146586 loop_end=220282 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G5-48-03YC.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=20 loop_end=73431 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G5-64-D9RU.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=288870 loop_end=362591 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G5-79-SDNF.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=290734 loop_end=363887 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G5-95-76XY.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=290364 loop_end=364394 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G5-111-5QSK.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=290684 loop_end=364200 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G5-127-JQ3L.wav
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=273277 loop_end=356369 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G#5-16-UFA9.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=122877 loop_end=359500 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G#5-32-UVJQ.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=153635 loop_end=228221 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G#5-48-FWAL.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=51 loop_end=74719 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G#5-64-OT1A.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=10910 loop_end=84966 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G#5-79-AAPM.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=60 loop_end=74678 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G#5-95-U0O6.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=285533 loop_end=359166 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G#5-111-ON88.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=282545 loop_end=355430 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-G#5-127-XDM0.wav
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=145669 loop_end=229448 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A5-16-AKLK.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=181675 loop_end=276481 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A5-32-VCW6.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=161548 loop_end=233543 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A5-48-XQMS.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=170157 loop_end=243935 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A5-64-FQC1.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=163673 loop_end=237527 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A5-79-7NO9.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=288718 loop_end=362973 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A5-95-2XKX.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=288992 loop_end=362570 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A5-111-K9YA.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=290742 loop_end=364271 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A5-127-GLD4.wav
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=200371 loop_end=363174 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A#5-16-186D.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=126801 loop_end=214903 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A#5-32-2CXC.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=197797 loop_end=271992 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A#5-48-DFG7.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=91 loop_end=72746 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A#5-64-AVYF.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=67 loop_end=74336 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A#5-79-BWKX.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=290628 loop_end=364321 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A#5-95-0BGV.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=288408 loop_end=362312 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A#5-111-ZE79.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=290705 loop_end=364347 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-A#5-127-WZNV.wav
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=204160 loop_end=311508 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-B5-16-UHMJ.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=114107 loop_end=193529 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-B5-32-9WO2.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=157130 loop_end=230677 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-B5-48-MC7N.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=160514 loop_end=234064 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-B5-64-AYRW.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=166709 loop_end=239000 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-B5-79-BNRH.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=290654 loop_end=364001 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-B5-95-LVNN.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=287934 loop_end=361171 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-B5-111-Y5MS.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=290682 loop_end=364478 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-B5-127-5QEC.wav
+<group>lokey=96 hikey=127 pitch_keycenter=96 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=193496 loop_end=328288 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C6-16-UZ64.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=129213 loop_end=203711 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C6-32-F2ML.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=185894 loop_end=259371 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C6-48-3PRI.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=982 loop_end=73230 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C6-64-4WX5.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=289043 loop_end=363452 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C6-79-59IG.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=288555 loop_end=362474 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C6-95-NVMY.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=287955 loop_end=361937 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C6-111-UAGU.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=290702 loop_end=363436 sample=../Audio/Triangles/sys101 No Res Triangle/(20161025 181538)/sys-C6-127-4NV0.wav

@@ -1,0 +1,259 @@
+// this file was generated from filterWT.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=4 hikey=121 pitch_keycenter=36 pitch_keytrack=1
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 tune=39 offset=440 end=33602 loop_mode=loop_sustain loop_start=644 loop_end=1294 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-CXJM.wav
+	<region> lovel=001 hivel=007 amp_velcurve_007=1 tune=39 offset=377 loop_mode=loop_sustain loop_start=596 loop_end=1244 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-VTX4.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 tune=39 offset=388 end=30693 loop_mode=loop_sustain loop_start=596 loop_end=1245 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-T7RL.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 tune=39 offset=332 end=30848 loop_mode=loop_sustain loop_start=516 loop_end=1166 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-0F57.wav
+	<region> lovel=048 hivel=055 amp_velcurve_055=1 tune=39 offset=336 end=30841 loop_mode=loop_sustain loop_start=552 loop_end=1201 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-MEVH.wav
+	<region> lovel=016 hivel=023 amp_velcurve_023=1 tune=39 offset=296 end=31702 loop_mode=loop_sustain loop_start=411 loop_end=1058 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-G4T7.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 tune=39 offset=237 end=32363 loop_mode=loop_sustain loop_start=401 loop_end=1049 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-0E5E.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 tune=39 offset=376 loop_mode=loop_sustain loop_start=487 loop_end=1135 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-C5KE.wav
+	<region> lovel=016 hivel=023 amp_velcurve_023=1 tune=39 offset=312 loop_mode=loop_sustain loop_start=495 loop_end=1145 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-CYJV.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 tune=39 offset=335 end=29647 loop_mode=loop_sustain loop_start=415 loop_end=1389 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-V3MI.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 tune=39 offset=340 end=32757 loop_mode=loop_sustain loop_start=531 loop_end=1179 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-AF5A.wav
+	<region> lovel=024 hivel=031 amp_velcurve_031=1 tune=39 offset=413 end=29801 loop_mode=loop_sustain loop_start=657 loop_end=1306 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-20D1.wav
+	<region> lovel=032 hivel=039 amp_velcurve_039=1 tune=39 offset=211 end=31866 loop_mode=loop_sustain loop_start=370 loop_end=1021 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-H25K.wav
+	<region> lovel=032 hivel=039 amp_velcurve_039=1 tune=39 offset=256 end=31429 loop_mode=loop_sustain loop_start=510 loop_end=1158 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-1LKE.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 tune=39 offset=240 end=30770 loop_mode=loop_sustain loop_start=424 loop_end=1074 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-LPQW.wav
+	<region> lovel=001 hivel=007 amp_velcurve_007=1 tune=39 offset=393 end=38499 loop_mode=loop_sustain loop_start=579 loop_end=1222 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-VM3O.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 tune=39 offset=254 loop_mode=loop_sustain loop_start=378 loop_end=1027 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-4G03.wav
+	<region> lovel=032 hivel=039 amp_velcurve_039=1 tune=39 offset=394 end=29286 loop_mode=loop_sustain loop_start=633 loop_end=1282 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-FGB4.wav
+	<region> lovel=040 hivel=047 amp_velcurve_047=1 tune=39 offset=417 end=31922 loop_mode=loop_sustain loop_start=622 loop_end=1271 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-C989.wav
+	<region> lovel=001 hivel=007 amp_velcurve_007=1 tune=39 offset=278 end=38571 loop_mode=loop_sustain loop_start=462 loop_end=1111 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-G8JI.wav
+	<region> lovel=040 hivel=047 amp_velcurve_047=1 tune=39 offset=388 end=30786 loop_mode=loop_sustain loop_start=642 loop_end=1292 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-017C.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 tune=39 offset=263 loop_mode=loop_sustain loop_start=477 loop_end=1126 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-QUVG.wav
+	<region> lovel=064 hivel=071 amp_velcurve_071=1 tune=39 offset=392 end=33663 loop_mode=loop_sustain loop_start=646 loop_end=1296 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-ZFU4.wav
+	<region> lovel=008 hivel=015 amp_velcurve_015=1 tune=39 offset=225 end=24096 loop_mode=loop_sustain loop_start=350 loop_end=999 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-XG1T.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 tune=39 offset=12 end=32335 loop_mode=loop_sustain loop_start=266 loop_end=915 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-BMGH.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 tune=39 offset=190 end=33275 loop_mode=loop_sustain loop_start=407 loop_end=1056 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-ABLZ.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 tune=39 offset=285 end=31891 loop_mode=loop_sustain loop_start=506 loop_end=1155 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-VNZA.wav
+	<region> lovel=048 hivel=055 amp_velcurve_055=1 tune=39 offset=223 loop_mode=loop_sustain loop_start=378 loop_end=1026 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-SHCD.wav
+	<region> lovel=001 hivel=007 amp_velcurve_007=1 tune=39 offset=252 end=38781 loop_mode=loop_sustain loop_start=457 loop_end=1108 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-LVVZ.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 tune=39 offset=420 loop_mode=loop_sustain loop_start=554 loop_end=1201 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-O4QJ.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 tune=39 offset=366 end=31869 loop_mode=loop_sustain loop_start=491 loop_end=1140 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-NGE0.wav
+	<region> lovel=048 hivel=055 amp_velcurve_055=1 tune=39 offset=361 end=28335 loop_mode=loop_sustain loop_start=615 loop_end=1264 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-W9MK.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 tune=39 offset=299 end=33659 loop_mode=loop_sustain loop_start=553 loop_end=1202 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-BS7G.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 tune=39 offset=441 end=31839 loop_mode=loop_sustain loop_start=685 loop_end=1334 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-9DS0.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 tune=39 offset=250 end=31883 loop_mode=loop_sustain loop_start=434 loop_end=1083 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-MQGW.wav
+	<region> lovel=064 hivel=071 amp_velcurve_071=1 tune=39 offset=533 end=31507 loop_mode=loop_sustain loop_start=676 loop_end=1325 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-TW68.wav
+	<region> lovel=001 hivel=007 amp_velcurve_007=1 tune=39 offset=404 loop_mode=loop_sustain loop_start=512 loop_end=1162 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-UMPU.wav
+	<region> lovel=056 hivel=063 amp_velcurve_063=1 tune=39 offset=249 end=30675 loop_mode=loop_sustain loop_start=374 loop_end=1024 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-887O.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 tune=39 offset=237 loop_mode=loop_sustain loop_start=412 loop_end=1061 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-0R2K.wav
+	<region> lovel=008 hivel=015 amp_velcurve_015=1 tune=39 offset=334 end=29576 loop_mode=loop_sustain loop_start=511 loop_end=1160 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-5J3U.wav
+	<region> lovel=001 hivel=007 amp_velcurve_007=1 tune=39 offset=224 end=37489 loop_mode=loop_sustain loop_start=359 loop_end=1006 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-2HNF.wav
+	<region> lovel=016 hivel=023 amp_velcurve_023=1 tune=39 offset=347 end=31742 loop_mode=loop_sustain loop_start=466 loop_end=1116 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-QZCP.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 tune=39 offset=145 loop_mode=loop_sustain loop_start=382 loop_end=1033 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-0XMC.wav
+	<region> lovel=016 hivel=023 amp_velcurve_023=1 tune=39 offset=237 end=30196 loop_mode=loop_sustain loop_start=454 loop_end=1102 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-SF77.wav
+	<region> lovel=016 hivel=023 amp_velcurve_023=1 tune=39 offset=206 loop_mode=loop_sustain loop_start=321 loop_end=971 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-BO0S.wav
+	<region> lovel=032 hivel=039 amp_velcurve_039=1 tune=39 offset=458 end=32602 loop_mode=loop_sustain loop_start=712 loop_end=1362 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-OT4Z.wav
+	<region> lovel=024 hivel=031 amp_velcurve_031=1 tune=39 offset=387 end=30999 loop_mode=loop_sustain loop_start=627 loop_end=1276 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-H483.wav
+	<region> lovel=024 hivel=031 amp_velcurve_031=1 tune=39 offset=149 loop_mode=loop_sustain loop_start=312 loop_end=961 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-BT5Z.wav
+	<region> lovel=024 hivel=031 amp_velcurve_031=1 tune=39 offset=454 end=31943 loop_mode=loop_sustain loop_start=607 loop_end=1256 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-Z5YV.wav
+	<region> lovel=048 hivel=055 amp_velcurve_055=1 tune=39 offset=404 end=30766 loop_mode=loop_sustain loop_start=532 loop_end=1180 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-BM2G.wav
+	<region> lovel=008 hivel=015 amp_velcurve_015=1 tune=39 offset=188 loop_mode=loop_sustain loop_start=362 loop_end=1010 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-81AG.wav
+	<region> lovel=032 hivel=039 amp_velcurve_039=1 tune=39 offset=299 end=32508 loop_mode=loop_sustain loop_start=553 loop_end=1202 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-XWIO.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 tune=39 offset=272 end=30946 loop_mode=loop_sustain loop_start=505 loop_end=1156 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-K98O.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 tune=39 offset=371 loop_mode=loop_sustain loop_start=563 loop_end=1213 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-9340.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 tune=39 offset=484 end=30463 loop_mode=loop_sustain loop_start=634 loop_end=1283 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-AXY7.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 tune=39 offset=369 end=32632 loop_mode=loop_sustain loop_start=484 loop_end=1132 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-HTVZ.wav
+	<region> lovel=056 hivel=063 amp_velcurve_063=1 tune=39 offset=145 loop_mode=loop_sustain loop_start=260 loop_end=908 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-AV8L.wav
+	<region> lovel=008 hivel=015 amp_velcurve_015=1 tune=39 offset=282 loop_mode=loop_sustain loop_start=535 loop_end=1185 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-QF5R.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 tune=39 offset=399 end=32361 loop_mode=loop_sustain loop_start=543 loop_end=1191 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-XAO4.wav
+	<region> lovel=008 hivel=015 amp_velcurve_015=1 tune=39 offset=190 end=22746 loop_mode=loop_sustain loop_start=433 loop_end=1082 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-VDHB.wav
+	<region> lovel=040 hivel=047 amp_velcurve_047=1 tune=39 offset=307 end=30953 loop_mode=loop_sustain loop_start=422 loop_end=1071 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-LKQ4.wav
+	<region> lovel=040 hivel=047 amp_velcurve_047=1 tune=39 offset=413 end=28185 loop_mode=loop_sustain loop_start=529 loop_end=1178 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-4KFJ.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 tune=39 offset=90 end=31871 loop_mode=loop_sustain loop_start=287 loop_end=937 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-B1OS.wav
+	<region> lovel=008 hivel=015 amp_velcurve_015=1 tune=39 offset=297 end=25190 loop_mode=loop_sustain loop_start=418 loop_end=1068 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-LDWV.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 tune=39 offset=217 end=30353 loop_mode=loop_sustain loop_start=457 loop_end=1106 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-T7NY.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 tune=39 offset=377 loop_mode=loop_sustain loop_start=631 loop_end=1281 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-67K4.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 tune=39 offset=285 loop_mode=loop_sustain loop_start=509 loop_end=1157 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-EK7W.wav
+	<region> lovel=048 hivel=055 amp_velcurve_055=1 tune=39 offset=200 loop_mode=loop_sustain loop_start=318 loop_end=966 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-WEF4.wav
+	<region> lovel=064 hivel=071 amp_velcurve_071=1 tune=39 offset=305 end=31743 loop_mode=loop_sustain loop_start=559 loop_end=1209 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-CIXF.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 tune=39 offset=407 end=31221 loop_mode=loop_sustain loop_start=661 loop_end=1311 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-J62J.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 tune=39 offset=375 loop_mode=loop_sustain loop_start=577 loop_end=1227 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-L5YC.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 tune=39 offset=279 end=30429 loop_mode=loop_sustain loop_start=455 loop_end=1104 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-PSXH.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 tune=39 offset=278 end=30200 loop_mode=loop_sustain loop_start=509 loop_end=1158 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-Y3LV.wav
+	<region> lovel=032 hivel=039 amp_velcurve_039=1 tune=39 offset=218 end=30964 loop_mode=loop_sustain loop_start=388 loop_end=1038 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-F6UM.wav
+	<region> lovel=001 hivel=007 amp_velcurve_007=1 tune=39 offset=348 end=39022 loop_mode=loop_sustain loop_start=508 loop_end=1156 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-I0VG.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 tune=39 offset=233 end=33368 loop_mode=loop_sustain loop_start=401 loop_end=1049 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-E48E.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 tune=39 offset=161 end=31104 loop_mode=loop_sustain loop_start=374 loop_end=1023 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-B53S.wav
+	<region> lovel=001 hivel=007 amp_velcurve_007=1 tune=39 offset=435 loop_mode=loop_sustain loop_start=689 loop_end=1337 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-QBGZ.wav
+	<region> lovel=024 hivel=031 amp_velcurve_031=1 tune=39 offset=180 end=32878 loop_mode=loop_sustain loop_start=347 loop_end=995 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-1BPE.wav
+	<region> lovel=024 hivel=031 amp_velcurve_031=1 tune=39 offset=329 end=30201 loop_mode=loop_sustain loop_start=437 loop_end=1087 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-ZMU4.wav
+	<region> lovel=064 hivel=071 amp_velcurve_071=1 tune=39 offset=401 end=30549 loop_mode=loop_sustain loop_start=553 loop_end=1202 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-QBQA.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 tune=39 offset=165 end=31204 loop_mode=loop_sustain loop_start=390 loop_end=1039 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-BHD7.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 tune=39 offset=261 loop_mode=loop_sustain loop_start=515 loop_end=1163 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-8CS7.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 tune=39 offset=470 end=31376 loop_mode=loop_sustain loop_start=670 loop_end=1317 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-EM8Z.wav
+	<region> lovel=001 hivel=007 amp_velcurve_007=1 tune=39 offset=268 end=38104 loop_mode=loop_sustain loop_start=473 loop_end=1383 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-AE4R.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 tune=39 offset=202 end=32759 loop_mode=loop_sustain loop_start=451 loop_end=1100 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-C3DB.wav
+	<region> lovel=024 hivel=031 amp_velcurve_031=1 tune=39 offset=294 end=31716 loop_mode=loop_sustain loop_start=470 loop_end=1119 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-ZPRF.wav
+	<region> lovel=048 hivel=055 amp_velcurve_055=1 tune=39 offset=281 end=33320 loop_mode=loop_sustain loop_start=483 loop_end=1132 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-7HO6.wav
+	<region> lovel=008 hivel=015 amp_velcurve_015=1 tune=39 offset=206 loop_mode=loop_sustain loop_start=384 loop_end=1033 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-4ORW.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 tune=39 offset=186 end=32509 loop_mode=loop_sustain loop_start=325 loop_end=974 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-63UH.wav
+	<region> lovel=032 hivel=039 amp_velcurve_039=1 tune=39 offset=342 end=30328 loop_mode=loop_sustain loop_start=492 loop_end=1140 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-V71G.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 tune=39 offset=228 end=32723 loop_mode=loop_sustain loop_start=482 loop_end=1134 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-BG6D.wav
+	<region> lovel=056 hivel=063 amp_velcurve_063=1 tune=39 offset=256 end=32097 loop_mode=loop_sustain loop_start=510 loop_end=1160 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-0AHG.wav
+	<region> lovel=016 hivel=023 amp_velcurve_023=1 tune=39 offset=275 end=29556 loop_mode=loop_sustain loop_start=479 loop_end=1128 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-4SD8.wav
+	<region> lovel=040 hivel=047 amp_velcurve_047=1 tune=39 offset=246 end=31487 loop_mode=loop_sustain loop_start=470 loop_end=1120 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-VXX8.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 tune=39 offset=152 loop_mode=loop_sustain loop_start=274 loop_end=922 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-UW16.wav
+	<region> lovel=024 hivel=031 amp_velcurve_031=1 tune=39 offset=339 end=33237 loop_mode=loop_sustain loop_start=528 loop_end=1178 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-VM08.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 tune=39 offset=226 end=31122 loop_mode=loop_sustain loop_start=407 loop_end=1056 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-F336.wav
+	<region> lovel=048 hivel=055 amp_velcurve_055=1 tune=39 offset=433 loop_mode=loop_sustain loop_start=548 loop_end=1197 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-J01K.wav
+	<region> lovel=048 hivel=055 amp_velcurve_055=1 tune=39 offset=222 end=31321 loop_mode=loop_sustain loop_start=385 loop_end=1035 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-YCB0.wav
+	<region> lovel=040 hivel=047 amp_velcurve_047=1 tune=39 offset=406 end=31575 loop_mode=loop_sustain loop_start=648 loop_end=1296 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-V6XM.wav
+	<region> lovel=032 hivel=039 amp_velcurve_039=1 tune=39 offset=257 end=30175 loop_mode=loop_sustain loop_start=442 loop_end=1091 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-3678.wav
+	<region> lovel=016 hivel=023 amp_velcurve_023=1 tune=39 offset=291 end=30452 loop_mode=loop_sustain loop_start=545 loop_end=1195 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-PZ2H.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 tune=39 offset=216 end=31992 loop_mode=loop_sustain loop_start=357 loop_end=1007 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-T9G9.wav
+	<region> lovel=048 hivel=055 amp_velcurve_055=1 tune=39 offset=463 end=30923 loop_mode=loop_sustain loop_start=707 loop_end=1354 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-CR8T.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 tune=39 offset=327 end=30408 loop_mode=loop_sustain loop_start=538 loop_end=1186 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-RESO.wav
+	<region> lovel=064 hivel=071 amp_velcurve_071=1 tune=39 offset=279 end=31417 loop_mode=loop_sustain loop_start=533 loop_end=1182 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-8W49.wav
+	<region> lovel=016 hivel=023 amp_velcurve_023=1 tune=39 offset=373 end=28014 loop_mode=loop_sustain loop_start=587 loop_end=1237 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-SORW.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 tune=39 offset=74 end=32382 loop_mode=loop_sustain loop_start=228 loop_end=881 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-Q24W.wav
+	<region> lovel=048 hivel=055 amp_velcurve_055=1 tune=39 offset=137 end=31716 loop_mode=loop_sustain loop_start=390 loop_end=1039 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-WGZW.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 tune=39 offset=335 end=31316 loop_mode=loop_sustain loop_start=454 loop_end=1103 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-OZLI.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 tune=39 offset=176 end=31236 loop_mode=loop_sustain loop_start=291 loop_end=939 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-E9TP.wav
+	<region> lovel=032 hivel=039 amp_velcurve_039=1 tune=39 offset=309 loop_mode=loop_sustain loop_start=456 loop_end=1104 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-VG4V.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 tune=39 offset=289 end=28772 loop_mode=loop_sustain loop_start=412 loop_end=1060 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-UNLI.wav
+	<region> lovel=024 hivel=031 amp_velcurve_031=1 tune=39 offset=308 end=31929 loop_mode=loop_sustain loop_start=562 loop_end=1212 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-4QL0.wav
+	<region> lovel=056 hivel=063 amp_velcurve_063=1 tune=39 offset=213 end=30716 loop_mode=loop_sustain loop_start=328 loop_end=977 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-J0VQ.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 tune=39 offset=382 end=29281 loop_mode=loop_sustain loop_start=502 loop_end=1151 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-K2UM.wav
+	<region> lovel=056 hivel=063 amp_velcurve_063=1 tune=39 offset=386 end=31426 loop_mode=loop_sustain loop_start=501 loop_end=1148 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-Z1TC.wav
+	<region> lovel=040 hivel=047 amp_velcurve_047=1 tune=39 offset=329 end=33011 loop_mode=loop_sustain loop_start=452 loop_end=1101 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-SQ4B.wav
+	<region> lovel=008 hivel=015 amp_velcurve_015=1 tune=39 offset=264 loop_mode=loop_sustain loop_start=437 loop_end=1086 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-EBXH.wav
+	<region> lovel=024 hivel=031 amp_velcurve_031=1 tune=39 offset=405 end=33155 loop_mode=loop_sustain loop_start=568 loop_end=1216 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-U1SQ.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 tune=39 offset=281 end=31039 loop_mode=loop_sustain loop_start=404 loop_end=1053 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-G8LA.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 tune=39 offset=227 end=32255 loop_mode=loop_sustain loop_start=338 loop_end=987 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-7E0R.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 tune=39 offset=281 loop_mode=loop_sustain loop_start=535 loop_end=1184 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-4PO2.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 tune=39 offset=400 end=31460 loop_mode=loop_sustain loop_start=654 loop_end=1302 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-WYIB.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 tune=39 offset=185 end=33064 loop_mode=loop_sustain loop_start=408 loop_end=1056 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-VBEL.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 tune=39 offset=332 loop_mode=loop_sustain loop_start=447 loop_end=1097 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-SKJA.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 tune=39 offset=204 end=32193 loop_mode=loop_sustain loop_start=334 loop_end=983 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-K4Z5.wav
+	<region> lovel=056 hivel=063 amp_velcurve_063=1 tune=39 offset=208 end=32637 loop_mode=loop_sustain loop_start=361 loop_end=1010 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-C6VG.wav
+	<region> lovel=008 hivel=015 amp_velcurve_015=1 tune=39 offset=431 end=21463 loop_mode=loop_sustain loop_start=683 loop_end=1333 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-TKXX.wav
+	<region> lovel=008 hivel=015 amp_velcurve_015=1 tune=39 offset=361 end=15188 loop_mode=loop_sustain loop_start=476 loop_end=1122 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-UXOI.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 tune=39 offset=305 end=31302 loop_mode=loop_sustain loop_start=522 loop_end=1171 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-HEOM.wav
+	<region> lovel=056 hivel=063 amp_velcurve_063=1 tune=39 offset=231 end=31173 loop_mode=loop_sustain loop_start=424 loop_end=1073 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-K8U0.wav
+	<region> lovel=024 hivel=031 amp_velcurve_031=1 tune=39 offset=300 end=31201 loop_mode=loop_sustain loop_start=479 loop_end=1125 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-P78N.wav
+	<region> lovel=056 hivel=063 amp_velcurve_063=1 tune=39 offset=230 end=29946 loop_mode=loop_sustain loop_start=426 loop_end=1075 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-DZH9.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 tune=39 offset=413 end=31099 loop_mode=loop_sustain loop_start=566 loop_end=1215 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-BWN1.wav
+	<region> lovel=064 hivel=071 amp_velcurve_071=1 tune=39 offset=361 end=31319 loop_mode=loop_sustain loop_start=566 loop_end=1217 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-CI8T.wav
+	<region> lovel=016 hivel=023 amp_velcurve_023=1 tune=39 offset=358 end=30818 loop_mode=loop_sustain loop_start=551 loop_end=1201 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-PZ3R.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 tune=39 offset=245 end=31155 loop_mode=loop_sustain loop_start=360 loop_end=1009 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-OPGN.wav
+	<region> lovel=032 hivel=039 amp_velcurve_039=1 tune=39 offset=372 end=30561 loop_mode=loop_sustain loop_start=626 loop_end=1275 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-YIJ5.wav
+	<region> lovel=064 hivel=071 amp_velcurve_071=1 tune=39 offset=290 end=29299 loop_mode=loop_sustain loop_start=428 loop_end=1077 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-0U8E.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 tune=39 offset=230 loop_mode=loop_sustain loop_start=339 loop_end=988 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-YZCU.wav
+	<region> lovel=016 hivel=023 amp_velcurve_023=1 tune=39 offset=247 end=28407 loop_mode=loop_sustain loop_start=501 loop_end=1152 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-8VI3.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 tune=39 offset=232 end=32624 loop_mode=loop_sustain loop_start=347 loop_end=994 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-OLFR.wav
+	<region> lovel=016 hivel=023 amp_velcurve_023=1 tune=39 offset=150 loop_mode=loop_sustain loop_start=380 loop_end=1031 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-PS63.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 tune=39 offset=167 end=31452 loop_mode=loop_sustain loop_start=421 loop_end=1070 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-U2LS.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 tune=39 offset=154 end=32697 loop_mode=loop_sustain loop_start=324 loop_end=972 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-1522.wav
+	<region> lovel=040 hivel=047 amp_velcurve_047=1 tune=39 offset=393 end=29813 loop_mode=loop_sustain loop_start=557 loop_end=1207 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-I8FJ.wav
+	<region> lovel=001 hivel=007 amp_velcurve_007=1 tune=39 offset=328 end=38750 loop_mode=loop_sustain loop_start=539 loop_end=1187 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-Y918.wav
+	<region> lovel=064 hivel=071 amp_velcurve_071=1 tune=39 offset=411 end=33404 loop_mode=loop_sustain loop_start=526 loop_end=1175 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-E9U7.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 tune=39 offset=409 end=32392 loop_mode=loop_sustain loop_start=525 loop_end=1174 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-HQXV.wav
+	<region> lovel=040 hivel=047 amp_velcurve_047=1 tune=39 offset=270 end=31456 loop_mode=loop_sustain loop_start=499 loop_end=1147 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-TGN5.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 tune=39 offset=308 end=33226 loop_mode=loop_sustain loop_start=541 loop_end=1191 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-8RCN.wav
+	<region> lovel=001 hivel=007 amp_velcurve_007=1 tune=39 offset=284 end=37579 loop_mode=loop_sustain loop_start=391 loop_end=1042 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-7NTV.wav
+	<region> lovel=056 hivel=063 amp_velcurve_063=1 tune=39 offset=227 end=30713 loop_mode=loop_sustain loop_start=365 loop_end=1016 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-HO2O.wav
+	<region> lovel=024 hivel=031 amp_velcurve_031=1 tune=39 offset=287 loop_mode=loop_sustain loop_start=453 loop_end=1102 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-5B52.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 tune=39 offset=425 end=33121 loop_mode=loop_sustain loop_start=540 loop_end=1189 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-CDW3.wav
+	<region> lovel=016 hivel=023 amp_velcurve_023=1 tune=39 offset=411 end=28890 loop_mode=loop_sustain loop_start=566 loop_end=1215 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-CZ6F.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 tune=39 offset=293 end=30518 loop_mode=loop_sustain loop_start=547 loop_end=1195 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-WJFD.wav
+	<region> lovel=056 hivel=063 amp_velcurve_063=1 tune=39 offset=265 loop_mode=loop_sustain loop_start=509 loop_end=1159 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-QYF8.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 tune=39 offset=426 end=32605 loop_mode=loop_sustain loop_start=574 loop_end=1220 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-5IYB.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 tune=39 offset=350 loop_mode=loop_sustain loop_start=598 loop_end=1247 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-7HV1.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 tune=39 offset=248 loop_mode=loop_sustain loop_start=490 loop_end=1138 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-XCAL.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 tune=39 offset=178 loop_mode=loop_sustain loop_start=403 loop_end=1052 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-NR31.wav
+	<region> lovel=032 hivel=039 amp_velcurve_039=1 tune=39 offset=414 end=29694 loop_mode=loop_sustain loop_start=622 loop_end=1272 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-LF4D.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 tune=39 offset=141 loop_mode=loop_sustain loop_start=373 loop_end=1022 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-A70S.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 tune=39 offset=136 loop_mode=loop_sustain loop_start=302 loop_end=953 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-JYXD.wav
+	<region> lovel=064 hivel=071 amp_velcurve_071=1 tune=39 offset=203 end=32414 loop_mode=loop_sustain loop_start=360 loop_end=1009 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-5DPP.wav
+	<region> lovel=048 hivel=055 amp_velcurve_055=1 tune=39 offset=319 loop_mode=loop_sustain loop_start=570 loop_end=1218 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-MS7W.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 tune=39 offset=253 end=31295 loop_mode=loop_sustain loop_start=507 loop_end=1158 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-4EFX.wav
+	<region> lovel=056 hivel=063 amp_velcurve_063=1 tune=39 offset=399 loop_mode=loop_sustain loop_start=569 loop_end=1217 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-OJ6Y.wav
+	<region> lovel=040 hivel=047 amp_velcurve_047=1 tune=39 offset=225 loop_mode=loop_sustain loop_start=348 loop_end=997 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-YUHH.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 tune=39 offset=236 end=32675 loop_mode=loop_sustain loop_start=473 loop_end=1123 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-8VZY.wav
+	<region> lovel=001 hivel=007 amp_velcurve_007=1 tune=39 offset=391 end=36719 loop_mode=loop_sustain loop_start=645 loop_end=1292 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-99ED.wav
+	<region> lovel=032 hivel=039 amp_velcurve_039=1 tune=39 offset=239 end=30078 loop_mode=loop_sustain loop_start=374 loop_end=1024 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-O4M0.wav
+	<region> lovel=056 hivel=063 amp_velcurve_063=1 tune=39 offset=338 end=31185 loop_mode=loop_sustain loop_start=504 loop_end=1156 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-6QC3.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 tune=39 offset=373 end=31943 loop_mode=loop_sustain loop_start=627 loop_end=1274 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-W9MZ.wav
+	<region> lovel=001 hivel=007 amp_velcurve_007=1 tune=39 offset=391 end=38004 loop_mode=loop_sustain loop_start=645 loop_end=1295 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-9DL3.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 tune=39 offset=345 end=33528 loop_mode=loop_sustain loop_start=520 loop_end=1166 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-8RZQ.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 tune=39 offset=280 loop_mode=loop_sustain loop_start=496 loop_end=1146 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-YPS7.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 tune=39 offset=233 loop_mode=loop_sustain loop_start=430 loop_end=1078 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-4IRC.wav
+	<region> lovel=040 hivel=047 amp_velcurve_047=1 tune=39 offset=485 end=30195 loop_mode=loop_sustain loop_start=592 loop_end=1243 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-M4T3.wav
+	<region> lovel=016 hivel=023 amp_velcurve_023=1 tune=39 offset=181 end=30423 loop_mode=loop_sustain loop_start=318 loop_end=966 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-U5JR.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 tune=39 offset=363 end=31996 loop_mode=loop_sustain loop_start=471 loop_end=1121 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-55GW.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 tune=39 offset=292 end=32485 loop_mode=loop_sustain loop_start=529 loop_end=1179 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-WUZD.wav
+	<region> lovel=064 hivel=071 amp_velcurve_071=1 tune=39 offset=356 end=31022 loop_mode=loop_sustain loop_start=552 loop_end=1202 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-PX7K.wav
+	<region> lovel=032 hivel=039 amp_velcurve_039=1 tune=39 offset=288 loop_mode=loop_sustain loop_start=477 loop_end=1126 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-FINR.wav
+	<region> lovel=056 hivel=063 amp_velcurve_063=1 tune=39 offset=424 end=30990 loop_mode=loop_sustain loop_start=539 loop_end=1190 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-DFZG.wav
+	<region> lovel=048 hivel=055 amp_velcurve_055=1 tune=39 offset=365 end=33104 loop_mode=loop_sustain loop_start=498 loop_end=1147 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-BBOF.wav
+	<region> lovel=048 hivel=055 amp_velcurve_055=1 tune=39 offset=179 end=31801 loop_mode=loop_sustain loop_start=423 loop_end=1073 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-R23V.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 tune=39 offset=323 end=30910 loop_mode=loop_sustain loop_start=577 loop_end=1226 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-VHWM.wav
+	<region> lovel=001 hivel=007 amp_velcurve_007=1 tune=39 offset=290 end=38947 loop_mode=loop_sustain loop_start=544 loop_end=1196 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-7CFT.wav
+	<region> lovel=024 hivel=031 amp_velcurve_031=1 tune=39 offset=435 end=31328 loop_mode=loop_sustain loop_start=603 loop_end=1254 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-3B44.wav
+	<region> lovel=056 hivel=063 amp_velcurve_063=1 tune=39 offset=195 end=31472 loop_mode=loop_sustain loop_start=311 loop_end=960 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-CSCL.wav
+	<region> lovel=064 hivel=071 amp_velcurve_071=1 tune=39 offset=198 end=30310 loop_mode=loop_sustain loop_start=381 loop_end=1031 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-GYVF.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 tune=39 offset=150 loop_mode=loop_sustain loop_start=334 loop_end=984 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-ILWJ.wav
+	<region> lovel=040 hivel=047 amp_velcurve_047=1 tune=39 offset=412 end=32469 loop_mode=loop_sustain loop_start=666 loop_end=1314 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-01SH.wav
+	<region> lovel=008 hivel=015 amp_velcurve_015=1 tune=39 offset=342 loop_mode=loop_sustain loop_start=520 loop_end=1169 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-7Q11.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 tune=39 offset=421 loop_mode=loop_sustain loop_start=633 loop_end=1283 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-WE0S.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 tune=39 offset=435 end=32122 loop_mode=loop_sustain loop_start=571 loop_end=1219 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-02YQ.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 tune=39 offset=273 loop_mode=loop_sustain loop_start=387 loop_end=1038 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-TA2F.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 tune=39 offset=301 end=33646 loop_mode=loop_sustain loop_start=517 loop_end=1168 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-V5RB.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 tune=39 offset=355 loop_mode=loop_sustain loop_start=471 loop_end=1117 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-0DTB.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 tune=39 offset=439 end=32441 loop_mode=loop_sustain loop_start=578 loop_end=1230 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-JYDI.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 tune=39 offset=259 end=33408 loop_mode=loop_sustain loop_start=512 loop_end=1161 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-1LKI.wav
+	<region> lovel=016 hivel=023 amp_velcurve_023=1 tune=39 offset=417 loop_mode=loop_sustain loop_start=623 loop_end=1274 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-6QB6.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 tune=39 offset=412 end=33122 loop_mode=loop_sustain loop_start=659 loop_end=1309 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-VMVV.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 tune=39 offset=194 end=31862 loop_mode=loop_sustain loop_start=423 loop_end=1072 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-388G.wav
+	<region> lovel=056 hivel=063 amp_velcurve_063=1 tune=39 offset=251 end=32623 loop_mode=loop_sustain loop_start=433 loop_end=1083 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-1HW8.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 tune=39 offset=277 end=34160 loop_mode=loop_sustain loop_start=482 loop_end=1132 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-RU6V.wav
+	<region> lovel=024 hivel=031 amp_velcurve_031=1 tune=39 offset=251 end=30932 loop_mode=loop_sustain loop_start=411 loop_end=1060 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-7J8S.wav
+	<region> lovel=008 hivel=015 amp_velcurve_015=1 tune=39 offset=343 end=26016 loop_mode=loop_sustain loop_start=512 loop_end=1162 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-F7JE.wav
+	<region> lovel=048 hivel=055 amp_velcurve_055=1 tune=39 offset=447 loop_mode=loop_sustain loop_start=562 loop_end=1213 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-7V0W.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 tune=39 offset=167 end=32508 loop_mode=loop_sustain loop_start=421 loop_end=1070 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-STXG.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 tune=39 offset=299 loop_mode=loop_sustain loop_start=451 loop_end=1099 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-LN68.wav
+	<region> lovel=040 hivel=047 amp_velcurve_047=1 tune=39 offset=360 end=30962 loop_mode=loop_sustain loop_start=506 loop_end=1155 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-HRLU.wav
+	<region> lovel=048 hivel=055 amp_velcurve_055=1 tune=39 offset=363 end=30494 loop_mode=loop_sustain loop_start=531 loop_end=1180 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-3AEM.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 tune=39 offset=368 end=31177 loop_mode=loop_sustain loop_start=519 loop_end=1168 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-XGU5.wav
+	<region> lovel=048 hivel=055 amp_velcurve_055=1 tune=39 offset=403 loop_mode=loop_sustain loop_start=651 loop_end=1298 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-IKJ0.wav
+	<region> lovel=024 hivel=031 amp_velcurve_031=1 tune=39 offset=423 end=32571 loop_mode=loop_sustain loop_start=554 loop_end=1205 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-907I.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 tune=39 offset=255 end=33124 loop_mode=loop_sustain loop_start=453 loop_end=1102 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-N5AU.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 tune=39 offset=400 end=33037 loop_mode=loop_sustain loop_start=616 loop_end=1265 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-KL3H.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 tune=39 offset=380 loop_mode=loop_sustain loop_start=599 loop_end=1248 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-BZUF.wav
+	<region> lovel=016 hivel=023 amp_velcurve_023=1 tune=39 offset=404 end=28023 loop_mode=loop_sustain loop_start=541 loop_end=1190 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-S4ST.wav
+	<region> lovel=056 hivel=063 amp_velcurve_063=1 tune=39 offset=399 end=31573 loop_mode=loop_sustain loop_start=653 loop_end=1303 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-CC3T.wav
+	<region> lovel=040 hivel=047 amp_velcurve_047=1 tune=39 offset=54 end=30967 loop_mode=loop_sustain loop_start=302 loop_end=951 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-K3OS.wav
+	<region> lovel=032 hivel=039 amp_velcurve_039=1 tune=39 offset=466 loop_mode=loop_sustain loop_start=637 loop_end=1281 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-PR1E.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 tune=39 offset=173 end=31823 loop_mode=loop_sustain loop_start=288 loop_end=938 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-HBGT.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 tune=39 offset=315 end=33373 loop_mode=loop_sustain loop_start=455 loop_end=1104 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-R3D5.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 tune=39 offset=428 loop_mode=loop_sustain loop_start=662 loop_end=1312 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-OXIH.wav
+	<region> lovel=008 hivel=015 amp_velcurve_015=1 tune=39 offset=371 loop_mode=loop_sustain loop_start=479 loop_end=1129 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-GLFD.wav
+	<region> lovel=008 hivel=015 amp_velcurve_015=1 tune=39 offset=152 end=22604 loop_mode=loop_sustain loop_start=285 loop_end=934 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-TUI0.wav
+	<region> lovel=032 hivel=039 amp_velcurve_039=1 tune=39 offset=361 end=32122 loop_mode=loop_sustain loop_start=564 loop_end=1214 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-FOQ1.wav
+	<region> lovel=064 hivel=071 amp_velcurve_071=1 tune=39 offset=208 end=30950 loop_mode=loop_sustain loop_start=321 loop_end=970 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-Y2EF.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 tune=39 offset=334 end=31948 loop_mode=loop_sustain loop_start=499 loop_end=1151 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-YETF.wav
+	<region> lovel=064 hivel=071 amp_velcurve_071=1 tune=39 offset=289 end=32639 loop_mode=loop_sustain loop_start=464 loop_end=1113 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-0E9K.wav
+	<region> lovel=032 hivel=039 amp_velcurve_039=1 tune=39 offset=379 end=31553 loop_mode=loop_sustain loop_start=524 loop_end=1172 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-2YS6.wav
+	<region> lovel=008 hivel=015 amp_velcurve_015=1 tune=39 offset=179 loop_mode=loop_sustain loop_start=376 loop_end=1026 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-B7RJ.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 tune=39 offset=255 end=29682 loop_mode=loop_sustain loop_start=434 loop_end=1082 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-CS2I.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 tune=39 offset=185 loop_mode=loop_sustain loop_start=379 loop_end=1028 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-5N11.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 tune=39 offset=253 end=30870 loop_mode=loop_sustain loop_start=385 loop_end=1035 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-466W.wav
+	<region> lovel=064 hivel=071 amp_velcurve_071=1 tune=39 offset=451 end=31892 loop_mode=loop_sustain loop_start=635 loop_end=1285 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-6584.wav
+	<region> lovel=024 hivel=031 amp_velcurve_031=1 tune=39 offset=319 end=31786 loop_mode=loop_sustain loop_start=573 loop_end=1224 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-5OSE.wav
+	<region> lovel=008 hivel=015 amp_velcurve_015=1 tune=39 offset=257 end=22768 loop_mode=loop_sustain loop_start=491 loop_end=1141 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-D5L2.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 tune=39 offset=320 end=31464 loop_mode=loop_sustain loop_start=509 loop_end=1158 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-SL3X.wav
+	<region> lovel=001 hivel=007 amp_velcurve_007=1 tune=39 offset=263 loop_mode=loop_sustain loop_start=442 loop_end=1089 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-5KK0.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 tune=39 offset=332 end=31123 loop_mode=loop_sustain loop_start=557 loop_end=1206 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-93YM.wav
+	<region> lovel=040 hivel=047 amp_velcurve_047=1 tune=39 offset=192 loop_mode=loop_sustain loop_start=353 loop_end=1003 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-MICN.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 tune=39 offset=233 loop_mode=loop_sustain loop_start=359 loop_end=1005 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-FO87.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 tune=39 offset=285 end=32247 loop_mode=loop_sustain loop_start=419 loop_end=1069 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-UNAE.wav
+	<region> lovel=064 hivel=071 amp_velcurve_071=1 tune=39 offset=250 end=31382 loop_mode=loop_sustain loop_start=484 loop_end=1134 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-DWS3.wav
+	<region> lovel=001 hivel=007 amp_velcurve_007=1 tune=39 offset=286 end=37824 loop_mode=loop_sustain loop_start=415 loop_end=1068 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-UBVQ.wav
+	<region> lovel=016 hivel=023 amp_velcurve_023=1 tune=39 offset=409 end=27392 loop_mode=loop_sustain loop_start=663 loop_end=1310 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-N7G5.wav
+	<region> lovel=064 hivel=071 amp_velcurve_071=1 tune=39 offset=427 end=30839 loop_mode=loop_sustain loop_start=542 loop_end=1191 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-UJ7R.wav
+	<region> lovel=040 hivel=047 amp_velcurve_047=1 tune=39 offset=341 end=30848 loop_mode=loop_sustain loop_start=495 loop_end=1144 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-3Y8L.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 tune=39 offset=357 end=32022 loop_mode=loop_sustain loop_start=491 loop_end=1142 sample=../Audio/Bonus Audio/filterWT/fwt-36-127-Z92F.wav

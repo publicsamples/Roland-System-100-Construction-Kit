@@ -1,0 +1,127 @@
+// this file was generated from Domain Blip.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=0 hikey=36 pitch_keycenter=36 pitch_keytrack=1
+	<region> lovel=035 hivel=064 amp_velcurve_064=1 volume=21 offset=940 end=59530 sample=../Audio/Bonus Audio/Domain Blip/mod101-36-8-JPXM.wav
+	<region> lovel=000 hivel=034 amp_velcurve_034=1 volume=23 offset=1064 end=53156 sample=../Audio/Bonus Audio/Domain Blip/mod101-36-19-PCJS.wav
+	<region> lovel=065 hivel=098 amp_velcurve_098=1 volume=21 offset=1098 end=49782 sample=../Audio/Bonus Audio/Domain Blip/mod101-36-38-CX0X.wav
+<group>lokey=0 hikey=37 pitch_keycenter=37 pitch_keytrack=1
+	<region> lovel=099 hivel=127 amp_velcurve_127=1 volume=22 offset=847 sample=../Audio/Bonus Audio/Domain Blip/mod101-37-127-C4NC.wav
+<group> key=37 pitch_keytrack=1
+	<region> lovel=035 hivel=064 amp_velcurve_064=1 volume=21 offset=946 end=59049 sample=../Audio/Bonus Audio/Domain Blip/mod101-37-8-UXA9.wav
+	<region> lovel=000 hivel=034 amp_velcurve_034=1 volume=22 offset=1116 end=51060 sample=../Audio/Bonus Audio/Domain Blip/mod101-37-19-RKUD.wav
+	<region> lovel=065 hivel=098 amp_velcurve_098=1 volume=21 offset=1008 sample=../Audio/Bonus Audio/Domain Blip/mod101-37-38-MAEM.wav
+<group> key=38 pitch_keytrack=1
+	<region> lovel=035 hivel=064 amp_velcurve_064=1 volume=21 offset=886 end=59902 sample=../Audio/Bonus Audio/Domain Blip/mod101-38-8-5FDR.wav
+	<region> lovel=000 hivel=034 amp_velcurve_034=1 volume=22 offset=915 end=53884 sample=../Audio/Bonus Audio/Domain Blip/mod101-38-19-AW7V.wav
+	<region> lovel=065 hivel=098 amp_velcurve_098=1 volume=21 offset=933 sample=../Audio/Bonus Audio/Domain Blip/mod101-38-38-2U79.wav
+	<region> lovel=099 hivel=127 amp_velcurve_127=1 volume=22 offset=1049 end=48124 sample=../Audio/Bonus Audio/Domain Blip/mod101-38-127-QO0K.wav
+<group> key=39 pitch_keytrack=1
+	<region> lovel=035 hivel=064 amp_velcurve_064=1 volume=21 offset=1074 end=60100 sample=../Audio/Bonus Audio/Domain Blip/mod101-39-8-U52L.wav
+	<region> lovel=000 hivel=034 amp_velcurve_034=1 volume=22 offset=944 sample=../Audio/Bonus Audio/Domain Blip/mod101-39-19-TQ0I.wav
+	<region> lovel=065 hivel=098 amp_velcurve_098=1 volume=21 offset=866 end=50553 sample=../Audio/Bonus Audio/Domain Blip/mod101-39-38-HZZ3.wav
+	<region> lovel=099 hivel=127 amp_velcurve_127=1 volume=22 offset=1076 end=49626 sample=../Audio/Bonus Audio/Domain Blip/mod101-39-127-G0ZH.wav
+<group> key=40 pitch_keytrack=1
+	<region> lovel=035 hivel=064 amp_velcurve_064=1 volume=21 offset=889 sample=../Audio/Bonus Audio/Domain Blip/mod101-40-8-9M78.wav
+	<region> lovel=000 hivel=034 amp_velcurve_034=1 volume=22 offset=1085 end=53003 sample=../Audio/Bonus Audio/Domain Blip/mod101-40-19-J0IR.wav
+	<region> lovel=065 hivel=098 amp_velcurve_098=1 volume=21 offset=934 end=50687 sample=../Audio/Bonus Audio/Domain Blip/mod101-40-38-WWQ5.wav
+	<region> lovel=099 hivel=127 amp_velcurve_127=1 volume=22 offset=1082 end=50802 sample=../Audio/Bonus Audio/Domain Blip/mod101-40-127-Q89Z.wav
+<group> key=41 pitch_keytrack=1
+	<region> lovel=035 hivel=064 amp_velcurve_064=1 volume=21 offset=1119 end=60777 sample=../Audio/Bonus Audio/Domain Blip/mod101-41-8-6YB6.wav
+	<region> lovel=000 hivel=034 amp_velcurve_034=1 volume=23 offset=930 end=53103 sample=../Audio/Bonus Audio/Domain Blip/mod101-41-19-RNVK.wav
+	<region> lovel=065 hivel=098 amp_velcurve_098=1 volume=21 offset=945 sample=../Audio/Bonus Audio/Domain Blip/mod101-41-38-1N45.wav
+	<region> lovel=099 hivel=127 amp_velcurve_127=1 volume=22 offset=1047 end=50044 sample=../Audio/Bonus Audio/Domain Blip/mod101-41-127-CGPL.wav
+<group> key=42 pitch_keytrack=1
+	<region> lovel=035 hivel=064 amp_velcurve_064=1 volume=21 offset=1134 end=60023 sample=../Audio/Bonus Audio/Domain Blip/mod101-42-8-JSKM.wav
+	<region> lovel=000 hivel=034 amp_velcurve_034=1 volume=21 offset=1033 end=54616 sample=../Audio/Bonus Audio/Domain Blip/mod101-42-19-ACAB.wav
+	<region> lovel=065 hivel=098 amp_velcurve_098=1 volume=21 offset=948 end=48346 sample=../Audio/Bonus Audio/Domain Blip/mod101-42-38-PXF4.wav
+	<region> lovel=099 hivel=127 amp_velcurve_127=1 volume=22 offset=927 sample=../Audio/Bonus Audio/Domain Blip/mod101-42-127-DKPV.wav
+<group> key=43 pitch_keytrack=1
+	<region> lovel=035 hivel=064 amp_velcurve_064=1 volume=21 offset=864 sample=../Audio/Bonus Audio/Domain Blip/mod101-43-8-E601.wav
+	<region> lovel=000 hivel=034 amp_velcurve_034=1 volume=22 offset=1061 end=53209 sample=../Audio/Bonus Audio/Domain Blip/mod101-43-19-COZL.wav
+	<region> lovel=065 hivel=098 amp_velcurve_098=1 volume=21 offset=1138 sample=../Audio/Bonus Audio/Domain Blip/mod101-43-38-476S.wav
+	<region> lovel=099 hivel=127 amp_velcurve_127=1 volume=22 offset=1123 end=50784 sample=../Audio/Bonus Audio/Domain Blip/mod101-43-127-S1B3.wav
+<group> key=44 pitch_keytrack=1
+	<region> lovel=035 hivel=064 amp_velcurve_064=1 volume=21 offset=1123 sample=../Audio/Bonus Audio/Domain Blip/mod101-44-8-4R34.wav
+	<region> lovel=000 hivel=034 amp_velcurve_034=1 volume=23 offset=1086 sample=../Audio/Bonus Audio/Domain Blip/mod101-44-19-PH0Z.wav
+	<region> lovel=065 hivel=098 amp_velcurve_098=1 volume=21 offset=1130 end=50032 sample=../Audio/Bonus Audio/Domain Blip/mod101-44-38-UE5Y.wav
+	<region> lovel=099 hivel=127 amp_velcurve_127=1 volume=22 offset=1069 sample=../Audio/Bonus Audio/Domain Blip/mod101-44-127-1FK7.wav
+<group> key=45 pitch_keytrack=1
+	<region> lovel=035 hivel=064 amp_velcurve_064=1 volume=21 offset=1081 sample=../Audio/Bonus Audio/Domain Blip/mod101-45-8-5S6Y.wav
+	<region> lovel=000 hivel=034 amp_velcurve_034=1 volume=23 offset=934 sample=../Audio/Bonus Audio/Domain Blip/mod101-45-19-COLB.wav
+	<region> lovel=065 hivel=098 amp_velcurve_098=1 volume=21 offset=1111 end=46823 sample=../Audio/Bonus Audio/Domain Blip/mod101-45-38-ZELU.wav
+	<region> lovel=099 hivel=127 amp_velcurve_127=1 volume=22 offset=935 sample=../Audio/Bonus Audio/Domain Blip/mod101-45-127-NZMO.wav
+<group> key=46 pitch_keytrack=1
+	<region> lovel=035 hivel=064 amp_velcurve_064=1 volume=21 offset=881 end=59645 sample=../Audio/Bonus Audio/Domain Blip/mod101-46-8-2DKG.wav
+	<region> lovel=065 hivel=098 amp_velcurve_098=1 volume=22 offset=955 sample=../Audio/Bonus Audio/Domain Blip/mod101-46-38-45BO.wav
+	<region> lovel=099 hivel=127 amp_velcurve_127=1 volume=23 offset=1077 end=50154 sample=../Audio/Bonus Audio/Domain Blip/mod101-46-127-W9AE.wav
+<group>lokey=46 hikey=47 pitch_keycenter=46 pitch_keytrack=1
+	<region> lovel=000 hivel=034 amp_velcurve_034=1 volume=23 offset=915 sample=../Audio/Bonus Audio/Domain Blip/mod101-46-19-A8U4.wav
+<group> key=47 pitch_keytrack=1
+	<region> lovel=035 hivel=064 amp_velcurve_064=1 volume=21 offset=931 sample=../Audio/Bonus Audio/Domain Blip/mod101-47-8-UOYQ.wav
+	<region> lovel=065 hivel=098 amp_velcurve_098=1 volume=22 offset=935 end=51114 sample=../Audio/Bonus Audio/Domain Blip/mod101-47-38-Y0BF.wav
+	<region> lovel=099 hivel=127 amp_velcurve_127=1 volume=22 offset=950 end=52196 sample=../Audio/Bonus Audio/Domain Blip/mod101-47-127-UHBI.wav
+<group> key=48 pitch_keytrack=1
+	<region> lovel=035 hivel=064 amp_velcurve_064=1 volume=21 offset=874 end=59747 sample=../Audio/Bonus Audio/Domain Blip/mod101-48-8-SABT.wav
+	<region> lovel=000 hivel=034 amp_velcurve_034=1 volume=21 offset=1044 end=52348 sample=../Audio/Bonus Audio/Domain Blip/mod101-48-19-69WJ.wav
+	<region> lovel=065 hivel=098 amp_velcurve_098=1 volume=21 offset=911 end=45594 sample=../Audio/Bonus Audio/Domain Blip/mod101-48-38-1W4G.wav
+	<region> lovel=099 hivel=127 amp_velcurve_127=1 volume=22 offset=964 end=50560 sample=../Audio/Bonus Audio/Domain Blip/mod101-48-127-G9BN.wav
+<group> key=49 pitch_keytrack=1
+	<region> lovel=035 hivel=064 amp_velcurve_064=1 volume=21 offset=985 sample=../Audio/Bonus Audio/Domain Blip/mod101-49-8-HTI8.wav
+	<region> lovel=000 hivel=034 amp_velcurve_034=1 volume=22 offset=1134 end=53722 sample=../Audio/Bonus Audio/Domain Blip/mod101-49-19-HG22.wav
+	<region> lovel=065 hivel=098 amp_velcurve_098=1 volume=22 offset=960 end=31612 sample=../Audio/Bonus Audio/Domain Blip/mod101-49-38-HVT2.wav
+	<region> lovel=099 hivel=127 amp_velcurve_127=1 volume=22 offset=935 end=51770 sample=../Audio/Bonus Audio/Domain Blip/mod101-49-127-5BHW.wav
+<group> key=50 pitch_keytrack=1
+	<region> lovel=035 hivel=064 amp_velcurve_064=1 volume=21 offset=885 sample=../Audio/Bonus Audio/Domain Blip/mod101-50-8-1SS2.wav
+	<region> lovel=000 hivel=034 amp_velcurve_034=1 volume=23 offset=965 end=52713 sample=../Audio/Bonus Audio/Domain Blip/mod101-50-19-7G5C.wav
+	<region> lovel=065 hivel=098 amp_velcurve_098=1 volume=22 offset=882 end=50114 sample=../Audio/Bonus Audio/Domain Blip/mod101-50-38-PZNR.wav
+	<region> lovel=099 hivel=127 amp_velcurve_127=1 volume=23 offset=1062 end=50223 sample=../Audio/Bonus Audio/Domain Blip/mod101-50-127-5CZP.wav
+<group> key=51 pitch_keytrack=1
+	<region> lovel=035 hivel=064 amp_velcurve_064=1 volume=21 offset=953 sample=../Audio/Bonus Audio/Domain Blip/mod101-51-8-XAWX.wav
+	<region> lovel=000 hivel=034 amp_velcurve_034=1 volume=22 offset=942 sample=../Audio/Bonus Audio/Domain Blip/mod101-51-19-I6GV.wav
+	<region> lovel=065 hivel=098 amp_velcurve_098=1 volume=22 offset=949 end=46882 sample=../Audio/Bonus Audio/Domain Blip/mod101-51-38-4K21.wav
+	<region> lovel=099 hivel=127 amp_velcurve_127=1 volume=22 offset=920 end=50113 sample=../Audio/Bonus Audio/Domain Blip/mod101-51-127-WBMS.wav
+<group> key=52 pitch_keytrack=1
+	<region> lovel=035 hivel=064 amp_velcurve_064=1 volume=21 offset=951 sample=../Audio/Bonus Audio/Domain Blip/mod101-52-8-QA2I.wav
+	<region> lovel=000 hivel=034 amp_velcurve_034=1 volume=23 offset=886 sample=../Audio/Bonus Audio/Domain Blip/mod101-52-19-H5IY.wav
+	<region> lovel=065 hivel=098 amp_velcurve_098=1 volume=22 offset=943 end=51628 sample=../Audio/Bonus Audio/Domain Blip/mod101-52-38-L9SU.wav
+	<region> lovel=099 hivel=127 amp_velcurve_127=1 volume=22 offset=1088 sample=../Audio/Bonus Audio/Domain Blip/mod101-52-127-BHGC.wav
+<group> key=53 pitch_keytrack=1
+	<region> lovel=035 hivel=064 amp_velcurve_064=1 volume=21 offset=1061 end=59507 sample=../Audio/Bonus Audio/Domain Blip/mod101-53-8-81Y8.wav
+	<region> lovel=000 hivel=034 amp_velcurve_034=1 volume=21 offset=1059 end=52799 sample=../Audio/Bonus Audio/Domain Blip/mod101-53-19-FCBZ.wav
+	<region> lovel=065 hivel=098 amp_velcurve_098=1 volume=22 offset=1111 sample=../Audio/Bonus Audio/Domain Blip/mod101-53-38-KAUN.wav
+	<region> lovel=099 hivel=127 amp_velcurve_127=1 volume=22 offset=885 sample=../Audio/Bonus Audio/Domain Blip/mod101-53-127-9RA0.wav
+<group> key=54 pitch_keytrack=1
+	<region> lovel=035 hivel=064 amp_velcurve_064=1 volume=21 offset=1025 end=60269 sample=../Audio/Bonus Audio/Domain Blip/mod101-54-8-M11A.wav
+	<region> lovel=000 hivel=034 amp_velcurve_034=1 volume=23 offset=1060 end=52720 sample=../Audio/Bonus Audio/Domain Blip/mod101-54-19-SGB0.wav
+	<region> lovel=065 hivel=098 amp_velcurve_098=1 volume=22 offset=960 sample=../Audio/Bonus Audio/Domain Blip/mod101-54-38-4RQ0.wav
+	<region> lovel=099 hivel=127 amp_velcurve_127=1 volume=22 offset=1044 end=50746 sample=../Audio/Bonus Audio/Domain Blip/mod101-54-127-KL8N.wav
+<group> key=55 pitch_keytrack=1
+	<region> lovel=035 hivel=064 amp_velcurve_064=1 volume=21 offset=1074 sample=../Audio/Bonus Audio/Domain Blip/mod101-55-8-XD4A.wav
+	<region> lovel=000 hivel=034 amp_velcurve_034=1 volume=21 offset=1068 end=51913 sample=../Audio/Bonus Audio/Domain Blip/mod101-55-19-DCS4.wav
+	<region> lovel=065 hivel=098 amp_velcurve_098=1 volume=22 offset=1077 sample=../Audio/Bonus Audio/Domain Blip/mod101-55-38-5YX7.wav
+	<region> lovel=099 hivel=127 amp_velcurve_127=1 volume=23 offset=990 end=53301 sample=../Audio/Bonus Audio/Domain Blip/mod101-55-127-6IQ8.wav
+<group> key=56 pitch_keytrack=1
+	<region> lovel=035 hivel=064 amp_velcurve_064=1 volume=21 offset=1131 sample=../Audio/Bonus Audio/Domain Blip/mod101-56-8-6LTM.wav
+	<region> lovel=000 hivel=034 amp_velcurve_034=1 volume=21 offset=928 end=51132 sample=../Audio/Bonus Audio/Domain Blip/mod101-56-19-PISM.wav
+	<region> lovel=065 hivel=098 amp_velcurve_098=1 volume=22 offset=1056 sample=../Audio/Bonus Audio/Domain Blip/mod101-56-38-QHYX.wav
+	<region> lovel=099 hivel=127 amp_velcurve_127=1 volume=23 offset=862 end=49676 sample=../Audio/Bonus Audio/Domain Blip/mod101-56-127-PIPK.wav
+<group> key=57 pitch_keytrack=1
+	<region> lovel=035 hivel=064 amp_velcurve_064=1 volume=21 offset=875 sample=../Audio/Bonus Audio/Domain Blip/mod101-57-8-N59X.wav
+	<region> lovel=000 hivel=034 amp_velcurve_034=1 volume=22 offset=1035 sample=../Audio/Bonus Audio/Domain Blip/mod101-57-19-IY44.wav
+	<region> lovel=065 hivel=098 amp_velcurve_098=1 volume=22 offset=934 end=43109 sample=../Audio/Bonus Audio/Domain Blip/mod101-57-38-U1XX.wav
+	<region> lovel=099 hivel=127 amp_velcurve_127=1 volume=23 offset=1133 end=51102 sample=../Audio/Bonus Audio/Domain Blip/mod101-57-127-I2S9.wav
+<group> key=58 pitch_keytrack=1
+	<region> lovel=035 hivel=064 amp_velcurve_064=1 volume=21 offset=883 sample=../Audio/Bonus Audio/Domain Blip/mod101-58-8-AXRX.wav
+	<region> lovel=000 hivel=034 amp_velcurve_034=1 volume=23 offset=948 end=53406 sample=../Audio/Bonus Audio/Domain Blip/mod101-58-19-ASIX.wav
+	<region> lovel=065 hivel=098 amp_velcurve_098=1 volume=22 offset=953 sample=../Audio/Bonus Audio/Domain Blip/mod101-58-38-L7Q8.wav
+	<region> lovel=099 hivel=127 amp_velcurve_127=1 volume=23 offset=940 end=50857 sample=../Audio/Bonus Audio/Domain Blip/mod101-58-127-SPB0.wav
+<group> key=59 pitch_keytrack=1
+	<region> lovel=035 hivel=064 amp_velcurve_064=1 volume=21 offset=1042 sample=../Audio/Bonus Audio/Domain Blip/mod101-59-8-BUXE.wav
+	<region> lovel=000 hivel=034 amp_velcurve_034=1 volume=23 offset=995 sample=../Audio/Bonus Audio/Domain Blip/mod101-59-19-EJNS.wav
+	<region> lovel=065 hivel=098 amp_velcurve_098=1 volume=22 offset=1050 end=50159 sample=../Audio/Bonus Audio/Domain Blip/mod101-59-38-RRK2.wav
+	<region> lovel=099 hivel=127 amp_velcurve_127=1 volume=22 offset=856 end=51197 sample=../Audio/Bonus Audio/Domain Blip/mod101-59-127-GIVK.wav
+<group>lokey=60 hikey=126 pitch_keycenter=60 pitch_keytrack=1
+	<region> lovel=035 hivel=064 amp_velcurve_064=1 volume=21 offset=906 end=59643 sample=../Audio/Bonus Audio/Domain Blip/mod101-60-8-8D1W.wav
+	<region> lovel=000 hivel=034 amp_velcurve_034=1 volume=23 offset=1061 end=51215 sample=../Audio/Bonus Audio/Domain Blip/mod101-60-19-DS7P.wav
+	<region> lovel=065 hivel=098 amp_velcurve_098=1 volume=22 offset=882 sample=../Audio/Bonus Audio/Domain Blip/mod101-60-38-9HKU.wav
+	<region> lovel=099 hivel=127 amp_velcurve_127=1 volume=22 offset=1021 sample=../Audio/Bonus Audio/Domain Blip/mod101-60-127-1U4T.wav

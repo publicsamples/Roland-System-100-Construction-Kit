@@ -1,6 +1,6 @@
 # Roland System 100 Construction Kit
 
-A really large library of basic sounds made with an Oberheim Xpander. With 85 saws, 61 squares & pulses, 23 triangles & 70 "misc" waveforms (each with different filter settings & multiple velocity layers), hundreds of presets and some Kontakt instruments you have everything you need to make Xpanderish sounds!
+A construction kit recorded with this 70s semi-modular. Includes a Kontakt instrument & several Logic multis with smart controls.
 
 -   **Patches**: 120
 -   **Formats:** EXS24, Kontakt, SFZ (partial)

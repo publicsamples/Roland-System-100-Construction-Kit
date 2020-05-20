@@ -7,7 +7,7 @@ A construction kit recorded with this 70s semi-modular. Includes a Kontakt instr
 -   **Approx Size:** 14GB
 -   **Info:** [Wikipedia](https://en.wikipedia.org/wiki/Roland_System_100)
 
-**Audio:** thhttps://www.dropbox.com/sh/quuxgpyqd8bbba8/AADagGRUP6UGlLYKOklm7o03a?dl=0
+**Audio:** https://www.dropbox.com/sh/quuxgpyqd8bbba8/AADagGRUP6UGlLYKOklm7o03a?dl=0
 
 # Loading
 

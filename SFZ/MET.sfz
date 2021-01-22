@@ -1,26 +1,26 @@
 // this file was generated from MET.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group>lokey=0 hikey=38 pitch_keycenter=36 pitch_keytrack=1
-	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=229 loop_mode=loop_sustain loop_start=147446 loop_end=376110 sample=../Audio/Bonus Audio/MET/ajck 36-38 1-42-RLDP.wav
-	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=395 end=688505 loop_mode=loop_sustain loop_start=161752 loop_end=392434 sample=../Audio/Bonus Audio/MET/ajck 36-38 43-85-LM5L.wav
-	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=358 end=687744 loop_mode=loop_sustain loop_start=147012 loop_end=377696 sample=../Audio/Bonus Audio/MET/ajck 36-38 86-127-7G48.wav
-<group>lokey=39 hikey=45 pitch_keycenter=43 pitch_keytrack=1
-	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=431 loop_mode=loop_sustain loop_start=66541 loop_end=528465 sample=../Audio/Bonus Audio/MET/ajck 39-45 1-42-8K85.wav
-	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=308 loop_mode=loop_sustain loop_start=56996 loop_end=518921 sample=../Audio/Bonus Audio/MET/ajck 39-45 43-85-PG54.wav
-	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=184 loop_mode=loop_sustain loop_start=56859 loop_end=518788 sample=../Audio/Bonus Audio/MET/ajck 39-45 86-127-3X16.wav
-<group>lokey=46 hikey=52 pitch_keycenter=50 pitch_keytrack=1
-	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=274 end=687997 loop_mode=loop_sustain loop_start=274578 loop_end=480033 sample=../Audio/Bonus Audio/MET/ajck 46-52 1-42-6A1U.wav
-	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=363 end=687469 loop_mode=loop_sustain loop_start=153382 loop_end=461558 sample=../Audio/Bonus Audio/MET/ajck 46-52 43-85-MKGA.wav
-	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=432 end=688256 loop_mode=loop_sustain loop_start=159684 loop_end=467861 sample=../Audio/Bonus Audio/MET/ajck 46-52 86-127-MXJ9.wav
-<group>lokey=53 hikey=59 pitch_keycenter=57 pitch_keytrack=1
-	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=223 loop_mode=loop_sustain loop_start=318489 loop_end=525011 sample=../Audio/Bonus Audio/MET/ajck 53-59 1-42-JYWV.wav
-	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=268 end=688517 loop_mode=loop_sustain loop_start=170753 loop_end=307833 sample=../Audio/Bonus Audio/MET/ajck 53-59 43-85-81BX.wav
-	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=394 end=688822 loop_mode=loop_sustain loop_start=176727 loop_end=313807 sample=../Audio/Bonus Audio/MET/ajck 53-59 86-127-BRT4.wav
-<group>lokey=60 hikey=66 pitch_keycenter=64 pitch_keytrack=1
-	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=427 end=687694 loop_mode=loop_sustain loop_start=119772 loop_end=256962 sample=../Audio/Bonus Audio/MET/ajck 60-66 1-42-NJ6F.wav
-	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=153 end=688751 loop_mode=loop_sustain loop_start=120980 loop_end=258170 sample=../Audio/Bonus Audio/MET/ajck 60-66 43-85-2JM0.wav
-	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=155 loop_mode=loop_sustain loop_start=122063 loop_end=259255 sample=../Audio/Bonus Audio/MET/ajck 60-66 86-127-P82T.wav
-<group>lokey=67 hikey=124 pitch_keycenter=71 pitch_keytrack=1
-	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=333 end=688128 loop_mode=loop_sustain loop_start=261956 loop_end=536705 sample=../Audio/Bonus Audio/MET/ajck 67-71 1-42-6904.wav
-	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=379 loop_mode=loop_sustain loop_start=169930 loop_end=322568 sample=../Audio/Bonus Audio/MET/ajck 67-71 43-85-8H7B.wav
-	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=422 end=688564 loop_mode=loop_sustain loop_start=169413 loop_end=322051 sample=../Audio/Bonus Audio/MET/ajck 67-71 86-127-USXK.wav
+<group>lokey=0 hikey=38 pitch_keycenter=36 
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=229 loop_mode=loop_sustain loop_start=147446 loop_end=376110  amp_veltrack=0 sample=../Audio/Bonus Audio/MET/ajck 36-38 1-42-RLDP.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=395 end=688505 loop_mode=loop_sustain loop_start=161752 loop_end=392434  amp_veltrack=0 sample=../Audio/Bonus Audio/MET/ajck 36-38 43-85-LM5L.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=358 end=687744 loop_mode=loop_sustain loop_start=147012 loop_end=377696  amp_veltrack=0 sample=../Audio/Bonus Audio/MET/ajck 36-38 86-127-7G48.wav
+<group>lokey=39 hikey=45 pitch_keycenter=43 
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=431 loop_mode=loop_sustain loop_start=66541 loop_end=528465  amp_veltrack=0 sample=../Audio/Bonus Audio/MET/ajck 39-45 1-42-8K85.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=308 loop_mode=loop_sustain loop_start=56996 loop_end=518921  amp_veltrack=0 sample=../Audio/Bonus Audio/MET/ajck 39-45 43-85-PG54.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=184 loop_mode=loop_sustain loop_start=56859 loop_end=518788  amp_veltrack=0 sample=../Audio/Bonus Audio/MET/ajck 39-45 86-127-3X16.wav
+<group>lokey=46 hikey=52 pitch_keycenter=50 
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=274 end=687997 loop_mode=loop_sustain loop_start=274578 loop_end=480033  amp_veltrack=0 sample=../Audio/Bonus Audio/MET/ajck 46-52 1-42-6A1U.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=363 end=687469 loop_mode=loop_sustain loop_start=153382 loop_end=461558  amp_veltrack=0 sample=../Audio/Bonus Audio/MET/ajck 46-52 43-85-MKGA.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=432 end=688256 loop_mode=loop_sustain loop_start=159684 loop_end=467861  amp_veltrack=0 sample=../Audio/Bonus Audio/MET/ajck 46-52 86-127-MXJ9.wav
+<group>lokey=53 hikey=59 pitch_keycenter=57 
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=223 loop_mode=loop_sustain loop_start=318489 loop_end=525011  amp_veltrack=0 sample=../Audio/Bonus Audio/MET/ajck 53-59 1-42-JYWV.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=268 end=688517 loop_mode=loop_sustain loop_start=170753 loop_end=307833  amp_veltrack=0 sample=../Audio/Bonus Audio/MET/ajck 53-59 43-85-81BX.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=394 end=688822 loop_mode=loop_sustain loop_start=176727 loop_end=313807  amp_veltrack=0 sample=../Audio/Bonus Audio/MET/ajck 53-59 86-127-BRT4.wav
+<group>lokey=60 hikey=66 pitch_keycenter=64 
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=427 end=687694 loop_mode=loop_sustain loop_start=119772 loop_end=256962  amp_veltrack=0 sample=../Audio/Bonus Audio/MET/ajck 60-66 1-42-NJ6F.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=153 end=688751 loop_mode=loop_sustain loop_start=120980 loop_end=258170  amp_veltrack=0 sample=../Audio/Bonus Audio/MET/ajck 60-66 43-85-2JM0.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=155 loop_mode=loop_sustain loop_start=122063 loop_end=259255  amp_veltrack=0 sample=../Audio/Bonus Audio/MET/ajck 60-66 86-127-P82T.wav
+<group>lokey=67 hikey=124 pitch_keycenter=71 
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=333 end=688128 loop_mode=loop_sustain loop_start=261956 loop_end=536705  amp_veltrack=0 sample=../Audio/Bonus Audio/MET/ajck 67-71 1-42-6904.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=379 loop_mode=loop_sustain loop_start=169930 loop_end=322568  amp_veltrack=0 sample=../Audio/Bonus Audio/MET/ajck 67-71 43-85-8H7B.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=422 end=688564 loop_mode=loop_sustain loop_start=169413 loop_end=322051  amp_veltrack=0 sample=../Audio/Bonus Audio/MET/ajck 67-71 86-127-USXK.wav

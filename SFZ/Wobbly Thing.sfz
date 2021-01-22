@@ -1,188 +1,188 @@
 // this file was generated from Wobbly Thing.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group>lokey=0 hikey=36 pitch_keycenter=36 pitch_keytrack=1
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=317789 loop_end=527413 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-36-127-CY33.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=31015 loop_end=566756 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-36-127-GLQN.wav
-	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=241961 loop_end=510440 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-36-127-3S6C.wav
-	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=216017 loop_end=484462 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-36-127-13GA.wav
-<group> key=37 pitch_keytrack=1
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=346387 loop_end=528855 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-37-127-4J3H.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=352477 loop_end=505158 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-37-127-NH77.wav
-	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=67090 loop_end=544521 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-37-127-HDP3.wav
-	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=142442 loop_end=352034 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-37-127-JW52.wav
-<group> key=38 pitch_keytrack=1
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=338266 loop_end=548402 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-38-127-56SH.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=189683 loop_end=374180 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-38-127-TZ8R.wav
-	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=308219 loop_end=518319 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-38-127-TV41.wav
-	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=291715 loop_end=501826 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-38-127-AKNS.wav
-<group> key=39 pitch_keytrack=1
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=307574 loop_end=517534 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-39-127-H7HW.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=282042 loop_end=492024 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-39-127-ULIN.wav
-	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=301115 loop_end=511017 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-39-127-FKCS.wav
-	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=131316 loop_end=341260 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-39-127-YSO7.wav
-<group> key=40 pitch_keytrack=1
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=220253 loop_end=488187 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-40-127-7J2N.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=130536 loop_end=398520 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-40-127-3POH.wav
-	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=179418 loop_end=389596 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-40-127-7PPM.wav
-	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=61746 loop_end=329651 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-40-127-ODV1.wav
-<group> key=41 pitch_keytrack=1
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=139613 loop_end=407841 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-41-127-D2ZP.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=194937 loop_end=463194 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-41-127-4K13.wav
-	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=271573 loop_end=539751 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-41-127-XMZ6.wav
-	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=85228 loop_end=353427 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-41-127-TKBJ.wav
-<group> key=42 pitch_keytrack=1
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=176633 loop_end=502621 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-42-127-MQA6.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=133423 loop_end=316812 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-42-127-2H6P.wav
-	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=170525 loop_end=438274 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-42-127-JH6O.wav
-	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=244986 loop_end=512742 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-42-127-OQCD.wav
-<group> key=43 pitch_keytrack=1
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=252232 loop_end=520638 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-43-127-GL1L.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=276338 loop_end=544760 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-43-127-ANMF.wav
-	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=231989 loop_end=500328 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-43-127-1EBI.wav
-	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=74203 loop_end=342559 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-43-127-25ZX.wav
-<group> key=44 pitch_keytrack=1
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=223985 loop_end=492064 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-44-127-6LN1.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=216508 loop_end=484565 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-44-127-EBBE.wav
-	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=229648 loop_end=497660 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-44-127-BIFC.wav
-	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=122813 loop_end=390831 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-44-127-SMQY.wav
-<group> key=45 pitch_keytrack=1
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=243065 loop_end=452947 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-45-127-O6LR.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=287935 loop_end=497806 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-45-127-C9BZ.wav
-	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=220138 loop_end=488752 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-45-127-ZT4S.wav
-	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=252966 loop_end=520807 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-45-127-PRLG.wav
-<group> key=46 pitch_keytrack=1
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=279031 loop_end=547283 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-46-127-THT8.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=238282 loop_end=506521 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-46-127-YQH9.wav
-	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=210717 loop_end=479684 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-46-127-L60W.wav
-	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=242327 loop_end=510496 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-46-127-HIXZ.wav
-<group> key=47 pitch_keytrack=1
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=153461 loop_end=421253 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-47-127-ID4G.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=257633 loop_end=526147 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-47-127-5W1M.wav
-	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=130293 loop_end=398027 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-47-127-QM95.wav
-	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=257218 loop_end=524929 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-47-127-1UMQ.wav
-<group> key=48 pitch_keytrack=1
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=245901 loop_end=513728 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-48-127-0202.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=188479 loop_end=456333 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-48-127-J862.wav
-	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=244737 loop_end=513242 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-48-127-9XC4.wav
-	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=256095 loop_end=523886 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-48-127-VITP.wav
-<group> key=49 pitch_keytrack=1
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=263249 loop_end=531536 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-49-127-O0KC.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=172241 loop_end=439901 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-49-127-KQQE.wav
-	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=238339 loop_end=507246 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-49-127-PGPM.wav
-	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=237552 loop_end=505775 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-49-127-54D3.wav
-<group> key=50 pitch_keytrack=1
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=263569 loop_end=531468 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-50-127-H51W.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=225150 loop_end=493654 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-50-127-DUAR.wav
-	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=250907 loop_end=518785 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-50-127-R2IS.wav
-	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=232779 loop_end=500606 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-50-127-CW5O.wav
-<group> key=51 pitch_keytrack=1
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=278024 loop_end=546498 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-51-127-L0LR.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=240050 loop_end=507933 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-51-127-ZHPD.wav
-	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=245724 loop_end=513578 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-51-127-SSXL.wav
-	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=244714 loop_end=512540 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-51-127-1LYF.wav
-<group> key=52 pitch_keytrack=1
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=248025 loop_end=516119 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-52-127-YV1J.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=193196 loop_end=461283 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-52-127-4ZVM.wav
-	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=231683 loop_end=499732 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-52-127-GDH3.wav
-	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=212548 loop_end=480556 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-52-127-0IHF.wav
-<group> key=53 pitch_keytrack=1
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=262914 loop_end=530958 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-53-127-3VB3.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=198653 loop_end=466705 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-53-127-H8JJ.wav
-	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=230350 loop_end=498338 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-53-127-KDAJ.wav
-	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=143304 loop_end=411283 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-53-127-8176.wav
-<group> key=54 pitch_keytrack=1
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=261974 loop_end=530012 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-54-127-5285.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=200273 loop_end=468291 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-54-127-LDIC.wav
-	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=218115 loop_end=486079 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-54-127-89N9.wav
-	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=214900 loop_end=482866 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-54-127-J4S3.wav
-<group> key=55 pitch_keytrack=1
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=249169 loop_end=517266 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-55-127-FI54.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=195460 loop_end=463548 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-55-127-UBBL.wav
-	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=28463 loop_end=296524 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-55-127-GHSR.wav
-	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=61127 loop_end=329191 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-55-127-X7OI.wav
-<group> key=56 pitch_keytrack=1
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=158637 loop_end=426804 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-56-127-2ITH.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=269625 loop_end=537330 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-56-127-KMQW.wav
-	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=229505 loop_end=498889 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-56-127-RP0I.wav
-	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=5870 loop_end=274000 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-56-127-NX6Z.wav
-<group> key=57 pitch_keytrack=1
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=186416 loop_end=454223 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-57-127-1ZIB.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=193922 loop_end=461716 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-57-127-4BTX.wav
-	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=154271 loop_end=422007 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-57-127-YEJW.wav
-	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=173694 loop_end=441399 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-57-127-CTNX.wav
-<group> key=58 pitch_keytrack=1
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=176063 loop_end=443860 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-58-127-B8FQ.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=103098 loop_end=370888 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-58-127-R8CI.wav
-	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=159066 loop_end=426786 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-58-127-5UUL.wav
-	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=233555 loop_end=501258 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-58-127-MZC5.wav
-<group> key=59 pitch_keytrack=1
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=179343 loop_end=447419 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-59-127-2W3M.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=200423 loop_end=468111 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-59-127-M7W6.wav
-	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=211288 loop_end=479674 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-59-127-EH4T.wav
-	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=202888 loop_end=470511 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-59-127-5OEY.wav
-<group> key=60 pitch_keytrack=1
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=176253 loop_end=444030 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-60-127-M370.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=215179 loop_end=482935 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-60-127-N40V.wav
-	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=266381 loop_end=534779 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-60-127-P7QV.wav
-	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=219722 loop_end=487408 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-60-127-9XMW.wav
-<group> key=61 pitch_keytrack=1
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=180777 loop_end=448841 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-61-127-CKY4.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=176121 loop_end=443841 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-61-127-F5T3.wav
-	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=163456 loop_end=431465 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-61-127-DWUH.wav
-	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=90837 loop_end=358807 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-61-127-V7PF.wav
-<group> key=62 pitch_keytrack=1
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=152269 loop_end=420257 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-62-127-N662.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=232165 loop_end=500114 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-62-127-0SCM.wav
-	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=120569 loop_end=388513 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-62-127-3KIU.wav
-	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=117218 loop_end=385093 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-62-127-YMRF.wav
-<group> key=63 pitch_keytrack=1
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=189805 loop_end=457788 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-63-127-07RW.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=106673 loop_end=374592 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-63-127-IMKM.wav
-	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=199678 loop_end=467586 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-63-127-X68K.wav
-	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=277021 loop_end=544870 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-63-127-43IZ.wav
-<group> key=64 pitch_keytrack=1
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=141610 loop_end=409525 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-64-127-FMDI.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=115190 loop_end=383038 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-64-127-XYVC.wav
-	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=233991 loop_end=501821 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-64-127-SVKG.wav
-	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=116701 loop_end=384497 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-64-127-3CW5.wav
-<group> key=65 pitch_keytrack=1
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=277109 loop_end=545057 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-65-127-RXIF.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=200369 loop_end=468235 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-65-127-Y0V7.wav
-	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=99266 loop_end=367150 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-65-127-0EWH.wav
-	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=112776 loop_end=380595 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-65-127-Z63K.wav
-<group> key=66 pitch_keytrack=1
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=247260 loop_end=515149 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-66-127-S0CN.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=145032 loop_end=412885 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-66-127-GQ5E.wav
-	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=108048 loop_end=375890 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-66-127-DLN9.wav
-	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=194078 loop_end=461871 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-66-127-OMWW.wav
-<group> key=67 pitch_keytrack=1
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=15374 loop_end=239966 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-67-127-JJII.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=192218 loop_end=460127 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-67-127-6SVP.wav
-	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=171100 loop_end=438983 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-67-127-HZHF.wav
-	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=250952 loop_end=518810 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-67-127-MY6R.wav
-<group> key=68 pitch_keytrack=1
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=217013 loop_end=485019 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-68-127-KC6G.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=170727 loop_end=438678 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-68-127-TTG9.wav
-	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=260744 loop_end=528892 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-68-127-JC5A.wav
-	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=8785 loop_end=460861 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-68-127-DYWB.wav
-<group> key=69 pitch_keytrack=1
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=275728 loop_end=543832 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-69-127-KWQE.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=268931 loop_end=536965 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-69-127-0Z68.wav
-	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=102769 loop_end=370608 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-69-127-SAHZ.wav
-	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=216383 loop_end=484185 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-69-127-T48Z.wav
-<group> key=70 pitch_keytrack=1
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=265898 loop_end=533936 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-70-127-J6AF.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=31652 loop_end=299793 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-70-127-6Y37.wav
-	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=255531 loop_end=523884 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-70-127-2IVZ.wav
-	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=143442 loop_end=411196 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-70-127-452O.wav
-<group> key=71 pitch_keytrack=1
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=139878 loop_end=407937 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-71-127-6X3B.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=227122 loop_end=495262 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-71-127-N5W5.wav
-	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=261932 loop_end=530637 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-71-127-VUSQ.wav
-	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=183222 loop_end=451150 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-71-127-9QJP.wav
-<group>lokey=72 hikey=122 pitch_keycenter=72 pitch_keytrack=1
-	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=128068 loop_end=396210 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-72-127-4FET.wav
-	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=167972 loop_end=435889 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-72-127-7WNC.wav
-<group>lokey=72 hikey=124 pitch_keycenter=72 pitch_keytrack=1
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=193427 loop_end=461460 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-72-127-N2QK.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=157475 loop_end=425598 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-72-127-FF7S.wav
+<group>lokey=0 hikey=36 pitch_keycenter=36 
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=317789 loop_end=527413  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-36-127-CY33.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=31015 loop_end=566756  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-36-127-GLQN.wav
+	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=241961 loop_end=510440  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-36-127-3S6C.wav
+	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=216017 loop_end=484462  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-36-127-13GA.wav
+<group> key=37 
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=346387 loop_end=528855  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-37-127-4J3H.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=352477 loop_end=505158  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-37-127-NH77.wav
+	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=67090 loop_end=544521  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-37-127-HDP3.wav
+	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=142442 loop_end=352034  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-37-127-JW52.wav
+<group> key=38 
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=338266 loop_end=548402  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-38-127-56SH.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=189683 loop_end=374180  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-38-127-TZ8R.wav
+	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=308219 loop_end=518319  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-38-127-TV41.wav
+	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=291715 loop_end=501826  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-38-127-AKNS.wav
+<group> key=39 
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=307574 loop_end=517534  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-39-127-H7HW.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=282042 loop_end=492024  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-39-127-ULIN.wav
+	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=301115 loop_end=511017  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-39-127-FKCS.wav
+	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=131316 loop_end=341260  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-39-127-YSO7.wav
+<group> key=40 
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=220253 loop_end=488187  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-40-127-7J2N.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=130536 loop_end=398520  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-40-127-3POH.wav
+	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=179418 loop_end=389596  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-40-127-7PPM.wav
+	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=61746 loop_end=329651  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-40-127-ODV1.wav
+<group> key=41 
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=139613 loop_end=407841  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-41-127-D2ZP.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=194937 loop_end=463194  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-41-127-4K13.wav
+	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=271573 loop_end=539751  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-41-127-XMZ6.wav
+	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=85228 loop_end=353427  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-41-127-TKBJ.wav
+<group> key=42 
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=176633 loop_end=502621  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-42-127-MQA6.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=133423 loop_end=316812  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-42-127-2H6P.wav
+	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=170525 loop_end=438274  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-42-127-JH6O.wav
+	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=244986 loop_end=512742  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-42-127-OQCD.wav
+<group> key=43 
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=252232 loop_end=520638  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-43-127-GL1L.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=276338 loop_end=544760  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-43-127-ANMF.wav
+	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=231989 loop_end=500328  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-43-127-1EBI.wav
+	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=74203 loop_end=342559  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-43-127-25ZX.wav
+<group> key=44 
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=223985 loop_end=492064  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-44-127-6LN1.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=216508 loop_end=484565  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-44-127-EBBE.wav
+	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=229648 loop_end=497660  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-44-127-BIFC.wav
+	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=122813 loop_end=390831  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-44-127-SMQY.wav
+<group> key=45 
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=243065 loop_end=452947  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-45-127-O6LR.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=287935 loop_end=497806  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-45-127-C9BZ.wav
+	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=220138 loop_end=488752  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-45-127-ZT4S.wav
+	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=252966 loop_end=520807  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-45-127-PRLG.wav
+<group> key=46 
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=279031 loop_end=547283  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-46-127-THT8.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=238282 loop_end=506521  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-46-127-YQH9.wav
+	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=210717 loop_end=479684  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-46-127-L60W.wav
+	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=242327 loop_end=510496  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-46-127-HIXZ.wav
+<group> key=47 
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=153461 loop_end=421253  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-47-127-ID4G.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=257633 loop_end=526147  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-47-127-5W1M.wav
+	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=130293 loop_end=398027  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-47-127-QM95.wav
+	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=257218 loop_end=524929  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-47-127-1UMQ.wav
+<group> key=48 
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=245901 loop_end=513728  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-48-127-0202.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=188479 loop_end=456333  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-48-127-J862.wav
+	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=244737 loop_end=513242  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-48-127-9XC4.wav
+	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=256095 loop_end=523886  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-48-127-VITP.wav
+<group> key=49 
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=263249 loop_end=531536  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-49-127-O0KC.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=172241 loop_end=439901  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-49-127-KQQE.wav
+	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=238339 loop_end=507246  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-49-127-PGPM.wav
+	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=237552 loop_end=505775  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-49-127-54D3.wav
+<group> key=50 
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=263569 loop_end=531468  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-50-127-H51W.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=225150 loop_end=493654  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-50-127-DUAR.wav
+	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=250907 loop_end=518785  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-50-127-R2IS.wav
+	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=232779 loop_end=500606  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-50-127-CW5O.wav
+<group> key=51 
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=278024 loop_end=546498  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-51-127-L0LR.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=240050 loop_end=507933  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-51-127-ZHPD.wav
+	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=245724 loop_end=513578  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-51-127-SSXL.wav
+	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=244714 loop_end=512540  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-51-127-1LYF.wav
+<group> key=52 
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=248025 loop_end=516119  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-52-127-YV1J.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=193196 loop_end=461283  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-52-127-4ZVM.wav
+	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=231683 loop_end=499732  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-52-127-GDH3.wav
+	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=212548 loop_end=480556  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-52-127-0IHF.wav
+<group> key=53 
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=262914 loop_end=530958  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-53-127-3VB3.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=198653 loop_end=466705  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-53-127-H8JJ.wav
+	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=230350 loop_end=498338  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-53-127-KDAJ.wav
+	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=143304 loop_end=411283  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-53-127-8176.wav
+<group> key=54 
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=261974 loop_end=530012  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-54-127-5285.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=200273 loop_end=468291  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-54-127-LDIC.wav
+	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=218115 loop_end=486079  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-54-127-89N9.wav
+	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=214900 loop_end=482866  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-54-127-J4S3.wav
+<group> key=55 
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=249169 loop_end=517266  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-55-127-FI54.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=195460 loop_end=463548  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-55-127-UBBL.wav
+	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=28463 loop_end=296524  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-55-127-GHSR.wav
+	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=61127 loop_end=329191  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-55-127-X7OI.wav
+<group> key=56 
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=158637 loop_end=426804  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-56-127-2ITH.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=269625 loop_end=537330  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-56-127-KMQW.wav
+	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=229505 loop_end=498889  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-56-127-RP0I.wav
+	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=5870 loop_end=274000  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-56-127-NX6Z.wav
+<group> key=57 
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=186416 loop_end=454223  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-57-127-1ZIB.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=193922 loop_end=461716  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-57-127-4BTX.wav
+	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=154271 loop_end=422007  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-57-127-YEJW.wav
+	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=173694 loop_end=441399  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-57-127-CTNX.wav
+<group> key=58 
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=176063 loop_end=443860  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-58-127-B8FQ.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=103098 loop_end=370888  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-58-127-R8CI.wav
+	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=159066 loop_end=426786  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-58-127-5UUL.wav
+	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=233555 loop_end=501258  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-58-127-MZC5.wav
+<group> key=59 
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=179343 loop_end=447419  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-59-127-2W3M.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=200423 loop_end=468111  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-59-127-M7W6.wav
+	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=211288 loop_end=479674  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-59-127-EH4T.wav
+	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=202888 loop_end=470511  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-59-127-5OEY.wav
+<group> key=60 
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=176253 loop_end=444030  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-60-127-M370.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=215179 loop_end=482935  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-60-127-N40V.wav
+	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=266381 loop_end=534779  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-60-127-P7QV.wav
+	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=219722 loop_end=487408  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-60-127-9XMW.wav
+<group> key=61 
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=180777 loop_end=448841  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-61-127-CKY4.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=176121 loop_end=443841  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-61-127-F5T3.wav
+	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=163456 loop_end=431465  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-61-127-DWUH.wav
+	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=90837 loop_end=358807  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-61-127-V7PF.wav
+<group> key=62 
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=152269 loop_end=420257  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-62-127-N662.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=232165 loop_end=500114  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-62-127-0SCM.wav
+	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=120569 loop_end=388513  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-62-127-3KIU.wav
+	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=117218 loop_end=385093  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-62-127-YMRF.wav
+<group> key=63 
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=189805 loop_end=457788  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-63-127-07RW.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=106673 loop_end=374592  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-63-127-IMKM.wav
+	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=199678 loop_end=467586  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-63-127-X68K.wav
+	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=277021 loop_end=544870  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-63-127-43IZ.wav
+<group> key=64 
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=141610 loop_end=409525  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-64-127-FMDI.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=115190 loop_end=383038  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-64-127-XYVC.wav
+	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=233991 loop_end=501821  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-64-127-SVKG.wav
+	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=116701 loop_end=384497  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-64-127-3CW5.wav
+<group> key=65 
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=277109 loop_end=545057  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-65-127-RXIF.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=200369 loop_end=468235  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-65-127-Y0V7.wav
+	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=99266 loop_end=367150  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-65-127-0EWH.wav
+	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=112776 loop_end=380595  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-65-127-Z63K.wav
+<group> key=66 
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=247260 loop_end=515149  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-66-127-S0CN.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=145032 loop_end=412885  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-66-127-GQ5E.wav
+	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=108048 loop_end=375890  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-66-127-DLN9.wav
+	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=194078 loop_end=461871  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-66-127-OMWW.wav
+<group> key=67 
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=15374 loop_end=239966  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-67-127-JJII.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=192218 loop_end=460127  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-67-127-6SVP.wav
+	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=171100 loop_end=438983  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-67-127-HZHF.wav
+	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=250952 loop_end=518810  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-67-127-MY6R.wav
+<group> key=68 
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=217013 loop_end=485019  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-68-127-KC6G.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=170727 loop_end=438678  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-68-127-TTG9.wav
+	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=260744 loop_end=528892  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-68-127-JC5A.wav
+	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=8785 loop_end=460861  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-68-127-DYWB.wav
+<group> key=69 
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=275728 loop_end=543832  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-69-127-KWQE.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=268931 loop_end=536965  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-69-127-0Z68.wav
+	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=102769 loop_end=370608  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-69-127-SAHZ.wav
+	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=216383 loop_end=484185  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-69-127-T48Z.wav
+<group> key=70 
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=265898 loop_end=533936  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-70-127-J6AF.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=31652 loop_end=299793  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-70-127-6Y37.wav
+	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=255531 loop_end=523884  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-70-127-2IVZ.wav
+	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=143442 loop_end=411196  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-70-127-452O.wav
+<group> key=71 
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=139878 loop_end=407937  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-71-127-6X3B.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=227122 loop_end=495262  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-71-127-N5W5.wav
+	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=261932 loop_end=530637  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-71-127-VUSQ.wav
+	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=183222 loop_end=451150  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-71-127-9QJP.wav
+<group>lokey=72 hikey=122 pitch_keycenter=72 
+	<region> lovel=065 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=128068 loop_end=396210  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 3/mod101-72-127-4FET.wav
+	<region> lovel=099 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=167972 loop_end=435889  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 4/mod101-72-127-7WNC.wav
+<group>lokey=72 hikey=124 pitch_keycenter=72 
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 volume=4 loop_mode=loop_sustain loop_start=193427 loop_end=461460  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 1/mod101-72-127-N2QK.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=4 loop_mode=loop_sustain loop_start=157475 loop_end=425598  amp_veltrack=0 sample=../Audio/Bonus Audio/Wobbly Thing 2/mod101-72-127-FF7S.wav

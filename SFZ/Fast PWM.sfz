@@ -1,187 +1,187 @@
 // this file was generated from Fast PWM.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group>lokey=2 hikey=36 pitch_keycenter=36 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=216985 loop_end=337946 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-36-22-438A.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=196793 loop_end=361676 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-36-32-GDS3.wav
-	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=197916 loop_end=362799 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-36-42-90YM.wav
-	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=197085 loop_end=361959 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-36-52-K1CH.wav
-<group> key=37 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=262950 loop_end=350995 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-37-22-R4TX.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=270906 loop_end=358949 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-37-32-JE1F.wav
-	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=267680 loop_end=355722 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-37-42-7DFL.wav
-	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=274176 loop_end=362216 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-37-52-Y2WV.wav
-<group> key=38 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=240048 loop_end=344214 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-38-22-FSLL.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=198282 loop_end=363263 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-38-32-JC9S.wav
-	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=183291 loop_end=364540 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-38-42-7JCC.wav
-	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=176548 loop_end=357780 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-38-52-TAZV.wav
-<group> key=39 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=254887 loop_end=359450 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-39-22-JLG4.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=251230 loop_end=355798 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-39-32-230F.wav
-	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=196031 loop_end=360847 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-39-42-FZ2J.wav
-	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=189399 loop_end=354200 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-39-52-R2AX.wav
-<group> key=40 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=244738 loop_end=349322 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-40-22-6O5E.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=253158 loop_end=357741 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-40-32-C5FU.wav
-	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=258934 loop_end=363513 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-40-42-PP9I.wav
-	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=253972 loop_end=358550 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-40-52-9IJV.wav
-<group> key=41 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=256827 loop_end=361041 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-41-22-EKDK.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=255735 loop_end=359941 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-41-32-NADX.wav
-	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=228858 loop_end=349753 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-41-42-6M6F.wav
-	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=238517 loop_end=359419 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-41-52-8O28.wav
-<group> key=42 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=238100 loop_end=342654 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-42-22-8298.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=252741 loop_end=357289 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-42-32-9BFZ.wav
-	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=258996 loop_end=363545 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-42-42-HZMN.wav
-	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=251502 loop_end=356050 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-42-52-XJY0.wav
-<group> key=43 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=257552 loop_end=362082 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-43-22-KNOF.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=255900 loop_end=360429 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-43-32-HDLA.wav
-	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=246817 loop_end=351342 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-43-42-9FJH.wav
-	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=249860 loop_end=354388 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-43-52-K2V4.wav
-<group> key=44 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=252438 loop_end=357027 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-44-22-J4YZ.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=253779 loop_end=357945 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-44-32-9R6N.wav
-	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=254882 loop_end=359466 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-44-42-ER6N.wav
-	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=230180 loop_end=334760 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-44-52-60KS.wav
-<group> key=45 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=258364 loop_end=362712 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-45-22-VV3R.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=258595 loop_end=362945 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-45-32-7GVT.wav
-	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=251692 loop_end=356044 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-45-42-GDWR.wav
-	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=248647 loop_end=353002 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-45-52-RD7N.wav
-<group> key=46 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=245060 loop_end=349605 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-46-22-D69Z.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=255126 loop_end=359664 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-46-32-YWUM.wav
-	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=251306 loop_end=355849 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-46-42-9L2K.wav
-	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=259456 loop_end=364003 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-46-52-Q6WP.wav
-<group> key=47 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=230564 loop_end=334951 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-47-22-8B9I.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=254864 loop_end=359251 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-47-32-NCJ3.wav
-	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=252508 loop_end=356902 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-47-42-PM1W.wav
-	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=252092 loop_end=356481 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-47-52-YF67.wav
-<group> key=48 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=255276 loop_end=359859 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-48-22-EM50.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=257503 loop_end=362080 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-48-32-3D5M.wav
-	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=250506 loop_end=355082 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-48-42-CJ4L.wav
-	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=253000 loop_end=357573 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-48-52-6EJ7.wav
-<group> key=49 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=259801 loop_end=364510 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-49-22-RAPZ.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=250078 loop_end=354472 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-49-32-QCEJ.wav
-	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=255292 loop_end=359684 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-49-42-RYTD.wav
-	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=255417 loop_end=359812 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-49-52-4NOB.wav
-<group> key=50 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=245497 loop_end=350020 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-50-22-W07A.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=254664 loop_end=359173 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-50-32-5YEI.wav
-	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=249514 loop_end=354033 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-50-42-MFSS.wav
-	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=254996 loop_end=359517 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-50-52-CNVP.wav
-<group> key=51 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=245503 loop_end=349811 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-51-22-604G.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=254356 loop_end=358659 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-51-32-FITY.wav
-	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=254741 loop_end=359038 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-51-42-7O93.wav
-	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=257311 loop_end=361617 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-51-52-AQJ9.wav
-<group> key=52 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=258515 loop_end=362821 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-52-22-D25N.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=254601 loop_end=358901 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-52-32-HVPV.wav
-	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=250528 loop_end=354825 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-52-42-PI1T.wav
-	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=256568 loop_end=361130 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-52-52-J0K3.wav
-<group> key=53 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=256091 loop_end=360602 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-53-22-APSF.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=255712 loop_end=360220 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-53-32-DC09.wav
-	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=250435 loop_end=354944 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-53-42-GD6I.wav
-	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=251667 loop_end=356179 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-53-52-MMWS.wav
-<group> key=54 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=206778 loop_end=311115 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-54-22-6LOC.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=254865 loop_end=359436 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-54-32-3VLN.wav
-	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=259478 loop_end=364046 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-54-42-IWJH.wav
-	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=254739 loop_end=359078 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-54-52-3861.wav
-<group> key=55 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=251710 loop_end=356248 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-55-22-P895.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=256747 loop_end=361285 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-55-32-VPAE.wav
-	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=257563 loop_end=362105 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-55-42-I1ZV.wav
-	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=254589 loop_end=359132 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-55-52-RSGU.wav
-<group> key=56 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=258685 loop_end=363053 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-56-22-HGJS.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=260066 loop_end=364431 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-56-32-5EJT.wav
-	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=259562 loop_end=363924 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-56-42-VWI4.wav
-	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=248461 loop_end=352825 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-56-52-GX7G.wav
-<group> key=57 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=173288 loop_end=277708 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-57-22-J7IL.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=260054 loop_end=364478 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-57-32-UH76.wav
-	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=259441 loop_end=363858 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-57-42-ZN2O.wav
-	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=256105 loop_end=360514 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-57-52-NBSY.wav
-<group> key=58 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=251750 loop_end=356135 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-58-22-BIVW.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=259898 loop_end=364275 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-58-32-RN9V.wav
-	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=258812 loop_end=363197 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-58-42-D3UL.wav
-	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=255810 loop_end=360194 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-58-52-ONIR.wav
-<group> key=59 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=259988 loop_end=364382 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-59-22-QRZI.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=255431 loop_end=359826 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-59-32-C1MF.wav
-	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=257408 loop_end=361799 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-59-42-JOBY.wav
-	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=256571 loop_end=360965 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-59-52-TOL6.wav
-<group> key=60 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=182036 loop_end=286452 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-60-22-D9VG.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=258724 loop_end=363141 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-60-32-2EJ7.wav
-	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=259761 loop_end=364179 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-60-42-6DEQ.wav
-	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=259654 loop_end=364068 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-60-52-GIBI.wav
-<group> key=61 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=259792 loop_end=364237 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-61-22-JVQW.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=258917 loop_end=363363 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-61-32-K7P2.wav
-	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=250796 loop_end=355251 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-61-42-W0F9.wav
-	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=240291 loop_end=344744 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-61-52-ENY2.wav
-<group> key=62 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=256648 loop_end=361054 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-62-22-ZENR.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=256419 loop_end=360828 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-62-32-PHI2.wav
-	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=256434 loop_end=360839 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-62-42-I139.wav
-	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=255679 loop_end=360083 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-62-52-3LZ1.wav
-<group> key=63 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=256705 loop_end=361185 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-63-22-F85J.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=256708 loop_end=361187 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-63-32-GKFA.wav
-	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=254855 loop_end=359334 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-63-42-5XDY.wav
-	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=257536 loop_end=362008 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-63-52-Y82T.wav
-<group> key=64 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=172293 loop_end=276757 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-64-22-L2W4.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=256397 loop_end=360862 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-64-32-O3IS.wav
-	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=259128 loop_end=363589 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-64-42-9HLO.wav
-	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=254603 loop_end=359059 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-64-52-239F.wav
-<group> key=65 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=185899 loop_end=290365 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-65-22-SJQ6.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=250012 loop_end=354481 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-65-32-89E9.wav
-	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=255386 loop_end=359851 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-65-42-50EU.wav
-	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=178290 loop_end=282761 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-65-52-HLJU.wav
-<group> key=66 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=252201 loop_end=356602 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-66-22-OKN2.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=259994 loop_end=364507 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-66-32-HOIX.wav
-	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=256181 loop_end=360571 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-66-42-KYUR.wav
-	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=259659 loop_end=364053 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-66-52-DP45.wav
-<group> key=67 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=253533 loop_end=357999 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-67-22-Y4G0.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=258827 loop_end=363181 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-67-32-VP0V.wav
-	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=221525 loop_end=325882 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-67-42-0ZXP.wav
-	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=206340 loop_end=310806 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-67-52-9S0T.wav
-<group> key=68 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=257143 loop_end=361528 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-68-22-PIRX.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=250167 loop_end=354562 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-68-32-XTKJ.wav
-	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=259471 loop_end=363859 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-68-42-9CBX.wav
-	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=255115 loop_end=359507 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-68-52-7BMP.wav
-<group> key=69 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=259394 loop_end=363834 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-69-22-FLHA.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=259057 loop_end=363493 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-69-32-XVZX.wav
-	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=254344 loop_end=358777 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-69-42-0ZDY.wav
-	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=250506 loop_end=354944 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-69-52-CIGX.wav
-<group> key=70 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=174711 loop_end=279104 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-70-22-M9HD.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=258950 loop_end=363339 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-70-32-N733.wav
-	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=253943 loop_end=358330 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-70-42-063E.wav
-	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=256449 loop_end=360931 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-70-52-P9G3.wav
-<group> key=71 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=255216 loop_end=359685 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-71-22-ADGE.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=253950 loop_end=358421 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-71-32-H0DF.wav
-	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=254565 loop_end=358943 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-71-42-8KBV.wav
-	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=256508 loop_end=360975 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-71-52-TKQO.wav
-<group>lokey=72 hikey=118 pitch_keycenter=72 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=257854 loop_end=362301 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-72-22-76JQ.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=248972 loop_end=353424 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-72-32-ZBWZ.wav
-	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=259521 loop_end=363975 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-72-42-6BK5.wav
-	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=255244 loop_end=359692 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-72-52-W08K.wav
+<group>lokey=2 hikey=36 pitch_keycenter=36 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=216985 loop_end=337946  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-36-22-438A.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=196793 loop_end=361676  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-36-32-GDS3.wav
+	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=197916 loop_end=362799  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-36-42-90YM.wav
+	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=197085 loop_end=361959  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-36-52-K1CH.wav
+<group> key=37 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=262950 loop_end=350995  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-37-22-R4TX.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=270906 loop_end=358949  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-37-32-JE1F.wav
+	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=267680 loop_end=355722  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-37-42-7DFL.wav
+	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=274176 loop_end=362216  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-37-52-Y2WV.wav
+<group> key=38 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=240048 loop_end=344214  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-38-22-FSLL.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=198282 loop_end=363263  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-38-32-JC9S.wav
+	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=183291 loop_end=364540  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-38-42-7JCC.wav
+	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=176548 loop_end=357780  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-38-52-TAZV.wav
+<group> key=39 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=254887 loop_end=359450  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-39-22-JLG4.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=251230 loop_end=355798  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-39-32-230F.wav
+	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=196031 loop_end=360847  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-39-42-FZ2J.wav
+	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=189399 loop_end=354200  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-39-52-R2AX.wav
+<group> key=40 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=244738 loop_end=349322  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-40-22-6O5E.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=253158 loop_end=357741  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-40-32-C5FU.wav
+	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=258934 loop_end=363513  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-40-42-PP9I.wav
+	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=253972 loop_end=358550  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-40-52-9IJV.wav
+<group> key=41 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=256827 loop_end=361041  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-41-22-EKDK.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=255735 loop_end=359941  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-41-32-NADX.wav
+	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=228858 loop_end=349753  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-41-42-6M6F.wav
+	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=238517 loop_end=359419  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-41-52-8O28.wav
+<group> key=42 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=238100 loop_end=342654  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-42-22-8298.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=252741 loop_end=357289  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-42-32-9BFZ.wav
+	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=258996 loop_end=363545  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-42-42-HZMN.wav
+	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=251502 loop_end=356050  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-42-52-XJY0.wav
+<group> key=43 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=257552 loop_end=362082  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-43-22-KNOF.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=255900 loop_end=360429  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-43-32-HDLA.wav
+	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=246817 loop_end=351342  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-43-42-9FJH.wav
+	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=249860 loop_end=354388  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-43-52-K2V4.wav
+<group> key=44 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=252438 loop_end=357027  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-44-22-J4YZ.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=253779 loop_end=357945  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-44-32-9R6N.wav
+	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=254882 loop_end=359466  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-44-42-ER6N.wav
+	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=230180 loop_end=334760  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-44-52-60KS.wav
+<group> key=45 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=258364 loop_end=362712  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-45-22-VV3R.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=258595 loop_end=362945  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-45-32-7GVT.wav
+	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=251692 loop_end=356044  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-45-42-GDWR.wav
+	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=248647 loop_end=353002  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-45-52-RD7N.wav
+<group> key=46 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=245060 loop_end=349605  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-46-22-D69Z.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=255126 loop_end=359664  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-46-32-YWUM.wav
+	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=251306 loop_end=355849  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-46-42-9L2K.wav
+	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=259456 loop_end=364003  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-46-52-Q6WP.wav
+<group> key=47 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=230564 loop_end=334951  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-47-22-8B9I.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=254864 loop_end=359251  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-47-32-NCJ3.wav
+	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=252508 loop_end=356902  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-47-42-PM1W.wav
+	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=252092 loop_end=356481  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-47-52-YF67.wav
+<group> key=48 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=255276 loop_end=359859  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-48-22-EM50.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=257503 loop_end=362080  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-48-32-3D5M.wav
+	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=250506 loop_end=355082  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-48-42-CJ4L.wav
+	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=253000 loop_end=357573  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-48-52-6EJ7.wav
+<group> key=49 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=259801 loop_end=364510  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-49-22-RAPZ.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=250078 loop_end=354472  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-49-32-QCEJ.wav
+	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=255292 loop_end=359684  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-49-42-RYTD.wav
+	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=255417 loop_end=359812  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-49-52-4NOB.wav
+<group> key=50 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=245497 loop_end=350020  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-50-22-W07A.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=254664 loop_end=359173  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-50-32-5YEI.wav
+	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=249514 loop_end=354033  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-50-42-MFSS.wav
+	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=254996 loop_end=359517  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-50-52-CNVP.wav
+<group> key=51 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=245503 loop_end=349811  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-51-22-604G.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=254356 loop_end=358659  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-51-32-FITY.wav
+	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=254741 loop_end=359038  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-51-42-7O93.wav
+	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=257311 loop_end=361617  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-51-52-AQJ9.wav
+<group> key=52 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=258515 loop_end=362821  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-52-22-D25N.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=254601 loop_end=358901  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-52-32-HVPV.wav
+	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=250528 loop_end=354825  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-52-42-PI1T.wav
+	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=256568 loop_end=361130  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-52-52-J0K3.wav
+<group> key=53 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=256091 loop_end=360602  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-53-22-APSF.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=255712 loop_end=360220  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-53-32-DC09.wav
+	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=250435 loop_end=354944  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-53-42-GD6I.wav
+	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=251667 loop_end=356179  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-53-52-MMWS.wav
+<group> key=54 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=206778 loop_end=311115  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-54-22-6LOC.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=254865 loop_end=359436  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-54-32-3VLN.wav
+	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=259478 loop_end=364046  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-54-42-IWJH.wav
+	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=254739 loop_end=359078  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-54-52-3861.wav
+<group> key=55 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=251710 loop_end=356248  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-55-22-P895.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=256747 loop_end=361285  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-55-32-VPAE.wav
+	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=257563 loop_end=362105  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-55-42-I1ZV.wav
+	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=254589 loop_end=359132  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-55-52-RSGU.wav
+<group> key=56 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=258685 loop_end=363053  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-56-22-HGJS.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=260066 loop_end=364431  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-56-32-5EJT.wav
+	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=259562 loop_end=363924  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-56-42-VWI4.wav
+	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=248461 loop_end=352825  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-56-52-GX7G.wav
+<group> key=57 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=173288 loop_end=277708  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-57-22-J7IL.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=260054 loop_end=364478  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-57-32-UH76.wav
+	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=259441 loop_end=363858  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-57-42-ZN2O.wav
+	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=256105 loop_end=360514  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-57-52-NBSY.wav
+<group> key=58 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=251750 loop_end=356135  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-58-22-BIVW.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=259898 loop_end=364275  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-58-32-RN9V.wav
+	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=258812 loop_end=363197  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-58-42-D3UL.wav
+	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=255810 loop_end=360194  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-58-52-ONIR.wav
+<group> key=59 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=259988 loop_end=364382  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-59-22-QRZI.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=255431 loop_end=359826  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-59-32-C1MF.wav
+	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=257408 loop_end=361799  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-59-42-JOBY.wav
+	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=256571 loop_end=360965  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-59-52-TOL6.wav
+<group> key=60 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=182036 loop_end=286452  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-60-22-D9VG.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=258724 loop_end=363141  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-60-32-2EJ7.wav
+	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=259761 loop_end=364179  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-60-42-6DEQ.wav
+	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=259654 loop_end=364068  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-60-52-GIBI.wav
+<group> key=61 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=259792 loop_end=364237  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-61-22-JVQW.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=258917 loop_end=363363  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-61-32-K7P2.wav
+	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=250796 loop_end=355251  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-61-42-W0F9.wav
+	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=240291 loop_end=344744  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-61-52-ENY2.wav
+<group> key=62 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=256648 loop_end=361054  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-62-22-ZENR.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=256419 loop_end=360828  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-62-32-PHI2.wav
+	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=256434 loop_end=360839  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-62-42-I139.wav
+	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=255679 loop_end=360083  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-62-52-3LZ1.wav
+<group> key=63 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=256705 loop_end=361185  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-63-22-F85J.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=256708 loop_end=361187  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-63-32-GKFA.wav
+	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=254855 loop_end=359334  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-63-42-5XDY.wav
+	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=257536 loop_end=362008  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-63-52-Y82T.wav
+<group> key=64 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=172293 loop_end=276757  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-64-22-L2W4.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=256397 loop_end=360862  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-64-32-O3IS.wav
+	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=259128 loop_end=363589  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-64-42-9HLO.wav
+	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=254603 loop_end=359059  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-64-52-239F.wav
+<group> key=65 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=185899 loop_end=290365  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-65-22-SJQ6.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=250012 loop_end=354481  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-65-32-89E9.wav
+	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=255386 loop_end=359851  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-65-42-50EU.wav
+	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=178290 loop_end=282761  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-65-52-HLJU.wav
+<group> key=66 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=252201 loop_end=356602  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-66-22-OKN2.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=259994 loop_end=364507  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-66-32-HOIX.wav
+	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=256181 loop_end=360571  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-66-42-KYUR.wav
+	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=259659 loop_end=364053  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-66-52-DP45.wav
+<group> key=67 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=253533 loop_end=357999  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-67-22-Y4G0.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=258827 loop_end=363181  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-67-32-VP0V.wav
+	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=221525 loop_end=325882  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-67-42-0ZXP.wav
+	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=206340 loop_end=310806  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-67-52-9S0T.wav
+<group> key=68 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=257143 loop_end=361528  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-68-22-PIRX.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=250167 loop_end=354562  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-68-32-XTKJ.wav
+	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=259471 loop_end=363859  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-68-42-9CBX.wav
+	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=255115 loop_end=359507  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-68-52-7BMP.wav
+<group> key=69 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=259394 loop_end=363834  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-69-22-FLHA.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=259057 loop_end=363493  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-69-32-XVZX.wav
+	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=254344 loop_end=358777  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-69-42-0ZDY.wav
+	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=250506 loop_end=354944  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-69-52-CIGX.wav
+<group> key=70 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=174711 loop_end=279104  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-70-22-M9HD.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=258950 loop_end=363339  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-70-32-N733.wav
+	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=253943 loop_end=358330  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-70-42-063E.wav
+	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=256449 loop_end=360931  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-70-52-P9G3.wav
+<group> key=71 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=255216 loop_end=359685  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-71-22-ADGE.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=253950 loop_end=358421  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-71-32-H0DF.wav
+	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=254565 loop_end=358943  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-71-42-8KBV.wav
+	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=256508 loop_end=360975  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-71-52-TKQO.wav
+<group>lokey=72 hikey=118 pitch_keycenter=72 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=257854 loop_end=362301  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-72-22-76JQ.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=248972 loop_end=353424  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-72-32-ZBWZ.wav
+	<region> lovel=065 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=259521 loop_end=363975  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-72-42-6BK5.wav
+	<region> lovel=098 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=255244 loop_end=359692  amp_veltrack=0 sample=../Audio/Bonus Audio/Fast PWM/(2016614 203125)/mod101-72-52-W08K.wav

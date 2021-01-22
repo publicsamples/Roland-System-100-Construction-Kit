@@ -1,443 +1,443 @@
 // this file was generated from Mid Res Saw x4 detune.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group>lokey=6 hikey=36 pitch_keycenter=36 pitch_keytrack=1
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=231861 loop_end=351681 sample=../Audio/Saws/101saw-36-127-DI21.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=265451 loop_end=363747 sample=../Audio/Saws/101saw-36-95-0IYT.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=256436 loop_end=354736 sample=../Audio/Saws/101saw-36-64-8DUV.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=237907 loop_end=357727 sample=../Audio/Saws/101saw-36-32-PZNA.wav
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=231861 loop_end=351681 sample=../Audio/Saws/101saw-36-127-DI21.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=265451 loop_end=363747 sample=../Audio/Saws/101saw-36-95-0IYT.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=256436 loop_end=354736 sample=../Audio/Saws/101saw-36-64-8DUV.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=237907 loop_end=357727 sample=../Audio/Saws/101saw-36-32-PZNA.wav
-<group> key=37 pitch_keytrack=1
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=200024 loop_end=278866 sample=../Audio/Saws/101saw-37-127-G8XY.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=280885 loop_end=359739 sample=../Audio/Saws/101saw-37-95-6UAC.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=278840 loop_end=356426 sample=../Audio/Saws/101saw-37-64-8GQG.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=284967 loop_end=363806 sample=../Audio/Saws/101saw-37-32-5UZY.wav
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=200024 loop_end=278866 sample=../Audio/Saws/101saw-37-127-G8XY.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=280885 loop_end=359739 sample=../Audio/Saws/101saw-37-95-6UAC.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=278840 loop_end=356426 sample=../Audio/Saws/101saw-37-64-8GQG.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=284967 loop_end=363806 sample=../Audio/Saws/101saw-37-32-5UZY.wav
-<group> key=38 pitch_keytrack=1
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=256330 loop_end=360775 sample=../Audio/Saws/101saw-38-127-H7OJ.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=249306 loop_end=346570 sample=../Audio/Saws/101saw-38-95-1DAH.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=265427 loop_end=362693 sample=../Audio/Saws/101saw-38-64-P1KN.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=258529 loop_end=362982 sample=../Audio/Saws/101saw-38-32-BQUC.wav
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=256330 loop_end=360775 sample=../Audio/Saws/101saw-38-127-H7OJ.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=249306 loop_end=346570 sample=../Audio/Saws/101saw-38-95-1DAH.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=265427 loop_end=362693 sample=../Audio/Saws/101saw-38-64-P1KN.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=258529 loop_end=362982 sample=../Audio/Saws/101saw-38-32-BQUC.wav
-<group> key=39 pitch_keytrack=1
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=260369 loop_end=346514 sample=../Audio/Saws/101saw-39-127-RRPU.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=266627 loop_end=361858 sample=../Audio/Saws/101saw-39-95-9TW7.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=261490 loop_end=356738 sample=../Audio/Saws/101saw-39-64-D48K.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=261519 loop_end=355608 sample=../Audio/Saws/101saw-39-32-1SXP.wav
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=260369 loop_end=346514 sample=../Audio/Saws/101saw-39-127-RRPU.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=266627 loop_end=361858 sample=../Audio/Saws/101saw-39-95-9TW7.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=261490 loop_end=356738 sample=../Audio/Saws/101saw-39-64-D48K.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=261519 loop_end=355608 sample=../Audio/Saws/101saw-39-32-1SXP.wav
-<group> key=40 pitch_keytrack=1
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=263607 loop_end=358848 sample=../Audio/Saws/101saw-40-127-6VCE.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=165331 loop_end=259527 sample=../Audio/Saws/101saw-40-95-R60T.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=180720 loop_end=274918 sample=../Audio/Saws/101saw-40-64-CNQX.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=258352 loop_end=353600 sample=../Audio/Saws/101saw-40-32-BD0L.wav
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=263607 loop_end=358848 sample=../Audio/Saws/101saw-40-127-6VCE.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=165331 loop_end=259527 sample=../Audio/Saws/101saw-40-95-R60T.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=180720 loop_end=274918 sample=../Audio/Saws/101saw-40-64-CNQX.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=258352 loop_end=353600 sample=../Audio/Saws/101saw-40-32-BD0L.wav
-<group> key=41 pitch_keytrack=1
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=253383 loop_end=326079 sample=../Audio/Saws/101saw-41-127-QKKH.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=290140 loop_end=362852 sample=../Audio/Saws/101saw-41-95-H8YO.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290140 loop_end=363864 sample=../Audio/Saws/101saw-41-64-8FGC.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=231401 loop_end=306119 sample=../Audio/Saws/101saw-41-32-KWKD.wav
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=253383 loop_end=326079 sample=../Audio/Saws/101saw-41-127-QKKH.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=290140 loop_end=362852 sample=../Audio/Saws/101saw-41-95-H8YO.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=290140 loop_end=363864 sample=../Audio/Saws/101saw-41-64-8FGC.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=231401 loop_end=306119 sample=../Audio/Saws/101saw-41-32-KWKD.wav
-<group> key=42 pitch_keytrack=1
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=259125 loop_end=357290 sample=../Audio/Saws/101saw-42-127-Z8RX.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=281557 loop_end=364492 sample=../Audio/Saws/101saw-42-95-BH1K.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=272511 loop_end=356405 sample=../Audio/Saws/101saw-42-64-CQ5O.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=272616 loop_end=356492 sample=../Audio/Saws/101saw-42-32-K59Y.wav
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=259125 loop_end=357290 sample=../Audio/Saws/101saw-42-127-Z8RX.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=281557 loop_end=364492 sample=../Audio/Saws/101saw-42-95-BH1K.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=272511 loop_end=356405 sample=../Audio/Saws/101saw-42-64-CQ5O.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=272616 loop_end=356492 sample=../Audio/Saws/101saw-42-32-K59Y.wav
-<group> key=43 pitch_keytrack=1
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=272587 loop_end=363466 sample=../Audio/Saws/101saw-43-127-3T8D.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=275362 loop_end=362656 sample=../Audio/Saws/101saw-43-95-F6C5.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=271539 loop_end=353440 sample=../Audio/Saws/101saw-43-64-WU5D.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=274321 loop_end=363404 sample=../Audio/Saws/101saw-43-32-NOPE.wav
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=272587 loop_end=363466 sample=../Audio/Saws/101saw-43-127-3T8D.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=275362 loop_end=362656 sample=../Audio/Saws/101saw-43-95-F6C5.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=271539 loop_end=353440 sample=../Audio/Saws/101saw-43-64-WU5D.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=274321 loop_end=363404 sample=../Audio/Saws/101saw-43-32-NOPE.wav
-<group> key=44 pitch_keytrack=1
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=288881 loop_end=364469 sample=../Audio/Saws/101saw-44-127-3IR0.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=286876 loop_end=361627 sample=../Audio/Saws/101saw-44-95-OJ7M.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=287908 loop_end=362664 sample=../Audio/Saws/101saw-44-64-644B.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=286632 loop_end=360524 sample=../Audio/Saws/101saw-44-32-6TRP.wav
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=288881 loop_end=364469 sample=../Audio/Saws/101saw-44-127-3IR0.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=286876 loop_end=361627 sample=../Audio/Saws/101saw-44-95-OJ7M.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=287908 loop_end=362664 sample=../Audio/Saws/101saw-44-64-644B.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=286632 loop_end=360524 sample=../Audio/Saws/101saw-44-32-6TRP.wav
-<group> key=45 pitch_keytrack=1
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=278450 loop_end=362652 sample=../Audio/Saws/101saw-45-127-I9IP.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=282074 loop_end=360676 sample=../Audio/Saws/101saw-45-95-NNYF.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=283851 loop_end=362463 sample=../Audio/Saws/101saw-45-64-WJ0H.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=275703 loop_end=353501 sample=../Audio/Saws/101saw-45-32-UT5Y.wav
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=278450 loop_end=362652 sample=../Audio/Saws/101saw-45-127-I9IP.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=282074 loop_end=360676 sample=../Audio/Saws/101saw-45-95-NNYF.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=283851 loop_end=362463 sample=../Audio/Saws/101saw-45-64-WJ0H.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=275703 loop_end=353501 sample=../Audio/Saws/101saw-45-32-UT5Y.wav
-<group> key=46 pitch_keytrack=1
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=276362 loop_end=361895 sample=../Audio/Saws/101saw-46-127-6AKI.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=272277 loop_end=359336 sample=../Audio/Saws/101saw-46-95-AK6F.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=272279 loop_end=362380 sample=../Audio/Saws/101saw-46-64-0NC7.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=276388 loop_end=363443 sample=../Audio/Saws/101saw-46-32-PT5X.wav
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=276362 loop_end=361895 sample=../Audio/Saws/101saw-46-127-6AKI.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=272277 loop_end=359336 sample=../Audio/Saws/101saw-46-95-AK6F.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=272279 loop_end=362380 sample=../Audio/Saws/101saw-46-64-0NC7.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=276388 loop_end=363443 sample=../Audio/Saws/101saw-46-32-PT5X.wav
-<group> key=47 pitch_keytrack=1
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=286920 loop_end=361940 sample=../Audio/Saws/101saw-47-127-VBVS.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=288597 loop_end=364353 sample=../Audio/Saws/101saw-47-95-HCCB.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=287547 loop_end=363307 sample=../Audio/Saws/101saw-47-64-ZF0U.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=288541 loop_end=364289 sample=../Audio/Saws/101saw-47-32-5DB1.wav
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=286920 loop_end=361940 sample=../Audio/Saws/101saw-47-127-VBVS.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=288597 loop_end=364353 sample=../Audio/Saws/101saw-47-95-HCCB.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=287547 loop_end=363307 sample=../Audio/Saws/101saw-47-64-ZF0U.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=288541 loop_end=364289 sample=../Audio/Saws/101saw-47-32-5DB1.wav
-<group> key=48 pitch_keytrack=1
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=279115 loop_end=358016 sample=../Audio/Saws/101saw-48-127-R6SO.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=280757 loop_end=361695 sample=../Audio/Saws/101saw-48-95-34TQ.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=276338 loop_end=357285 sample=../Audio/Saws/101saw-48-64-KCWK.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=286491 loop_end=363376 sample=../Audio/Saws/101saw-48-32-3QEY.wav
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=279115 loop_end=358016 sample=../Audio/Saws/101saw-48-127-R6SO.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=280757 loop_end=361695 sample=../Audio/Saws/101saw-48-95-34TQ.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=276338 loop_end=357285 sample=../Audio/Saws/101saw-48-64-KCWK.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=286491 loop_end=363376 sample=../Audio/Saws/101saw-48-32-3QEY.wav
-<group> key=49 pitch_keytrack=1
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=278458 loop_end=361173 sample=../Audio/Saws/101saw-49-127-5CF5.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=286650 loop_end=362387 sample=../Audio/Saws/101saw-49-95-364Z.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=286830 loop_end=363208 sample=../Audio/Saws/101saw-49-64-C6XL.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=288295 loop_end=364027 sample=../Audio/Saws/101saw-49-32-SP4C.wav
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=278458 loop_end=361173 sample=../Audio/Saws/101saw-49-127-5CF5.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=286650 loop_end=362387 sample=../Audio/Saws/101saw-49-95-364Z.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=286830 loop_end=363208 sample=../Audio/Saws/101saw-49-64-C6XL.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=288295 loop_end=364027 sample=../Audio/Saws/101saw-49-32-SP4C.wav
-<group> key=50 pitch_keytrack=1
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=281547 loop_end=362016 sample=../Audio/Saws/101saw-50-127-JB5N.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=283459 loop_end=363349 sample=../Audio/Saws/101saw-50-95-IV5H.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=280235 loop_end=359526 sample=../Audio/Saws/101saw-50-64-KT12.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=283166 loop_end=362444 sample=../Audio/Saws/101saw-50-32-59LQ.wav
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=281547 loop_end=362016 sample=../Audio/Saws/101saw-50-127-JB5N.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=283459 loop_end=363349 sample=../Audio/Saws/101saw-50-95-IV5H.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=280235 loop_end=359526 sample=../Audio/Saws/101saw-50-64-KT12.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=283166 loop_end=362444 sample=../Audio/Saws/101saw-50-32-59LQ.wav
-<group> key=51 pitch_keytrack=1
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=290369 loop_end=363487 sample=../Audio/Saws/101saw-51-127-7MWJ.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=290751 loop_end=363317 sample=../Audio/Saws/101saw-51-95-VCUZ.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290644 loop_end=364349 sample=../Audio/Saws/101saw-51-64-F0YB.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=290241 loop_end=364501 sample=../Audio/Saws/101saw-51-32-ORJR.wav
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=290369 loop_end=363487 sample=../Audio/Saws/101saw-51-127-7MWJ.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=290751 loop_end=363317 sample=../Audio/Saws/101saw-51-95-VCUZ.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=290644 loop_end=364349 sample=../Audio/Saws/101saw-51-64-F0YB.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=290241 loop_end=364501 sample=../Audio/Saws/101saw-51-32-ORJR.wav
-<group> key=52 pitch_keytrack=1
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=289545 loop_end=361756 sample=../Audio/Saws/101saw-52-127-4VF0.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=280117 loop_end=363051 sample=../Audio/Saws/101saw-52-95-3QRN.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=278485 loop_end=361423 sample=../Audio/Saws/101saw-52-64-H3UV.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=290115 loop_end=364472 sample=../Audio/Saws/101saw-52-32-J90S.wav
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=289545 loop_end=361756 sample=../Audio/Saws/101saw-52-127-4VF0.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=280117 loop_end=363051 sample=../Audio/Saws/101saw-52-95-3QRN.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=278485 loop_end=361423 sample=../Audio/Saws/101saw-52-64-H3UV.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=290115 loop_end=364472 sample=../Audio/Saws/101saw-52-32-J90S.wav
-<group> key=53 pitch_keytrack=1
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=287137 loop_end=364413 sample=../Audio/Saws/101saw-53-127-862F.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=287768 loop_end=364048 sample=../Audio/Saws/101saw-53-95-G65B.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290324 loop_end=364076 sample=../Audio/Saws/101saw-53-64-1RAW.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=290712 loop_end=363442 sample=../Audio/Saws/101saw-53-32-DNF5.wav
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=287137 loop_end=364413 sample=../Audio/Saws/101saw-53-127-862F.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=287768 loop_end=364048 sample=../Audio/Saws/101saw-53-95-G65B.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=290324 loop_end=364076 sample=../Audio/Saws/101saw-53-64-1RAW.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=290712 loop_end=363442 sample=../Audio/Saws/101saw-53-32-DNF5.wav
-<group> key=54 pitch_keytrack=1
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=287904 loop_end=364162 sample=../Audio/Saws/101saw-54-127-4G2J.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=287662 loop_end=362985 sample=../Audio/Saws/101saw-54-95-8UNZ.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=287411 loop_end=362737 sample=../Audio/Saws/101saw-54-64-MK3F.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=287775 loop_end=364515 sample=../Audio/Saws/101saw-54-32-I200.wav
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=287904 loop_end=364162 sample=../Audio/Saws/101saw-54-127-4G2J.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=287662 loop_end=362985 sample=../Audio/Saws/101saw-54-95-8UNZ.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=287411 loop_end=362737 sample=../Audio/Saws/101saw-54-64-MK3F.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=287775 loop_end=364515 sample=../Audio/Saws/101saw-54-32-I200.wav
-<group> key=55 pitch_keytrack=1
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=290686 loop_end=363561 sample=../Audio/Saws/101saw-55-127-A5UJ.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=290699 loop_end=364486 sample=../Audio/Saws/101saw-55-95-HH3C.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290442 loop_end=364231 sample=../Audio/Saws/101saw-55-64-6ARM.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=290420 loop_end=363746 sample=../Audio/Saws/101saw-55-32-HWB4.wav
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=290686 loop_end=363561 sample=../Audio/Saws/101saw-55-127-A5UJ.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=290699 loop_end=364486 sample=../Audio/Saws/101saw-55-95-HH3C.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=290442 loop_end=364231 sample=../Audio/Saws/101saw-55-64-6ARM.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=290420 loop_end=363746 sample=../Audio/Saws/101saw-55-32-HWB4.wav
-<group> key=56 pitch_keytrack=1
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=289367 loop_end=364504 sample=../Audio/Saws/101saw-56-127-NMHW.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=289249 loop_end=363549 sample=../Audio/Saws/101saw-56-95-SDBW.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=288683 loop_end=363406 sample=../Audio/Saws/101saw-56-64-5T3H.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=289690 loop_end=363552 sample=../Audio/Saws/101saw-56-32-4VNU.wav
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=289367 loop_end=364504 sample=../Audio/Saws/101saw-56-127-NMHW.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=289249 loop_end=363549 sample=../Audio/Saws/101saw-56-95-SDBW.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=288683 loop_end=363406 sample=../Audio/Saws/101saw-56-64-5T3H.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=289690 loop_end=363552 sample=../Audio/Saws/101saw-56-32-4VNU.wav
-<group> key=57 pitch_keytrack=1
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=289630 loop_end=363977 sample=../Audio/Saws/101saw-57-127-KM1Z.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=289756 loop_end=362909 sample=../Audio/Saws/101saw-57-95-MF1N.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=288654 loop_end=363418 sample=../Audio/Saws/101saw-57-64-94NM.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=289667 loop_end=362810 sample=../Audio/Saws/101saw-57-32-BY0N.wav
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=289630 loop_end=363977 sample=../Audio/Saws/101saw-57-127-KM1Z.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=289756 loop_end=362909 sample=../Audio/Saws/101saw-57-95-MF1N.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=288654 loop_end=363418 sample=../Audio/Saws/101saw-57-64-94NM.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=289667 loop_end=362810 sample=../Audio/Saws/101saw-57-32-BY0N.wav
-<group> key=58 pitch_keytrack=1
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=289429 loop_end=364516 sample=../Audio/Saws/101saw-58-127-YNX8.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=289671 loop_end=364015 sample=../Audio/Saws/101saw-58-95-FFK4.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=289696 loop_end=364417 sample=../Audio/Saws/101saw-58-64-0S00.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=289602 loop_end=364312 sample=../Audio/Saws/101saw-58-32-78CU.wav
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=289429 loop_end=364516 sample=../Audio/Saws/101saw-58-127-YNX8.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=289671 loop_end=364015 sample=../Audio/Saws/101saw-58-95-FFK4.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=289696 loop_end=364417 sample=../Audio/Saws/101saw-58-64-0S00.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=289602 loop_end=364312 sample=../Audio/Saws/101saw-58-32-78CU.wav
-<group> key=59 pitch_keytrack=1
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=290251 loop_end=362906 sample=../Audio/Saws/101saw-59-127-2P2P.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=290163 loop_end=363903 sample=../Audio/Saws/101saw-59-95-8VDD.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290591 loop_end=363975 sample=../Audio/Saws/101saw-59-64-YHOX.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=290010 loop_end=362664 sample=../Audio/Saws/101saw-59-32-WJS8.wav
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=290251 loop_end=362906 sample=../Audio/Saws/101saw-59-127-2P2P.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=290163 loop_end=363903 sample=../Audio/Saws/101saw-59-95-8VDD.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=290591 loop_end=363975 sample=../Audio/Saws/101saw-59-64-YHOX.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=290010 loop_end=362664 sample=../Audio/Saws/101saw-59-32-WJS8.wav
-<group> key=60 pitch_keytrack=1
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=290591 loop_end=363198 sample=../Audio/Saws/101saw-60-127-O8Y4.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=289528 loop_end=364176 sample=../Audio/Saws/101saw-60-95-JMI9.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=288541 loop_end=364206 sample=../Audio/Saws/101saw-60-64-YA4O.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=290723 loop_end=363001 sample=../Audio/Saws/101saw-60-32-01V7.wav
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=290591 loop_end=363198 sample=../Audio/Saws/101saw-60-127-O8Y4.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=289528 loop_end=364176 sample=../Audio/Saws/101saw-60-95-JMI9.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=288541 loop_end=364206 sample=../Audio/Saws/101saw-60-64-YA4O.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=290723 loop_end=363001 sample=../Audio/Saws/101saw-60-32-01V7.wav
-<group> key=61 pitch_keytrack=1
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=289019 loop_end=364258 sample=../Audio/Saws/101saw-61-127-FPVA.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=287620 loop_end=359685 sample=../Audio/Saws/101saw-61-95-SYTJ.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=289332 loop_end=363318 sample=../Audio/Saws/101saw-61-64-5TB9.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=288673 loop_end=364232 sample=../Audio/Saws/101saw-61-32-CILQ.wav
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=289019 loop_end=364258 sample=../Audio/Saws/101saw-61-127-FPVA.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=287620 loop_end=359685 sample=../Audio/Saws/101saw-61-95-SYTJ.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=289332 loop_end=363318 sample=../Audio/Saws/101saw-61-64-5TB9.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=288673 loop_end=364232 sample=../Audio/Saws/101saw-61-32-CILQ.wav
-<group> key=62 pitch_keytrack=1
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=289601 loop_end=364511 sample=../Audio/Saws/101saw-62-127-3LQQ.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=290762 loop_end=362672 sample=../Audio/Saws/101saw-62-95-HS1N.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=289695 loop_end=363418 sample=../Audio/Saws/101saw-62-64-JCUH.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=288244 loop_end=364356 sample=../Audio/Saws/101saw-62-32-FU2R.wav
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=289601 loop_end=364511 sample=../Audio/Saws/101saw-62-127-3LQQ.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=290762 loop_end=362672 sample=../Audio/Saws/101saw-62-95-HS1N.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=289695 loop_end=363418 sample=../Audio/Saws/101saw-62-64-JCUH.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=288244 loop_end=364356 sample=../Audio/Saws/101saw-62-32-FU2R.wav
-<group> key=63 pitch_keytrack=1
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=288868 loop_end=363247 sample=../Audio/Saws/101saw-63-127-QZRT.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=289410 loop_end=364368 sample=../Audio/Saws/101saw-63-95-WZEJ.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290734 loop_end=364291 sample=../Audio/Saws/101saw-63-64-G2JC.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=288255 loop_end=364344 sample=../Audio/Saws/101saw-63-32-PYDW.wav
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=288868 loop_end=363247 sample=../Audio/Saws/101saw-63-127-QZRT.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=289410 loop_end=364368 sample=../Audio/Saws/101saw-63-95-WZEJ.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=290734 loop_end=364291 sample=../Audio/Saws/101saw-63-64-G2JC.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=288255 loop_end=364344 sample=../Audio/Saws/101saw-63-32-PYDW.wav
-<group> key=64 pitch_keytrack=1
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=288671 loop_end=364483 sample=../Audio/Saws/101saw-64-127-JO1Y.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=290532 loop_end=362601 sample=../Audio/Saws/101saw-64-95-J8M4.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290594 loop_end=364285 sample=../Audio/Saws/101saw-64-64-TOVV.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=288673 loop_end=363679 sample=../Audio/Saws/101saw-64-32-7CVD.wav
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=288671 loop_end=364483 sample=../Audio/Saws/101saw-64-127-JO1Y.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=290532 loop_end=362601 sample=../Audio/Saws/101saw-64-95-J8M4.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=290594 loop_end=364285 sample=../Audio/Saws/101saw-64-64-TOVV.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=288673 loop_end=363679 sample=../Audio/Saws/101saw-64-32-7CVD.wav
-<group> key=65 pitch_keytrack=1
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=286387 loop_end=363717 sample=../Audio/Saws/101saw-65-127-8AQW.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=290601 loop_end=363890 sample=../Audio/Saws/101saw-65-95-X9LI.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290776 loop_end=364341 sample=../Audio/Saws/101saw-65-64-36QV.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=289999 loop_end=363791 sample=../Audio/Saws/101saw-65-32-MVV3.wav
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=286387 loop_end=363717 sample=../Audio/Saws/101saw-65-127-8AQW.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=290601 loop_end=363890 sample=../Audio/Saws/101saw-65-95-X9LI.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=290776 loop_end=364341 sample=../Audio/Saws/101saw-65-64-36QV.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=289999 loop_end=363791 sample=../Audio/Saws/101saw-65-32-MVV3.wav
-<group> key=66 pitch_keytrack=1
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=290585 loop_end=364506 sample=../Audio/Saws/101saw-66-127-LAFS.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=289157 loop_end=363799 sample=../Audio/Saws/101saw-66-95-DEC4.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290112 loop_end=363343 sample=../Audio/Saws/101saw-66-64-RQ6E.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=287413 loop_end=363003 sample=../Audio/Saws/101saw-66-32-G0W2.wav
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=290585 loop_end=364506 sample=../Audio/Saws/101saw-66-127-LAFS.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=289157 loop_end=363799 sample=../Audio/Saws/101saw-66-95-DEC4.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=290112 loop_end=363343 sample=../Audio/Saws/101saw-66-64-RQ6E.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=287413 loop_end=363003 sample=../Audio/Saws/101saw-66-32-G0W2.wav
-<group> key=67 pitch_keytrack=1
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=288356 loop_end=361039 sample=../Audio/Saws/101saw-67-127-7N1R.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=288102 loop_end=363491 sample=../Audio/Saws/101saw-67-95-C59I.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290760 loop_end=363012 sample=../Audio/Saws/101saw-67-64-98NH.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=289359 loop_end=362038 sample=../Audio/Saws/101saw-67-32-BE31.wav
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=288356 loop_end=361039 sample=../Audio/Saws/101saw-67-127-7N1R.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=288102 loop_end=363491 sample=../Audio/Saws/101saw-67-95-C59I.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=290760 loop_end=363012 sample=../Audio/Saws/101saw-67-64-98NH.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=289359 loop_end=362038 sample=../Audio/Saws/101saw-67-32-BE31.wav
-<group> key=68 pitch_keytrack=1
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=290494 loop_end=363746 sample=../Audio/Saws/101saw-68-127-4CLH.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=289440 loop_end=364393 sample=../Audio/Saws/101saw-68-95-RC36.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290163 loop_end=364498 sample=../Audio/Saws/101saw-68-64-FCIJ.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=288624 loop_end=364416 sample=../Audio/Saws/101saw-68-32-0SMF.wav
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=290494 loop_end=363746 sample=../Audio/Saws/101saw-68-127-4CLH.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=289440 loop_end=364393 sample=../Audio/Saws/101saw-68-95-RC36.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=290163 loop_end=364498 sample=../Audio/Saws/101saw-68-64-FCIJ.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=288624 loop_end=364416 sample=../Audio/Saws/101saw-68-32-0SMF.wav
-<group> key=69 pitch_keytrack=1
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=290631 loop_end=364186 sample=../Audio/Saws/101saw-69-127-TB2K.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=288634 loop_end=363997 sample=../Audio/Saws/101saw-69-95-FRI2.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290589 loop_end=364362 sample=../Audio/Saws/101saw-69-64-8PK4.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=288484 loop_end=363838 sample=../Audio/Saws/101saw-69-32-4LWR.wav
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=290631 loop_end=364186 sample=../Audio/Saws/101saw-69-127-TB2K.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=288634 loop_end=363997 sample=../Audio/Saws/101saw-69-95-FRI2.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=290589 loop_end=364362 sample=../Audio/Saws/101saw-69-64-8PK4.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=288484 loop_end=363838 sample=../Audio/Saws/101saw-69-32-4LWR.wav
-<group> key=70 pitch_keytrack=1
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=290054 loop_end=364371 sample=../Audio/Saws/101saw-70-127-IABZ.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=287669 loop_end=361235 sample=../Audio/Saws/101saw-70-95-OE03.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=289512 loop_end=364412 sample=../Audio/Saws/101saw-70-64-PQPJ.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=169635 loop_end=244520 sample=../Audio/Saws/101saw-70-32-Z536.wav
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=290054 loop_end=364371 sample=../Audio/Saws/101saw-70-127-IABZ.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=287669 loop_end=361235 sample=../Audio/Saws/101saw-70-95-OE03.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=289512 loop_end=364412 sample=../Audio/Saws/101saw-70-64-PQPJ.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=169635 loop_end=244520 sample=../Audio/Saws/101saw-70-32-Z536.wav
-<group> key=71 pitch_keytrack=1
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=287620 loop_end=361141 sample=../Audio/Saws/101saw-71-127-NWCS.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=288566 loop_end=363879 sample=../Audio/Saws/101saw-71-95-3J1E.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290262 loop_end=364513 sample=../Audio/Saws/101saw-71-64-IL65.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=178217 loop_end=251019 sample=../Audio/Saws/101saw-71-32-SS4M.wav
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=287620 loop_end=361141 sample=../Audio/Saws/101saw-71-127-NWCS.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=288566 loop_end=363879 sample=../Audio/Saws/101saw-71-95-3J1E.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=290262 loop_end=364513 sample=../Audio/Saws/101saw-71-64-IL65.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=178217 loop_end=251019 sample=../Audio/Saws/101saw-71-32-SS4M.wav
-<group> key=72 pitch_keytrack=1
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=285030 loop_end=363323 sample=../Audio/Saws/101saw-72-127-MECJ.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=286475 loop_end=363934 sample=../Audio/Saws/101saw-72-95-IDAZ.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290230 loop_end=364328 sample=../Audio/Saws/101saw-72-64-7JJL.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=162162 loop_end=234901 sample=../Audio/Saws/101saw-72-32-QTYC.wav
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=285030 loop_end=363323 sample=../Audio/Saws/101saw-72-127-MECJ.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=286475 loop_end=363934 sample=../Audio/Saws/101saw-72-95-IDAZ.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=290230 loop_end=364328 sample=../Audio/Saws/101saw-72-64-7JJL.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=162162 loop_end=234901 sample=../Audio/Saws/101saw-72-32-QTYC.wav
-<group> key=73 pitch_keytrack=1
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=285706 loop_end=364147 sample=../Audio/Saws/101saw-73-127-6W2N.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=289138 loop_end=362822 sample=../Audio/Saws/101saw-73-95-9TMI.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290091 loop_end=364255 sample=../Audio/Saws/101saw-73-64-9XZ3.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=163729 loop_end=236768 sample=../Audio/Saws/101saw-73-32-PVY3.wav
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=285706 loop_end=364147 sample=../Audio/Saws/101saw-73-127-6W2N.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=289138 loop_end=362822 sample=../Audio/Saws/101saw-73-95-9TMI.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=290091 loop_end=364255 sample=../Audio/Saws/101saw-73-64-9XZ3.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=163729 loop_end=236768 sample=../Audio/Saws/101saw-73-32-PVY3.wav
-<group> key=74 pitch_keytrack=1
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=285726 loop_end=360937 sample=../Audio/Saws/101saw-74-127-NF6H.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=289109 loop_end=364024 sample=../Audio/Saws/101saw-74-95-ZGRZ.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=288666 loop_end=364487 sample=../Audio/Saws/101saw-74-64-1GSE.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=166631 loop_end=241092 sample=../Audio/Saws/101saw-74-32-LD01.wav
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=285726 loop_end=360937 sample=../Audio/Saws/101saw-74-127-NF6H.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=289109 loop_end=364024 sample=../Audio/Saws/101saw-74-95-ZGRZ.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=288666 loop_end=364487 sample=../Audio/Saws/101saw-74-64-1GSE.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=166631 loop_end=241092 sample=../Audio/Saws/101saw-74-32-LD01.wav
-<group> key=75 pitch_keytrack=1
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=281502 loop_end=361809 sample=../Audio/Saws/101saw-75-127-C5S0.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=290282 loop_end=364225 sample=../Audio/Saws/101saw-75-95-E9FK.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=287854 loop_end=363638 sample=../Audio/Saws/101saw-75-64-A95X.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=162742 loop_end=234987 sample=../Audio/Saws/101saw-75-32-1VS5.wav
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=281502 loop_end=361809 sample=../Audio/Saws/101saw-75-127-C5S0.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=290282 loop_end=364225 sample=../Audio/Saws/101saw-75-95-E9FK.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=287854 loop_end=363638 sample=../Audio/Saws/101saw-75-64-A95X.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=162742 loop_end=234987 sample=../Audio/Saws/101saw-75-32-1VS5.wav
-<group> key=76 pitch_keytrack=1
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=288616 loop_end=362918 sample=../Audio/Saws/101saw-76-127-YR17.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=290702 loop_end=363934 sample=../Audio/Saws/101saw-76-95-N1GE.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=288664 loop_end=364439 sample=../Audio/Saws/101saw-76-64-DF4Z.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=166306 loop_end=240202 sample=../Audio/Saws/101saw-76-32-45ED.wav
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=288616 loop_end=362918 sample=../Audio/Saws/101saw-76-127-YR17.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=290702 loop_end=363934 sample=../Audio/Saws/101saw-76-95-N1GE.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=288664 loop_end=364439 sample=../Audio/Saws/101saw-76-64-DF4Z.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=166306 loop_end=240202 sample=../Audio/Saws/101saw-76-32-45ED.wav
-<group> key=77 pitch_keytrack=1
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=289670 loop_end=363333 sample=../Audio/Saws/101saw-77-127-8NZ7.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=286194 loop_end=360228 sample=../Audio/Saws/101saw-77-95-7EYL.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290281 loop_end=364450 sample=../Audio/Saws/101saw-77-64-13II.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=162214 loop_end=234992 sample=../Audio/Saws/101saw-77-32-ZP7C.wav
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=289670 loop_end=363333 sample=../Audio/Saws/101saw-77-127-8NZ7.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=286194 loop_end=360228 sample=../Audio/Saws/101saw-77-95-7EYL.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=290281 loop_end=364450 sample=../Audio/Saws/101saw-77-64-13II.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=162214 loop_end=234992 sample=../Audio/Saws/101saw-77-32-ZP7C.wav
-<group> key=78 pitch_keytrack=1
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=286291 loop_end=362445 sample=../Audio/Saws/101saw-78-127-G9SV.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=289669 loop_end=364513 sample=../Audio/Saws/101saw-78-95-CD5Y.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290122 loop_end=364258 sample=../Audio/Saws/101saw-78-64-DW6W.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=166369 loop_end=240497 sample=../Audio/Saws/101saw-78-32-SPUX.wav
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=286291 loop_end=362445 sample=../Audio/Saws/101saw-78-127-G9SV.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=289669 loop_end=364513 sample=../Audio/Saws/101saw-78-95-CD5Y.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=290122 loop_end=364258 sample=../Audio/Saws/101saw-78-64-DW6W.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=166369 loop_end=240497 sample=../Audio/Saws/101saw-78-32-SPUX.wav
-<group> key=79 pitch_keytrack=1
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=289707 loop_end=364258 sample=../Audio/Saws/101saw-79-127-VSXQ.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=289409 loop_end=364187 sample=../Audio/Saws/101saw-79-95-RIT1.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=288576 loop_end=364368 sample=../Audio/Saws/101saw-79-64-NCPP.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=172451 loop_end=244868 sample=../Audio/Saws/101saw-79-32-PK1J.wav
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=289707 loop_end=364258 sample=../Audio/Saws/101saw-79-127-VSXQ.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=289409 loop_end=364187 sample=../Audio/Saws/101saw-79-95-RIT1.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=288576 loop_end=364368 sample=../Audio/Saws/101saw-79-64-NCPP.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=172451 loop_end=244868 sample=../Audio/Saws/101saw-79-32-PK1J.wav
-<group> key=80 pitch_keytrack=1
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=289658 loop_end=364227 sample=../Audio/Saws/101saw-80-127-8EQL.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=285472 loop_end=360362 sample=../Audio/Saws/101saw-80-95-5OXI.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=288004 loop_end=364268 sample=../Audio/Saws/101saw-80-64-LKU8.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=165857 loop_end=238309 sample=../Audio/Saws/101saw-80-32-7CO7.wav
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=289658 loop_end=364227 sample=../Audio/Saws/101saw-80-127-8EQL.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=285472 loop_end=360362 sample=../Audio/Saws/101saw-80-95-5OXI.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=288004 loop_end=364268 sample=../Audio/Saws/101saw-80-64-LKU8.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=165857 loop_end=238309 sample=../Audio/Saws/101saw-80-32-7CO7.wav
-<group> key=81 pitch_keytrack=1
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=284575 loop_end=362394 sample=../Audio/Saws/101saw-81-127-735Q.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=287805 loop_end=364134 sample=../Audio/Saws/101saw-81-95-WPY7.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=288705 loop_end=363338 sample=../Audio/Saws/101saw-81-64-T6GC.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=165310 loop_end=238140 sample=../Audio/Saws/101saw-81-32-Y4R9.wav
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=284575 loop_end=362394 sample=../Audio/Saws/101saw-81-127-735Q.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=287805 loop_end=364134 sample=../Audio/Saws/101saw-81-95-WPY7.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=288705 loop_end=363338 sample=../Audio/Saws/101saw-81-64-T6GC.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=165310 loop_end=238140 sample=../Audio/Saws/101saw-81-32-Y4R9.wav
-<group> key=82 pitch_keytrack=1
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=284588 loop_end=362059 sample=../Audio/Saws/101saw-82-127-YB12.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=289307 loop_end=364145 sample=../Audio/Saws/101saw-82-95-WMF8.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290722 loop_end=364251 sample=../Audio/Saws/101saw-82-64-H3DV.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=183304 loop_end=256160 sample=../Audio/Saws/101saw-82-32-L761.wav
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=284588 loop_end=362059 sample=../Audio/Saws/101saw-82-127-YB12.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=289307 loop_end=364145 sample=../Audio/Saws/101saw-82-95-WMF8.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=290722 loop_end=364251 sample=../Audio/Saws/101saw-82-64-H3DV.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=183304 loop_end=256160 sample=../Audio/Saws/101saw-82-32-L761.wav
-<group> key=83 pitch_keytrack=1
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=282154 loop_end=361296 sample=../Audio/Saws/101saw-83-127-E8W8.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=288514 loop_end=363045 sample=../Audio/Saws/101saw-83-95-72L4.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290532 loop_end=364355 sample=../Audio/Saws/101saw-83-64-RR13.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=162453 loop_end=235825 sample=../Audio/Saws/101saw-83-32-WIAN.wav
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=282154 loop_end=361296 sample=../Audio/Saws/101saw-83-127-E8W8.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=288514 loop_end=363045 sample=../Audio/Saws/101saw-83-95-72L4.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=290532 loop_end=364355 sample=../Audio/Saws/101saw-83-64-RR13.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=162453 loop_end=235825 sample=../Audio/Saws/101saw-83-32-WIAN.wav
-<group>lokey=84 hikey=120 pitch_keycenter=84 pitch_keytrack=1
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=282510 loop_end=362963 sample=../Audio/Saws/101saw-84-127-1EOT.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=289517 loop_end=363940 sample=../Audio/Saws/101saw-84-95-W3LC.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=289338 loop_end=364020 sample=../Audio/Saws/101saw-84-64-2CND.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=163528 loop_end=236357 sample=../Audio/Saws/101saw-84-32-0O35.wav
-	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=282510 loop_end=362963 sample=../Audio/Saws/101saw-84-127-1EOT.wav
-	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=289517 loop_end=363940 sample=../Audio/Saws/101saw-84-95-W3LC.wav
-	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=289338 loop_end=364020 sample=../Audio/Saws/101saw-84-64-2CND.wav
-	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=163528 loop_end=236357 sample=../Audio/Saws/101saw-84-32-0O35.wav
+<group>lokey=6 hikey=36 pitch_keycenter=36 
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=231861 loop_end=351681  amp_veltrack=0 sample=../Audio/Saws/101saw-36-127-DI21.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=265451 loop_end=363747  amp_veltrack=0 sample=../Audio/Saws/101saw-36-95-0IYT.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=256436 loop_end=354736  amp_veltrack=0 sample=../Audio/Saws/101saw-36-64-8DUV.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=237907 loop_end=357727  amp_veltrack=0 sample=../Audio/Saws/101saw-36-32-PZNA.wav
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=231861 loop_end=351681  amp_veltrack=0 sample=../Audio/Saws/101saw-36-127-DI21.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=265451 loop_end=363747  amp_veltrack=0 sample=../Audio/Saws/101saw-36-95-0IYT.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=256436 loop_end=354736  amp_veltrack=0 sample=../Audio/Saws/101saw-36-64-8DUV.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=237907 loop_end=357727  amp_veltrack=0 sample=../Audio/Saws/101saw-36-32-PZNA.wav
+<group> key=37 
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=200024 loop_end=278866  amp_veltrack=0 sample=../Audio/Saws/101saw-37-127-G8XY.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=280885 loop_end=359739  amp_veltrack=0 sample=../Audio/Saws/101saw-37-95-6UAC.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=278840 loop_end=356426  amp_veltrack=0 sample=../Audio/Saws/101saw-37-64-8GQG.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=284967 loop_end=363806  amp_veltrack=0 sample=../Audio/Saws/101saw-37-32-5UZY.wav
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=200024 loop_end=278866  amp_veltrack=0 sample=../Audio/Saws/101saw-37-127-G8XY.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=280885 loop_end=359739  amp_veltrack=0 sample=../Audio/Saws/101saw-37-95-6UAC.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=278840 loop_end=356426  amp_veltrack=0 sample=../Audio/Saws/101saw-37-64-8GQG.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=284967 loop_end=363806  amp_veltrack=0 sample=../Audio/Saws/101saw-37-32-5UZY.wav
+<group> key=38 
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=256330 loop_end=360775  amp_veltrack=0 sample=../Audio/Saws/101saw-38-127-H7OJ.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=249306 loop_end=346570  amp_veltrack=0 sample=../Audio/Saws/101saw-38-95-1DAH.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=265427 loop_end=362693  amp_veltrack=0 sample=../Audio/Saws/101saw-38-64-P1KN.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=258529 loop_end=362982  amp_veltrack=0 sample=../Audio/Saws/101saw-38-32-BQUC.wav
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=256330 loop_end=360775  amp_veltrack=0 sample=../Audio/Saws/101saw-38-127-H7OJ.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=249306 loop_end=346570  amp_veltrack=0 sample=../Audio/Saws/101saw-38-95-1DAH.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=265427 loop_end=362693  amp_veltrack=0 sample=../Audio/Saws/101saw-38-64-P1KN.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=258529 loop_end=362982  amp_veltrack=0 sample=../Audio/Saws/101saw-38-32-BQUC.wav
+<group> key=39 
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=260369 loop_end=346514  amp_veltrack=0 sample=../Audio/Saws/101saw-39-127-RRPU.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=266627 loop_end=361858  amp_veltrack=0 sample=../Audio/Saws/101saw-39-95-9TW7.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=261490 loop_end=356738  amp_veltrack=0 sample=../Audio/Saws/101saw-39-64-D48K.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=261519 loop_end=355608  amp_veltrack=0 sample=../Audio/Saws/101saw-39-32-1SXP.wav
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=260369 loop_end=346514  amp_veltrack=0 sample=../Audio/Saws/101saw-39-127-RRPU.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=266627 loop_end=361858  amp_veltrack=0 sample=../Audio/Saws/101saw-39-95-9TW7.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=261490 loop_end=356738  amp_veltrack=0 sample=../Audio/Saws/101saw-39-64-D48K.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=261519 loop_end=355608  amp_veltrack=0 sample=../Audio/Saws/101saw-39-32-1SXP.wav
+<group> key=40 
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=263607 loop_end=358848  amp_veltrack=0 sample=../Audio/Saws/101saw-40-127-6VCE.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=165331 loop_end=259527  amp_veltrack=0 sample=../Audio/Saws/101saw-40-95-R60T.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=180720 loop_end=274918  amp_veltrack=0 sample=../Audio/Saws/101saw-40-64-CNQX.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=258352 loop_end=353600  amp_veltrack=0 sample=../Audio/Saws/101saw-40-32-BD0L.wav
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=263607 loop_end=358848  amp_veltrack=0 sample=../Audio/Saws/101saw-40-127-6VCE.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=165331 loop_end=259527  amp_veltrack=0 sample=../Audio/Saws/101saw-40-95-R60T.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=180720 loop_end=274918  amp_veltrack=0 sample=../Audio/Saws/101saw-40-64-CNQX.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=258352 loop_end=353600  amp_veltrack=0 sample=../Audio/Saws/101saw-40-32-BD0L.wav
+<group> key=41 
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=253383 loop_end=326079  amp_veltrack=0 sample=../Audio/Saws/101saw-41-127-QKKH.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=290140 loop_end=362852  amp_veltrack=0 sample=../Audio/Saws/101saw-41-95-H8YO.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290140 loop_end=363864  amp_veltrack=0 sample=../Audio/Saws/101saw-41-64-8FGC.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=231401 loop_end=306119  amp_veltrack=0 sample=../Audio/Saws/101saw-41-32-KWKD.wav
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=253383 loop_end=326079  amp_veltrack=0 sample=../Audio/Saws/101saw-41-127-QKKH.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=290140 loop_end=362852  amp_veltrack=0 sample=../Audio/Saws/101saw-41-95-H8YO.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=290140 loop_end=363864  amp_veltrack=0 sample=../Audio/Saws/101saw-41-64-8FGC.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=231401 loop_end=306119  amp_veltrack=0 sample=../Audio/Saws/101saw-41-32-KWKD.wav
+<group> key=42 
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=259125 loop_end=357290  amp_veltrack=0 sample=../Audio/Saws/101saw-42-127-Z8RX.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=281557 loop_end=364492  amp_veltrack=0 sample=../Audio/Saws/101saw-42-95-BH1K.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=272511 loop_end=356405  amp_veltrack=0 sample=../Audio/Saws/101saw-42-64-CQ5O.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=272616 loop_end=356492  amp_veltrack=0 sample=../Audio/Saws/101saw-42-32-K59Y.wav
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=259125 loop_end=357290  amp_veltrack=0 sample=../Audio/Saws/101saw-42-127-Z8RX.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=281557 loop_end=364492  amp_veltrack=0 sample=../Audio/Saws/101saw-42-95-BH1K.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=272511 loop_end=356405  amp_veltrack=0 sample=../Audio/Saws/101saw-42-64-CQ5O.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=272616 loop_end=356492  amp_veltrack=0 sample=../Audio/Saws/101saw-42-32-K59Y.wav
+<group> key=43 
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=272587 loop_end=363466  amp_veltrack=0 sample=../Audio/Saws/101saw-43-127-3T8D.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=275362 loop_end=362656  amp_veltrack=0 sample=../Audio/Saws/101saw-43-95-F6C5.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=271539 loop_end=353440  amp_veltrack=0 sample=../Audio/Saws/101saw-43-64-WU5D.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=274321 loop_end=363404  amp_veltrack=0 sample=../Audio/Saws/101saw-43-32-NOPE.wav
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=272587 loop_end=363466  amp_veltrack=0 sample=../Audio/Saws/101saw-43-127-3T8D.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=275362 loop_end=362656  amp_veltrack=0 sample=../Audio/Saws/101saw-43-95-F6C5.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=271539 loop_end=353440  amp_veltrack=0 sample=../Audio/Saws/101saw-43-64-WU5D.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=274321 loop_end=363404  amp_veltrack=0 sample=../Audio/Saws/101saw-43-32-NOPE.wav
+<group> key=44 
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=288881 loop_end=364469  amp_veltrack=0 sample=../Audio/Saws/101saw-44-127-3IR0.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=286876 loop_end=361627  amp_veltrack=0 sample=../Audio/Saws/101saw-44-95-OJ7M.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=287908 loop_end=362664  amp_veltrack=0 sample=../Audio/Saws/101saw-44-64-644B.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=286632 loop_end=360524  amp_veltrack=0 sample=../Audio/Saws/101saw-44-32-6TRP.wav
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=288881 loop_end=364469  amp_veltrack=0 sample=../Audio/Saws/101saw-44-127-3IR0.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=286876 loop_end=361627  amp_veltrack=0 sample=../Audio/Saws/101saw-44-95-OJ7M.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=287908 loop_end=362664  amp_veltrack=0 sample=../Audio/Saws/101saw-44-64-644B.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=286632 loop_end=360524  amp_veltrack=0 sample=../Audio/Saws/101saw-44-32-6TRP.wav
+<group> key=45 
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=278450 loop_end=362652  amp_veltrack=0 sample=../Audio/Saws/101saw-45-127-I9IP.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=282074 loop_end=360676  amp_veltrack=0 sample=../Audio/Saws/101saw-45-95-NNYF.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=283851 loop_end=362463  amp_veltrack=0 sample=../Audio/Saws/101saw-45-64-WJ0H.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=275703 loop_end=353501  amp_veltrack=0 sample=../Audio/Saws/101saw-45-32-UT5Y.wav
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=278450 loop_end=362652  amp_veltrack=0 sample=../Audio/Saws/101saw-45-127-I9IP.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=282074 loop_end=360676  amp_veltrack=0 sample=../Audio/Saws/101saw-45-95-NNYF.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=283851 loop_end=362463  amp_veltrack=0 sample=../Audio/Saws/101saw-45-64-WJ0H.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=275703 loop_end=353501  amp_veltrack=0 sample=../Audio/Saws/101saw-45-32-UT5Y.wav
+<group> key=46 
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=276362 loop_end=361895  amp_veltrack=0 sample=../Audio/Saws/101saw-46-127-6AKI.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=272277 loop_end=359336  amp_veltrack=0 sample=../Audio/Saws/101saw-46-95-AK6F.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=272279 loop_end=362380  amp_veltrack=0 sample=../Audio/Saws/101saw-46-64-0NC7.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=276388 loop_end=363443  amp_veltrack=0 sample=../Audio/Saws/101saw-46-32-PT5X.wav
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=276362 loop_end=361895  amp_veltrack=0 sample=../Audio/Saws/101saw-46-127-6AKI.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=272277 loop_end=359336  amp_veltrack=0 sample=../Audio/Saws/101saw-46-95-AK6F.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=272279 loop_end=362380  amp_veltrack=0 sample=../Audio/Saws/101saw-46-64-0NC7.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=276388 loop_end=363443  amp_veltrack=0 sample=../Audio/Saws/101saw-46-32-PT5X.wav
+<group> key=47 
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=286920 loop_end=361940  amp_veltrack=0 sample=../Audio/Saws/101saw-47-127-VBVS.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=288597 loop_end=364353  amp_veltrack=0 sample=../Audio/Saws/101saw-47-95-HCCB.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=287547 loop_end=363307  amp_veltrack=0 sample=../Audio/Saws/101saw-47-64-ZF0U.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=288541 loop_end=364289  amp_veltrack=0 sample=../Audio/Saws/101saw-47-32-5DB1.wav
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=286920 loop_end=361940  amp_veltrack=0 sample=../Audio/Saws/101saw-47-127-VBVS.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=288597 loop_end=364353  amp_veltrack=0 sample=../Audio/Saws/101saw-47-95-HCCB.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=287547 loop_end=363307  amp_veltrack=0 sample=../Audio/Saws/101saw-47-64-ZF0U.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=288541 loop_end=364289  amp_veltrack=0 sample=../Audio/Saws/101saw-47-32-5DB1.wav
+<group> key=48 
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=279115 loop_end=358016  amp_veltrack=0 sample=../Audio/Saws/101saw-48-127-R6SO.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=280757 loop_end=361695  amp_veltrack=0 sample=../Audio/Saws/101saw-48-95-34TQ.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=276338 loop_end=357285  amp_veltrack=0 sample=../Audio/Saws/101saw-48-64-KCWK.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=286491 loop_end=363376  amp_veltrack=0 sample=../Audio/Saws/101saw-48-32-3QEY.wav
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=279115 loop_end=358016  amp_veltrack=0 sample=../Audio/Saws/101saw-48-127-R6SO.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=280757 loop_end=361695  amp_veltrack=0 sample=../Audio/Saws/101saw-48-95-34TQ.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=276338 loop_end=357285  amp_veltrack=0 sample=../Audio/Saws/101saw-48-64-KCWK.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=286491 loop_end=363376  amp_veltrack=0 sample=../Audio/Saws/101saw-48-32-3QEY.wav
+<group> key=49 
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=278458 loop_end=361173  amp_veltrack=0 sample=../Audio/Saws/101saw-49-127-5CF5.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=286650 loop_end=362387  amp_veltrack=0 sample=../Audio/Saws/101saw-49-95-364Z.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=286830 loop_end=363208  amp_veltrack=0 sample=../Audio/Saws/101saw-49-64-C6XL.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=288295 loop_end=364027  amp_veltrack=0 sample=../Audio/Saws/101saw-49-32-SP4C.wav
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=278458 loop_end=361173  amp_veltrack=0 sample=../Audio/Saws/101saw-49-127-5CF5.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=286650 loop_end=362387  amp_veltrack=0 sample=../Audio/Saws/101saw-49-95-364Z.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=286830 loop_end=363208  amp_veltrack=0 sample=../Audio/Saws/101saw-49-64-C6XL.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=288295 loop_end=364027  amp_veltrack=0 sample=../Audio/Saws/101saw-49-32-SP4C.wav
+<group> key=50 
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=281547 loop_end=362016  amp_veltrack=0 sample=../Audio/Saws/101saw-50-127-JB5N.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=283459 loop_end=363349  amp_veltrack=0 sample=../Audio/Saws/101saw-50-95-IV5H.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=280235 loop_end=359526  amp_veltrack=0 sample=../Audio/Saws/101saw-50-64-KT12.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=283166 loop_end=362444  amp_veltrack=0 sample=../Audio/Saws/101saw-50-32-59LQ.wav
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=281547 loop_end=362016  amp_veltrack=0 sample=../Audio/Saws/101saw-50-127-JB5N.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=283459 loop_end=363349  amp_veltrack=0 sample=../Audio/Saws/101saw-50-95-IV5H.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=280235 loop_end=359526  amp_veltrack=0 sample=../Audio/Saws/101saw-50-64-KT12.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=283166 loop_end=362444  amp_veltrack=0 sample=../Audio/Saws/101saw-50-32-59LQ.wav
+<group> key=51 
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=290369 loop_end=363487  amp_veltrack=0 sample=../Audio/Saws/101saw-51-127-7MWJ.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=290751 loop_end=363317  amp_veltrack=0 sample=../Audio/Saws/101saw-51-95-VCUZ.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290644 loop_end=364349  amp_veltrack=0 sample=../Audio/Saws/101saw-51-64-F0YB.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=290241 loop_end=364501  amp_veltrack=0 sample=../Audio/Saws/101saw-51-32-ORJR.wav
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=290369 loop_end=363487  amp_veltrack=0 sample=../Audio/Saws/101saw-51-127-7MWJ.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=290751 loop_end=363317  amp_veltrack=0 sample=../Audio/Saws/101saw-51-95-VCUZ.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=290644 loop_end=364349  amp_veltrack=0 sample=../Audio/Saws/101saw-51-64-F0YB.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=290241 loop_end=364501  amp_veltrack=0 sample=../Audio/Saws/101saw-51-32-ORJR.wav
+<group> key=52 
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=289545 loop_end=361756  amp_veltrack=0 sample=../Audio/Saws/101saw-52-127-4VF0.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=280117 loop_end=363051  amp_veltrack=0 sample=../Audio/Saws/101saw-52-95-3QRN.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=278485 loop_end=361423  amp_veltrack=0 sample=../Audio/Saws/101saw-52-64-H3UV.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=290115 loop_end=364472  amp_veltrack=0 sample=../Audio/Saws/101saw-52-32-J90S.wav
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=289545 loop_end=361756  amp_veltrack=0 sample=../Audio/Saws/101saw-52-127-4VF0.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=280117 loop_end=363051  amp_veltrack=0 sample=../Audio/Saws/101saw-52-95-3QRN.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=278485 loop_end=361423  amp_veltrack=0 sample=../Audio/Saws/101saw-52-64-H3UV.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=290115 loop_end=364472  amp_veltrack=0 sample=../Audio/Saws/101saw-52-32-J90S.wav
+<group> key=53 
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=287137 loop_end=364413  amp_veltrack=0 sample=../Audio/Saws/101saw-53-127-862F.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=287768 loop_end=364048  amp_veltrack=0 sample=../Audio/Saws/101saw-53-95-G65B.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290324 loop_end=364076  amp_veltrack=0 sample=../Audio/Saws/101saw-53-64-1RAW.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=290712 loop_end=363442  amp_veltrack=0 sample=../Audio/Saws/101saw-53-32-DNF5.wav
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=287137 loop_end=364413  amp_veltrack=0 sample=../Audio/Saws/101saw-53-127-862F.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=287768 loop_end=364048  amp_veltrack=0 sample=../Audio/Saws/101saw-53-95-G65B.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=290324 loop_end=364076  amp_veltrack=0 sample=../Audio/Saws/101saw-53-64-1RAW.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=290712 loop_end=363442  amp_veltrack=0 sample=../Audio/Saws/101saw-53-32-DNF5.wav
+<group> key=54 
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=287904 loop_end=364162  amp_veltrack=0 sample=../Audio/Saws/101saw-54-127-4G2J.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=287662 loop_end=362985  amp_veltrack=0 sample=../Audio/Saws/101saw-54-95-8UNZ.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=287411 loop_end=362737  amp_veltrack=0 sample=../Audio/Saws/101saw-54-64-MK3F.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=287775 loop_end=364515  amp_veltrack=0 sample=../Audio/Saws/101saw-54-32-I200.wav
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=287904 loop_end=364162  amp_veltrack=0 sample=../Audio/Saws/101saw-54-127-4G2J.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=287662 loop_end=362985  amp_veltrack=0 sample=../Audio/Saws/101saw-54-95-8UNZ.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=287411 loop_end=362737  amp_veltrack=0 sample=../Audio/Saws/101saw-54-64-MK3F.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=287775 loop_end=364515  amp_veltrack=0 sample=../Audio/Saws/101saw-54-32-I200.wav
+<group> key=55 
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=290686 loop_end=363561  amp_veltrack=0 sample=../Audio/Saws/101saw-55-127-A5UJ.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=290699 loop_end=364486  amp_veltrack=0 sample=../Audio/Saws/101saw-55-95-HH3C.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290442 loop_end=364231  amp_veltrack=0 sample=../Audio/Saws/101saw-55-64-6ARM.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=290420 loop_end=363746  amp_veltrack=0 sample=../Audio/Saws/101saw-55-32-HWB4.wav
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=290686 loop_end=363561  amp_veltrack=0 sample=../Audio/Saws/101saw-55-127-A5UJ.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=290699 loop_end=364486  amp_veltrack=0 sample=../Audio/Saws/101saw-55-95-HH3C.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=290442 loop_end=364231  amp_veltrack=0 sample=../Audio/Saws/101saw-55-64-6ARM.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=290420 loop_end=363746  amp_veltrack=0 sample=../Audio/Saws/101saw-55-32-HWB4.wav
+<group> key=56 
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=289367 loop_end=364504  amp_veltrack=0 sample=../Audio/Saws/101saw-56-127-NMHW.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=289249 loop_end=363549  amp_veltrack=0 sample=../Audio/Saws/101saw-56-95-SDBW.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=288683 loop_end=363406  amp_veltrack=0 sample=../Audio/Saws/101saw-56-64-5T3H.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=289690 loop_end=363552  amp_veltrack=0 sample=../Audio/Saws/101saw-56-32-4VNU.wav
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=289367 loop_end=364504  amp_veltrack=0 sample=../Audio/Saws/101saw-56-127-NMHW.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=289249 loop_end=363549  amp_veltrack=0 sample=../Audio/Saws/101saw-56-95-SDBW.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=288683 loop_end=363406  amp_veltrack=0 sample=../Audio/Saws/101saw-56-64-5T3H.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=289690 loop_end=363552  amp_veltrack=0 sample=../Audio/Saws/101saw-56-32-4VNU.wav
+<group> key=57 
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=289630 loop_end=363977  amp_veltrack=0 sample=../Audio/Saws/101saw-57-127-KM1Z.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=289756 loop_end=362909  amp_veltrack=0 sample=../Audio/Saws/101saw-57-95-MF1N.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=288654 loop_end=363418  amp_veltrack=0 sample=../Audio/Saws/101saw-57-64-94NM.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=289667 loop_end=362810  amp_veltrack=0 sample=../Audio/Saws/101saw-57-32-BY0N.wav
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=289630 loop_end=363977  amp_veltrack=0 sample=../Audio/Saws/101saw-57-127-KM1Z.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=289756 loop_end=362909  amp_veltrack=0 sample=../Audio/Saws/101saw-57-95-MF1N.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=288654 loop_end=363418  amp_veltrack=0 sample=../Audio/Saws/101saw-57-64-94NM.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=289667 loop_end=362810  amp_veltrack=0 sample=../Audio/Saws/101saw-57-32-BY0N.wav
+<group> key=58 
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=289429 loop_end=364516  amp_veltrack=0 sample=../Audio/Saws/101saw-58-127-YNX8.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=289671 loop_end=364015  amp_veltrack=0 sample=../Audio/Saws/101saw-58-95-FFK4.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=289696 loop_end=364417  amp_veltrack=0 sample=../Audio/Saws/101saw-58-64-0S00.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=289602 loop_end=364312  amp_veltrack=0 sample=../Audio/Saws/101saw-58-32-78CU.wav
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=289429 loop_end=364516  amp_veltrack=0 sample=../Audio/Saws/101saw-58-127-YNX8.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=289671 loop_end=364015  amp_veltrack=0 sample=../Audio/Saws/101saw-58-95-FFK4.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=289696 loop_end=364417  amp_veltrack=0 sample=../Audio/Saws/101saw-58-64-0S00.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=289602 loop_end=364312  amp_veltrack=0 sample=../Audio/Saws/101saw-58-32-78CU.wav
+<group> key=59 
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=290251 loop_end=362906  amp_veltrack=0 sample=../Audio/Saws/101saw-59-127-2P2P.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=290163 loop_end=363903  amp_veltrack=0 sample=../Audio/Saws/101saw-59-95-8VDD.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290591 loop_end=363975  amp_veltrack=0 sample=../Audio/Saws/101saw-59-64-YHOX.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=290010 loop_end=362664  amp_veltrack=0 sample=../Audio/Saws/101saw-59-32-WJS8.wav
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=290251 loop_end=362906  amp_veltrack=0 sample=../Audio/Saws/101saw-59-127-2P2P.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=290163 loop_end=363903  amp_veltrack=0 sample=../Audio/Saws/101saw-59-95-8VDD.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=290591 loop_end=363975  amp_veltrack=0 sample=../Audio/Saws/101saw-59-64-YHOX.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=290010 loop_end=362664  amp_veltrack=0 sample=../Audio/Saws/101saw-59-32-WJS8.wav
+<group> key=60 
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=290591 loop_end=363198  amp_veltrack=0 sample=../Audio/Saws/101saw-60-127-O8Y4.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=289528 loop_end=364176  amp_veltrack=0 sample=../Audio/Saws/101saw-60-95-JMI9.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=288541 loop_end=364206  amp_veltrack=0 sample=../Audio/Saws/101saw-60-64-YA4O.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=290723 loop_end=363001  amp_veltrack=0 sample=../Audio/Saws/101saw-60-32-01V7.wav
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=290591 loop_end=363198  amp_veltrack=0 sample=../Audio/Saws/101saw-60-127-O8Y4.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=289528 loop_end=364176  amp_veltrack=0 sample=../Audio/Saws/101saw-60-95-JMI9.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=288541 loop_end=364206  amp_veltrack=0 sample=../Audio/Saws/101saw-60-64-YA4O.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=290723 loop_end=363001  amp_veltrack=0 sample=../Audio/Saws/101saw-60-32-01V7.wav
+<group> key=61 
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=289019 loop_end=364258  amp_veltrack=0 sample=../Audio/Saws/101saw-61-127-FPVA.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=287620 loop_end=359685  amp_veltrack=0 sample=../Audio/Saws/101saw-61-95-SYTJ.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=289332 loop_end=363318  amp_veltrack=0 sample=../Audio/Saws/101saw-61-64-5TB9.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=288673 loop_end=364232  amp_veltrack=0 sample=../Audio/Saws/101saw-61-32-CILQ.wav
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=289019 loop_end=364258  amp_veltrack=0 sample=../Audio/Saws/101saw-61-127-FPVA.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=287620 loop_end=359685  amp_veltrack=0 sample=../Audio/Saws/101saw-61-95-SYTJ.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=289332 loop_end=363318  amp_veltrack=0 sample=../Audio/Saws/101saw-61-64-5TB9.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=288673 loop_end=364232  amp_veltrack=0 sample=../Audio/Saws/101saw-61-32-CILQ.wav
+<group> key=62 
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=289601 loop_end=364511  amp_veltrack=0 sample=../Audio/Saws/101saw-62-127-3LQQ.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=290762 loop_end=362672  amp_veltrack=0 sample=../Audio/Saws/101saw-62-95-HS1N.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=289695 loop_end=363418  amp_veltrack=0 sample=../Audio/Saws/101saw-62-64-JCUH.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=288244 loop_end=364356  amp_veltrack=0 sample=../Audio/Saws/101saw-62-32-FU2R.wav
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=289601 loop_end=364511  amp_veltrack=0 sample=../Audio/Saws/101saw-62-127-3LQQ.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=290762 loop_end=362672  amp_veltrack=0 sample=../Audio/Saws/101saw-62-95-HS1N.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=289695 loop_end=363418  amp_veltrack=0 sample=../Audio/Saws/101saw-62-64-JCUH.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=288244 loop_end=364356  amp_veltrack=0 sample=../Audio/Saws/101saw-62-32-FU2R.wav
+<group> key=63 
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=288868 loop_end=363247  amp_veltrack=0 sample=../Audio/Saws/101saw-63-127-QZRT.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=289410 loop_end=364368  amp_veltrack=0 sample=../Audio/Saws/101saw-63-95-WZEJ.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290734 loop_end=364291  amp_veltrack=0 sample=../Audio/Saws/101saw-63-64-G2JC.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=288255 loop_end=364344  amp_veltrack=0 sample=../Audio/Saws/101saw-63-32-PYDW.wav
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=288868 loop_end=363247  amp_veltrack=0 sample=../Audio/Saws/101saw-63-127-QZRT.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=289410 loop_end=364368  amp_veltrack=0 sample=../Audio/Saws/101saw-63-95-WZEJ.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=290734 loop_end=364291  amp_veltrack=0 sample=../Audio/Saws/101saw-63-64-G2JC.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=288255 loop_end=364344  amp_veltrack=0 sample=../Audio/Saws/101saw-63-32-PYDW.wav
+<group> key=64 
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=288671 loop_end=364483  amp_veltrack=0 sample=../Audio/Saws/101saw-64-127-JO1Y.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=290532 loop_end=362601  amp_veltrack=0 sample=../Audio/Saws/101saw-64-95-J8M4.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290594 loop_end=364285  amp_veltrack=0 sample=../Audio/Saws/101saw-64-64-TOVV.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=288673 loop_end=363679  amp_veltrack=0 sample=../Audio/Saws/101saw-64-32-7CVD.wav
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=288671 loop_end=364483  amp_veltrack=0 sample=../Audio/Saws/101saw-64-127-JO1Y.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=290532 loop_end=362601  amp_veltrack=0 sample=../Audio/Saws/101saw-64-95-J8M4.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=290594 loop_end=364285  amp_veltrack=0 sample=../Audio/Saws/101saw-64-64-TOVV.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=288673 loop_end=363679  amp_veltrack=0 sample=../Audio/Saws/101saw-64-32-7CVD.wav
+<group> key=65 
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=286387 loop_end=363717  amp_veltrack=0 sample=../Audio/Saws/101saw-65-127-8AQW.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=290601 loop_end=363890  amp_veltrack=0 sample=../Audio/Saws/101saw-65-95-X9LI.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290776 loop_end=364341  amp_veltrack=0 sample=../Audio/Saws/101saw-65-64-36QV.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=289999 loop_end=363791  amp_veltrack=0 sample=../Audio/Saws/101saw-65-32-MVV3.wav
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=286387 loop_end=363717  amp_veltrack=0 sample=../Audio/Saws/101saw-65-127-8AQW.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=290601 loop_end=363890  amp_veltrack=0 sample=../Audio/Saws/101saw-65-95-X9LI.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=290776 loop_end=364341  amp_veltrack=0 sample=../Audio/Saws/101saw-65-64-36QV.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=289999 loop_end=363791  amp_veltrack=0 sample=../Audio/Saws/101saw-65-32-MVV3.wav
+<group> key=66 
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=290585 loop_end=364506  amp_veltrack=0 sample=../Audio/Saws/101saw-66-127-LAFS.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=289157 loop_end=363799  amp_veltrack=0 sample=../Audio/Saws/101saw-66-95-DEC4.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290112 loop_end=363343  amp_veltrack=0 sample=../Audio/Saws/101saw-66-64-RQ6E.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=287413 loop_end=363003  amp_veltrack=0 sample=../Audio/Saws/101saw-66-32-G0W2.wav
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=290585 loop_end=364506  amp_veltrack=0 sample=../Audio/Saws/101saw-66-127-LAFS.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=289157 loop_end=363799  amp_veltrack=0 sample=../Audio/Saws/101saw-66-95-DEC4.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=290112 loop_end=363343  amp_veltrack=0 sample=../Audio/Saws/101saw-66-64-RQ6E.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=287413 loop_end=363003  amp_veltrack=0 sample=../Audio/Saws/101saw-66-32-G0W2.wav
+<group> key=67 
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=288356 loop_end=361039  amp_veltrack=0 sample=../Audio/Saws/101saw-67-127-7N1R.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=288102 loop_end=363491  amp_veltrack=0 sample=../Audio/Saws/101saw-67-95-C59I.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290760 loop_end=363012  amp_veltrack=0 sample=../Audio/Saws/101saw-67-64-98NH.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=289359 loop_end=362038  amp_veltrack=0 sample=../Audio/Saws/101saw-67-32-BE31.wav
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=288356 loop_end=361039  amp_veltrack=0 sample=../Audio/Saws/101saw-67-127-7N1R.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=288102 loop_end=363491  amp_veltrack=0 sample=../Audio/Saws/101saw-67-95-C59I.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=290760 loop_end=363012  amp_veltrack=0 sample=../Audio/Saws/101saw-67-64-98NH.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=289359 loop_end=362038  amp_veltrack=0 sample=../Audio/Saws/101saw-67-32-BE31.wav
+<group> key=68 
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=290494 loop_end=363746  amp_veltrack=0 sample=../Audio/Saws/101saw-68-127-4CLH.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=289440 loop_end=364393  amp_veltrack=0 sample=../Audio/Saws/101saw-68-95-RC36.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290163 loop_end=364498  amp_veltrack=0 sample=../Audio/Saws/101saw-68-64-FCIJ.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=288624 loop_end=364416  amp_veltrack=0 sample=../Audio/Saws/101saw-68-32-0SMF.wav
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=290494 loop_end=363746  amp_veltrack=0 sample=../Audio/Saws/101saw-68-127-4CLH.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=289440 loop_end=364393  amp_veltrack=0 sample=../Audio/Saws/101saw-68-95-RC36.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=290163 loop_end=364498  amp_veltrack=0 sample=../Audio/Saws/101saw-68-64-FCIJ.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=288624 loop_end=364416  amp_veltrack=0 sample=../Audio/Saws/101saw-68-32-0SMF.wav
+<group> key=69 
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=290631 loop_end=364186  amp_veltrack=0 sample=../Audio/Saws/101saw-69-127-TB2K.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=288634 loop_end=363997  amp_veltrack=0 sample=../Audio/Saws/101saw-69-95-FRI2.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290589 loop_end=364362  amp_veltrack=0 sample=../Audio/Saws/101saw-69-64-8PK4.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=288484 loop_end=363838  amp_veltrack=0 sample=../Audio/Saws/101saw-69-32-4LWR.wav
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=290631 loop_end=364186  amp_veltrack=0 sample=../Audio/Saws/101saw-69-127-TB2K.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=288634 loop_end=363997  amp_veltrack=0 sample=../Audio/Saws/101saw-69-95-FRI2.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=290589 loop_end=364362  amp_veltrack=0 sample=../Audio/Saws/101saw-69-64-8PK4.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=288484 loop_end=363838  amp_veltrack=0 sample=../Audio/Saws/101saw-69-32-4LWR.wav
+<group> key=70 
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=290054 loop_end=364371  amp_veltrack=0 sample=../Audio/Saws/101saw-70-127-IABZ.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=287669 loop_end=361235  amp_veltrack=0 sample=../Audio/Saws/101saw-70-95-OE03.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=289512 loop_end=364412  amp_veltrack=0 sample=../Audio/Saws/101saw-70-64-PQPJ.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=169635 loop_end=244520  amp_veltrack=0 sample=../Audio/Saws/101saw-70-32-Z536.wav
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=290054 loop_end=364371  amp_veltrack=0 sample=../Audio/Saws/101saw-70-127-IABZ.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=287669 loop_end=361235  amp_veltrack=0 sample=../Audio/Saws/101saw-70-95-OE03.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=289512 loop_end=364412  amp_veltrack=0 sample=../Audio/Saws/101saw-70-64-PQPJ.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=169635 loop_end=244520  amp_veltrack=0 sample=../Audio/Saws/101saw-70-32-Z536.wav
+<group> key=71 
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=287620 loop_end=361141  amp_veltrack=0 sample=../Audio/Saws/101saw-71-127-NWCS.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=288566 loop_end=363879  amp_veltrack=0 sample=../Audio/Saws/101saw-71-95-3J1E.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290262 loop_end=364513  amp_veltrack=0 sample=../Audio/Saws/101saw-71-64-IL65.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=178217 loop_end=251019  amp_veltrack=0 sample=../Audio/Saws/101saw-71-32-SS4M.wav
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=287620 loop_end=361141  amp_veltrack=0 sample=../Audio/Saws/101saw-71-127-NWCS.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=288566 loop_end=363879  amp_veltrack=0 sample=../Audio/Saws/101saw-71-95-3J1E.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=290262 loop_end=364513  amp_veltrack=0 sample=../Audio/Saws/101saw-71-64-IL65.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=178217 loop_end=251019  amp_veltrack=0 sample=../Audio/Saws/101saw-71-32-SS4M.wav
+<group> key=72 
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=285030 loop_end=363323  amp_veltrack=0 sample=../Audio/Saws/101saw-72-127-MECJ.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=286475 loop_end=363934  amp_veltrack=0 sample=../Audio/Saws/101saw-72-95-IDAZ.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290230 loop_end=364328  amp_veltrack=0 sample=../Audio/Saws/101saw-72-64-7JJL.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=162162 loop_end=234901  amp_veltrack=0 sample=../Audio/Saws/101saw-72-32-QTYC.wav
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=285030 loop_end=363323  amp_veltrack=0 sample=../Audio/Saws/101saw-72-127-MECJ.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=286475 loop_end=363934  amp_veltrack=0 sample=../Audio/Saws/101saw-72-95-IDAZ.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=290230 loop_end=364328  amp_veltrack=0 sample=../Audio/Saws/101saw-72-64-7JJL.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=162162 loop_end=234901  amp_veltrack=0 sample=../Audio/Saws/101saw-72-32-QTYC.wav
+<group> key=73 
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=285706 loop_end=364147  amp_veltrack=0 sample=../Audio/Saws/101saw-73-127-6W2N.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=289138 loop_end=362822  amp_veltrack=0 sample=../Audio/Saws/101saw-73-95-9TMI.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290091 loop_end=364255  amp_veltrack=0 sample=../Audio/Saws/101saw-73-64-9XZ3.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=163729 loop_end=236768  amp_veltrack=0 sample=../Audio/Saws/101saw-73-32-PVY3.wav
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=285706 loop_end=364147  amp_veltrack=0 sample=../Audio/Saws/101saw-73-127-6W2N.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=289138 loop_end=362822  amp_veltrack=0 sample=../Audio/Saws/101saw-73-95-9TMI.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=290091 loop_end=364255  amp_veltrack=0 sample=../Audio/Saws/101saw-73-64-9XZ3.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=163729 loop_end=236768  amp_veltrack=0 sample=../Audio/Saws/101saw-73-32-PVY3.wav
+<group> key=74 
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=285726 loop_end=360937  amp_veltrack=0 sample=../Audio/Saws/101saw-74-127-NF6H.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=289109 loop_end=364024  amp_veltrack=0 sample=../Audio/Saws/101saw-74-95-ZGRZ.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=288666 loop_end=364487  amp_veltrack=0 sample=../Audio/Saws/101saw-74-64-1GSE.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=166631 loop_end=241092  amp_veltrack=0 sample=../Audio/Saws/101saw-74-32-LD01.wav
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=285726 loop_end=360937  amp_veltrack=0 sample=../Audio/Saws/101saw-74-127-NF6H.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=289109 loop_end=364024  amp_veltrack=0 sample=../Audio/Saws/101saw-74-95-ZGRZ.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=288666 loop_end=364487  amp_veltrack=0 sample=../Audio/Saws/101saw-74-64-1GSE.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=166631 loop_end=241092  amp_veltrack=0 sample=../Audio/Saws/101saw-74-32-LD01.wav
+<group> key=75 
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=281502 loop_end=361809  amp_veltrack=0 sample=../Audio/Saws/101saw-75-127-C5S0.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=290282 loop_end=364225  amp_veltrack=0 sample=../Audio/Saws/101saw-75-95-E9FK.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=287854 loop_end=363638  amp_veltrack=0 sample=../Audio/Saws/101saw-75-64-A95X.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=162742 loop_end=234987  amp_veltrack=0 sample=../Audio/Saws/101saw-75-32-1VS5.wav
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=281502 loop_end=361809  amp_veltrack=0 sample=../Audio/Saws/101saw-75-127-C5S0.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=290282 loop_end=364225  amp_veltrack=0 sample=../Audio/Saws/101saw-75-95-E9FK.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=287854 loop_end=363638  amp_veltrack=0 sample=../Audio/Saws/101saw-75-64-A95X.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=162742 loop_end=234987  amp_veltrack=0 sample=../Audio/Saws/101saw-75-32-1VS5.wav
+<group> key=76 
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=288616 loop_end=362918  amp_veltrack=0 sample=../Audio/Saws/101saw-76-127-YR17.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=290702 loop_end=363934  amp_veltrack=0 sample=../Audio/Saws/101saw-76-95-N1GE.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=288664 loop_end=364439  amp_veltrack=0 sample=../Audio/Saws/101saw-76-64-DF4Z.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=166306 loop_end=240202  amp_veltrack=0 sample=../Audio/Saws/101saw-76-32-45ED.wav
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=288616 loop_end=362918  amp_veltrack=0 sample=../Audio/Saws/101saw-76-127-YR17.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=290702 loop_end=363934  amp_veltrack=0 sample=../Audio/Saws/101saw-76-95-N1GE.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=288664 loop_end=364439  amp_veltrack=0 sample=../Audio/Saws/101saw-76-64-DF4Z.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=166306 loop_end=240202  amp_veltrack=0 sample=../Audio/Saws/101saw-76-32-45ED.wav
+<group> key=77 
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=289670 loop_end=363333  amp_veltrack=0 sample=../Audio/Saws/101saw-77-127-8NZ7.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=286194 loop_end=360228  amp_veltrack=0 sample=../Audio/Saws/101saw-77-95-7EYL.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290281 loop_end=364450  amp_veltrack=0 sample=../Audio/Saws/101saw-77-64-13II.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=162214 loop_end=234992  amp_veltrack=0 sample=../Audio/Saws/101saw-77-32-ZP7C.wav
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=289670 loop_end=363333  amp_veltrack=0 sample=../Audio/Saws/101saw-77-127-8NZ7.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=286194 loop_end=360228  amp_veltrack=0 sample=../Audio/Saws/101saw-77-95-7EYL.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=290281 loop_end=364450  amp_veltrack=0 sample=../Audio/Saws/101saw-77-64-13II.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=162214 loop_end=234992  amp_veltrack=0 sample=../Audio/Saws/101saw-77-32-ZP7C.wav
+<group> key=78 
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=286291 loop_end=362445  amp_veltrack=0 sample=../Audio/Saws/101saw-78-127-G9SV.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=289669 loop_end=364513  amp_veltrack=0 sample=../Audio/Saws/101saw-78-95-CD5Y.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290122 loop_end=364258  amp_veltrack=0 sample=../Audio/Saws/101saw-78-64-DW6W.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=166369 loop_end=240497  amp_veltrack=0 sample=../Audio/Saws/101saw-78-32-SPUX.wav
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=286291 loop_end=362445  amp_veltrack=0 sample=../Audio/Saws/101saw-78-127-G9SV.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=289669 loop_end=364513  amp_veltrack=0 sample=../Audio/Saws/101saw-78-95-CD5Y.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=290122 loop_end=364258  amp_veltrack=0 sample=../Audio/Saws/101saw-78-64-DW6W.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=166369 loop_end=240497  amp_veltrack=0 sample=../Audio/Saws/101saw-78-32-SPUX.wav
+<group> key=79 
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=289707 loop_end=364258  amp_veltrack=0 sample=../Audio/Saws/101saw-79-127-VSXQ.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=289409 loop_end=364187  amp_veltrack=0 sample=../Audio/Saws/101saw-79-95-RIT1.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=288576 loop_end=364368  amp_veltrack=0 sample=../Audio/Saws/101saw-79-64-NCPP.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=172451 loop_end=244868  amp_veltrack=0 sample=../Audio/Saws/101saw-79-32-PK1J.wav
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=289707 loop_end=364258  amp_veltrack=0 sample=../Audio/Saws/101saw-79-127-VSXQ.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=289409 loop_end=364187  amp_veltrack=0 sample=../Audio/Saws/101saw-79-95-RIT1.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=288576 loop_end=364368  amp_veltrack=0 sample=../Audio/Saws/101saw-79-64-NCPP.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=172451 loop_end=244868  amp_veltrack=0 sample=../Audio/Saws/101saw-79-32-PK1J.wav
+<group> key=80 
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=289658 loop_end=364227  amp_veltrack=0 sample=../Audio/Saws/101saw-80-127-8EQL.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=285472 loop_end=360362  amp_veltrack=0 sample=../Audio/Saws/101saw-80-95-5OXI.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=288004 loop_end=364268  amp_veltrack=0 sample=../Audio/Saws/101saw-80-64-LKU8.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=165857 loop_end=238309  amp_veltrack=0 sample=../Audio/Saws/101saw-80-32-7CO7.wav
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=289658 loop_end=364227  amp_veltrack=0 sample=../Audio/Saws/101saw-80-127-8EQL.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=285472 loop_end=360362  amp_veltrack=0 sample=../Audio/Saws/101saw-80-95-5OXI.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=288004 loop_end=364268  amp_veltrack=0 sample=../Audio/Saws/101saw-80-64-LKU8.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=165857 loop_end=238309  amp_veltrack=0 sample=../Audio/Saws/101saw-80-32-7CO7.wav
+<group> key=81 
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=284575 loop_end=362394  amp_veltrack=0 sample=../Audio/Saws/101saw-81-127-735Q.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=287805 loop_end=364134  amp_veltrack=0 sample=../Audio/Saws/101saw-81-95-WPY7.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=288705 loop_end=363338  amp_veltrack=0 sample=../Audio/Saws/101saw-81-64-T6GC.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=165310 loop_end=238140  amp_veltrack=0 sample=../Audio/Saws/101saw-81-32-Y4R9.wav
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=284575 loop_end=362394  amp_veltrack=0 sample=../Audio/Saws/101saw-81-127-735Q.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=287805 loop_end=364134  amp_veltrack=0 sample=../Audio/Saws/101saw-81-95-WPY7.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=288705 loop_end=363338  amp_veltrack=0 sample=../Audio/Saws/101saw-81-64-T6GC.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=165310 loop_end=238140  amp_veltrack=0 sample=../Audio/Saws/101saw-81-32-Y4R9.wav
+<group> key=82 
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=284588 loop_end=362059  amp_veltrack=0 sample=../Audio/Saws/101saw-82-127-YB12.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=289307 loop_end=364145  amp_veltrack=0 sample=../Audio/Saws/101saw-82-95-WMF8.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290722 loop_end=364251  amp_veltrack=0 sample=../Audio/Saws/101saw-82-64-H3DV.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=183304 loop_end=256160  amp_veltrack=0 sample=../Audio/Saws/101saw-82-32-L761.wav
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=284588 loop_end=362059  amp_veltrack=0 sample=../Audio/Saws/101saw-82-127-YB12.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=289307 loop_end=364145  amp_veltrack=0 sample=../Audio/Saws/101saw-82-95-WMF8.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=290722 loop_end=364251  amp_veltrack=0 sample=../Audio/Saws/101saw-82-64-H3DV.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=183304 loop_end=256160  amp_veltrack=0 sample=../Audio/Saws/101saw-82-32-L761.wav
+<group> key=83 
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=282154 loop_end=361296  amp_veltrack=0 sample=../Audio/Saws/101saw-83-127-E8W8.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=288514 loop_end=363045  amp_veltrack=0 sample=../Audio/Saws/101saw-83-95-72L4.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=290532 loop_end=364355  amp_veltrack=0 sample=../Audio/Saws/101saw-83-64-RR13.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=162453 loop_end=235825  amp_veltrack=0 sample=../Audio/Saws/101saw-83-32-WIAN.wav
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=282154 loop_end=361296  amp_veltrack=0 sample=../Audio/Saws/101saw-83-127-E8W8.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=288514 loop_end=363045  amp_veltrack=0 sample=../Audio/Saws/101saw-83-95-72L4.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=290532 loop_end=364355  amp_veltrack=0 sample=../Audio/Saws/101saw-83-64-RR13.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=162453 loop_end=235825  amp_veltrack=0 sample=../Audio/Saws/101saw-83-32-WIAN.wav
+<group>lokey=84 hikey=120 pitch_keycenter=84 
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=282510 loop_end=362963  amp_veltrack=0 sample=../Audio/Saws/101saw-84-127-1EOT.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=289517 loop_end=363940  amp_veltrack=0 sample=../Audio/Saws/101saw-84-95-W3LC.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=289338 loop_end=364020  amp_veltrack=0 sample=../Audio/Saws/101saw-84-64-2CND.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=163528 loop_end=236357  amp_veltrack=0 sample=../Audio/Saws/101saw-84-32-0O35.wav
+	<region> lovel=095 hivel=127 amp_velcurve_127=1 tune=-21 loop_mode=loop_sustain loop_start=282510 loop_end=362963  amp_veltrack=0 sample=../Audio/Saws/101saw-84-127-1EOT.wav
+	<region> lovel=063 hivel=095 amp_velcurve_095=1 tune=-21 loop_mode=loop_sustain loop_start=289517 loop_end=363940  amp_veltrack=0 sample=../Audio/Saws/101saw-84-95-W3LC.wav
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 tune=-21 loop_mode=loop_sustain loop_start=289338 loop_end=364020  amp_veltrack=0 sample=../Audio/Saws/101saw-84-64-2CND.wav
+	<region> lovel=000 hivel=032 amp_velcurve_032=1 tune=-21 loop_mode=loop_sustain loop_start=163528 loop_end=236357  amp_veltrack=0 sample=../Audio/Saws/101saw-84-32-0O35.wav

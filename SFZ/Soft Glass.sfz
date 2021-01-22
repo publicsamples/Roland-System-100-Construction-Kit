@@ -1,52 +1,52 @@
 // this file was generated from Soft Glass.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group>lokey=0 hikey=37 pitch_keycenter=36 pitch_keytrack=1
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=351721 loop_end=440707 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 2/(2016614 22950)/101andPals-37-64-Y2ZE.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=366689 loop_end=447562 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 3/(2016614 221250)/101andPals-37-95-LHRL.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=366737 loop_end=447629 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 4/(2016614 221538)/101andPals-37-127-K898.wav
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=366772 loop_end=447659 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell/(2016614 22423)/101andPals-37-32-KT7I.wav
-<group>lokey=38 hikey=41 pitch_keycenter=40 pitch_keytrack=1
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=344255 loop_end=436343 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 2/(2016614 22950)/101andPals-41-64-NHKG.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=340684 loop_end=436941 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 3/(2016614 221250)/101andPals-41-95-KFKD.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=345608 loop_end=435735 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 4/(2016614 221538)/101andPals-41-127-IB4I.wav
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=350432 loop_end=444603 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell/(2016614 22423)/101andPals-41-32-4PI4.wav
-<group>lokey=42 hikey=45 pitch_keycenter=44 pitch_keytrack=1
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=340555 loop_end=440692 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 2/(2016614 22950)/101andPals-45-64-YLQQ.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=75081 loop_end=151554 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 3/(2016614 221250)/101andPals-45-95-TD3V.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=341607 loop_end=445216 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 4/(2016614 221538)/101andPals-45-127-HGOZ.wav
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=75073 loop_end=151566 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell/(2016614 22423)/101andPals-45-32-IZ5C.wav
-<group>lokey=46 hikey=49 pitch_keycenter=48 pitch_keytrack=1
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=352028 loop_end=447947 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 2/(2016614 22950)/101andPals-49-64-469K.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=345313 loop_end=441256 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 3/(2016614 221250)/101andPals-49-95-QXKQ.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=351989 loop_end=447926 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 4/(2016614 221538)/101andPals-49-127-PQTU.wav
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=352298 loop_end=447918 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell/(2016614 22423)/101andPals-49-32-ZQWM.wav
-<group>lokey=50 hikey=53 pitch_keycenter=52 pitch_keytrack=1
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=357795 loop_end=438155 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 2/(2016614 22950)/101andPals-53-64-JHF6.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=368911 loop_end=449127 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 3/(2016614 221250)/101andPals-53-95-MJBA.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=360965 loop_end=441298 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 4/(2016614 221538)/101andPals-53-127-E1QE.wav
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=354647 loop_end=434984 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell/(2016614 22423)/101andPals-53-32-Z41Z.wav
-<group>lokey=54 hikey=57 pitch_keycenter=56 pitch_keytrack=1
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=364623 loop_end=444464 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 2/(2016614 22950)/101andPals-57-64-1RXZ.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=366781 loop_end=447599 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 3/(2016614 221250)/101andPals-57-95-81N1.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=364553 loop_end=444399 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 4/(2016614 221538)/101andPals-57-127-17PR.wav
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=370167 loop_end=446535 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell/(2016614 22423)/101andPals-57-32-BUJL.wav
-<group>lokey=58 hikey=61 pitch_keycenter=60 pitch_keytrack=1
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=367003 loop_end=447992 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/101andPals-61-64-DU4V.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=366362 loop_end=447214 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/101andPals-61-95-55WA.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=366459 loop_end=447416 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/101andPals-61-127-HG7J.wav
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=371955 loop_end=449606 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/101andPals-61-32-KUES.wav
-<group>lokey=62 hikey=65 pitch_keycenter=64 pitch_keytrack=1
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=369539 loop_end=449810 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 2/(2016614 22950)/101andPals-65-64-955W.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=367230 loop_end=447524 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 3/(2016614 221250)/101andPals-65-95-3GB2.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=365026 loop_end=445241 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 4/(2016614 221538)/101andPals-65-127-ZW84.wav
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=369935 loop_end=447475 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell/(2016614 22423)/101andPals-65-32-1RW4.wav
-<group>lokey=66 hikey=69 pitch_keycenter=68 pitch_keytrack=1
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=367867 loop_end=448527 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 2/(2016614 22950)/101andPals-69-64-7LIZ.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=355459 loop_end=436096 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 3/(2016614 221250)/101andPals-69-95-ADHL.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=368349 loop_end=449120 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 4/(2016614 221538)/101andPals-69-127-YJVG.wav
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=370547 loop_end=449016 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell/(2016614 22423)/101andPals-69-32-AVCW.wav
-<group>lokey=70 hikey=118 pitch_keycenter=72 pitch_keytrack=1
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=367542 loop_end=448342 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 2/(2016614 22950)/101andPals-72-64-C2G0.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=367683 loop_end=446998 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 3/(2016614 221250)/101andPals-72-95-G5Y5.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=366711 loop_end=447723 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 4/(2016614 221538)/101andPals-72-127-9EQU.wav
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=371902 loop_end=449483 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell/(2016614 22423)/101andPals-72-32-OB0J.wav
+<group>lokey=0 hikey=37 pitch_keycenter=36 
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=351721 loop_end=440707  amp_veltrack=0 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 2/(2016614 22950)/101andPals-37-64-Y2ZE.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=366689 loop_end=447562  amp_veltrack=0 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 3/(2016614 221250)/101andPals-37-95-LHRL.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=366737 loop_end=447629  amp_veltrack=0 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 4/(2016614 221538)/101andPals-37-127-K898.wav
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=366772 loop_end=447659  amp_veltrack=0 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell/(2016614 22423)/101andPals-37-32-KT7I.wav
+<group>lokey=38 hikey=41 pitch_keycenter=40 
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=344255 loop_end=436343  amp_veltrack=0 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 2/(2016614 22950)/101andPals-41-64-NHKG.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=340684 loop_end=436941  amp_veltrack=0 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 3/(2016614 221250)/101andPals-41-95-KFKD.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=345608 loop_end=435735  amp_veltrack=0 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 4/(2016614 221538)/101andPals-41-127-IB4I.wav
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=350432 loop_end=444603  amp_veltrack=0 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell/(2016614 22423)/101andPals-41-32-4PI4.wav
+<group>lokey=42 hikey=45 pitch_keycenter=44 
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=340555 loop_end=440692  amp_veltrack=0 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 2/(2016614 22950)/101andPals-45-64-YLQQ.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=75081 loop_end=151554  amp_veltrack=0 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 3/(2016614 221250)/101andPals-45-95-TD3V.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=341607 loop_end=445216  amp_veltrack=0 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 4/(2016614 221538)/101andPals-45-127-HGOZ.wav
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=75073 loop_end=151566  amp_veltrack=0 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell/(2016614 22423)/101andPals-45-32-IZ5C.wav
+<group>lokey=46 hikey=49 pitch_keycenter=48 
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=352028 loop_end=447947  amp_veltrack=0 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 2/(2016614 22950)/101andPals-49-64-469K.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=345313 loop_end=441256  amp_veltrack=0 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 3/(2016614 221250)/101andPals-49-95-QXKQ.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=351989 loop_end=447926  amp_veltrack=0 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 4/(2016614 221538)/101andPals-49-127-PQTU.wav
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=352298 loop_end=447918  amp_veltrack=0 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell/(2016614 22423)/101andPals-49-32-ZQWM.wav
+<group>lokey=50 hikey=53 pitch_keycenter=52 
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=357795 loop_end=438155  amp_veltrack=0 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 2/(2016614 22950)/101andPals-53-64-JHF6.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=368911 loop_end=449127  amp_veltrack=0 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 3/(2016614 221250)/101andPals-53-95-MJBA.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=360965 loop_end=441298  amp_veltrack=0 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 4/(2016614 221538)/101andPals-53-127-E1QE.wav
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=354647 loop_end=434984  amp_veltrack=0 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell/(2016614 22423)/101andPals-53-32-Z41Z.wav
+<group>lokey=54 hikey=57 pitch_keycenter=56 
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=364623 loop_end=444464  amp_veltrack=0 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 2/(2016614 22950)/101andPals-57-64-1RXZ.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=366781 loop_end=447599  amp_veltrack=0 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 3/(2016614 221250)/101andPals-57-95-81N1.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=364553 loop_end=444399  amp_veltrack=0 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 4/(2016614 221538)/101andPals-57-127-17PR.wav
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=370167 loop_end=446535  amp_veltrack=0 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell/(2016614 22423)/101andPals-57-32-BUJL.wav
+<group>lokey=58 hikey=61 pitch_keycenter=60 
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=367003 loop_end=447992  amp_veltrack=0 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/101andPals-61-64-DU4V.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=366362 loop_end=447214  amp_veltrack=0 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/101andPals-61-95-55WA.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=366459 loop_end=447416  amp_veltrack=0 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/101andPals-61-127-HG7J.wav
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=371955 loop_end=449606  amp_veltrack=0 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/101andPals-61-32-KUES.wav
+<group>lokey=62 hikey=65 pitch_keycenter=64 
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=369539 loop_end=449810  amp_veltrack=0 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 2/(2016614 22950)/101andPals-65-64-955W.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=367230 loop_end=447524  amp_veltrack=0 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 3/(2016614 221250)/101andPals-65-95-3GB2.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=365026 loop_end=445241  amp_veltrack=0 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 4/(2016614 221538)/101andPals-65-127-ZW84.wav
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=369935 loop_end=447475  amp_veltrack=0 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell/(2016614 22423)/101andPals-65-32-1RW4.wav
+<group>lokey=66 hikey=69 pitch_keycenter=68 
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=367867 loop_end=448527  amp_veltrack=0 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 2/(2016614 22950)/101andPals-69-64-7LIZ.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=355459 loop_end=436096  amp_veltrack=0 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 3/(2016614 221250)/101andPals-69-95-ADHL.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=368349 loop_end=449120  amp_veltrack=0 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 4/(2016614 221538)/101andPals-69-127-YJVG.wav
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=370547 loop_end=449016  amp_veltrack=0 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell/(2016614 22423)/101andPals-69-32-AVCW.wav
+<group>lokey=70 hikey=118 pitch_keycenter=72 
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=367542 loop_end=448342  amp_veltrack=0 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 2/(2016614 22950)/101andPals-72-64-C2G0.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=367683 loop_end=446998  amp_veltrack=0 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 3/(2016614 221250)/101andPals-72-95-G5Y5.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=366711 loop_end=447723  amp_veltrack=0 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 4/(2016614 221538)/101andPals-72-127-9EQU.wav
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=371902 loop_end=449483  amp_veltrack=0 sample=../Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell/(2016614 22423)/101andPals-72-32-OB0J.wav

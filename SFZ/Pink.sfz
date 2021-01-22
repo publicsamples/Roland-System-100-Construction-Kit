@@ -1,11 +1,11 @@
 // this file was generated from Pink.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group>lokey=0 hikey=127 pitch_keycenter=36 loop_mode=one_shot pitch_keytrack=1
-	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=239 sample=../Audio/Noise/Pink/sys-C1-16-DNDA.wav
-	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=242 sample=../Audio/Noise/Pink/sys-C1-32-4BB8.wav
-	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=389 end=2137886 sample=../Audio/Noise/Pink/sys-C1-48-QNL2.wav
-	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=367 end=2154240 sample=../Audio/Noise/Pink/sys-C1-64-7H0Z.wav
-	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=176 end=2171414 sample=../Audio/Noise/Pink/sys-C1-79-PNIV.wav
-	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=361 end=2161547 sample=../Audio/Noise/Pink/sys-C1-95-3FPJ.wav
-	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=392 end=2161843 sample=../Audio/Noise/Pink/sys-C1-111-48QO.wav
-	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=213 end=2159872 sample=../Audio/Noise/Pink/sys-C1-127-1X5K.wav
+<group>lokey=0 hikey=127 pitch_keycenter=36 loop_mode=one_shot 
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=239  amp_veltrack=0 sample=../Audio/Noise/Pink/sys-C1-16-DNDA.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=242  amp_veltrack=0 sample=../Audio/Noise/Pink/sys-C1-32-4BB8.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=389 end=2137886  amp_veltrack=0 sample=../Audio/Noise/Pink/sys-C1-48-QNL2.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=367 end=2154240  amp_veltrack=0 sample=../Audio/Noise/Pink/sys-C1-64-7H0Z.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=176 end=2171414  amp_veltrack=0 sample=../Audio/Noise/Pink/sys-C1-79-PNIV.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=361 end=2161547  amp_veltrack=0 sample=../Audio/Noise/Pink/sys-C1-95-3FPJ.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=392 end=2161843  amp_veltrack=0 sample=../Audio/Noise/Pink/sys-C1-111-48QO.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=213 end=2159872  amp_veltrack=0 sample=../Audio/Noise/Pink/sys-C1-127-1X5K.wav

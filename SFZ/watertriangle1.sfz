@@ -1,187 +1,187 @@
 // this file was generated from watertriangle1.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group>lokey=9 hikey=36 pitch_keycenter=36 pitch_keytrack=1
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=338011 loop_end=429454 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-36-127-3E5P.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=338333 loop_end=429773 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-36-95-SUD3.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=322428 loop_end=411191 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-36-64-TUDY.wav
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=328973 loop_end=419069 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-36-32-OZEW.wav
-<group> key=37 pitch_keytrack=1
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=328171 loop_end=429786 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-37-127-JLMR.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=298691 loop_end=399058 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-37-95-T4GB.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=316444 loop_end=411701 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-37-64-W5NO.wav
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=335780 loop_end=436128 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-37-32-3FZH.wav
-<group> key=38 pitch_keytrack=1
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=337356 loop_end=429703 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-38-127-10MT.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=338886 loop_end=430041 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-38-95-2ANZ.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=320261 loop_end=412604 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-38-64-6EQT.wav
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=341710 loop_end=431648 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-38-32-D6DH.wav
-<group> key=39 pitch_keytrack=1
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=328373 loop_end=426875 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-39-127-9U90.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=301260 loop_end=398656 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-39-95-Z9FS.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=316089 loop_end=412332 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-39-64-VZ25.wav
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=339933 loop_end=436181 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-39-32-1SWJ.wav
-<group> key=40 pitch_keytrack=1
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=329624 loop_end=426894 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-40-127-XDRK.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=278039 loop_end=397762 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-40-95-IGXM.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=338338 loop_end=435609 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-40-64-EM02.wav
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=337298 loop_end=433502 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-40-32-QH56.wav
-<group> key=41 pitch_keytrack=1
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=328760 loop_end=421533 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-41-127-BT7K.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=279179 loop_end=399201 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-41-95-ULAX.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=316095 loop_end=411896 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-41-64-IL3G.wav
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=336513 loop_end=425254 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-41-32-LACT.wav
-<group> key=42 pitch_keytrack=1
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=338438 loop_end=429823 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-42-127-UTH9.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=333718 loop_end=426060 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-42-95-POJR.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=316752 loop_end=411932 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-42-64-7VSA.wav
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=340460 loop_end=429950 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-42-32-E4SI.wav
-<group> key=43 pitch_keytrack=1
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=328413 loop_end=424570 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-43-127-CGRC.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=303108 loop_end=398380 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-43-95-WHH7.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=316827 loop_end=412122 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-43-64-53WW.wav
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=329406 loop_end=424660 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-43-32-FH81.wav
-<group> key=44 pitch_keytrack=1
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=329554 loop_end=418615 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-44-127-YYOV.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=333737 loop_end=421128 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-44-95-365L.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=346758 loop_end=436672 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-44-64-C7RA.wav
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=326826 loop_end=415899 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-44-32-CDY9.wav
-<group> key=45 pitch_keytrack=1
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=328739 loop_end=418453 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-45-127-F5N7.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=278805 loop_end=398976 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-45-95-T2C1.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=337157 loop_end=436489 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-45-64-9S1H.wav
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=346077 loop_end=435794 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-45-32-UPGC.wav
-<group> key=46 pitch_keytrack=1
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=302398 loop_end=398403 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-46-127-1RWZ.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=278578 loop_end=398782 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-46-95-NDNY.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=316333 loop_end=412366 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-46-64-PSN1.wav
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=338683 loop_end=435455 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-46-32-IK5M.wav
-<group> key=47 pitch_keytrack=1
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=338189 loop_end=429526 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-47-127-8EFM.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=329039 loop_end=422528 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-47-95-07J8.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=343366 loop_end=436134 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-47-64-TKBI.wav
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=345295 loop_end=435217 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-47-32-MSG9.wav
-<group> key=48 pitch_keytrack=1
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=328850 loop_end=421123 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-48-127-Y29U.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=279201 loop_end=398446 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-48-95-JTR6.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=316182 loop_end=411851 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-48-64-7J9M.wav
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=322238 loop_end=411809 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-48-32-UA0J.wav
-<group> key=49 pitch_keytrack=1
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=329572 loop_end=421088 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-49-127-SWAN.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=329415 loop_end=420938 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-49-95-IRV7.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=343462 loop_end=436268 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-49-64-HEOS.wav
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=342364 loop_end=435795 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-49-32-K7UO.wav
-<group> key=50 pitch_keytrack=1
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=328783 loop_end=422357 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-50-127-QJRF.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=277557 loop_end=398734 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-50-95-EYWT.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=343739 loop_end=436125 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-50-64-MWNV.wav
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=347443 loop_end=435604 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-50-32-1LYV.wav
-<group> key=51 pitch_keytrack=1
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=338461 loop_end=429034 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-51-127-LZA5.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=333201 loop_end=426055 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-51-95-8O20.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=344024 loop_end=436871 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-51-64-JJ1Y.wav
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=336230 loop_end=425681 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-51-32-3RO8.wav
-<group> key=52 pitch_keytrack=1
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=329335 loop_end=422839 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-52-127-6WSL.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=278393 loop_end=398594 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-52-95-DE0X.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=342931 loop_end=436440 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-52-64-8UA6.wav
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=335649 loop_end=423808 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-52-32-FNJV.wav
-<group> key=53 pitch_keytrack=1
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=328986 loop_end=425319 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-53-127-7OVS.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=279088 loop_end=399165 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-53-95-TK01.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=316680 loop_end=412029 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-53-64-Y05O.wav
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=338440 loop_end=427219 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-53-32-4DLP.wav
-<group> key=54 pitch_keytrack=1
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=328675 loop_end=422447 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-54-127-SYNB.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=277802 loop_end=399204 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-54-95-Q2EM.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=343053 loop_end=436839 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-54-64-9DX0.wav
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=343790 loop_end=433287 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-54-32-56BA.wav
-<group> key=55 pitch_keytrack=1
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=305213 loop_end=398663 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-55-127-BQYZ.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=278556 loop_end=398518 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-55-95-WHI7.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=343207 loop_end=435771 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-55-64-7KVE.wav
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=346030 loop_end=435425 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-55-32-AMZ5.wav
-<group> key=56 pitch_keytrack=1
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=329642 loop_end=421644 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-56-127-DNWX.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=278422 loop_end=397567 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-56-95-XP41.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=343331 loop_end=436187 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-56-64-IGTK.wav
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=340294 loop_end=428901 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-56-32-TMY3.wav
-<group> key=57 pitch_keytrack=1
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=328652 loop_end=426992 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-57-127-WI42.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=279304 loop_end=398535 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-57-95-MQXB.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=316131 loop_end=412077 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-57-64-FNQJ.wav
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=339728 loop_end=430031 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-57-32-7CK8.wav
-<group> key=58 pitch_keytrack=1
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=329687 loop_end=419449 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-58-127-216E.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=278697 loop_end=398791 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-58-95-A6SA.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=343926 loop_end=437103 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-58-64-0RP6.wav
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=345280 loop_end=435044 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-58-32-2APP.wav
-<group> key=59 pitch_keytrack=1
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=329166 loop_end=422110 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-59-127-3TEU.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=278697 loop_end=398821 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-59-95-9H7E.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=316032 loop_end=411835 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-59-64-JBKB.wav
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=321681 loop_end=412470 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-59-32-51LQ.wav
-<group> key=60 pitch_keytrack=1
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=328763 loop_end=419494 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-60-127-LQWM.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=328868 loop_end=421975 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-60-95-GTBZ.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=343390 loop_end=436151 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-60-64-PPWE.wav
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=333291 loop_end=425042 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-60-32-JCY0.wav
-<group> key=61 pitch_keytrack=1
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=338181 loop_end=429879 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-61-127-0KJ7.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=278188 loop_end=398558 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-61-95-D4P6.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=344016 loop_end=436680 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-61-64-QF6D.wav
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=347055 loop_end=435577 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-61-32-H3WG.wav
-<group> key=62 pitch_keytrack=1
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=327744 loop_end=421786 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-62-127-DDA5.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=278446 loop_end=398648 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-62-95-M3MV.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=343307 loop_end=436156 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-62-64-QJOF.wav
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=346340 loop_end=436774 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-62-32-8K0E.wav
-<group> key=63 pitch_keytrack=1
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=327816 loop_end=419680 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-63-127-Q1UR.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=278579 loop_end=398812 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-63-95-389B.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=342785 loop_end=435794 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-63-64-YYGF.wav
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=323645 loop_end=417222 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-63-32-8NWP.wav
-<group> key=64 pitch_keytrack=1
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=302158 loop_end=398751 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-64-127-T26C.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=278796 loop_end=398936 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-64-95-38US.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=315956 loop_end=411753 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-64-64-7UON.wav
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=346257 loop_end=436153 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-64-32-T42K.wav
-<group> key=65 pitch_keytrack=1
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=328709 loop_end=426629 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-65-127-LGA2.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=279126 loop_end=399281 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-65-95-QZ0H.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=316345 loop_end=412252 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-65-64-4Q34.wav
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=341500 loop_end=432360 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-65-32-I3WO.wav
-<group> key=66 pitch_keytrack=1
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=327708 loop_end=421304 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-66-127-V89H.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=278639 loop_end=398904 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-66-95-MFCF.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=342659 loop_end=436254 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-66-64-PUAF.wav
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=346150 loop_end=436172 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-66-32-FM2G.wav
-<group> key=67 pitch_keytrack=1
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=328367 loop_end=421850 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-67-127-HYAK.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=278460 loop_end=398709 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-67-95-RNKE.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=343194 loop_end=436248 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-67-64-98B5.wav
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=343971 loop_end=436103 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-67-32-A6UG.wav
-<group> key=68 pitch_keytrack=1
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=328633 loop_end=426812 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-68-127-9BKX.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=279094 loop_end=399329 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-68-95-V7F9.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=330366 loop_end=419426 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-68-64-4O1O.wav
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=337765 loop_end=432982 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-68-32-QJOO.wav
-<group> key=69 pitch_keytrack=1
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=339183 loop_end=428452 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-69-127-FKSB.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=305203 loop_end=397683 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-69-95-1HL5.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=343123 loop_end=436216 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-69-64-2NQZ.wav
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=346267 loop_end=436733 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-69-32-J4IH.wav
-<group> key=70 pitch_keytrack=1
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=328255 loop_end=426455 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-70-127-XSEV.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=278835 loop_end=398958 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-70-95-877Z.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=316215 loop_end=412159 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-70-64-FRLF.wav
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=322419 loop_end=410049 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-70-32-ZPUN.wav
-<group> key=71 pitch_keytrack=1
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=305920 loop_end=397714 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-71-127-0RJH.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=338603 loop_end=430035 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-71-95-FGW3.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=316064 loop_end=411242 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-71-64-N2TX.wav
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=345578 loop_end=436833 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-71-32-B7PU.wav
-<group>lokey=72 hikey=125 pitch_keycenter=72 pitch_keytrack=1
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=327872 loop_end=425893 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-72-127-37L1.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=328572 loop_end=422247 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-72-95-3K5Q.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=316076 loop_end=412605 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-72-64-6S92.wav
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=304523 loop_end=392977 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-72-32-9E99.wav
+<group>lokey=9 hikey=36 pitch_keycenter=36 
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=338011 loop_end=429454  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-36-127-3E5P.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=338333 loop_end=429773  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-36-95-SUD3.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=322428 loop_end=411191  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-36-64-TUDY.wav
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=328973 loop_end=419069  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-36-32-OZEW.wav
+<group> key=37 
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=328171 loop_end=429786  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-37-127-JLMR.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=298691 loop_end=399058  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-37-95-T4GB.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=316444 loop_end=411701  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-37-64-W5NO.wav
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=335780 loop_end=436128  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-37-32-3FZH.wav
+<group> key=38 
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=337356 loop_end=429703  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-38-127-10MT.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=338886 loop_end=430041  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-38-95-2ANZ.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=320261 loop_end=412604  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-38-64-6EQT.wav
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=341710 loop_end=431648  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-38-32-D6DH.wav
+<group> key=39 
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=328373 loop_end=426875  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-39-127-9U90.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=301260 loop_end=398656  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-39-95-Z9FS.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=316089 loop_end=412332  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-39-64-VZ25.wav
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=339933 loop_end=436181  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-39-32-1SWJ.wav
+<group> key=40 
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=329624 loop_end=426894  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-40-127-XDRK.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=278039 loop_end=397762  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-40-95-IGXM.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=338338 loop_end=435609  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-40-64-EM02.wav
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=337298 loop_end=433502  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-40-32-QH56.wav
+<group> key=41 
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=328760 loop_end=421533  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-41-127-BT7K.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=279179 loop_end=399201  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-41-95-ULAX.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=316095 loop_end=411896  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-41-64-IL3G.wav
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=336513 loop_end=425254  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-41-32-LACT.wav
+<group> key=42 
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=338438 loop_end=429823  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-42-127-UTH9.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=333718 loop_end=426060  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-42-95-POJR.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=316752 loop_end=411932  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-42-64-7VSA.wav
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=340460 loop_end=429950  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-42-32-E4SI.wav
+<group> key=43 
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=328413 loop_end=424570  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-43-127-CGRC.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=303108 loop_end=398380  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-43-95-WHH7.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=316827 loop_end=412122  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-43-64-53WW.wav
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=329406 loop_end=424660  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-43-32-FH81.wav
+<group> key=44 
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=329554 loop_end=418615  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-44-127-YYOV.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=333737 loop_end=421128  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-44-95-365L.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=346758 loop_end=436672  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-44-64-C7RA.wav
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=326826 loop_end=415899  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-44-32-CDY9.wav
+<group> key=45 
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=328739 loop_end=418453  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-45-127-F5N7.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=278805 loop_end=398976  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-45-95-T2C1.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=337157 loop_end=436489  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-45-64-9S1H.wav
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=346077 loop_end=435794  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-45-32-UPGC.wav
+<group> key=46 
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=302398 loop_end=398403  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-46-127-1RWZ.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=278578 loop_end=398782  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-46-95-NDNY.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=316333 loop_end=412366  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-46-64-PSN1.wav
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=338683 loop_end=435455  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-46-32-IK5M.wav
+<group> key=47 
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=338189 loop_end=429526  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-47-127-8EFM.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=329039 loop_end=422528  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-47-95-07J8.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=343366 loop_end=436134  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-47-64-TKBI.wav
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=345295 loop_end=435217  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-47-32-MSG9.wav
+<group> key=48 
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=328850 loop_end=421123  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-48-127-Y29U.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=279201 loop_end=398446  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-48-95-JTR6.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=316182 loop_end=411851  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-48-64-7J9M.wav
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=322238 loop_end=411809  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-48-32-UA0J.wav
+<group> key=49 
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=329572 loop_end=421088  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-49-127-SWAN.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=329415 loop_end=420938  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-49-95-IRV7.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=343462 loop_end=436268  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-49-64-HEOS.wav
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=342364 loop_end=435795  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-49-32-K7UO.wav
+<group> key=50 
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=328783 loop_end=422357  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-50-127-QJRF.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=277557 loop_end=398734  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-50-95-EYWT.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=343739 loop_end=436125  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-50-64-MWNV.wav
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=347443 loop_end=435604  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-50-32-1LYV.wav
+<group> key=51 
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=338461 loop_end=429034  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-51-127-LZA5.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=333201 loop_end=426055  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-51-95-8O20.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=344024 loop_end=436871  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-51-64-JJ1Y.wav
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=336230 loop_end=425681  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-51-32-3RO8.wav
+<group> key=52 
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=329335 loop_end=422839  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-52-127-6WSL.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=278393 loop_end=398594  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-52-95-DE0X.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=342931 loop_end=436440  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-52-64-8UA6.wav
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=335649 loop_end=423808  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-52-32-FNJV.wav
+<group> key=53 
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=328986 loop_end=425319  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-53-127-7OVS.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=279088 loop_end=399165  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-53-95-TK01.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=316680 loop_end=412029  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-53-64-Y05O.wav
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=338440 loop_end=427219  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-53-32-4DLP.wav
+<group> key=54 
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=328675 loop_end=422447  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-54-127-SYNB.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=277802 loop_end=399204  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-54-95-Q2EM.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=343053 loop_end=436839  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-54-64-9DX0.wav
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=343790 loop_end=433287  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-54-32-56BA.wav
+<group> key=55 
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=305213 loop_end=398663  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-55-127-BQYZ.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=278556 loop_end=398518  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-55-95-WHI7.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=343207 loop_end=435771  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-55-64-7KVE.wav
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=346030 loop_end=435425  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-55-32-AMZ5.wav
+<group> key=56 
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=329642 loop_end=421644  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-56-127-DNWX.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=278422 loop_end=397567  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-56-95-XP41.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=343331 loop_end=436187  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-56-64-IGTK.wav
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=340294 loop_end=428901  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-56-32-TMY3.wav
+<group> key=57 
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=328652 loop_end=426992  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-57-127-WI42.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=279304 loop_end=398535  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-57-95-MQXB.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=316131 loop_end=412077  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-57-64-FNQJ.wav
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=339728 loop_end=430031  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-57-32-7CK8.wav
+<group> key=58 
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=329687 loop_end=419449  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-58-127-216E.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=278697 loop_end=398791  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-58-95-A6SA.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=343926 loop_end=437103  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-58-64-0RP6.wav
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=345280 loop_end=435044  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-58-32-2APP.wav
+<group> key=59 
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=329166 loop_end=422110  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-59-127-3TEU.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=278697 loop_end=398821  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-59-95-9H7E.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=316032 loop_end=411835  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-59-64-JBKB.wav
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=321681 loop_end=412470  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-59-32-51LQ.wav
+<group> key=60 
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=328763 loop_end=419494  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-60-127-LQWM.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=328868 loop_end=421975  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-60-95-GTBZ.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=343390 loop_end=436151  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-60-64-PPWE.wav
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=333291 loop_end=425042  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-60-32-JCY0.wav
+<group> key=61 
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=338181 loop_end=429879  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-61-127-0KJ7.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=278188 loop_end=398558  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-61-95-D4P6.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=344016 loop_end=436680  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-61-64-QF6D.wav
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=347055 loop_end=435577  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-61-32-H3WG.wav
+<group> key=62 
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=327744 loop_end=421786  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-62-127-DDA5.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=278446 loop_end=398648  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-62-95-M3MV.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=343307 loop_end=436156  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-62-64-QJOF.wav
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=346340 loop_end=436774  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-62-32-8K0E.wav
+<group> key=63 
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=327816 loop_end=419680  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-63-127-Q1UR.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=278579 loop_end=398812  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-63-95-389B.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=342785 loop_end=435794  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-63-64-YYGF.wav
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=323645 loop_end=417222  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-63-32-8NWP.wav
+<group> key=64 
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=302158 loop_end=398751  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-64-127-T26C.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=278796 loop_end=398936  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-64-95-38US.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=315956 loop_end=411753  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-64-64-7UON.wav
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=346257 loop_end=436153  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-64-32-T42K.wav
+<group> key=65 
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=328709 loop_end=426629  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-65-127-LGA2.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=279126 loop_end=399281  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-65-95-QZ0H.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=316345 loop_end=412252  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-65-64-4Q34.wav
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=341500 loop_end=432360  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-65-32-I3WO.wav
+<group> key=66 
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=327708 loop_end=421304  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-66-127-V89H.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=278639 loop_end=398904  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-66-95-MFCF.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=342659 loop_end=436254  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-66-64-PUAF.wav
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=346150 loop_end=436172  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-66-32-FM2G.wav
+<group> key=67 
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=328367 loop_end=421850  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-67-127-HYAK.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=278460 loop_end=398709  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-67-95-RNKE.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=343194 loop_end=436248  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-67-64-98B5.wav
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=343971 loop_end=436103  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-67-32-A6UG.wav
+<group> key=68 
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=328633 loop_end=426812  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-68-127-9BKX.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=279094 loop_end=399329  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-68-95-V7F9.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=330366 loop_end=419426  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-68-64-4O1O.wav
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=337765 loop_end=432982  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-68-32-QJOO.wav
+<group> key=69 
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=339183 loop_end=428452  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-69-127-FKSB.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=305203 loop_end=397683  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-69-95-1HL5.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=343123 loop_end=436216  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-69-64-2NQZ.wav
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=346267 loop_end=436733  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-69-32-J4IH.wav
+<group> key=70 
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=328255 loop_end=426455  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-70-127-XSEV.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=278835 loop_end=398958  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-70-95-877Z.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=316215 loop_end=412159  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-70-64-FRLF.wav
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=322419 loop_end=410049  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-70-32-ZPUN.wav
+<group> key=71 
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=305920 loop_end=397714  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-71-127-0RJH.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=338603 loop_end=430035  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-71-95-FGW3.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=316064 loop_end=411242  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-71-64-N2TX.wav
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=345578 loop_end=436833  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-71-32-B7PU.wav
+<group>lokey=72 hikey=125 pitch_keycenter=72 
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=327872 loop_end=425893  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle4/(2016614 232156)/101andPals-72-127-37L1.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=328572 loop_end=422247  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle3/(2016614 231239)/101andPals-72-95-3K5Q.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=316076 loop_end=412605  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle2/(2016614 23240)/101andPals-72-64-6S92.wav
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=304523 loop_end=392977  amp_veltrack=0 sample=../Audio/Bonus Audio/Wet Triangle/Processed Samples/watertriangle1/(2016614 225142)/101andPals-72-32-9E99.wav

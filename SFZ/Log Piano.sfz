@@ -1,100 +1,100 @@
 // this file was generated from Log Piano.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=48 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=250 end=258538 sample=../Audio/Bonus Audio/Log Piano/Log Piano-C2-127-MIAY.wav
-<group> key=49 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=203 end=256628 sample=../Audio/Bonus Audio/Log Piano/Log Piano-C#2-127-H0FA.wav
-<group> key=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=179 sample=../Audio/Bonus Audio/Log Piano/Log Piano-D2-127-LK4K.wav
-<group> key=51 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=348 end=257866 sample=../Audio/Bonus Audio/Log Piano/Log Piano-D#2-127-QBOB.wav
-<group> key=52 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=352 end=257275 sample=../Audio/Bonus Audio/Log Piano/Log Piano-E2-127-1WWX.wav
-<group> key=53 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=345 sample=../Audio/Bonus Audio/Log Piano/Log Piano-F2-127-8CQU.wav
-<group> key=54 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=155 end=255646 sample=../Audio/Bonus Audio/Log Piano/Log Piano-F#2-127-DDU4.wav
-<group> key=55 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=202 end=255157 sample=../Audio/Bonus Audio/Log Piano/Log Piano-G2-127-YNTI.wav
-<group> key=56 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=352 end=257235 sample=../Audio/Bonus Audio/Log Piano/Log Piano-G#2-127-O9GS.wav
-<group> key=57 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=356 sample=../Audio/Bonus Audio/Log Piano/Log Piano-A2-127-X087.wav
-<group> key=58 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=192 end=254225 sample=../Audio/Bonus Audio/Log Piano/Log Piano-A#2-127-7XNS.wav
-<group> key=59 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=296 end=253375 sample=../Audio/Bonus Audio/Log Piano/Log Piano-B2-127-ZPJI.wav
-<group> key=60 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=161 sample=../Audio/Bonus Audio/Log Piano/Log Piano-C3-127-7GDK.wav
-<group> key=61 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=159 sample=../Audio/Bonus Audio/Log Piano/Log Piano-C#3-127-LVDB.wav
-<group> key=62 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=341 end=253433 sample=../Audio/Bonus Audio/Log Piano/Log Piano-D3-127-PA2D.wav
-<group> key=63 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=156 end=254554 sample=../Audio/Bonus Audio/Log Piano/Log Piano-D#3-127-5VO6.wav
-<group> key=64 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=246 end=251136 sample=../Audio/Bonus Audio/Log Piano/Log Piano-E3-127-P988.wav
-<group> key=65 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=151 sample=../Audio/Bonus Audio/Log Piano/Log Piano-F3-127-ZDD7.wav
-<group> key=66 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=190 end=248924 sample=../Audio/Bonus Audio/Log Piano/Log Piano-F#3-127-AJCH.wav
-<group> key=67 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=171 end=249709 sample=../Audio/Bonus Audio/Log Piano/Log Piano-G3-127-43II.wav
-<group> key=68 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=260 end=250278 sample=../Audio/Bonus Audio/Log Piano/Log Piano-G#3-127-FSN4.wav
-<group> key=69 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=331 sample=../Audio/Bonus Audio/Log Piano/Log Piano-A3-127-E2UH.wav
-<group> key=70 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=403 end=247259 sample=../Audio/Bonus Audio/Log Piano/Log Piano-A#3-127-YR2K.wav
-<group> key=71 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=171 end=248425 sample=../Audio/Bonus Audio/Log Piano/Log Piano-B3-127-ZPFO.wav
-<group> key=72 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=244 end=250029 sample=../Audio/Bonus Audio/Log Piano/Log Piano-C4-127-XQTO.wav
-<group> key=73 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=269 end=249118 sample=../Audio/Bonus Audio/Log Piano/Log Piano-C#4-127-GCCD.wav
-<group> key=74 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=402 end=249975 sample=../Audio/Bonus Audio/Log Piano/Log Piano-D4-127-2584.wav
-<group> key=75 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=151 end=250368 sample=../Audio/Bonus Audio/Log Piano/Log Piano-D#4-127-8925.wav
-<group> key=76 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=182 end=246232 sample=../Audio/Bonus Audio/Log Piano/Log Piano-E4-127-08EM.wav
-<group> key=77 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=353 end=247941 sample=../Audio/Bonus Audio/Log Piano/Log Piano-F4-127-3SWR.wav
-<group> key=78 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=184 sample=../Audio/Bonus Audio/Log Piano/Log Piano-F#4-127-59KH.wav
-<group> key=79 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=328 end=248375 sample=../Audio/Bonus Audio/Log Piano/Log Piano-G4-127-NYCG.wav
-<group> key=80 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=242 end=246008 sample=../Audio/Bonus Audio/Log Piano/Log Piano-G#4-127-8L4V.wav
-<group> key=81 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=236 end=248187 sample=../Audio/Bonus Audio/Log Piano/Log Piano-A4-127-NLC2.wav
-<group> key=82 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=223 end=248895 sample=../Audio/Bonus Audio/Log Piano/Log Piano-A#4-127-7JHU.wav
-<group> key=83 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=174 end=248814 sample=../Audio/Bonus Audio/Log Piano/Log Piano-B4-127-673G.wav
-<group> key=84 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=245 end=231514 sample=../Audio/Bonus Audio/Log Piano/Log Piano-C5-127-QH7K.wav
-<group> key=85 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=276 sample=../Audio/Bonus Audio/Log Piano/Log Piano-C#5-127-ONNC.wav
-<group> key=86 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=338 end=250658 sample=../Audio/Bonus Audio/Log Piano/Log Piano-D5-127-HUTB.wav
-<group> key=87 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=250 sample=../Audio/Bonus Audio/Log Piano/Log Piano-D#5-127-VP2O.wav
-<group> key=88 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=228 end=229853 sample=../Audio/Bonus Audio/Log Piano/Log Piano-E5-127-FRI9.wav
-<group> key=89 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=385 end=229246 sample=../Audio/Bonus Audio/Log Piano/Log Piano-F5-127-8UF0.wav
-<group> key=90 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=153 sample=../Audio/Bonus Audio/Log Piano/Log Piano-F#5-127-BSBZ.wav
-<group> key=91 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=323 end=240137 sample=../Audio/Bonus Audio/Log Piano/Log Piano-G5-127-HD98.wav
-<group> key=92 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=370 end=249459 sample=../Audio/Bonus Audio/Log Piano/Log Piano-G#5-127-BYEL.wav
-<group> key=93 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=202 end=229125 sample=../Audio/Bonus Audio/Log Piano/Log Piano-A5-127-57B2.wav
-<group> key=94 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=362 end=229923 sample=../Audio/Bonus Audio/Log Piano/Log Piano-A#5-127-1B9B.wav
-<group> key=95 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=331 end=229928 sample=../Audio/Bonus Audio/Log Piano/Log Piano-B5-127-1XJD.wav
-<group> key=96 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=187 end=230475 sample=../Audio/Bonus Audio/Log Piano/Log Piano-C6-127-IEYV.wav
+<group> key=48 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=250 end=258538  amp_veltrack=0 sample=../Audio/Bonus Audio/Log Piano/Log Piano-C2-127-MIAY.wav
+<group> key=49 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=203 end=256628  amp_veltrack=0 sample=../Audio/Bonus Audio/Log Piano/Log Piano-C#2-127-H0FA.wav
+<group> key=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=179  amp_veltrack=0 sample=../Audio/Bonus Audio/Log Piano/Log Piano-D2-127-LK4K.wav
+<group> key=51 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=348 end=257866  amp_veltrack=0 sample=../Audio/Bonus Audio/Log Piano/Log Piano-D#2-127-QBOB.wav
+<group> key=52 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=352 end=257275  amp_veltrack=0 sample=../Audio/Bonus Audio/Log Piano/Log Piano-E2-127-1WWX.wav
+<group> key=53 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=345  amp_veltrack=0 sample=../Audio/Bonus Audio/Log Piano/Log Piano-F2-127-8CQU.wav
+<group> key=54 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=155 end=255646  amp_veltrack=0 sample=../Audio/Bonus Audio/Log Piano/Log Piano-F#2-127-DDU4.wav
+<group> key=55 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=202 end=255157  amp_veltrack=0 sample=../Audio/Bonus Audio/Log Piano/Log Piano-G2-127-YNTI.wav
+<group> key=56 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=352 end=257235  amp_veltrack=0 sample=../Audio/Bonus Audio/Log Piano/Log Piano-G#2-127-O9GS.wav
+<group> key=57 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=356  amp_veltrack=0 sample=../Audio/Bonus Audio/Log Piano/Log Piano-A2-127-X087.wav
+<group> key=58 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=192 end=254225  amp_veltrack=0 sample=../Audio/Bonus Audio/Log Piano/Log Piano-A#2-127-7XNS.wav
+<group> key=59 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=296 end=253375  amp_veltrack=0 sample=../Audio/Bonus Audio/Log Piano/Log Piano-B2-127-ZPJI.wav
+<group> key=60 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=161  amp_veltrack=0 sample=../Audio/Bonus Audio/Log Piano/Log Piano-C3-127-7GDK.wav
+<group> key=61 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=159  amp_veltrack=0 sample=../Audio/Bonus Audio/Log Piano/Log Piano-C#3-127-LVDB.wav
+<group> key=62 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=341 end=253433  amp_veltrack=0 sample=../Audio/Bonus Audio/Log Piano/Log Piano-D3-127-PA2D.wav
+<group> key=63 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=156 end=254554  amp_veltrack=0 sample=../Audio/Bonus Audio/Log Piano/Log Piano-D#3-127-5VO6.wav
+<group> key=64 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=246 end=251136  amp_veltrack=0 sample=../Audio/Bonus Audio/Log Piano/Log Piano-E3-127-P988.wav
+<group> key=65 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=151  amp_veltrack=0 sample=../Audio/Bonus Audio/Log Piano/Log Piano-F3-127-ZDD7.wav
+<group> key=66 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=190 end=248924  amp_veltrack=0 sample=../Audio/Bonus Audio/Log Piano/Log Piano-F#3-127-AJCH.wav
+<group> key=67 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=171 end=249709  amp_veltrack=0 sample=../Audio/Bonus Audio/Log Piano/Log Piano-G3-127-43II.wav
+<group> key=68 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=260 end=250278  amp_veltrack=0 sample=../Audio/Bonus Audio/Log Piano/Log Piano-G#3-127-FSN4.wav
+<group> key=69 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=331  amp_veltrack=0 sample=../Audio/Bonus Audio/Log Piano/Log Piano-A3-127-E2UH.wav
+<group> key=70 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=403 end=247259  amp_veltrack=0 sample=../Audio/Bonus Audio/Log Piano/Log Piano-A#3-127-YR2K.wav
+<group> key=71 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=171 end=248425  amp_veltrack=0 sample=../Audio/Bonus Audio/Log Piano/Log Piano-B3-127-ZPFO.wav
+<group> key=72 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=244 end=250029  amp_veltrack=0 sample=../Audio/Bonus Audio/Log Piano/Log Piano-C4-127-XQTO.wav
+<group> key=73 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=269 end=249118  amp_veltrack=0 sample=../Audio/Bonus Audio/Log Piano/Log Piano-C#4-127-GCCD.wav
+<group> key=74 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=402 end=249975  amp_veltrack=0 sample=../Audio/Bonus Audio/Log Piano/Log Piano-D4-127-2584.wav
+<group> key=75 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=151 end=250368  amp_veltrack=0 sample=../Audio/Bonus Audio/Log Piano/Log Piano-D#4-127-8925.wav
+<group> key=76 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=182 end=246232  amp_veltrack=0 sample=../Audio/Bonus Audio/Log Piano/Log Piano-E4-127-08EM.wav
+<group> key=77 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=353 end=247941  amp_veltrack=0 sample=../Audio/Bonus Audio/Log Piano/Log Piano-F4-127-3SWR.wav
+<group> key=78 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=184  amp_veltrack=0 sample=../Audio/Bonus Audio/Log Piano/Log Piano-F#4-127-59KH.wav
+<group> key=79 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=328 end=248375  amp_veltrack=0 sample=../Audio/Bonus Audio/Log Piano/Log Piano-G4-127-NYCG.wav
+<group> key=80 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=242 end=246008  amp_veltrack=0 sample=../Audio/Bonus Audio/Log Piano/Log Piano-G#4-127-8L4V.wav
+<group> key=81 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=236 end=248187  amp_veltrack=0 sample=../Audio/Bonus Audio/Log Piano/Log Piano-A4-127-NLC2.wav
+<group> key=82 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=223 end=248895  amp_veltrack=0 sample=../Audio/Bonus Audio/Log Piano/Log Piano-A#4-127-7JHU.wav
+<group> key=83 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=174 end=248814  amp_veltrack=0 sample=../Audio/Bonus Audio/Log Piano/Log Piano-B4-127-673G.wav
+<group> key=84 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=245 end=231514  amp_veltrack=0 sample=../Audio/Bonus Audio/Log Piano/Log Piano-C5-127-QH7K.wav
+<group> key=85 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=276  amp_veltrack=0 sample=../Audio/Bonus Audio/Log Piano/Log Piano-C#5-127-ONNC.wav
+<group> key=86 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=338 end=250658  amp_veltrack=0 sample=../Audio/Bonus Audio/Log Piano/Log Piano-D5-127-HUTB.wav
+<group> key=87 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=250  amp_veltrack=0 sample=../Audio/Bonus Audio/Log Piano/Log Piano-D#5-127-VP2O.wav
+<group> key=88 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=228 end=229853  amp_veltrack=0 sample=../Audio/Bonus Audio/Log Piano/Log Piano-E5-127-FRI9.wav
+<group> key=89 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=385 end=229246  amp_veltrack=0 sample=../Audio/Bonus Audio/Log Piano/Log Piano-F5-127-8UF0.wav
+<group> key=90 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=153  amp_veltrack=0 sample=../Audio/Bonus Audio/Log Piano/Log Piano-F#5-127-BSBZ.wav
+<group> key=91 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=323 end=240137  amp_veltrack=0 sample=../Audio/Bonus Audio/Log Piano/Log Piano-G5-127-HD98.wav
+<group> key=92 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=370 end=249459  amp_veltrack=0 sample=../Audio/Bonus Audio/Log Piano/Log Piano-G#5-127-BYEL.wav
+<group> key=93 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=202 end=229125  amp_veltrack=0 sample=../Audio/Bonus Audio/Log Piano/Log Piano-A5-127-57B2.wav
+<group> key=94 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=362 end=229923  amp_veltrack=0 sample=../Audio/Bonus Audio/Log Piano/Log Piano-A#5-127-1B9B.wav
+<group> key=95 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=331 end=229928  amp_veltrack=0 sample=../Audio/Bonus Audio/Log Piano/Log Piano-B5-127-1XJD.wav
+<group> key=96 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=187 end=230475  amp_veltrack=0 sample=../Audio/Bonus Audio/Log Piano/Log Piano-C6-127-IEYV.wav

@@ -1,242 +1,242 @@
 // this file was generated from Pals.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group>lokey=0 hikey=24 pitch_keycenter=24 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=654 loop_end=74730 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-24-32-OKYG.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=18912 loop_end=234672 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-24-64-LH88.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=5268 loop_end=223727 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-24-95-96FE.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=32060 loop_end=249165 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-24-127-N342.wav
-<group> key=25 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=31989 loop_end=356591 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-25-32-WSVO.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=1286 loop_end=325886 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-25-64-JELA.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=1410 loop_end=324734 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-25-95-J1QH.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=34375 loop_end=357701 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-25-127-F6SL.wav
-<group> key=26 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=1478 loop_end=361913 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-26-32-YK3Q.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=2690 loop_end=363130 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-26-64-OQ0F.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=3703 loop_end=364145 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-26-95-Q6IB.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=2678 loop_end=363118 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-26-127-IG4D.wav
-<group> key=27 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=88822 loop_end=184085 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-27-32-1DQH.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=58028 loop_end=154435 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-27-64-8YDX.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=122755 loop_end=218019 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-27-95-7SXJ.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=68412 loop_end=162549 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-27-127-O49N.wav
-<group> key=28 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=123018 loop_end=219331 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-28-32-UDNM.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=126863 loop_end=222114 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-28-64-BGCR.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=104856 loop_end=200108 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-28-95-ERSV.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=129303 loop_end=224550 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-28-127-HNOX.wav
-<group> key=29 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=111567 loop_end=195424 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-29-32-L59J.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=30060 loop_end=113924 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-29-64-PSMU.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=88049 loop_end=171905 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-29-95-IAIT.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=15392 loop_end=100262 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-29-127-JIAU.wav
-<group> key=30 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=131138 loop_end=214084 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-30-32-17V5.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=129134 loop_end=213037 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-30-64-ZYR0.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=128326 loop_end=212231 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-30-95-7X99.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=169057 loop_end=252958 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-30-127-10OS.wav
-<group> key=31 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=94143 loop_end=211136 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-31-32-E95L.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=41955 loop_end=233645 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-31-64-T4IS.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=33830 loop_end=225527 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-31-95-AB4W.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=17644 loop_end=210239 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-31-127-CIO0.wav
-<group> key=32 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=81103 loop_end=226370 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-32-32-PU90.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=41145 loop_end=215310 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-32-64-IG99.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=16539 loop_end=190707 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-32-95-JM4W.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=82794 loop_end=227210 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-32-127-I3MJ.wav
-<group> key=33 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=111787 loop_end=214414 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-33-32-CTR6.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=286 loop_end=270509 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-33-64-E9KD.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=62746 loop_end=165383 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-33-95-BNVE.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=341 loop_end=270564 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-33-127-8TA2.wav
-<group> key=34 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=34609 loop_end=226079 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-34-32-POAA.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=60933 loop_end=157046 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-34-64-AB3R.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=65971 loop_end=162083 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-34-95-AIKL.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=69177 loop_end=165288 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-34-127-P4MN.wav
-<group> key=35 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=120357 loop_end=212495 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-35-32-WTTM.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=30819 loop_end=120829 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-35-64-FJEV.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=23272 loop_end=113282 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-35-95-2GG1.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=17507 loop_end=108231 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-35-127-UUWE.wav
-<group> key=36 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=125576 loop_end=210523 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-36-32-Z8QZ.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=19793 loop_end=164076 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-36-64-399M.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=30502 loop_end=174783 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-36-95-NARE.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=14258 loop_end=158543 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-36-127-8K5R.wav
-<group> key=37 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=125229 loop_end=209224 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-37-32-SFH0.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=79632 loop_end=217717 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-37-64-27PJ.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=77193 loop_end=215912 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-37-95-K3Y3.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=77259 loop_end=215982 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-37-127-BW4J.wav
-<group> key=38 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=84624 loop_end=209555 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-38-32-62M1.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=92710 loop_end=194815 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-38-64-F6IO.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=1999 loop_end=278298 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-38-95-NG99.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=192 loop_end=276494 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-38-127-K9NW.wav
-<group> key=39 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=125293 loop_end=216575 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-39-32-1DK7.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=5192 loop_end=240493 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-39-64-4QOB.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=10902 loop_end=245633 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-39-95-ZJTB.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=4514 loop_end=239245 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-39-127-0ERW.wav
-<group> key=40 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=85344 loop_end=216444 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-40-32-AOQZ.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=77848 loop_end=210021 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-40-64-RUQG.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=23254 loop_end=221787 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-40-95-JKFS.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=11460 loop_end=209991 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-40-127-BA63.wav
-<group> key=41 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=130847 loop_end=213676 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-41-32-HR11.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=76236 loop_end=220180 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-41-64-8CWQ.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=36771 loop_end=223139 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-41-95-JNQD.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=39895 loop_end=226262 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-41-127-F1H4.wav
-<group> key=42 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=119186 loop_end=215006 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-42-32-TDKQ.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=58583 loop_end=154879 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-42-64-F1X2.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=110422 loop_end=206719 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-42-95-JV3P.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=27860 loop_end=124161 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-42-127-K2FC.wav
-<group> key=43 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=124540 loop_end=214531 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-43-32-1II7.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=113223 loop_end=203662 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-43-64-1SQP.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=123526 loop_end=213518 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-43-95-IWIT.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=68361 loop_end=158352 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-43-127-G1GV.wav
-<group> key=44 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=129357 loop_end=213028 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-44-32-K6TS.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=71292 loop_end=221647 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-44-64-JIB5.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=68323 loop_end=218678 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-44-95-7957.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=65184 loop_end=215539 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-44-127-SNH9.wav
-<group> key=45 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=135982 loop_end=212146 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-45-32-DZV9.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=17299 loop_end=251812 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-45-64-GVLT.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=2987 loop_end=285607 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-45-95-AFYL.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=4945 loop_end=239461 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-45-127-EP4A.wav
-<group> key=46 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=113223 loop_end=215385 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-46-32-85JZ.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=31523 loop_end=223742 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-46-64-D6VR.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=8824 loop_end=243422 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-46-95-RAFF.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=82001 loop_end=184163 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-46-127-PAEG.wav
-<group> key=47 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=124861 loop_end=217003 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-47-32-PLKS.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=84532 loop_end=192746 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-47-64-9GJ9.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=81879 loop_end=177947 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-47-95-VX76.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=108173 loop_end=203885 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-47-127-85N1.wav
-<group> key=48 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=135782 loop_end=212299 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-48-32-3DTF.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=64360 loop_end=202565 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-48-64-KUD2.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=9168 loop_end=249515 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-48-95-NEXE.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=30473 loop_end=222612 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-48-127-ATYC.wav
-<group> key=49 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=111671 loop_end=216985 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-49-32-UA63.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=1700 loop_end=248287 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-49-64-T4T7.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=22410 loop_end=220950 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-49-95-6Z3D.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=11924 loop_end=246103 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-49-127-CHXE.wav
-<group> key=50 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=128388 loop_end=213978 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-50-32-37AO.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=91321 loop_end=199733 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-50-64-Y8UA.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=10038 loop_end=250294 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-50-95-VIUU.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=17260 loop_end=257813 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-50-127-YNDL.wav
-<group> key=51 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=132292 loop_end=215060 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-51-32-BMWB.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=23545 loop_end=215729 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-51-64-HKPX.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=81103 loop_end=213191 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-51-95-Y334.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=1646 loop_end=91788 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-51-127-W5HK.wav
-<group> key=52 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=134166 loop_end=213893 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-52-32-A8S1.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=6247 loop_end=234463 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-52-64-ORR2.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=56016 loop_end=152329 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-52-95-SR66.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=109509 loop_end=205821 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-52-127-7OGN.wav
-<group> key=53 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=131833 loop_end=210874 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-53-32-PFKN.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=109879 loop_end=200030 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-53-64-GHIP.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=115595 loop_end=205747 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-53-95-V4T5.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=71459 loop_end=215904 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-53-127-3KJD.wav
-<group> key=54 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=133052 loop_end=206228 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-54-32-E40V.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=67117 loop_end=211325 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-54-64-5MQJ.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=33672 loop_end=220070 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-54-95-CH1I.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=117558 loop_end=201698 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-54-127-0SPH.wav
-<group> key=55 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=129863 loop_end=207705 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-55-32-D0AB.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=26160 loop_end=212668 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-55-64-NOH4.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=38410 loop_end=225143 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-55-95-48HV.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=14208 loop_end=200494 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-55-127-TUJH.wav
-<group> key=56 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=99460 loop_end=178879 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-56-32-7J7E.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=99696 loop_end=195890 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-56-64-I9TI.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=29746 loop_end=216188 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-56-95-G562.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=26374 loop_end=122780 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-56-127-DB4W.wav
-<group> key=57 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=88994 loop_end=172973 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-57-32-XJDA.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=30152 loop_end=120345 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-57-64-6EQH.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=110985 loop_end=201177 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-57-95-6PRJ.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=120881 loop_end=211073 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-57-127-GHZI.wav
-<group> key=58 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=92706 loop_end=176324 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-58-32-55LV.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=89292 loop_end=227583 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-58-64-AMAQ.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=19196 loop_end=211595 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-58-95-Q6BR.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=116563 loop_end=254856 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-58-127-HX4R.wav
-<group> key=59 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=63887 loop_end=158347 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-59-32-VRM3.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=53656 loop_end=245969 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-59-64-3P3F.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=17202 loop_end=251299 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-59-95-37UJ.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=73942 loop_end=260003 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-59-127-V3S2.wav
-<group> key=60 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=70464 loop_end=147319 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-60-32-EM9N.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=10576 loop_end=203054 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-60-64-7BIR.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=19775 loop_end=254217 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-60-95-N6KN.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=22254 loop_end=214728 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-60-127-TC0T.wav
-<group> key=61 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=70241 loop_end=185259 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-61-32-NLLJ.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=87901 loop_end=274190 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-61-64-I6Y8.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=30627 loop_end=223120 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-61-95-LS1A.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=17237 loop_end=203685 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-61-127-P8CP.wav
-<group> key=62 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=79394 loop_end=176693 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-62-32-AJCS.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=46790 loop_end=190936 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-62-64-Z4YT.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=66261 loop_end=210708 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-62-95-AO5O.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=39554 loop_end=226045 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-62-127-F9QE.wav
-<group> key=63 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=83307 loop_end=178547 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-63-32-HE6W.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=40198 loop_end=226710 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-63-64-FT3B.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=70143 loop_end=214421 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-63-95-XLLH.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=60663 loop_end=204941 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-63-127-0XXZ.wav
-<group> key=64 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=79725 loop_end=176041 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-64-32-4INV.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=2701 loop_end=291518 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-64-64-LVNB.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=62064 loop_end=302854 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-64-95-FE6G.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=29619 loop_end=216097 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-64-127-KYN2.wav
-<group> key=65 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=84525 loop_end=196521 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-65-32-A9M7.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=9807 loop_end=250341 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-65-64-IL9R.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=82471 loop_end=226664 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-65-95-3YFY.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=67721 loop_end=211787 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-65-127-QCBG.wav
-<group> key=66 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=90163 loop_end=170726 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-66-32-OMJ1.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=89974 loop_end=228339 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-66-64-JK06.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=72214 loop_end=210579 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-66-95-BWJ7.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=73622 loop_end=163719 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-66-127-0LYU.wav
-<group> key=67 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=90071 loop_end=187710 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-67-32-ZZB1.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=63806 loop_end=208128 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-67-64-1XFE.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=86629 loop_end=182917 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-67-95-ZCEO.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=26157 loop_end=218735 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-67-127-UE7N.wav
-<group> key=68 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=132309 loop_end=204826 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-68-32-XN4I.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=69698 loop_end=214094 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-68-64-96HU.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=309 loop_end=282842 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-68-95-50I7.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=3573 loop_end=286107 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-68-127-8NA3.wav
-<group> key=69 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=86530 loop_end=188950 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-69-32-D3EU.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=636 loop_end=331351 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-69-64-MXGV.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=86211 loop_end=182518 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-69-95-MMRU.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=4455 loop_end=286865 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-69-127-NDM6.wav
-<group> key=70 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=130754 loop_end=212480 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-70-32-6PYQ.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=48026 loop_end=144320 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-70-64-JRY1.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=120542 loop_end=217026 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-70-95-HI1F.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=75430 loop_end=171532 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-70-127-5AQC.wav
-<group>lokey=71 hikey=102 pitch_keycenter=71 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=135580 loop_end=208969 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-71-32-5SPW.wav
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=117592 loop_end=213660 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-71-64-RJQF.wav
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=29152 loop_end=215752 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-71-95-ETU0.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=13448 loop_end=253973 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-71-127-3SOL.wav
+<group>lokey=0 hikey=24 pitch_keycenter=24 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=654 loop_end=74730  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-24-32-OKYG.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=18912 loop_end=234672  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-24-64-LH88.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=5268 loop_end=223727  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-24-95-96FE.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=32060 loop_end=249165  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-24-127-N342.wav
+<group> key=25 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=31989 loop_end=356591  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-25-32-WSVO.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=1286 loop_end=325886  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-25-64-JELA.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=1410 loop_end=324734  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-25-95-J1QH.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=34375 loop_end=357701  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-25-127-F6SL.wav
+<group> key=26 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=1478 loop_end=361913  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-26-32-YK3Q.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=2690 loop_end=363130  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-26-64-OQ0F.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=3703 loop_end=364145  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-26-95-Q6IB.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=2678 loop_end=363118  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-26-127-IG4D.wav
+<group> key=27 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=88822 loop_end=184085  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-27-32-1DQH.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=58028 loop_end=154435  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-27-64-8YDX.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=122755 loop_end=218019  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-27-95-7SXJ.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=68412 loop_end=162549  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-27-127-O49N.wav
+<group> key=28 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=123018 loop_end=219331  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-28-32-UDNM.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=126863 loop_end=222114  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-28-64-BGCR.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=104856 loop_end=200108  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-28-95-ERSV.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=129303 loop_end=224550  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-28-127-HNOX.wav
+<group> key=29 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=111567 loop_end=195424  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-29-32-L59J.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=30060 loop_end=113924  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-29-64-PSMU.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=88049 loop_end=171905  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-29-95-IAIT.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=15392 loop_end=100262  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-29-127-JIAU.wav
+<group> key=30 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=131138 loop_end=214084  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-30-32-17V5.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=129134 loop_end=213037  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-30-64-ZYR0.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=128326 loop_end=212231  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-30-95-7X99.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=169057 loop_end=252958  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-30-127-10OS.wav
+<group> key=31 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=94143 loop_end=211136  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-31-32-E95L.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=41955 loop_end=233645  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-31-64-T4IS.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=33830 loop_end=225527  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-31-95-AB4W.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=17644 loop_end=210239  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-31-127-CIO0.wav
+<group> key=32 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=81103 loop_end=226370  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-32-32-PU90.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=41145 loop_end=215310  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-32-64-IG99.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=16539 loop_end=190707  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-32-95-JM4W.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=82794 loop_end=227210  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-32-127-I3MJ.wav
+<group> key=33 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=111787 loop_end=214414  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-33-32-CTR6.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=286 loop_end=270509  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-33-64-E9KD.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=62746 loop_end=165383  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-33-95-BNVE.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=341 loop_end=270564  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-33-127-8TA2.wav
+<group> key=34 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=34609 loop_end=226079  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-34-32-POAA.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=60933 loop_end=157046  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-34-64-AB3R.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=65971 loop_end=162083  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-34-95-AIKL.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=69177 loop_end=165288  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-34-127-P4MN.wav
+<group> key=35 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=120357 loop_end=212495  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-35-32-WTTM.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=30819 loop_end=120829  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-35-64-FJEV.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=23272 loop_end=113282  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-35-95-2GG1.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=17507 loop_end=108231  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-35-127-UUWE.wav
+<group> key=36 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=125576 loop_end=210523  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-36-32-Z8QZ.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=19793 loop_end=164076  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-36-64-399M.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=30502 loop_end=174783  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-36-95-NARE.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=14258 loop_end=158543  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-36-127-8K5R.wav
+<group> key=37 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=125229 loop_end=209224  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-37-32-SFH0.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=79632 loop_end=217717  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-37-64-27PJ.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=77193 loop_end=215912  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-37-95-K3Y3.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=77259 loop_end=215982  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-37-127-BW4J.wav
+<group> key=38 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=84624 loop_end=209555  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-38-32-62M1.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=92710 loop_end=194815  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-38-64-F6IO.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=1999 loop_end=278298  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-38-95-NG99.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=192 loop_end=276494  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-38-127-K9NW.wav
+<group> key=39 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=125293 loop_end=216575  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-39-32-1DK7.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=5192 loop_end=240493  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-39-64-4QOB.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=10902 loop_end=245633  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-39-95-ZJTB.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=4514 loop_end=239245  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-39-127-0ERW.wav
+<group> key=40 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=85344 loop_end=216444  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-40-32-AOQZ.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=77848 loop_end=210021  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-40-64-RUQG.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=23254 loop_end=221787  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-40-95-JKFS.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=11460 loop_end=209991  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-40-127-BA63.wav
+<group> key=41 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=130847 loop_end=213676  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-41-32-HR11.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=76236 loop_end=220180  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-41-64-8CWQ.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=36771 loop_end=223139  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-41-95-JNQD.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=39895 loop_end=226262  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-41-127-F1H4.wav
+<group> key=42 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=119186 loop_end=215006  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-42-32-TDKQ.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=58583 loop_end=154879  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-42-64-F1X2.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=110422 loop_end=206719  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-42-95-JV3P.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=27860 loop_end=124161  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-42-127-K2FC.wav
+<group> key=43 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=124540 loop_end=214531  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-43-32-1II7.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=113223 loop_end=203662  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-43-64-1SQP.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=123526 loop_end=213518  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-43-95-IWIT.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=68361 loop_end=158352  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-43-127-G1GV.wav
+<group> key=44 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=129357 loop_end=213028  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-44-32-K6TS.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=71292 loop_end=221647  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-44-64-JIB5.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=68323 loop_end=218678  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-44-95-7957.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=65184 loop_end=215539  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-44-127-SNH9.wav
+<group> key=45 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=135982 loop_end=212146  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-45-32-DZV9.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=17299 loop_end=251812  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-45-64-GVLT.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=2987 loop_end=285607  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-45-95-AFYL.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=4945 loop_end=239461  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-45-127-EP4A.wav
+<group> key=46 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=113223 loop_end=215385  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-46-32-85JZ.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=31523 loop_end=223742  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-46-64-D6VR.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=8824 loop_end=243422  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-46-95-RAFF.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=82001 loop_end=184163  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-46-127-PAEG.wav
+<group> key=47 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=124861 loop_end=217003  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-47-32-PLKS.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=84532 loop_end=192746  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-47-64-9GJ9.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=81879 loop_end=177947  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-47-95-VX76.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=108173 loop_end=203885  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-47-127-85N1.wav
+<group> key=48 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=135782 loop_end=212299  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-48-32-3DTF.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=64360 loop_end=202565  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-48-64-KUD2.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=9168 loop_end=249515  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-48-95-NEXE.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=30473 loop_end=222612  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-48-127-ATYC.wav
+<group> key=49 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=111671 loop_end=216985  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-49-32-UA63.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=1700 loop_end=248287  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-49-64-T4T7.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=22410 loop_end=220950  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-49-95-6Z3D.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=11924 loop_end=246103  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-49-127-CHXE.wav
+<group> key=50 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=128388 loop_end=213978  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-50-32-37AO.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=91321 loop_end=199733  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-50-64-Y8UA.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=10038 loop_end=250294  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-50-95-VIUU.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=17260 loop_end=257813  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-50-127-YNDL.wav
+<group> key=51 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=132292 loop_end=215060  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-51-32-BMWB.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=23545 loop_end=215729  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-51-64-HKPX.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=81103 loop_end=213191  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-51-95-Y334.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=1646 loop_end=91788  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-51-127-W5HK.wav
+<group> key=52 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=134166 loop_end=213893  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-52-32-A8S1.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=6247 loop_end=234463  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-52-64-ORR2.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=56016 loop_end=152329  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-52-95-SR66.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=109509 loop_end=205821  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-52-127-7OGN.wav
+<group> key=53 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=131833 loop_end=210874  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-53-32-PFKN.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=109879 loop_end=200030  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-53-64-GHIP.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=115595 loop_end=205747  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-53-95-V4T5.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=71459 loop_end=215904  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-53-127-3KJD.wav
+<group> key=54 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=133052 loop_end=206228  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-54-32-E40V.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=67117 loop_end=211325  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-54-64-5MQJ.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=33672 loop_end=220070  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-54-95-CH1I.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=117558 loop_end=201698  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-54-127-0SPH.wav
+<group> key=55 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=129863 loop_end=207705  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-55-32-D0AB.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=26160 loop_end=212668  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-55-64-NOH4.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=38410 loop_end=225143  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-55-95-48HV.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=14208 loop_end=200494  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-55-127-TUJH.wav
+<group> key=56 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=99460 loop_end=178879  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-56-32-7J7E.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=99696 loop_end=195890  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-56-64-I9TI.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=29746 loop_end=216188  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-56-95-G562.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=26374 loop_end=122780  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-56-127-DB4W.wav
+<group> key=57 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=88994 loop_end=172973  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-57-32-XJDA.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=30152 loop_end=120345  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-57-64-6EQH.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=110985 loop_end=201177  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-57-95-6PRJ.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=120881 loop_end=211073  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-57-127-GHZI.wav
+<group> key=58 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=92706 loop_end=176324  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-58-32-55LV.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=89292 loop_end=227583  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-58-64-AMAQ.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=19196 loop_end=211595  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-58-95-Q6BR.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=116563 loop_end=254856  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-58-127-HX4R.wav
+<group> key=59 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=63887 loop_end=158347  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-59-32-VRM3.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=53656 loop_end=245969  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-59-64-3P3F.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=17202 loop_end=251299  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-59-95-37UJ.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=73942 loop_end=260003  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-59-127-V3S2.wav
+<group> key=60 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=70464 loop_end=147319  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-60-32-EM9N.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=10576 loop_end=203054  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-60-64-7BIR.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=19775 loop_end=254217  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-60-95-N6KN.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=22254 loop_end=214728  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-60-127-TC0T.wav
+<group> key=61 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=70241 loop_end=185259  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-61-32-NLLJ.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=87901 loop_end=274190  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-61-64-I6Y8.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=30627 loop_end=223120  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-61-95-LS1A.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=17237 loop_end=203685  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-61-127-P8CP.wav
+<group> key=62 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=79394 loop_end=176693  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-62-32-AJCS.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=46790 loop_end=190936  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-62-64-Z4YT.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=66261 loop_end=210708  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-62-95-AO5O.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=39554 loop_end=226045  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-62-127-F9QE.wav
+<group> key=63 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=83307 loop_end=178547  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-63-32-HE6W.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=40198 loop_end=226710  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-63-64-FT3B.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=70143 loop_end=214421  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-63-95-XLLH.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=60663 loop_end=204941  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-63-127-0XXZ.wav
+<group> key=64 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=79725 loop_end=176041  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-64-32-4INV.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=2701 loop_end=291518  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-64-64-LVNB.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=62064 loop_end=302854  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-64-95-FE6G.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=29619 loop_end=216097  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-64-127-KYN2.wav
+<group> key=65 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=84525 loop_end=196521  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-65-32-A9M7.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=9807 loop_end=250341  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-65-64-IL9R.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=82471 loop_end=226664  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-65-95-3YFY.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=67721 loop_end=211787  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-65-127-QCBG.wav
+<group> key=66 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=90163 loop_end=170726  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-66-32-OMJ1.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=89974 loop_end=228339  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-66-64-JK06.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=72214 loop_end=210579  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-66-95-BWJ7.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=73622 loop_end=163719  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-66-127-0LYU.wav
+<group> key=67 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=90071 loop_end=187710  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-67-32-ZZB1.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=63806 loop_end=208128  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-67-64-1XFE.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=86629 loop_end=182917  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-67-95-ZCEO.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=26157 loop_end=218735  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-67-127-UE7N.wav
+<group> key=68 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=132309 loop_end=204826  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-68-32-XN4I.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=69698 loop_end=214094  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-68-64-96HU.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=309 loop_end=282842  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-68-95-50I7.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=3573 loop_end=286107  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-68-127-8NA3.wav
+<group> key=69 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=86530 loop_end=188950  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-69-32-D3EU.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=636 loop_end=331351  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-69-64-MXGV.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=86211 loop_end=182518  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-69-95-MMRU.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=4455 loop_end=286865  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-69-127-NDM6.wav
+<group> key=70 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=130754 loop_end=212480  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-70-32-6PYQ.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=48026 loop_end=144320  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-70-64-JRY1.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=120542 loop_end=217026  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-70-95-HI1F.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=75430 loop_end=171532  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-70-127-5AQC.wav
+<group>lokey=71 hikey=102 pitch_keycenter=71 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=135580 loop_end=208969  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-71-32-5SPW.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=117592 loop_end=213660  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-71-64-RJQF.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=29152 loop_end=215752  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-71-95-ETU0.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=13448 loop_end=253973  amp_veltrack=0 sample=../Audio/Bonus Audio/Pals/(2016616 221031)/101saw-71-127-3SOL.wav

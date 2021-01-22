@@ -1,92 +1,92 @@
 // this file was generated from Castration Pad.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group>lokey=0 hikey=37 pitch_keycenter=36 pitch_keytrack=1
-	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=7503 loop_end=356639 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-37-25-P502.wav
-	<region> lovel=017 hivel=031 amp_velcurve_031=1 loop_mode=loop_sustain loop_start=93825 loop_end=210276 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-37-30-QOXL.wav
-	<region> lovel=032 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=13307 loop_end=362402 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-37-35-0R00.wav
-	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=188688 loop_end=305343 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-37-40-3LB6.wav
-	<region> lovel=065 hivel=081 amp_velcurve_081=1 loop_mode=loop_sustain loop_start=13123 loop_end=362198 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-37-45-GHVG.wav
-	<region> lovel=082 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=161205 loop_end=277724 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-37-50-K9QL.wav
-	<region> lovel=098 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=2100 loop_end=351317 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-37-55-9JSK.wav
-	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=161239 loop_end=277718 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-37-60-FIAK.wav
-<group>lokey=38 hikey=41 pitch_keycenter=40 pitch_keytrack=1
-	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=220474 loop_end=312816 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-41-25-YMHJ.wav
-	<region> lovel=017 hivel=031 amp_velcurve_031=1 loop_mode=loop_sustain loop_start=150428 loop_end=335680 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-41-30-ARB2.wav
-	<region> lovel=032 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=241731 loop_end=334092 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-41-35-BWR8.wav
-	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=57019 loop_end=334639 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-41-40-YZKS.wav
-	<region> lovel=065 hivel=081 amp_velcurve_081=1 loop_mode=loop_sustain loop_start=220622 loop_end=313042 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-41-45-VQSW.wav
-	<region> lovel=082 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=150458 loop_end=335635 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-41-50-EMEG.wav
-	<region> lovel=098 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=35363 loop_end=127699 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-41-55-R04B.wav
-	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=57941 loop_end=335301 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-41-60-7E87.wav
-<group>lokey=42 hikey=45 pitch_keycenter=44 pitch_keytrack=1
-	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=89640 loop_end=309655 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-45-25-DDU0.wav
-	<region> lovel=017 hivel=031 amp_velcurve_031=1 loop_mode=loop_sustain loop_start=142740 loop_end=362910 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-45-30-Z3U0.wav
-	<region> lovel=032 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=142674 loop_end=362830 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-45-35-8K79.wav
-	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=102642 loop_end=322708 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-45-40-8WS6.wav
-	<region> lovel=065 hivel=081 amp_velcurve_081=1 loop_mode=loop_sustain loop_start=102322 loop_end=322311 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-45-45-COHZ.wav
-	<region> lovel=082 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=151283 loop_end=297832 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-45-50-NG4L.wav
-	<region> lovel=098 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=101564 loop_end=321620 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-45-55-5SYO.wav
-	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=119326 loop_end=339558 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-45-60-WBBT.wav
-<group>lokey=46 hikey=49 pitch_keycenter=48 pitch_keytrack=1
-	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=64766 loop_end=358688 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-49-25-MWAH.wav
-	<region> lovel=017 hivel=031 amp_velcurve_031=1 loop_mode=loop_sustain loop_start=113564 loop_end=358387 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-49-30-KZ90.wav
-	<region> lovel=032 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=116328 loop_end=361080 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-49-35-GYXY.wav
-	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=116472 loop_end=361266 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-49-40-WN83.wav
-	<region> lovel=065 hivel=081 amp_velcurve_081=1 loop_mode=loop_sustain loop_start=93548 loop_end=289022 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-49-45-RUZ3.wav
-	<region> lovel=082 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=116488 loop_end=361313 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-49-50-1976.wav
-	<region> lovel=098 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=150603 loop_end=346258 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-49-55-ANUJ.wav
-	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=164798 loop_end=360272 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-49-60-NIH4.wav
-<group>lokey=50 hikey=53 pitch_keycenter=52 pitch_keytrack=1
-	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=182693 loop_end=356787 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-53-25-NDQ5.wav
-	<region> lovel=017 hivel=031 amp_velcurve_031=1 loop_mode=loop_sustain loop_start=183259 loop_end=357315 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-53-30-CLAA.wav
-	<region> lovel=032 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=123352 loop_end=297327 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-53-35-DAFJ.wav
-	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=183407 loop_end=357462 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-53-40-KP2O.wav
-	<region> lovel=065 hivel=081 amp_velcurve_081=1 loop_mode=loop_sustain loop_start=67415 loop_end=357204 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-53-45-AIGV.wav
-	<region> lovel=082 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=238983 loop_end=354764 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-53-50-8K6X.wav
-	<region> lovel=098 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=123344 loop_end=297277 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-53-55-3GI2.wav
-	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=239866 loop_end=355661 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-53-60-F332.wav
-<group>lokey=54 hikey=57 pitch_keycenter=56 pitch_keytrack=1
-	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=106070 loop_end=332415 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-57-25-57FW.wav
-	<region> lovel=017 hivel=031 amp_velcurve_031=1 loop_mode=loop_sustain loop_start=198160 loop_end=348651 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-57-30-PREN.wav
-	<region> lovel=032 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=160838 loop_end=349201 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-57-35-0N37.wav
-	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=198441 loop_end=349034 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-57-40-2Y8U.wav
-	<region> lovel=065 hivel=081 amp_velcurve_081=1 loop_mode=loop_sustain loop_start=160794 loop_end=349122 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-57-45-T0H6.wav
-	<region> lovel=082 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=165002 loop_end=353482 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-57-50-39S2.wav
-	<region> lovel=098 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=123179 loop_end=349407 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-57-55-QV7N.wav
-	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=123242 loop_end=349457 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-57-60-JHRF.wav
-<group>lokey=58 hikey=61 pitch_keycenter=60 pitch_keytrack=1
-	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=111918 loop_end=223426 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-61-25-SMGS.wav
-	<region> lovel=017 hivel=031 amp_velcurve_031=1 loop_mode=loop_sustain loop_start=209799 loop_end=321435 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-61-30-GLUC.wav
-	<region> lovel=032 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=200296 loop_end=311863 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-61-35-5AKB.wav
-	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=214794 loop_end=326328 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-61-40-SL76.wav
-	<region> lovel=065 hivel=081 amp_velcurve_081=1 loop_mode=loop_sustain loop_start=159061 loop_end=270608 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-61-45-O90L.wav
-	<region> lovel=082 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=158921 loop_end=325911 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-61-50-JFCJ.wav
-	<region> lovel=098 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=209485 loop_end=321153 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-61-55-Q6J0.wav
-	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=70300 loop_end=348765 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-61-60-VGUE.wav
-<group>lokey=62 hikey=65 pitch_keycenter=64 pitch_keytrack=1
-	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=8531 loop_end=345616 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-65-25-66QI.wav
-	<region> lovel=017 hivel=031 amp_velcurve_031=1 loop_mode=loop_sustain loop_start=208311 loop_end=343145 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-65-30-XL7B.wav
-	<region> lovel=032 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=8561 loop_end=345509 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-65-35-9F1G.wav
-	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=159552 loop_end=361196 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-65-40-4YWU.wav
-	<region> lovel=065 hivel=081 amp_velcurve_081=1 loop_mode=loop_sustain loop_start=92563 loop_end=361826 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-65-45-I345.wav
-	<region> lovel=082 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=159617 loop_end=361342 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-65-50-I7O5.wav
-	<region> lovel=098 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=25182 loop_end=362014 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-65-55-V89I.wav
-	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=126851 loop_end=261732 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-65-60-8U73.wav
-<group>lokey=66 hikey=69 pitch_keycenter=68 pitch_keytrack=1
-	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=209385 loop_end=316121 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-69-25-LB42.wav
-	<region> lovel=017 hivel=031 amp_velcurve_031=1 loop_mode=loop_sustain loop_start=87329 loop_end=354680 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-69-30-16BV.wav
-	<region> lovel=032 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=209406 loop_end=316161 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-69-35-38EE.wav
-	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=79507 loop_end=346735 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-69-40-44KP.wav
-	<region> lovel=065 hivel=081 amp_velcurve_081=1 loop_mode=loop_sustain loop_start=26303 loop_end=346681 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-69-45-QNZX.wav
-	<region> lovel=082 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=81014 loop_end=348196 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-69-50-MQRC.wav
-	<region> lovel=098 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=80904 loop_end=348069 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-69-55-EW13.wav
-	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=26314 loop_end=346710 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-69-60-T3CV.wav
-<group>lokey=70 hikey=115 pitch_keycenter=72 pitch_keytrack=1
-	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=243153 loop_end=360758 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-72-25-N0QX.wav
-	<region> lovel=017 hivel=031 amp_velcurve_031=1 loop_mode=loop_sustain loop_start=187662 loop_end=363857 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-72-30-P6IS.wav
-	<region> lovel=032 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=70185 loop_end=364099 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-72-35-8CMC.wav
-	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=184053 loop_end=360185 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-72-40-I9RL.wav
-	<region> lovel=065 hivel=081 amp_velcurve_081=1 loop_mode=loop_sustain loop_start=142792 loop_end=260405 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-72-45-I3ME.wav
-	<region> lovel=082 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=152018 loop_end=328181 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-72-50-K8X3.wav
-	<region> lovel=098 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=151869 loop_end=327931 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-72-55-Q3YC.wav
-	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=152032 loop_end=328258 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-72-60-5CTK.wav
+<group>lokey=0 hikey=37 pitch_keycenter=36 
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=7503 loop_end=356639  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-37-25-P502.wav
+	<region> lovel=017 hivel=031 amp_velcurve_031=1 loop_mode=loop_sustain loop_start=93825 loop_end=210276  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-37-30-QOXL.wav
+	<region> lovel=032 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=13307 loop_end=362402  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-37-35-0R00.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=188688 loop_end=305343  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-37-40-3LB6.wav
+	<region> lovel=065 hivel=081 amp_velcurve_081=1 loop_mode=loop_sustain loop_start=13123 loop_end=362198  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-37-45-GHVG.wav
+	<region> lovel=082 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=161205 loop_end=277724  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-37-50-K9QL.wav
+	<region> lovel=098 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=2100 loop_end=351317  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-37-55-9JSK.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=161239 loop_end=277718  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-37-60-FIAK.wav
+<group>lokey=38 hikey=41 pitch_keycenter=40 
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=220474 loop_end=312816  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-41-25-YMHJ.wav
+	<region> lovel=017 hivel=031 amp_velcurve_031=1 loop_mode=loop_sustain loop_start=150428 loop_end=335680  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-41-30-ARB2.wav
+	<region> lovel=032 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=241731 loop_end=334092  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-41-35-BWR8.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=57019 loop_end=334639  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-41-40-YZKS.wav
+	<region> lovel=065 hivel=081 amp_velcurve_081=1 loop_mode=loop_sustain loop_start=220622 loop_end=313042  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-41-45-VQSW.wav
+	<region> lovel=082 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=150458 loop_end=335635  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-41-50-EMEG.wav
+	<region> lovel=098 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=35363 loop_end=127699  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-41-55-R04B.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=57941 loop_end=335301  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-41-60-7E87.wav
+<group>lokey=42 hikey=45 pitch_keycenter=44 
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=89640 loop_end=309655  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-45-25-DDU0.wav
+	<region> lovel=017 hivel=031 amp_velcurve_031=1 loop_mode=loop_sustain loop_start=142740 loop_end=362910  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-45-30-Z3U0.wav
+	<region> lovel=032 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=142674 loop_end=362830  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-45-35-8K79.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=102642 loop_end=322708  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-45-40-8WS6.wav
+	<region> lovel=065 hivel=081 amp_velcurve_081=1 loop_mode=loop_sustain loop_start=102322 loop_end=322311  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-45-45-COHZ.wav
+	<region> lovel=082 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=151283 loop_end=297832  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-45-50-NG4L.wav
+	<region> lovel=098 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=101564 loop_end=321620  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-45-55-5SYO.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=119326 loop_end=339558  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-45-60-WBBT.wav
+<group>lokey=46 hikey=49 pitch_keycenter=48 
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=64766 loop_end=358688  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-49-25-MWAH.wav
+	<region> lovel=017 hivel=031 amp_velcurve_031=1 loop_mode=loop_sustain loop_start=113564 loop_end=358387  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-49-30-KZ90.wav
+	<region> lovel=032 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=116328 loop_end=361080  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-49-35-GYXY.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=116472 loop_end=361266  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-49-40-WN83.wav
+	<region> lovel=065 hivel=081 amp_velcurve_081=1 loop_mode=loop_sustain loop_start=93548 loop_end=289022  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-49-45-RUZ3.wav
+	<region> lovel=082 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=116488 loop_end=361313  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-49-50-1976.wav
+	<region> lovel=098 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=150603 loop_end=346258  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-49-55-ANUJ.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=164798 loop_end=360272  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-49-60-NIH4.wav
+<group>lokey=50 hikey=53 pitch_keycenter=52 
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=182693 loop_end=356787  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-53-25-NDQ5.wav
+	<region> lovel=017 hivel=031 amp_velcurve_031=1 loop_mode=loop_sustain loop_start=183259 loop_end=357315  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-53-30-CLAA.wav
+	<region> lovel=032 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=123352 loop_end=297327  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-53-35-DAFJ.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=183407 loop_end=357462  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-53-40-KP2O.wav
+	<region> lovel=065 hivel=081 amp_velcurve_081=1 loop_mode=loop_sustain loop_start=67415 loop_end=357204  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-53-45-AIGV.wav
+	<region> lovel=082 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=238983 loop_end=354764  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-53-50-8K6X.wav
+	<region> lovel=098 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=123344 loop_end=297277  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-53-55-3GI2.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=239866 loop_end=355661  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-53-60-F332.wav
+<group>lokey=54 hikey=57 pitch_keycenter=56 
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=106070 loop_end=332415  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-57-25-57FW.wav
+	<region> lovel=017 hivel=031 amp_velcurve_031=1 loop_mode=loop_sustain loop_start=198160 loop_end=348651  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-57-30-PREN.wav
+	<region> lovel=032 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=160838 loop_end=349201  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-57-35-0N37.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=198441 loop_end=349034  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-57-40-2Y8U.wav
+	<region> lovel=065 hivel=081 amp_velcurve_081=1 loop_mode=loop_sustain loop_start=160794 loop_end=349122  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-57-45-T0H6.wav
+	<region> lovel=082 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=165002 loop_end=353482  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-57-50-39S2.wav
+	<region> lovel=098 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=123179 loop_end=349407  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-57-55-QV7N.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=123242 loop_end=349457  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-57-60-JHRF.wav
+<group>lokey=58 hikey=61 pitch_keycenter=60 
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=111918 loop_end=223426  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-61-25-SMGS.wav
+	<region> lovel=017 hivel=031 amp_velcurve_031=1 loop_mode=loop_sustain loop_start=209799 loop_end=321435  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-61-30-GLUC.wav
+	<region> lovel=032 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=200296 loop_end=311863  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-61-35-5AKB.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=214794 loop_end=326328  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-61-40-SL76.wav
+	<region> lovel=065 hivel=081 amp_velcurve_081=1 loop_mode=loop_sustain loop_start=159061 loop_end=270608  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-61-45-O90L.wav
+	<region> lovel=082 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=158921 loop_end=325911  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-61-50-JFCJ.wav
+	<region> lovel=098 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=209485 loop_end=321153  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-61-55-Q6J0.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=70300 loop_end=348765  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-61-60-VGUE.wav
+<group>lokey=62 hikey=65 pitch_keycenter=64 
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=8531 loop_end=345616  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-65-25-66QI.wav
+	<region> lovel=017 hivel=031 amp_velcurve_031=1 loop_mode=loop_sustain loop_start=208311 loop_end=343145  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-65-30-XL7B.wav
+	<region> lovel=032 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=8561 loop_end=345509  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-65-35-9F1G.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=159552 loop_end=361196  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-65-40-4YWU.wav
+	<region> lovel=065 hivel=081 amp_velcurve_081=1 loop_mode=loop_sustain loop_start=92563 loop_end=361826  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-65-45-I345.wav
+	<region> lovel=082 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=159617 loop_end=361342  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-65-50-I7O5.wav
+	<region> lovel=098 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=25182 loop_end=362014  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-65-55-V89I.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=126851 loop_end=261732  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-65-60-8U73.wav
+<group>lokey=66 hikey=69 pitch_keycenter=68 
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=209385 loop_end=316121  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-69-25-LB42.wav
+	<region> lovel=017 hivel=031 amp_velcurve_031=1 loop_mode=loop_sustain loop_start=87329 loop_end=354680  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-69-30-16BV.wav
+	<region> lovel=032 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=209406 loop_end=316161  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-69-35-38EE.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=79507 loop_end=346735  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-69-40-44KP.wav
+	<region> lovel=065 hivel=081 amp_velcurve_081=1 loop_mode=loop_sustain loop_start=26303 loop_end=346681  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-69-45-QNZX.wav
+	<region> lovel=082 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=81014 loop_end=348196  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-69-50-MQRC.wav
+	<region> lovel=098 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=80904 loop_end=348069  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-69-55-EW13.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=26314 loop_end=346710  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-69-60-T3CV.wav
+<group>lokey=70 hikey=115 pitch_keycenter=72 
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=243153 loop_end=360758  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-72-25-N0QX.wav
+	<region> lovel=017 hivel=031 amp_velcurve_031=1 loop_mode=loop_sustain loop_start=187662 loop_end=363857  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-72-30-P6IS.wav
+	<region> lovel=032 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=70185 loop_end=364099  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-72-35-8CMC.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=184053 loop_end=360185  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-72-40-I9RL.wav
+	<region> lovel=065 hivel=081 amp_velcurve_081=1 loop_mode=loop_sustain loop_start=142792 loop_end=260405  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-72-45-I3ME.wav
+	<region> lovel=082 hivel=097 amp_velcurve_097=1 loop_mode=loop_sustain loop_start=152018 loop_end=328181  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-72-50-K8X3.wav
+	<region> lovel=098 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=151869 loop_end=327931  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-72-55-Q3YC.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=152032 loop_end=328258  amp_veltrack=0 sample=../Audio/Bonus Audio/Filter Vox/(2016614 21229)/101andPals-72-60-5CTK.wav

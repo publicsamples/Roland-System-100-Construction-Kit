@@ -6,6 +6,7 @@ A construction kit recorded with this 70s semi-modular. Includes a Kontakt instr
 -   **Formats:** EXS24, Kontakt, SFZ (partial)
 -   **Approx Size:** 14GB
 -   **Info:** [Wikipedia](https://en.wikipedia.org/wiki/Roland_System_100)
+- [Web Audio Demo](https://www.modularsamples.com/Demos/demos/sys101.html)
 
 **This collection requires you to download the audio seperately**
 

@@ -1,0 +1,902 @@
+<UVI4>
+    <Program Name="Program" Bypass="0" BypassInsertFX="0" Gain="1.9952623" Pan="0" DisplayName="Filter Bell" TransposeOctaves="0" TransposeSemiTones="0" OutputName="" Polyphony="256" NotePolyphony="256" ProgramPath="$Sampler Instruments/Roland-System-100-Construction-Kit/Falcon/xfade/Misc/Filter Bell.uvip" LoopProgram="0" Streaming="1">
+        <Mappers>
+            <ControlSignalMapper Name="Mapper 0" Min="0" Max="1" Integer="0" Discrete="0" DisplayName="Mapper 0">1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 0.999999 0.999987 0.999881 0.999355 0.997585 0.993276 0.985310 0.973532 0.958786 0.942260 0.925034 0.908057 0.892057 0.877271 0.863366 0.849769 0.836065 0.822067 0.807524 0.791891 0.774511 0.755051 0.733760 0.711425 0.689157 0.668107 0.649122 0.632359 0.617128 0.602145 0.586120 0.568318 0.548856 0.528623 0.508790 0.490152 0.472788 0.456209 0.439802 0.423213 0.406505 0.390043 0.374238 0.359296 0.345132 0.331518 0.318308 0.305527 0.293321 0.281879 0.271338 0.261670 0.252677 0.244154 0.236094 0.228721 0.222308 0.216892 0.212139 0.207424 0.201990 0.195123 0.186333 0.175472 0.162742 0.148580 0.133572 0.118434 0.103911 0.090470 0.078080 0.066422 0.055269 0.044643 0.034744 0.025841 0.018195 0.012012 0.007388 0.004231 0.002264 0.001139 0.000543 0.000246 0.000107 0.000045 0.000018 0.000007 0.000003 0.000001 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</ControlSignalMapper>
+            <ControlSignalMapper Name="Mapper 1" Min="0" Max="1" Integer="0" Discrete="0" DisplayName="Mapper 1">0.000000 0.026061 0.051847 0.077817 0.104190 0.130692 0.157175 0.183965 0.211386 0.239239 0.267098 0.294880 0.322787 0.350833 0.378768 0.406403 0.433752 0.461180 0.489501 0.519408 0.550548 0.581484 0.611012 0.639704 0.670031 0.704376 0.742674 0.782780 0.822939 0.862577 0.900763 0.934868 0.961556 0.979452 0.989918 0.995395 0.998019 0.999189 0.999682 0.999880 0.999956 0.999984 0.999994 0.999998 0.999999 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 0.999985 0.999777 0.998559 0.994444 0.985531 0.972194 0.957155 0.942692 0.929355 0.916928 0.904996 0.893243 0.881849 0.871228 0.861133 0.850204 0.836939 0.821033 0.803066 0.783396 0.762272 0.740395 0.718529 0.696988 0.675675 0.654305 0.632624 0.610550 0.588145 0.565534 0.542866 0.520360 0.498302 0.476917 0.456219 0.436000 0.415905 0.395519 0.374506 0.352711 0.330129 0.306861 0.283137 0.259279 0.235565 0.212114 0.188887 0.165717 0.142297 0.118289 0.093755 0.069611 0.047592 0.029586 0.016680 0.008597 0.004100 0.001831 0.000774 0.000312 0.000121 0.000045 0.000017 0.000006 0.000002 0.000001 0.000000 0.000000 0.000000 0.000000 0.000000</ControlSignalMapper>
+            <ControlSignalMapper Name="Mapper 2" Min="0" Max="1" Integer="0" Discrete="0" DisplayName="Mapper 2">0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000003 0.000031 0.000200 0.000914 0.003147 0.008570 0.019216 0.036719 0.061645 0.093288 0.129923 0.169246 0.208847 0.246716 0.281697 0.313612 0.342913 0.370170 0.395791 0.420080 0.443475 0.466603 0.490017 0.513889 0.538053 0.562404 0.587236 0.613199 0.640932 0.670650 0.701983 0.734136 0.766233 0.797623 0.827962 0.856976 0.884235 0.909219 0.931513 0.950778 0.966634 0.978806 0.987403 0.992977 0.996310 0.998163 0.999128 0.999604 0.999827 0.999927 0.999970 0.999988 0.999995 0.999998 0.999999 1.000000 1.000000 0.999994 0.999944 0.999654 0.998518 0.995259 0.988116 0.975658 0.957656 0.935160 0.909842 0.883347 0.857003 0.831705 0.807891 0.785590 0.764563 0.744447 0.724858 0.705475 0.686089 0.666576 0.646774 0.626338 0.604749 0.581533 0.556514 0.529908 0.502291 0.474616 0.448157 0.424207 0.403687 0.386913 0.373424 0.361794 0.349665 0.334444 0.314593 0.290483 0.263870 0.236551 0.209494 0.182601 0.154546 0.123044 0.086229 0.044340 0.000000</ControlSignalMapper>
+            <ControlSignalMapper Name="Mapper 3" Min="0" Max="1" Integer="0" Discrete="0" DisplayName="Mapper 3">0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008571 0.022857 0.040000 0.057143 0.074286 0.085714 0.097143 0.108571 0.128571 0.148571 0.168571 0.188571 0.201905 0.215238 0.228571 0.243810 0.259048 0.274286 0.297143 0.320000 0.342857 0.365714 0.379048 0.392381 0.405714 0.428571 0.451429 0.474286 0.497143 0.520000 0.542857 0.565714 0.588571 0.608571 0.628571 0.648571 0.668571 0.688571 0.708571 0.722857 0.737143 0.760000 0.773333 0.786667 0.800000 0.822857 0.840000 0.857143 0.874286 0.891429 0.902857 0.920000 0.937143 0.960000 0.960000 0.977143 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 0.984496</ControlSignalMapper>
+        </Mappers>
+        <ControlSignalSources>
+            <ConstantModulation Name="Macro 1" DisplayName="Macro 1" Bypass="0" Bipolar="1" Style="0" Value="1"/>
+        </ControlSignalSources>
+        <Layers>
+            <Layer Name="Layer 2" Bypass="0" BypassInsertFX="0" Gain="1" Pan="0" Mute="0" MidiMute="0" Solo="0" DisplayName="Filter bell 2" OutputName="" LowKey="0" HighKey="127" CustomPolyphony="0" PlayMode="0" PortamentoTime="0.029999999" PortamentoCurve="0" PortamentoMode="0" NumVoicesPerNote="1" VelocityCurve="0">
+                <Properties Color="ffa9a9ba"/>
+                <ControlSignalSources/>
+                <BusRouters/>
+                <Keygroups>
+                    <Keygroup Name="Keygroup 0" Bypass="0" BypassInsertFX="0" Gain="0.099763155" Pan="0" DisplayName="36(C1)-32 &lt;KmL0&gt;" OutputName="" ExclusiveGroup="0" LowKey="2" HighKey="37" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="/uvi/Part 0/Program/Macro 1" Destination="Gain" Mapper="Mapper 0" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="0.77850819" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0" Retrigger="1" NoteOffRetrigger="0"/>
+                            <AnalogADSR Name="Analog ADSR 1" DisplayName="Analog ADSR 1" Bypass="1" AttackTime="9.9999997e-05" DecayTime="10" KeyToDecay="0" KeyToAttack="0" VelToDecay="0" Punch="0" VelToAttack="0" DynamicRange="0" SustainLevel="1" ReleaseTime="0.25941506" ManualTrigger="0" TriggerMode="0" InvertVelocity="0" AttackDecayMode="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="0.52338153" Pitch="0" NoteTracking="1" BaseNote="36" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell/(2016614 22423)/101andPals-37-32-KT7I.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/Analog ADSR 1" Destination="Gain" Mapper="Mapper 0" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="0" Stop="552025" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="366772" End="447660" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 1" Bypass="0" BypassInsertFX="0" Gain="1.9292693" Pan="0" DisplayName="60(C3)-127 &lt;KmL0&gt;" OutputName="" ExclusiveGroup="0" LowKey="58" HighKey="61" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="/uvi/Part 0/Program/Macro 1" Destination="Gain" Mapper="Mapper 3" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="0.77850819" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0" Retrigger="1" NoteOffRetrigger="0"/>
+                            <AnalogADSR Name="Analog ADSR 1" DisplayName="Analog ADSR 1" Bypass="1" AttackTime="9.9999997e-05" DecayTime="10" KeyToDecay="0" KeyToAttack="0" VelToDecay="0" Punch="0" VelToAttack="0" DynamicRange="0" SustainLevel="1" ReleaseTime="0.25941506" ManualTrigger="0" TriggerMode="0" InvertVelocity="0" AttackDecayMode="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="0.52338153" Pitch="0" NoteTracking="1" BaseNote="60" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/FilterBell/Processed Samples/101andPals-61-127-HG7J.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/Analog ADSR 1" Destination="Gain" Mapper="Mapper 3" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="0" Stop="553276" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="366459" End="447417" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 2" Bypass="0" BypassInsertFX="0" Gain="0.099763155" Pan="0" DisplayName="44(G#1)-32 &lt;KmL0&gt;" OutputName="" ExclusiveGroup="0" LowKey="42" HighKey="45" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="/uvi/Part 0/Program/Macro 1" Destination="Gain" Mapper="Mapper 0" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="0.77850819" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0" Retrigger="1" NoteOffRetrigger="0"/>
+                            <AnalogADSR Name="Analog ADSR 1" DisplayName="Analog ADSR 1" Bypass="1" AttackTime="9.9999997e-05" DecayTime="10" KeyToDecay="0" KeyToAttack="0" VelToDecay="0" Punch="0" VelToAttack="0" DynamicRange="0" SustainLevel="1" ReleaseTime="0.25941506" ManualTrigger="0" TriggerMode="0" InvertVelocity="0" AttackDecayMode="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="0.52338153" Pitch="0" NoteTracking="1" BaseNote="44" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell/(2016614 22423)/101andPals-45-32-IZ5C.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/Analog ADSR 1" Destination="Gain" Mapper="Mapper 0" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="0" Stop="561240" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="75073" End="151567" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 3" Bypass="0" BypassInsertFX="0" Gain="0.099763155" Pan="0" DisplayName="72(C4)-95 &lt;KmL0&gt;" OutputName="" ExclusiveGroup="0" LowKey="70" HighKey="118" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="/uvi/Part 0/Program/Macro 1" Destination="Gain" Mapper="Mapper 2" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="0.77850819" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0" Retrigger="1" NoteOffRetrigger="0"/>
+                            <AnalogADSR Name="Analog ADSR 1" DisplayName="Analog ADSR 1" Bypass="1" AttackTime="9.9999997e-05" DecayTime="10" KeyToDecay="0" KeyToAttack="0" VelToDecay="0" Punch="0" VelToAttack="0" DynamicRange="0" SustainLevel="1" ReleaseTime="0.25941506" ManualTrigger="0" TriggerMode="0" InvertVelocity="0" AttackDecayMode="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="0.52338153" Pitch="0" NoteTracking="1" BaseNote="72" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 3/(2016614 221250)/101andPals-72-95-G5Y5.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/Analog ADSR 1" Destination="Gain" Mapper="Mapper 2" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="0" Stop="560996" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="367683" End="446999" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 4" Bypass="0" BypassInsertFX="0" Gain="0.099763155" Pan="0" DisplayName="60(C3)-64 &lt;KmL0&gt;" OutputName="" ExclusiveGroup="0" LowKey="58" HighKey="61" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="/uvi/Part 0/Program/Macro 1" Destination="Gain" Mapper="Mapper 1" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="0.77850819" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0" Retrigger="1" NoteOffRetrigger="0"/>
+                            <AnalogADSR Name="Analog ADSR 1" DisplayName="Analog ADSR 1" Bypass="1" AttackTime="9.9999997e-05" DecayTime="10" KeyToDecay="0" KeyToAttack="0" VelToDecay="0" Punch="0" VelToAttack="0" DynamicRange="0" SustainLevel="1" ReleaseTime="0.25941506" ManualTrigger="0" TriggerMode="0" InvertVelocity="0" AttackDecayMode="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="0.52338153" Pitch="0" NoteTracking="1" BaseNote="60" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/FilterBell/Processed Samples/101andPals-61-64-DU4V.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/Analog ADSR 1" Destination="Gain" Mapper="Mapper 1" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="0" Stop="560160" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="367003" End="447993" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 5" Bypass="0" BypassInsertFX="0" Gain="0.099763155" Pan="0" DisplayName="68(G#3)-32 &lt;KmL0&gt;" OutputName="" ExclusiveGroup="0" LowKey="66" HighKey="69" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="/uvi/Part 0/Program/Macro 1" Destination="Gain" Mapper="Mapper 0" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="0.77850819" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0" Retrigger="1" NoteOffRetrigger="0"/>
+                            <AnalogADSR Name="Analog ADSR 1" DisplayName="Analog ADSR 1" Bypass="1" AttackTime="9.9999997e-05" DecayTime="10" KeyToDecay="0" KeyToAttack="0" VelToDecay="0" Punch="0" VelToAttack="0" DynamicRange="0" SustainLevel="1" ReleaseTime="0.25941506" ManualTrigger="0" TriggerMode="0" InvertVelocity="0" AttackDecayMode="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="0.52338153" Pitch="0" NoteTracking="1" BaseNote="68" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell/(2016614 22423)/101andPals-69-32-AVCW.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/Analog ADSR 1" Destination="Gain" Mapper="Mapper 0" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="0" Stop="553445" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="370547" End="449017" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 6" Bypass="0" BypassInsertFX="0" Gain="1.9292693" Pan="0" DisplayName="56(G#2)-127 &lt;KmL0&gt;" OutputName="" ExclusiveGroup="0" LowKey="54" HighKey="57" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="/uvi/Part 0/Program/Macro 1" Destination="Gain" Mapper="Mapper 3" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="0.77850819" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0" Retrigger="1" NoteOffRetrigger="0"/>
+                            <AnalogADSR Name="Analog ADSR 1" DisplayName="Analog ADSR 1" Bypass="1" AttackTime="9.9999997e-05" DecayTime="10" KeyToDecay="0" KeyToAttack="0" VelToDecay="0" Punch="0" VelToAttack="0" DynamicRange="0" SustainLevel="1" ReleaseTime="0.25941506" ManualTrigger="0" TriggerMode="0" InvertVelocity="0" AttackDecayMode="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="0.52338153" Pitch="0" NoteTracking="1" BaseNote="56" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 4/(2016614 221538)/101andPals-57-127-17PR.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/Analog ADSR 1" Destination="Gain" Mapper="Mapper 3" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="0" Stop="564100" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="364553" End="444400" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 7" Bypass="0" BypassInsertFX="0" Gain="0.099763155" Pan="0" DisplayName="68(G#3)-64 &lt;KmL0&gt;" OutputName="" ExclusiveGroup="0" LowKey="66" HighKey="69" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="/uvi/Part 0/Program/Macro 1" Destination="Gain" Mapper="Mapper 1" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="0.77850819" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0" Retrigger="1" NoteOffRetrigger="0"/>
+                            <AnalogADSR Name="Analog ADSR 1" DisplayName="Analog ADSR 1" Bypass="1" AttackTime="9.9999997e-05" DecayTime="10" KeyToDecay="0" KeyToAttack="0" VelToDecay="0" Punch="0" VelToAttack="0" DynamicRange="0" SustainLevel="1" ReleaseTime="0.25941506" ManualTrigger="0" TriggerMode="0" InvertVelocity="0" AttackDecayMode="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="0.52338153" Pitch="0" NoteTracking="1" BaseNote="68" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 2/(2016614 22950)/101andPals-69-64-7LIZ.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/Analog ADSR 1" Destination="Gain" Mapper="Mapper 1" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="0" Stop="552032" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="367867" End="448528" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 8" Bypass="0" BypassInsertFX="0" Gain="1.9292693" Pan="0" DisplayName="64(E3)-127 &lt;KmL0&gt;" OutputName="" ExclusiveGroup="0" LowKey="62" HighKey="65" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="/uvi/Part 0/Program/Macro 1" Destination="Gain" Mapper="Mapper 3" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="0.77850819" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0" Retrigger="1" NoteOffRetrigger="0"/>
+                            <AnalogADSR Name="Analog ADSR 1" DisplayName="Analog ADSR 1" Bypass="1" AttackTime="9.9999997e-05" DecayTime="10" KeyToDecay="0" KeyToAttack="0" VelToDecay="0" Punch="0" VelToAttack="0" DynamicRange="0" SustainLevel="1" ReleaseTime="0.25941506" ManualTrigger="0" TriggerMode="0" InvertVelocity="0" AttackDecayMode="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="0.52338153" Pitch="0" NoteTracking="1" BaseNote="64" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 4/(2016614 221538)/101andPals-65-127-ZW84.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/Analog ADSR 1" Destination="Gain" Mapper="Mapper 3" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="0" Stop="552905" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="365026" End="445242" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 9" Bypass="0" BypassInsertFX="0" Gain="1.9292693" Pan="0" DisplayName="52(E2)-127 &lt;KmL0&gt;" OutputName="" ExclusiveGroup="0" LowKey="50" HighKey="53" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="/uvi/Part 0/Program/Macro 1" Destination="Gain" Mapper="Mapper 3" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="0.77850819" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0" Retrigger="1" NoteOffRetrigger="0"/>
+                            <AnalogADSR Name="Analog ADSR 1" DisplayName="Analog ADSR 1" Bypass="1" AttackTime="9.9999997e-05" DecayTime="10" KeyToDecay="0" KeyToAttack="0" VelToDecay="0" Punch="0" VelToAttack="0" DynamicRange="0" SustainLevel="1" ReleaseTime="0.25941506" ManualTrigger="0" TriggerMode="0" InvertVelocity="0" AttackDecayMode="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="0.52338153" Pitch="0" NoteTracking="1" BaseNote="52" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 4/(2016614 221538)/101andPals-53-127-E1QE.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/Analog ADSR 1" Destination="Gain" Mapper="Mapper 3" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="0" Stop="563704" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="360965" End="441299" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 10" Bypass="0" BypassInsertFX="0" Gain="1.9292693" Pan="0" DisplayName="72(C4)-127 &lt;KmL0&gt;" OutputName="" ExclusiveGroup="0" LowKey="70" HighKey="118" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="/uvi/Part 0/Program/Macro 1" Destination="Gain" Mapper="Mapper 3" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="0.77850819" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0" Retrigger="1" NoteOffRetrigger="0"/>
+                            <AnalogADSR Name="Analog ADSR 1" DisplayName="Analog ADSR 1" Bypass="1" AttackTime="9.9999997e-05" DecayTime="10" KeyToDecay="0" KeyToAttack="0" VelToDecay="0" Punch="0" VelToAttack="0" DynamicRange="0" SustainLevel="1" ReleaseTime="0.25941506" ManualTrigger="0" TriggerMode="0" InvertVelocity="0" AttackDecayMode="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="0.52338153" Pitch="0" NoteTracking="1" BaseNote="72" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 4/(2016614 221538)/101andPals-72-127-9EQU.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/Analog ADSR 1" Destination="Gain" Mapper="Mapper 3" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="0" Stop="563547" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="366711" End="447724" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 11" Bypass="0" BypassInsertFX="0" Gain="1.9292693" Pan="0" DisplayName="40(E1)-127 &lt;KmL0&gt;" OutputName="" ExclusiveGroup="0" LowKey="38" HighKey="41" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="/uvi/Part 0/Program/Macro 1" Destination="Gain" Mapper="Mapper 3" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="0.77850819" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0" Retrigger="1" NoteOffRetrigger="0"/>
+                            <AnalogADSR Name="Analog ADSR 1" DisplayName="Analog ADSR 1" Bypass="1" AttackTime="9.9999997e-05" DecayTime="10" KeyToDecay="0" KeyToAttack="0" VelToDecay="0" Punch="0" VelToAttack="0" DynamicRange="0" SustainLevel="1" ReleaseTime="0.25941506" ManualTrigger="0" TriggerMode="0" InvertVelocity="0" AttackDecayMode="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="0.52338153" Pitch="0" NoteTracking="1" BaseNote="40" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 4/(2016614 221538)/101andPals-41-127-IB4I.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/Analog ADSR 1" Destination="Gain" Mapper="Mapper 3" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="0" Stop="562875" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="345608" End="435736" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 12" Bypass="0" BypassInsertFX="0" Gain="0.099763155" Pan="0" DisplayName="72(C4)-64 &lt;KmL0&gt;" OutputName="" ExclusiveGroup="0" LowKey="70" HighKey="118" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="/uvi/Part 0/Program/Macro 1" Destination="Gain" Mapper="Mapper 1" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="0.77850819" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0" Retrigger="1" NoteOffRetrigger="0"/>
+                            <AnalogADSR Name="Analog ADSR 1" DisplayName="Analog ADSR 1" Bypass="1" AttackTime="9.9999997e-05" DecayTime="10" KeyToDecay="0" KeyToAttack="0" VelToDecay="0" Punch="0" VelToAttack="0" DynamicRange="0" SustainLevel="1" ReleaseTime="0.25941506" ManualTrigger="0" TriggerMode="0" InvertVelocity="0" AttackDecayMode="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="0.52338153" Pitch="0" NoteTracking="1" BaseNote="72" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 2/(2016614 22950)/101andPals-72-64-C2G0.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/Analog ADSR 1" Destination="Gain" Mapper="Mapper 1" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="0" Stop="553781" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="367542" End="448343" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 13" Bypass="0" BypassInsertFX="0" Gain="1.9292693" Pan="0" DisplayName="36(C1)-127 &lt;KmL0&gt;" OutputName="" ExclusiveGroup="0" LowKey="2" HighKey="37" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="/uvi/Part 0/Program/Macro 1" Destination="Gain" Mapper="Mapper 3" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="0.77850819" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0" Retrigger="1" NoteOffRetrigger="0"/>
+                            <AnalogADSR Name="Analog ADSR 1" DisplayName="Analog ADSR 1" Bypass="1" AttackTime="9.9999997e-05" DecayTime="10" KeyToDecay="0" KeyToAttack="0" VelToDecay="0" Punch="0" VelToAttack="0" DynamicRange="0" SustainLevel="1" ReleaseTime="0.25941506" ManualTrigger="0" TriggerMode="0" InvertVelocity="0" AttackDecayMode="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="0.52338153" Pitch="0" NoteTracking="1" BaseNote="36" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 4/(2016614 221538)/101andPals-37-127-K898.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/Analog ADSR 1" Destination="Gain" Mapper="Mapper 3" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="0" Stop="562365" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="366737" End="447630" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 14" Bypass="0" BypassInsertFX="0" Gain="0.099763155" Pan="0" DisplayName="40(E1)-64 &lt;KmL0&gt;" OutputName="" ExclusiveGroup="0" LowKey="38" HighKey="41" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="/uvi/Part 0/Program/Macro 1" Destination="Gain" Mapper="Mapper 1" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="0.77850819" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0" Retrigger="1" NoteOffRetrigger="0"/>
+                            <AnalogADSR Name="Analog ADSR 1" DisplayName="Analog ADSR 1" Bypass="1" AttackTime="9.9999997e-05" DecayTime="10" KeyToDecay="0" KeyToAttack="0" VelToDecay="0" Punch="0" VelToAttack="0" DynamicRange="0" SustainLevel="1" ReleaseTime="0.25941506" ManualTrigger="0" TriggerMode="0" InvertVelocity="0" AttackDecayMode="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="0.52338153" Pitch="0" NoteTracking="1" BaseNote="40" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 2/(2016614 22950)/101andPals-41-64-NHKG.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/Analog ADSR 1" Destination="Gain" Mapper="Mapper 1" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="0" Stop="553231" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="344255" End="436344" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 15" Bypass="0" BypassInsertFX="0" Gain="0.099763155" Pan="0" DisplayName="48(C2)-95 &lt;KmL0&gt;" OutputName="" ExclusiveGroup="0" LowKey="46" HighKey="49" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="/uvi/Part 0/Program/Macro 1" Destination="Gain" Mapper="Mapper 2" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="0.77850819" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0" Retrigger="1" NoteOffRetrigger="0"/>
+                            <AnalogADSR Name="Analog ADSR 1" DisplayName="Analog ADSR 1" Bypass="1" AttackTime="9.9999997e-05" DecayTime="10" KeyToDecay="0" KeyToAttack="0" VelToDecay="0" Punch="0" VelToAttack="0" DynamicRange="0" SustainLevel="1" ReleaseTime="0.25941506" ManualTrigger="0" TriggerMode="0" InvertVelocity="0" AttackDecayMode="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="0.52338153" Pitch="0" NoteTracking="1" BaseNote="48" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 3/(2016614 221250)/101andPals-49-95-QXKQ.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/Analog ADSR 1" Destination="Gain" Mapper="Mapper 2" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="0" Stop="562194" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="345313" End="441257" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 16" Bypass="0" BypassInsertFX="0" Gain="0.099763155" Pan="0" DisplayName="48(C2)-64 &lt;KmL0&gt;" OutputName="" ExclusiveGroup="0" LowKey="46" HighKey="49" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="/uvi/Part 0/Program/Macro 1" Destination="Gain" Mapper="Mapper 1" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="0.77850819" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0" Retrigger="1" NoteOffRetrigger="0"/>
+                            <AnalogADSR Name="Analog ADSR 1" DisplayName="Analog ADSR 1" Bypass="1" AttackTime="9.9999997e-05" DecayTime="10" KeyToDecay="0" KeyToAttack="0" VelToDecay="0" Punch="0" VelToAttack="0" DynamicRange="0" SustainLevel="1" ReleaseTime="0.25941506" ManualTrigger="0" TriggerMode="0" InvertVelocity="0" AttackDecayMode="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="0.52338153" Pitch="0" NoteTracking="1" BaseNote="48" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 2/(2016614 22950)/101andPals-49-64-469K.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/Analog ADSR 1" Destination="Gain" Mapper="Mapper 1" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="0" Stop="553431" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="352028" End="447948" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 17" Bypass="0" BypassInsertFX="0" Gain="0.099763155" Pan="0" DisplayName="36(C1)-64 &lt;KmL0&gt;" OutputName="" ExclusiveGroup="0" LowKey="2" HighKey="37" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="/uvi/Part 0/Program/Macro 1" Destination="Gain" Mapper="Mapper 1" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="0.77850819" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0" Retrigger="1" NoteOffRetrigger="0"/>
+                            <AnalogADSR Name="Analog ADSR 1" DisplayName="Analog ADSR 1" Bypass="1" AttackTime="9.9999997e-05" DecayTime="10" KeyToDecay="0" KeyToAttack="0" VelToDecay="0" Punch="0" VelToAttack="0" DynamicRange="0" SustainLevel="1" ReleaseTime="0.25941506" ManualTrigger="0" TriggerMode="0" InvertVelocity="0" AttackDecayMode="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="0.52338153" Pitch="0" NoteTracking="1" BaseNote="36" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 2/(2016614 22950)/101andPals-37-64-Y2ZE.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/Analog ADSR 1" Destination="Gain" Mapper="Mapper 1" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="0" Stop="561017" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="351721" End="440708" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 18" Bypass="0" BypassInsertFX="0" Gain="0.099763155" Pan="0" DisplayName="48(C2)-32 &lt;KmL0&gt;" OutputName="" ExclusiveGroup="0" LowKey="46" HighKey="49" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="/uvi/Part 0/Program/Macro 1" Destination="Gain" Mapper="Mapper 0" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="0.77850819" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0" Retrigger="1" NoteOffRetrigger="0"/>
+                            <AnalogADSR Name="Analog ADSR 1" DisplayName="Analog ADSR 1" Bypass="1" AttackTime="9.9999997e-05" DecayTime="10" KeyToDecay="0" KeyToAttack="0" VelToDecay="0" Punch="0" VelToAttack="0" DynamicRange="0" SustainLevel="1" ReleaseTime="0.25941506" ManualTrigger="0" TriggerMode="0" InvertVelocity="0" AttackDecayMode="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="0.52338153" Pitch="0" NoteTracking="1" BaseNote="48" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell/(2016614 22423)/101andPals-49-32-ZQWM.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/Analog ADSR 1" Destination="Gain" Mapper="Mapper 0" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="0" Stop="562779" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="352298" End="447919" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 19" Bypass="0" BypassInsertFX="0" Gain="1.9292693" Pan="0" DisplayName="68(G#3)-127 &lt;KmL0&gt;" OutputName="" ExclusiveGroup="0" LowKey="66" HighKey="69" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="/uvi/Part 0/Program/Macro 1" Destination="Gain" Mapper="Mapper 3" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="0.77850819" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0" Retrigger="1" NoteOffRetrigger="0"/>
+                            <AnalogADSR Name="Analog ADSR 1" DisplayName="Analog ADSR 1" Bypass="1" AttackTime="9.9999997e-05" DecayTime="10" KeyToDecay="0" KeyToAttack="0" VelToDecay="0" Punch="0" VelToAttack="0" DynamicRange="0" SustainLevel="1" ReleaseTime="0.25941506" ManualTrigger="0" TriggerMode="0" InvertVelocity="0" AttackDecayMode="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="0.52338153" Pitch="0" NoteTracking="1" BaseNote="68" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 4/(2016614 221538)/101andPals-69-127-YJVG.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/Analog ADSR 1" Destination="Gain" Mapper="Mapper 3" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="0" Stop="562755" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="368349" End="449121" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 20" Bypass="0" BypassInsertFX="0" Gain="0.099763155" Pan="0" DisplayName="36(C1)-95 &lt;KmL0&gt;" OutputName="" ExclusiveGroup="0" LowKey="2" HighKey="37" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="/uvi/Part 0/Program/Macro 1" Destination="Gain" Mapper="Mapper 2" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="0.77850819" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0" Retrigger="1" NoteOffRetrigger="0"/>
+                            <AnalogADSR Name="Analog ADSR 1" DisplayName="Analog ADSR 1" Bypass="1" AttackTime="9.9999997e-05" DecayTime="10" KeyToDecay="0" KeyToAttack="0" VelToDecay="0" Punch="0" VelToAttack="0" DynamicRange="0" SustainLevel="1" ReleaseTime="0.25941506" ManualTrigger="0" TriggerMode="0" InvertVelocity="0" AttackDecayMode="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="0.52338153" Pitch="0" NoteTracking="1" BaseNote="36" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 3/(2016614 221250)/101andPals-37-95-LHRL.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/Analog ADSR 1" Destination="Gain" Mapper="Mapper 2" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="0" Stop="553696" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="366689" End="447563" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 21" Bypass="0" BypassInsertFX="0" Gain="0.099763155" Pan="0" DisplayName="40(E1)-32 &lt;KmL0&gt;" OutputName="" ExclusiveGroup="0" LowKey="38" HighKey="41" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="/uvi/Part 0/Program/Macro 1" Destination="Gain" Mapper="Mapper 0" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="0.77850819" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0" Retrigger="1" NoteOffRetrigger="0"/>
+                            <AnalogADSR Name="Analog ADSR 1" DisplayName="Analog ADSR 1" Bypass="1" AttackTime="9.9999997e-05" DecayTime="10" KeyToDecay="0" KeyToAttack="0" VelToDecay="0" Punch="0" VelToAttack="0" DynamicRange="0" SustainLevel="1" ReleaseTime="0.25941506" ManualTrigger="0" TriggerMode="0" InvertVelocity="0" AttackDecayMode="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="0.52338153" Pitch="0" NoteTracking="1" BaseNote="40" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell/(2016614 22423)/101andPals-41-32-4PI4.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/Analog ADSR 1" Destination="Gain" Mapper="Mapper 0" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="0" Stop="553845" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="350432" End="444604" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 22" Bypass="0" BypassInsertFX="0" Gain="0.099763155" Pan="0" DisplayName="60(C3)-95 &lt;KmL0&gt;" OutputName="" ExclusiveGroup="0" LowKey="58" HighKey="61" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="/uvi/Part 0/Program/Macro 1" Destination="Gain" Mapper="Mapper 2" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="0.77850819" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0" Retrigger="1" NoteOffRetrigger="0"/>
+                            <AnalogADSR Name="Analog ADSR 1" DisplayName="Analog ADSR 1" Bypass="1" AttackTime="9.9999997e-05" DecayTime="10" KeyToDecay="0" KeyToAttack="0" VelToDecay="0" Punch="0" VelToAttack="0" DynamicRange="0" SustainLevel="1" ReleaseTime="0.25941506" ManualTrigger="0" TriggerMode="0" InvertVelocity="0" AttackDecayMode="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="0.52338153" Pitch="0" NoteTracking="1" BaseNote="60" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/FilterBell/Processed Samples/101andPals-61-95-55WA.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/Analog ADSR 1" Destination="Gain" Mapper="Mapper 2" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="0" Stop="553617" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="366362" End="447215" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 23" Bypass="0" BypassInsertFX="0" Gain="1.9292693" Pan="0" DisplayName="44(G#1)-127 &lt;KmL0&gt;" OutputName="" ExclusiveGroup="0" LowKey="42" HighKey="45" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="/uvi/Part 0/Program/Macro 1" Destination="Gain" Mapper="Mapper 3" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="0.77850819" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0" Retrigger="1" NoteOffRetrigger="0"/>
+                            <AnalogADSR Name="Analog ADSR 1" DisplayName="Analog ADSR 1" Bypass="1" AttackTime="9.9999997e-05" DecayTime="10" KeyToDecay="0" KeyToAttack="0" VelToDecay="0" Punch="0" VelToAttack="0" DynamicRange="0" SustainLevel="1" ReleaseTime="0.25941506" ManualTrigger="0" TriggerMode="0" InvertVelocity="0" AttackDecayMode="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="0.52338153" Pitch="0" NoteTracking="1" BaseNote="44" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 4/(2016614 221538)/101andPals-45-127-HGOZ.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/Analog ADSR 1" Destination="Gain" Mapper="Mapper 3" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="0" Stop="552489" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="341607" End="445217" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 24" Bypass="0" BypassInsertFX="0" Gain="0.099763155" Pan="0" DisplayName="64(E3)-32 &lt;KmL0&gt;" OutputName="" ExclusiveGroup="0" LowKey="62" HighKey="65" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="/uvi/Part 0/Program/Macro 1" Destination="Gain" Mapper="Mapper 0" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="0.77850819" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0" Retrigger="1" NoteOffRetrigger="0"/>
+                            <AnalogADSR Name="Analog ADSR 1" DisplayName="Analog ADSR 1" Bypass="1" AttackTime="9.9999997e-05" DecayTime="10" KeyToDecay="0" KeyToAttack="0" VelToDecay="0" Punch="0" VelToAttack="0" DynamicRange="0" SustainLevel="1" ReleaseTime="0.25941506" ManualTrigger="0" TriggerMode="0" InvertVelocity="0" AttackDecayMode="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="0.52338153" Pitch="0" NoteTracking="1" BaseNote="64" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell/(2016614 22423)/101andPals-65-32-1RW4.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/Analog ADSR 1" Destination="Gain" Mapper="Mapper 0" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="0" Stop="553114" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="369935" End="447476" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 25" Bypass="0" BypassInsertFX="0" Gain="0.099763155" Pan="0" DisplayName="44(G#1)-64 &lt;KmL0&gt;" OutputName="" ExclusiveGroup="0" LowKey="42" HighKey="45" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="/uvi/Part 0/Program/Macro 1" Destination="Gain" Mapper="Mapper 1" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="0.77850819" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0" Retrigger="1" NoteOffRetrigger="0"/>
+                            <AnalogADSR Name="Analog ADSR 1" DisplayName="Analog ADSR 1" Bypass="1" AttackTime="9.9999997e-05" DecayTime="10" KeyToDecay="0" KeyToAttack="0" VelToDecay="0" Punch="0" VelToAttack="0" DynamicRange="0" SustainLevel="1" ReleaseTime="0.25941506" ManualTrigger="0" TriggerMode="0" InvertVelocity="0" AttackDecayMode="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="0.52338153" Pitch="0" NoteTracking="1" BaseNote="44" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 2/(2016614 22950)/101andPals-45-64-YLQQ.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/Analog ADSR 1" Destination="Gain" Mapper="Mapper 1" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="0" Stop="550977" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="340555" End="440693" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 26" Bypass="0" BypassInsertFX="0" Gain="0.099763155" Pan="0" DisplayName="68(G#3)-95 &lt;KmL0&gt;" OutputName="" ExclusiveGroup="0" LowKey="66" HighKey="69" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="/uvi/Part 0/Program/Macro 1" Destination="Gain" Mapper="Mapper 2" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="0.77850819" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0" Retrigger="1" NoteOffRetrigger="0"/>
+                            <AnalogADSR Name="Analog ADSR 1" DisplayName="Analog ADSR 1" Bypass="1" AttackTime="9.9999997e-05" DecayTime="10" KeyToDecay="0" KeyToAttack="0" VelToDecay="0" Punch="0" VelToAttack="0" DynamicRange="0" SustainLevel="1" ReleaseTime="0.25941506" ManualTrigger="0" TriggerMode="0" InvertVelocity="0" AttackDecayMode="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="0.52338153" Pitch="0" NoteTracking="1" BaseNote="68" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 3/(2016614 221250)/101andPals-69-95-ADHL.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/Analog ADSR 1" Destination="Gain" Mapper="Mapper 2" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="0" Stop="554560" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="355459" End="436097" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 27" Bypass="0" BypassInsertFX="0" Gain="0.099763155" Pan="0" DisplayName="64(E3)-64 &lt;KmL0&gt;" OutputName="" ExclusiveGroup="0" LowKey="62" HighKey="65" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="/uvi/Part 0/Program/Macro 1" Destination="Gain" Mapper="Mapper 1" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="0.77850819" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0" Retrigger="1" NoteOffRetrigger="0"/>
+                            <AnalogADSR Name="Analog ADSR 1" DisplayName="Analog ADSR 1" Bypass="1" AttackTime="9.9999997e-05" DecayTime="10" KeyToDecay="0" KeyToAttack="0" VelToDecay="0" Punch="0" VelToAttack="0" DynamicRange="0" SustainLevel="1" ReleaseTime="0.25941506" ManualTrigger="0" TriggerMode="0" InvertVelocity="0" AttackDecayMode="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="0.52338153" Pitch="0" NoteTracking="1" BaseNote="64" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 2/(2016614 22950)/101andPals-65-64-955W.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/Analog ADSR 1" Destination="Gain" Mapper="Mapper 1" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="0" Stop="560047" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="369539" End="449811" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 28" Bypass="0" BypassInsertFX="0" Gain="0.099763155" Pan="0" DisplayName="40(E1)-95 &lt;KmL0&gt;" OutputName="" ExclusiveGroup="0" LowKey="38" HighKey="41" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="/uvi/Part 0/Program/Macro 1" Destination="Gain" Mapper="Mapper 2" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="0.77850819" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0" Retrigger="1" NoteOffRetrigger="0"/>
+                            <AnalogADSR Name="Analog ADSR 1" DisplayName="Analog ADSR 1" Bypass="1" AttackTime="9.9999997e-05" DecayTime="10" KeyToDecay="0" KeyToAttack="0" VelToDecay="0" Punch="0" VelToAttack="0" DynamicRange="0" SustainLevel="1" ReleaseTime="0.25941506" ManualTrigger="0" TriggerMode="0" InvertVelocity="0" AttackDecayMode="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="0.52338153" Pitch="0" NoteTracking="1" BaseNote="40" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 3/(2016614 221250)/101andPals-41-95-KFKD.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/Analog ADSR 1" Destination="Gain" Mapper="Mapper 2" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="0" Stop="552828" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="340684" End="436942" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 29" Bypass="0" BypassInsertFX="0" Gain="0.099763155" Pan="0" DisplayName="56(G#2)-32 &lt;KmL0&gt;" OutputName="" ExclusiveGroup="0" LowKey="54" HighKey="57" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="/uvi/Part 0/Program/Macro 1" Destination="Gain" Mapper="Mapper 0" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="0.77850819" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0" Retrigger="1" NoteOffRetrigger="0"/>
+                            <AnalogADSR Name="Analog ADSR 1" DisplayName="Analog ADSR 1" Bypass="1" AttackTime="9.9999997e-05" DecayTime="10" KeyToDecay="0" KeyToAttack="0" VelToDecay="0" Punch="0" VelToAttack="0" DynamicRange="0" SustainLevel="1" ReleaseTime="0.25941506" ManualTrigger="0" TriggerMode="0" InvertVelocity="0" AttackDecayMode="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="0.52338153" Pitch="0" NoteTracking="1" BaseNote="56" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell/(2016614 22423)/101andPals-57-32-BUJL.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/Analog ADSR 1" Destination="Gain" Mapper="Mapper 0" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="0" Stop="553572" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="370167" End="446536" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 30" Bypass="0" BypassInsertFX="0" Gain="0.099763155" Pan="0" DisplayName="52(E2)-95 &lt;KmL0&gt;" OutputName="" ExclusiveGroup="0" LowKey="50" HighKey="53" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="/uvi/Part 0/Program/Macro 1" Destination="Gain" Mapper="Mapper 2" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="0.77850819" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0" Retrigger="1" NoteOffRetrigger="0"/>
+                            <AnalogADSR Name="Analog ADSR 1" DisplayName="Analog ADSR 1" Bypass="1" AttackTime="9.9999997e-05" DecayTime="10" KeyToDecay="0" KeyToAttack="0" VelToDecay="0" Punch="0" VelToAttack="0" DynamicRange="0" SustainLevel="1" ReleaseTime="0.25941506" ManualTrigger="0" TriggerMode="0" InvertVelocity="0" AttackDecayMode="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="0.52338153" Pitch="0" NoteTracking="1" BaseNote="52" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 3/(2016614 221250)/101andPals-53-95-MJBA.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/Analog ADSR 1" Destination="Gain" Mapper="Mapper 2" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="0" Stop="555647" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="368911" End="449128" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 31" Bypass="0" BypassInsertFX="0" Gain="0.099763155" Pan="0" DisplayName="72(C4)-32 &lt;KmL0&gt;" OutputName="" ExclusiveGroup="0" LowKey="70" HighKey="118" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="/uvi/Part 0/Program/Macro 1" Destination="Gain" Mapper="Mapper 0" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="0.77850819" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0" Retrigger="1" NoteOffRetrigger="0"/>
+                            <AnalogADSR Name="Analog ADSR 1" DisplayName="Analog ADSR 1" Bypass="1" AttackTime="9.9999997e-05" DecayTime="10" KeyToDecay="0" KeyToAttack="0" VelToDecay="0" Punch="0" VelToAttack="0" DynamicRange="0" SustainLevel="1" ReleaseTime="0.25941506" ManualTrigger="0" TriggerMode="0" InvertVelocity="0" AttackDecayMode="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="0.52338153" Pitch="0" NoteTracking="1" BaseNote="72" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell/(2016614 22423)/101andPals-72-32-OB0J.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/Analog ADSR 1" Destination="Gain" Mapper="Mapper 0" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="0" Stop="562591" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="371902" End="449484" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 32" Bypass="0" BypassInsertFX="0" Gain="0.099763155" Pan="0" DisplayName="64(E3)-95 &lt;KmL0&gt;" OutputName="" ExclusiveGroup="0" LowKey="62" HighKey="65" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="/uvi/Part 0/Program/Macro 1" Destination="Gain" Mapper="Mapper 2" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="0.77850819" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0" Retrigger="1" NoteOffRetrigger="0"/>
+                            <AnalogADSR Name="Analog ADSR 1" DisplayName="Analog ADSR 1" Bypass="1" AttackTime="9.9999997e-05" DecayTime="10" KeyToDecay="0" KeyToAttack="0" VelToDecay="0" Punch="0" VelToAttack="0" DynamicRange="0" SustainLevel="1" ReleaseTime="0.25941506" ManualTrigger="0" TriggerMode="0" InvertVelocity="0" AttackDecayMode="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="0.52338153" Pitch="0" NoteTracking="1" BaseNote="64" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 3/(2016614 221250)/101andPals-65-95-3GB2.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/Analog ADSR 1" Destination="Gain" Mapper="Mapper 2" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="0" Stop="555585" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="367230" End="447525" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 33" Bypass="0" BypassInsertFX="0" Gain="0.099763155" Pan="0" DisplayName="60(C3)-32 &lt;KmL0&gt;" OutputName="" ExclusiveGroup="0" LowKey="58" HighKey="61" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="/uvi/Part 0/Program/Macro 1" Destination="Gain" Mapper="Mapper 0" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="0.77850819" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0" Retrigger="1" NoteOffRetrigger="0"/>
+                            <AnalogADSR Name="Analog ADSR 1" DisplayName="Analog ADSR 1" Bypass="1" AttackTime="9.9999997e-05" DecayTime="10" KeyToDecay="0" KeyToAttack="0" VelToDecay="0" Punch="0" VelToAttack="0" DynamicRange="0" SustainLevel="1" ReleaseTime="0.25941506" ManualTrigger="0" TriggerMode="0" InvertVelocity="0" AttackDecayMode="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="0.52338153" Pitch="0" NoteTracking="1" BaseNote="60" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/FilterBell/Processed Samples/101andPals-61-32-KUES.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/Analog ADSR 1" Destination="Gain" Mapper="Mapper 0" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="0" Stop="553983" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="371955" End="449607" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 34" Bypass="0" BypassInsertFX="0" Gain="1.9292693" Pan="0" DisplayName="48(C2)-127 &lt;KmL0&gt;" OutputName="" ExclusiveGroup="0" LowKey="46" HighKey="49" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="/uvi/Part 0/Program/Macro 1" Destination="Gain" Mapper="Mapper 3" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="0.77850819" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0" Retrigger="1" NoteOffRetrigger="0"/>
+                            <AnalogADSR Name="Analog ADSR 1" DisplayName="Analog ADSR 1" Bypass="1" AttackTime="9.9999997e-05" DecayTime="10" KeyToDecay="0" KeyToAttack="0" VelToDecay="0" Punch="0" VelToAttack="0" DynamicRange="0" SustainLevel="1" ReleaseTime="0.25941506" ManualTrigger="0" TriggerMode="0" InvertVelocity="0" AttackDecayMode="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="0.52338153" Pitch="0" NoteTracking="1" BaseNote="48" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 4/(2016614 221538)/101andPals-49-127-PQTU.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/Analog ADSR 1" Destination="Gain" Mapper="Mapper 3" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="0" Stop="554032" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="351989" End="447927" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 35" Bypass="0" BypassInsertFX="0" Gain="0.099763155" Pan="0" DisplayName="52(E2)-64 &lt;KmL0&gt;" OutputName="" ExclusiveGroup="0" LowKey="50" HighKey="53" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="/uvi/Part 0/Program/Macro 1" Destination="Gain" Mapper="Mapper 1" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="0.77850819" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0" Retrigger="1" NoteOffRetrigger="0"/>
+                            <AnalogADSR Name="Analog ADSR 1" DisplayName="Analog ADSR 1" Bypass="1" AttackTime="9.9999997e-05" DecayTime="10" KeyToDecay="0" KeyToAttack="0" VelToDecay="0" Punch="0" VelToAttack="0" DynamicRange="0" SustainLevel="1" ReleaseTime="0.25941506" ManualTrigger="0" TriggerMode="0" InvertVelocity="0" AttackDecayMode="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="0.52338153" Pitch="0" NoteTracking="1" BaseNote="52" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 2/(2016614 22950)/101andPals-53-64-JHF6.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/Analog ADSR 1" Destination="Gain" Mapper="Mapper 1" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="0" Stop="554122" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="357795" End="438156" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 36" Bypass="0" BypassInsertFX="0" Gain="0.099763155" Pan="0" DisplayName="44(G#1)-95 &lt;KmL0&gt;" OutputName="" ExclusiveGroup="0" LowKey="42" HighKey="45" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="/uvi/Part 0/Program/Macro 1" Destination="Gain" Mapper="Mapper 2" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="0.77850819" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0" Retrigger="1" NoteOffRetrigger="0"/>
+                            <AnalogADSR Name="Analog ADSR 1" DisplayName="Analog ADSR 1" Bypass="1" AttackTime="9.9999997e-05" DecayTime="10" KeyToDecay="0" KeyToAttack="0" VelToDecay="0" Punch="0" VelToAttack="0" DynamicRange="0" SustainLevel="1" ReleaseTime="0.25941506" ManualTrigger="0" TriggerMode="0" InvertVelocity="0" AttackDecayMode="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="0.52338153" Pitch="0" NoteTracking="1" BaseNote="44" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 3/(2016614 221250)/101andPals-45-95-TD3V.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/Analog ADSR 1" Destination="Gain" Mapper="Mapper 2" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="0" Stop="553072" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="75081" End="151555" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 37" Bypass="0" BypassInsertFX="0" Gain="0.099763155" Pan="0" DisplayName="56(G#2)-64 &lt;KmL0&gt;" OutputName="" ExclusiveGroup="0" LowKey="54" HighKey="57" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="/uvi/Part 0/Program/Macro 1" Destination="Gain" Mapper="Mapper 1" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="0.77850819" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0" Retrigger="1" NoteOffRetrigger="0"/>
+                            <AnalogADSR Name="Analog ADSR 1" DisplayName="Analog ADSR 1" Bypass="1" AttackTime="9.9999997e-05" DecayTime="10" KeyToDecay="0" KeyToAttack="0" VelToDecay="0" Punch="0" VelToAttack="0" DynamicRange="0" SustainLevel="1" ReleaseTime="0.25941506" ManualTrigger="0" TriggerMode="0" InvertVelocity="0" AttackDecayMode="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="0.52338153" Pitch="0" NoteTracking="1" BaseNote="56" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 2/(2016614 22950)/101andPals-57-64-1RXZ.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/Analog ADSR 1" Destination="Gain" Mapper="Mapper 1" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="0" Stop="561147" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="364623" End="444465" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 38" Bypass="0" BypassInsertFX="0" Gain="0.099763155" Pan="0" DisplayName="56(G#2)-95 &lt;KmL0&gt;" OutputName="" ExclusiveGroup="0" LowKey="54" HighKey="57" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="/uvi/Part 0/Program/Macro 1" Destination="Gain" Mapper="Mapper 2" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="0.77850819" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0" Retrigger="1" NoteOffRetrigger="0"/>
+                            <AnalogADSR Name="Analog ADSR 1" DisplayName="Analog ADSR 1" Bypass="1" AttackTime="9.9999997e-05" DecayTime="10" KeyToDecay="0" KeyToAttack="0" VelToDecay="0" Punch="0" VelToAttack="0" DynamicRange="0" SustainLevel="1" ReleaseTime="0.25941506" ManualTrigger="0" TriggerMode="0" InvertVelocity="0" AttackDecayMode="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="0.52338153" Pitch="0" NoteTracking="1" BaseNote="56" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell 3/(2016614 221250)/101andPals-57-95-81N1.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/Analog ADSR 1" Destination="Gain" Mapper="Mapper 2" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="0" Stop="561839" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="366781" End="447600" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 39" Bypass="0" BypassInsertFX="0" Gain="0.099763155" Pan="0" DisplayName="52(E2)-32 &lt;KmL0&gt;" OutputName="" ExclusiveGroup="0" LowKey="50" HighKey="53" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="/uvi/Part 0/Program/Macro 1" Destination="Gain" Mapper="Mapper 0" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="0.77850819" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0" Retrigger="1" NoteOffRetrigger="0"/>
+                            <AnalogADSR Name="Analog ADSR 1" DisplayName="Analog ADSR 1" Bypass="1" AttackTime="9.9999997e-05" DecayTime="10" KeyToDecay="0" KeyToAttack="0" VelToDecay="0" Punch="0" VelToAttack="0" DynamicRange="0" SustainLevel="1" ReleaseTime="0.25941506" ManualTrigger="0" TriggerMode="0" InvertVelocity="0" AttackDecayMode="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="0.52338153" Pitch="0" NoteTracking="1" BaseNote="52" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/FilterBell/Processed Samples/Filter bell/(2016614 22423)/101andPals-53-32-Z41Z.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/Analog ADSR 1" Destination="Gain" Mapper="Mapper 0" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="0" Stop="554537" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="354647" End="434985" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                </Keygroups>
+            </Layer>
+        </Layers>
+    </Program>
+</UVI4>

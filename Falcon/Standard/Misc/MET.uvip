@@ -1,0 +1,374 @@
+<UVI4>
+    <Program Name="Program" Bypass="0" BypassInsertFX="0" Gain="1" Pan="0" DisplayName="MET.exs" TransposeOctaves="0" TransposeSemiTones="0" OutputName="" Polyphony="16" NotePolyphony="0" ProgramPath="$Music/Audio Music Apps/Sampler Instruments/Roland-System-100-Construction-Kit/Logic/EXS24/Bonus/MET.exs" LoopProgram="0" Streaming="1">
+        <ControlSignalSources/>
+        <Layers>
+            <Layer Name="Layer 0" Bypass="0" BypassInsertFX="0" Gain="1" Pan="0" Mute="0" MidiMute="0" Solo="0" DisplayName="MET" OutputName="" LowKey="0" HighKey="127" CustomPolyphony="0" PlayMode="0" PortamentoTime="0.029999999" PortamentoCurve="0" PortamentoMode="0" NumVoicesPerNote="1" VelocityCurve="0">
+                <Properties Color="ff868694"/>
+                <ControlSignalSources/>
+                <BusRouters/>
+                <Keygroups>
+                    <Keygroup Name="Keygroup 0" Bypass="0" BypassInsertFX="0" Gain="1" Pan="0" DisplayName="36(C1)-42 &lt;KmL0&gt;" OutputName="" ExclusiveGroup="0" LowKey="0" HighKey="38" LowVelocity="1" HighVelocity="42" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 1" DisplayName="Envelope 1" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="10" DecayCurve="-0.97000003" SustainLevel="0.81995159" ReleaseTime="3.2649012" ReleaseCurve="-0.97000003" VelocityAmount="0.82999998" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="0" ReleaseCurve="-0.97000003" VelocityAmount="0.82999998" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="36" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/MET/ajck 36-38 1-42-RLDP.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="229" Stop="697344" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="147446" End="376111" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 1" Bypass="0" BypassInsertFX="0" Gain="1" Pan="0" DisplayName="36(C1)-85 &lt;KmL0&gt;" OutputName="" ExclusiveGroup="0" LowKey="0" HighKey="38" LowVelocity="43" HighVelocity="85" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 1" DisplayName="Envelope 1" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="10" DecayCurve="-0.97000003" SustainLevel="0.81995159" ReleaseTime="3.2649012" ReleaseCurve="-0.97000003" VelocityAmount="0.82999998" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="0" ReleaseCurve="-0.97000003" VelocityAmount="0.82999998" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="36" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/MET/ajck 36-38 43-85-LM5L.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="395" Stop="688505" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="161752" End="392435" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 2" Bypass="0" BypassInsertFX="0" Gain="1" Pan="0" DisplayName="36(C1)-127 &lt;KmL0&gt;" OutputName="" ExclusiveGroup="0" LowKey="0" HighKey="38" LowVelocity="86" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 1" DisplayName="Envelope 1" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="10" DecayCurve="-0.97000003" SustainLevel="0.81995159" ReleaseTime="3.2649012" ReleaseCurve="-0.97000003" VelocityAmount="0.82999998" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="0" ReleaseCurve="-0.97000003" VelocityAmount="0.82999998" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="36" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/MET/ajck 36-38 86-127-7G48.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="358" Stop="687744" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="147012" End="377697" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 3" Bypass="0" BypassInsertFX="0" Gain="1" Pan="0" DisplayName="43(G1)-42 &lt;KmL0&gt;" OutputName="" ExclusiveGroup="0" LowKey="39" HighKey="45" LowVelocity="1" HighVelocity="42" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 1" DisplayName="Envelope 1" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="10" DecayCurve="-0.97000003" SustainLevel="0.81995159" ReleaseTime="3.2649012" ReleaseCurve="-0.97000003" VelocityAmount="0.82999998" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="0" ReleaseCurve="-0.97000003" VelocityAmount="0.82999998" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="43" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/MET/ajck 39-45 1-42-8K85.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="431" Stop="697856" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="66541" End="528466" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 4" Bypass="0" BypassInsertFX="0" Gain="1" Pan="0" DisplayName="43(G1)-85 &lt;KmL0&gt;" OutputName="" ExclusiveGroup="0" LowKey="39" HighKey="45" LowVelocity="43" HighVelocity="85" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 1" DisplayName="Envelope 1" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="10" DecayCurve="-0.97000003" SustainLevel="0.81995159" ReleaseTime="3.2649012" ReleaseCurve="-0.97000003" VelocityAmount="0.82999998" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="0" ReleaseCurve="-0.97000003" VelocityAmount="0.82999998" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="43" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/MET/ajck 39-45 43-85-PG54.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="308" Stop="697088" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="56996" End="518922" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 5" Bypass="0" BypassInsertFX="0" Gain="1" Pan="0" DisplayName="43(G1)-127 &lt;KmL0&gt;" OutputName="" ExclusiveGroup="0" LowKey="39" HighKey="45" LowVelocity="86" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 1" DisplayName="Envelope 1" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="10" DecayCurve="-0.97000003" SustainLevel="0.81995159" ReleaseTime="3.2649012" ReleaseCurve="-0.97000003" VelocityAmount="0.82999998" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="0" ReleaseCurve="-0.97000003" VelocityAmount="0.82999998" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="43" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/MET/ajck 39-45 86-127-3X16.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="184" Stop="696832" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="56859" End="518789" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 6" Bypass="0" BypassInsertFX="0" Gain="1" Pan="0" DisplayName="50(D2)-42 &lt;KmL0&gt;" OutputName="" ExclusiveGroup="0" LowKey="46" HighKey="52" LowVelocity="1" HighVelocity="42" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 1" DisplayName="Envelope 1" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="10" DecayCurve="-0.97000003" SustainLevel="0.81995159" ReleaseTime="3.2649012" ReleaseCurve="-0.97000003" VelocityAmount="0.82999998" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="0" ReleaseCurve="-0.97000003" VelocityAmount="0.82999998" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="50" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/MET/ajck 46-52 1-42-6A1U.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="274" Stop="687997" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="274578" End="480034" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 7" Bypass="0" BypassInsertFX="0" Gain="1" Pan="0" DisplayName="50(D2)-85 &lt;KmL0&gt;" OutputName="" ExclusiveGroup="0" LowKey="46" HighKey="52" LowVelocity="43" HighVelocity="85" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 1" DisplayName="Envelope 1" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="10" DecayCurve="-0.97000003" SustainLevel="0.81995159" ReleaseTime="3.2649012" ReleaseCurve="-0.97000003" VelocityAmount="0.82999998" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="0" ReleaseCurve="-0.97000003" VelocityAmount="0.82999998" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="50" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/MET/ajck 46-52 43-85-MKGA.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="363" Stop="687469" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="153382" End="461559" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 8" Bypass="0" BypassInsertFX="0" Gain="1" Pan="0" DisplayName="50(D2)-127 &lt;KmL0&gt;" OutputName="" ExclusiveGroup="0" LowKey="46" HighKey="52" LowVelocity="86" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 1" DisplayName="Envelope 1" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="10" DecayCurve="-0.97000003" SustainLevel="0.81995159" ReleaseTime="3.2649012" ReleaseCurve="-0.97000003" VelocityAmount="0.82999998" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="0" ReleaseCurve="-0.97000003" VelocityAmount="0.82999998" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="50" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/MET/ajck 46-52 86-127-MXJ9.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="432" Stop="688256" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="159684" End="467862" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 9" Bypass="0" BypassInsertFX="0" Gain="1" Pan="0" DisplayName="57(A2)-42 &lt;KmL0&gt;" OutputName="" ExclusiveGroup="0" LowKey="53" HighKey="59" LowVelocity="1" HighVelocity="42" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 1" DisplayName="Envelope 1" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="10" DecayCurve="-0.97000003" SustainLevel="0.81995159" ReleaseTime="3.2649012" ReleaseCurve="-0.97000003" VelocityAmount="0.82999998" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="0" ReleaseCurve="-0.97000003" VelocityAmount="0.82999998" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="57" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/MET/ajck 53-59 1-42-JYWV.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="223" Stop="696832" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="318489" End="525012" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 10" Bypass="0" BypassInsertFX="0" Gain="1" Pan="0" DisplayName="57(A2)-85 &lt;KmL0&gt;" OutputName="" ExclusiveGroup="0" LowKey="53" HighKey="59" LowVelocity="43" HighVelocity="85" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 1" DisplayName="Envelope 1" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="10" DecayCurve="-0.97000003" SustainLevel="0.81995159" ReleaseTime="3.2649012" ReleaseCurve="-0.97000003" VelocityAmount="0.82999998" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="0" ReleaseCurve="-0.97000003" VelocityAmount="0.82999998" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="57" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/MET/ajck 53-59 43-85-81BX.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="268" Stop="688517" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="170753" End="307834" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 11" Bypass="0" BypassInsertFX="0" Gain="1" Pan="0" DisplayName="57(A2)-127 &lt;KmL0&gt;" OutputName="" ExclusiveGroup="0" LowKey="53" HighKey="59" LowVelocity="86" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 1" DisplayName="Envelope 1" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="10" DecayCurve="-0.97000003" SustainLevel="0.81995159" ReleaseTime="3.2649012" ReleaseCurve="-0.97000003" VelocityAmount="0.82999998" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="0" ReleaseCurve="-0.97000003" VelocityAmount="0.82999998" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="57" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/MET/ajck 53-59 86-127-BRT4.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="394" Stop="688822" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="176727" End="313808" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 12" Bypass="0" BypassInsertFX="0" Gain="1" Pan="0" DisplayName="64(E3)-42 &lt;KmL0&gt;" OutputName="" ExclusiveGroup="0" LowKey="60" HighKey="66" LowVelocity="1" HighVelocity="42" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 1" DisplayName="Envelope 1" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="10" DecayCurve="-0.97000003" SustainLevel="0.81995159" ReleaseTime="3.2649012" ReleaseCurve="-0.97000003" VelocityAmount="0.82999998" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="0" ReleaseCurve="-0.97000003" VelocityAmount="0.82999998" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="64" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/MET/ajck 60-66 1-42-NJ6F.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="427" Stop="687694" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="119772" End="256963" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 13" Bypass="0" BypassInsertFX="0" Gain="1" Pan="0" DisplayName="64(E3)-85 &lt;KmL0&gt;" OutputName="" ExclusiveGroup="0" LowKey="60" HighKey="66" LowVelocity="43" HighVelocity="85" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 1" DisplayName="Envelope 1" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="10" DecayCurve="-0.97000003" SustainLevel="0.81995159" ReleaseTime="3.2649012" ReleaseCurve="-0.97000003" VelocityAmount="0.82999998" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="0" ReleaseCurve="-0.97000003" VelocityAmount="0.82999998" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="64" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/MET/ajck 60-66 43-85-2JM0.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="153" Stop="688751" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="120980" End="258171" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 14" Bypass="0" BypassInsertFX="0" Gain="1" Pan="0" DisplayName="64(E3)-127 &lt;KmL0&gt;" OutputName="" ExclusiveGroup="0" LowKey="60" HighKey="66" LowVelocity="86" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 1" DisplayName="Envelope 1" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="10" DecayCurve="-0.97000003" SustainLevel="0.81995159" ReleaseTime="3.2649012" ReleaseCurve="-0.97000003" VelocityAmount="0.82999998" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="0" ReleaseCurve="-0.97000003" VelocityAmount="0.82999998" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="64" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/MET/ajck 60-66 86-127-P82T.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="155" Stop="696832" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="122063" End="259256" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 15" Bypass="0" BypassInsertFX="0" Gain="1" Pan="0" DisplayName="71(B3)-42 &lt;KmL0&gt;" OutputName="" ExclusiveGroup="0" LowKey="67" HighKey="124" LowVelocity="1" HighVelocity="42" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 1" DisplayName="Envelope 1" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="10" DecayCurve="-0.97000003" SustainLevel="0.81995159" ReleaseTime="3.2649012" ReleaseCurve="-0.97000003" VelocityAmount="0.82999998" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="0" ReleaseCurve="-0.97000003" VelocityAmount="0.82999998" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="71" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/MET/ajck 67-71 1-42-6904.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="333" Stop="688128" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="261956" End="536706" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 16" Bypass="0" BypassInsertFX="0" Gain="1" Pan="0" DisplayName="71(B3)-85 &lt;KmL0&gt;" OutputName="" ExclusiveGroup="0" LowKey="67" HighKey="124" LowVelocity="43" HighVelocity="85" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 1" DisplayName="Envelope 1" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="10" DecayCurve="-0.97000003" SustainLevel="0.81995159" ReleaseTime="3.2649012" ReleaseCurve="-0.97000003" VelocityAmount="0.82999998" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="0" ReleaseCurve="-0.97000003" VelocityAmount="0.82999998" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="71" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/MET/ajck 67-71 43-85-8H7B.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="379" Stop="697088" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="169930" End="322569" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 17" Bypass="0" BypassInsertFX="0" Gain="1" Pan="0" DisplayName="71(B3)-127 &lt;KmL0&gt;" OutputName="" ExclusiveGroup="0" LowKey="67" HighKey="124" LowVelocity="86" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 1" DisplayName="Envelope 1" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="10" DecayCurve="-0.97000003" SustainLevel="0.81995159" ReleaseTime="3.2649012" ReleaseCurve="-0.97000003" VelocityAmount="0.82999998" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="0" ReleaseCurve="-0.97000003" VelocityAmount="0.82999998" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="71" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/MET/ajck 67-71 86-127-USXK.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="422" Stop="688564" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="169413" End="322052" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                </Keygroups>
+            </Layer>
+        </Layers>
+    </Program>
+</UVI4>

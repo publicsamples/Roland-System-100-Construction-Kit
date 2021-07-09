@@ -17,7 +17,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="36" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 36-36 1-127-BSON.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="36" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 36-36 1-127-BSON.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="-1" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -37,7 +37,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="37" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 37-37 1-127-LVLQ.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="37" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 37-37 1-127-LVLQ.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="-1" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -57,7 +57,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="38" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 38-38 1-127-7VOR.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="38" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 38-38 1-127-7VOR.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="-1" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -77,7 +77,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="39" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 39-39 1-127-ARNE.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="39" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 39-39 1-127-ARNE.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="-1" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -97,7 +97,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="40" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 40-40 1-127-Q4NR.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="40" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 40-40 1-127-Q4NR.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="-1" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -117,7 +117,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="41" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 41-41 1-127-S0S8.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="41" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 41-41 1-127-S0S8.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="-1" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -137,7 +137,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="42" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 42-42 1-127-9N8M.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="42" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 42-42 1-127-9N8M.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="-1" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -157,7 +157,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="43" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 43-43 1-127-IM3J.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="43" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 43-43 1-127-IM3J.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="-1" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -177,7 +177,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="44" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 44-44 1-127-POSX.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="44" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 44-44 1-127-POSX.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="-1" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -197,7 +197,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="45" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 45-45 1-127-NL5L.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="45" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 45-45 1-127-NL5L.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="-1" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -217,7 +217,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="46" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 46-46 1-127-IFD4.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="46" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 46-46 1-127-IFD4.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="-1" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -237,7 +237,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="47" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 47-47 1-127-V02P.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="47" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 47-47 1-127-V02P.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="-1" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -257,7 +257,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="48" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 48-48 1-127-IGQ3.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="48" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 48-48 1-127-IGQ3.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="-1" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -277,7 +277,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="49" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 49-49 1-127-V3HX.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="49" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 49-49 1-127-V3HX.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="-1" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -297,7 +297,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="50" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 50-50 1-127-IHD8.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="50" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 50-50 1-127-IHD8.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="-1" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -317,7 +317,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="51" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 51-51 1-127-ZSBM.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="51" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 51-51 1-127-ZSBM.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="-1" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -337,7 +337,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="52" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 52-52 1-127-U69O.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="52" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 52-52 1-127-U69O.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="-1" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -357,7 +357,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="53" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 53-53 1-127-9CG1.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="53" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 53-53 1-127-9CG1.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="-1" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -377,7 +377,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="54" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 54-54 1-127-8IPK.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="54" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 54-54 1-127-8IPK.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="-1" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -397,7 +397,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="55" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 55-55 1-127-WIUE.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="55" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 55-55 1-127-WIUE.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="-1" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -417,7 +417,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="56" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 56-56 1-127-L2X6.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="56" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 56-56 1-127-L2X6.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="-1" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -437,7 +437,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="57" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 57-57 1-127-C4K8.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="57" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 57-57 1-127-C4K8.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="-1" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -457,7 +457,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="58" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 58-58 1-127-9FM9.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="58" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 58-58 1-127-9FM9.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="-1" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -477,7 +477,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="59" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 59-59 1-127-6I4O.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="59" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 59-59 1-127-6I4O.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="-1" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -497,7 +497,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="60" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 60-60 1-127-DQDI.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="60" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 60-60 1-127-DQDI.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="-1" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -517,7 +517,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="61" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 61-61 1-127-P632.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="61" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 61-61 1-127-P632.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="-1" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -537,7 +537,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="62" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 62-62 1-127-3U0S.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="62" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 62-62 1-127-3U0S.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="-1" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -557,7 +557,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="63" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 63-63 1-127-LULV.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="63" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 63-63 1-127-LULV.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="-1" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -577,7 +577,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="64" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 64-64 1-127-5ENB.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="64" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 64-64 1-127-5ENB.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="-1" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -597,7 +597,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="65" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 65-65 1-127-OU8U.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="65" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 65-65 1-127-OU8U.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="-1" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -617,7 +617,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="66" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 66-66 1-127-OQR0.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="66" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 66-66 1-127-OQR0.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="-1" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -637,7 +637,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="67" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 67-67 1-127-CH1O.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="67" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 67-67 1-127-CH1O.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="-1" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -657,7 +657,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="68" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 68-68 1-127-RI68.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="68" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 68-68 1-127-RI68.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="-1" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -677,7 +677,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="69" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 69-69 1-127-IYBE.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="69" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 69-69 1-127-IYBE.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="-1" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -697,7 +697,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="70" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 70-70 1-127-9QRH.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="70" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 70-70 1-127-9QRH.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="-1" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -717,7 +717,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="71" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 71-71 1-127-05NE.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="71" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 71-71 1-127-05NE.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="-1" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -737,7 +737,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="72" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 72-72 1-127-U8XV.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="72" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Gracie/(2016725 144330)/ajck 72-72 1-127-U8XV.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="-1" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>

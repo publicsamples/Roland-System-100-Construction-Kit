@@ -17,7 +17,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="36" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-36-127-CY33.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="36" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-36-127-CY33.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -37,7 +37,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="37" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-37-127-4J3H.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="37" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-37-127-4J3H.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -57,7 +57,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="38" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-38-127-56SH.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="38" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-38-127-56SH.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -77,7 +77,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="39" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-39-127-H7HW.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="39" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-39-127-H7HW.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -97,7 +97,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="40" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-40-127-7J2N.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="40" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-40-127-7J2N.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -117,7 +117,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="41" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-41-127-D2ZP.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="41" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-41-127-D2ZP.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -137,7 +137,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="42" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-42-127-MQA6.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="42" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-42-127-MQA6.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -157,7 +157,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="43" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-43-127-GL1L.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="43" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-43-127-GL1L.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -177,7 +177,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="44" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-44-127-6LN1.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="44" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-44-127-6LN1.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -197,7 +197,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="45" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-45-127-O6LR.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="45" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-45-127-O6LR.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -217,7 +217,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="46" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-46-127-THT8.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="46" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-46-127-THT8.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -237,7 +237,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="47" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-47-127-ID4G.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="47" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-47-127-ID4G.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -257,7 +257,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="48" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-48-127-0202.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="48" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-48-127-0202.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -277,7 +277,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="49" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-49-127-O0KC.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="49" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-49-127-O0KC.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -297,7 +297,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="50" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-50-127-H51W.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="50" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-50-127-H51W.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -317,7 +317,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="51" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-51-127-L0LR.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="51" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-51-127-L0LR.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -337,7 +337,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="52" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-52-127-YV1J.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="52" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-52-127-YV1J.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -357,7 +357,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="53" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-53-127-3VB3.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="53" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-53-127-3VB3.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -377,7 +377,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="54" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-54-127-5285.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="54" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-54-127-5285.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -397,7 +397,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="55" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-55-127-FI54.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="55" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-55-127-FI54.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -417,7 +417,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="56" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-56-127-2ITH.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="56" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-56-127-2ITH.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -437,7 +437,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="57" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-57-127-1ZIB.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="57" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-57-127-1ZIB.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -457,7 +457,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="58" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-58-127-B8FQ.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="58" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-58-127-B8FQ.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -477,7 +477,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="59" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-59-127-2W3M.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="59" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-59-127-2W3M.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -497,7 +497,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="60" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-60-127-M370.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="60" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-60-127-M370.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -517,7 +517,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="61" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-61-127-CKY4.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="61" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-61-127-CKY4.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -537,7 +537,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="62" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-62-127-N662.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="62" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-62-127-N662.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -557,7 +557,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="63" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-63-127-07RW.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="63" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-63-127-07RW.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -577,7 +577,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="64" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-64-127-FMDI.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="64" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-64-127-FMDI.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -597,7 +597,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="65" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-65-127-RXIF.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="65" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-65-127-RXIF.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -617,7 +617,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="66" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-66-127-S0CN.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="66" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-66-127-S0CN.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -637,7 +637,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="67" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-67-127-JJII.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="67" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-67-127-JJII.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -657,7 +657,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="68" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-68-127-KC6G.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="68" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-68-127-KC6G.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -677,7 +677,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="69" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-69-127-KWQE.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="69" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-69-127-KWQE.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -697,7 +697,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="70" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-70-127-J6AF.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="70" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-70-127-J6AF.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -717,7 +717,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="71" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-71-127-6X3B.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="71" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-71-127-6X3B.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -737,7 +737,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="72" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-72-127-N2QK.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="72" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 1/mod101-72-127-N2QK.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -764,7 +764,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="36" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-36-127-GLQN.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="36" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-36-127-GLQN.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -784,7 +784,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="37" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-37-127-NH77.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="37" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-37-127-NH77.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -804,7 +804,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="38" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-38-127-TZ8R.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="38" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-38-127-TZ8R.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -824,7 +824,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="39" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-39-127-ULIN.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="39" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-39-127-ULIN.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -844,7 +844,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="40" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-40-127-3POH.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="40" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-40-127-3POH.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -864,7 +864,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="41" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-41-127-4K13.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="41" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-41-127-4K13.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -884,7 +884,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="42" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-42-127-2H6P.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="42" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-42-127-2H6P.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -904,7 +904,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="43" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-43-127-ANMF.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="43" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-43-127-ANMF.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -924,7 +924,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="44" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-44-127-EBBE.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="44" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-44-127-EBBE.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -944,7 +944,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="45" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-45-127-C9BZ.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="45" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-45-127-C9BZ.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -964,7 +964,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="46" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-46-127-YQH9.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="46" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-46-127-YQH9.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -984,7 +984,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="47" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-47-127-5W1M.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="47" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-47-127-5W1M.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -1004,7 +1004,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="48" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-48-127-J862.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="48" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-48-127-J862.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -1024,7 +1024,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="49" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-49-127-KQQE.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="49" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-49-127-KQQE.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -1044,7 +1044,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="50" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-50-127-DUAR.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="50" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-50-127-DUAR.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -1064,7 +1064,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="51" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-51-127-ZHPD.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="51" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-51-127-ZHPD.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -1084,7 +1084,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="52" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-52-127-4ZVM.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="52" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-52-127-4ZVM.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -1104,7 +1104,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="53" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-53-127-H8JJ.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="53" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-53-127-H8JJ.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -1124,7 +1124,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="54" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-54-127-LDIC.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="54" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-54-127-LDIC.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -1144,7 +1144,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="55" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-55-127-UBBL.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="55" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-55-127-UBBL.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -1164,7 +1164,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="56" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-56-127-KMQW.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="56" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-56-127-KMQW.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -1184,7 +1184,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="57" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-57-127-4BTX.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="57" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-57-127-4BTX.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -1204,7 +1204,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="58" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-58-127-R8CI.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="58" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-58-127-R8CI.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -1224,7 +1224,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="59" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-59-127-M7W6.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="59" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-59-127-M7W6.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -1244,7 +1244,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="60" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-60-127-N40V.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="60" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-60-127-N40V.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -1264,7 +1264,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="61" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-61-127-F5T3.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="61" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-61-127-F5T3.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -1284,7 +1284,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="62" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-62-127-0SCM.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="62" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-62-127-0SCM.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -1304,7 +1304,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="63" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-63-127-IMKM.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="63" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-63-127-IMKM.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -1324,7 +1324,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="64" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-64-127-XYVC.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="64" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-64-127-XYVC.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -1344,7 +1344,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="65" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-65-127-Y0V7.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="65" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-65-127-Y0V7.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -1364,7 +1364,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="66" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-66-127-GQ5E.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="66" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-66-127-GQ5E.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -1384,7 +1384,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="67" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-67-127-6SVP.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="67" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-67-127-6SVP.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -1404,7 +1404,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="68" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-68-127-TTG9.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="68" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-68-127-TTG9.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -1424,7 +1424,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="69" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-69-127-0Z68.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="69" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-69-127-0Z68.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -1444,7 +1444,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="70" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-70-127-6Y37.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="70" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-70-127-6Y37.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -1464,7 +1464,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="71" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-71-127-N5W5.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="71" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-71-127-N5W5.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -1484,7 +1484,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="72" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-72-127-FF7S.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="72" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 2/mod101-72-127-FF7S.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -1511,7 +1511,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="36" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-36-127-3S6C.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="36" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-36-127-3S6C.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -1531,7 +1531,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="37" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-37-127-HDP3.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="37" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-37-127-HDP3.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -1551,7 +1551,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="38" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-38-127-TV41.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="38" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-38-127-TV41.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -1571,7 +1571,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="39" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-39-127-FKCS.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="39" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-39-127-FKCS.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -1591,7 +1591,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="40" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-40-127-7PPM.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="40" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-40-127-7PPM.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -1611,7 +1611,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="41" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-41-127-XMZ6.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="41" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-41-127-XMZ6.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -1631,7 +1631,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="42" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-42-127-JH6O.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="42" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-42-127-JH6O.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -1651,7 +1651,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="43" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-43-127-1EBI.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="43" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-43-127-1EBI.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -1671,7 +1671,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="44" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-44-127-BIFC.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="44" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-44-127-BIFC.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -1691,7 +1691,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="45" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-45-127-ZT4S.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="45" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-45-127-ZT4S.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -1711,7 +1711,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="46" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-46-127-L60W.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="46" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-46-127-L60W.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -1731,7 +1731,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="47" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-47-127-QM95.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="47" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-47-127-QM95.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -1751,7 +1751,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="48" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-48-127-9XC4.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="48" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-48-127-9XC4.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -1771,7 +1771,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="49" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-49-127-PGPM.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="49" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-49-127-PGPM.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -1791,7 +1791,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="50" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-50-127-R2IS.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="50" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-50-127-R2IS.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -1811,7 +1811,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="51" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-51-127-SSXL.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="51" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-51-127-SSXL.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -1831,7 +1831,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="52" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-52-127-GDH3.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="52" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-52-127-GDH3.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -1851,7 +1851,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="53" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-53-127-KDAJ.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="53" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-53-127-KDAJ.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -1871,7 +1871,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="54" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-54-127-89N9.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="54" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-54-127-89N9.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -1891,7 +1891,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="55" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-55-127-GHSR.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="55" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-55-127-GHSR.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -1911,7 +1911,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="56" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-56-127-RP0I.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="56" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-56-127-RP0I.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -1931,7 +1931,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="57" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-57-127-YEJW.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="57" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-57-127-YEJW.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -1951,7 +1951,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="58" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-58-127-5UUL.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="58" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-58-127-5UUL.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -1971,7 +1971,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="59" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-59-127-EH4T.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="59" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-59-127-EH4T.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -1991,7 +1991,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="60" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-60-127-P7QV.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="60" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-60-127-P7QV.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -2011,7 +2011,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="61" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-61-127-DWUH.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="61" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-61-127-DWUH.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -2031,7 +2031,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="62" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-62-127-3KIU.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="62" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-62-127-3KIU.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -2051,7 +2051,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="63" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-63-127-X68K.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="63" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-63-127-X68K.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -2071,7 +2071,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="64" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-64-127-SVKG.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="64" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-64-127-SVKG.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -2091,7 +2091,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="65" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-65-127-0EWH.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="65" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-65-127-0EWH.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -2111,7 +2111,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="66" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-66-127-DLN9.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="66" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-66-127-DLN9.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -2131,7 +2131,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="67" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-67-127-HZHF.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="67" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-67-127-HZHF.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -2151,7 +2151,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="68" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-68-127-JC5A.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="68" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-68-127-JC5A.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -2171,7 +2171,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="69" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-69-127-SAHZ.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="69" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-69-127-SAHZ.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -2191,7 +2191,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="70" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-70-127-2IVZ.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="70" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-70-127-2IVZ.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -2211,7 +2211,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="71" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-71-127-VUSQ.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="71" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-71-127-VUSQ.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -2231,7 +2231,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="72" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-72-127-4FET.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="72" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 3/mod101-72-127-4FET.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -2258,7 +2258,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="36" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-36-127-13GA.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="36" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-36-127-13GA.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -2278,7 +2278,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="37" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-37-127-JW52.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="37" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-37-127-JW52.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -2298,7 +2298,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="38" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-38-127-AKNS.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="38" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-38-127-AKNS.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -2318,7 +2318,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="39" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-39-127-YSO7.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="39" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-39-127-YSO7.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -2338,7 +2338,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="40" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-40-127-ODV1.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="40" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-40-127-ODV1.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -2358,7 +2358,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="41" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-41-127-TKBJ.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="41" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-41-127-TKBJ.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -2378,7 +2378,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="42" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-42-127-OQCD.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="42" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-42-127-OQCD.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -2398,7 +2398,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="43" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-43-127-25ZX.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="43" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-43-127-25ZX.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -2418,7 +2418,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="44" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-44-127-SMQY.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="44" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-44-127-SMQY.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -2438,7 +2438,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="45" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-45-127-PRLG.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="45" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-45-127-PRLG.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -2458,7 +2458,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="46" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-46-127-HIXZ.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="46" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-46-127-HIXZ.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -2478,7 +2478,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="47" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-47-127-1UMQ.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="47" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-47-127-1UMQ.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -2498,7 +2498,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="48" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-48-127-VITP.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="48" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-48-127-VITP.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -2518,7 +2518,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="49" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-49-127-54D3.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="49" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-49-127-54D3.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -2538,7 +2538,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="50" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-50-127-CW5O.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="50" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-50-127-CW5O.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -2558,7 +2558,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="51" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-51-127-1LYF.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="51" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-51-127-1LYF.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -2578,7 +2578,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="52" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-52-127-0IHF.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="52" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-52-127-0IHF.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -2598,7 +2598,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="53" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-53-127-8176.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="53" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-53-127-8176.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -2618,7 +2618,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="54" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-54-127-J4S3.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="54" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-54-127-J4S3.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -2638,7 +2638,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="55" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-55-127-X7OI.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="55" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-55-127-X7OI.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -2658,7 +2658,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="56" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-56-127-NX6Z.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="56" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-56-127-NX6Z.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -2678,7 +2678,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="57" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-57-127-CTNX.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="57" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-57-127-CTNX.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -2698,7 +2698,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="58" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-58-127-MZC5.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="58" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-58-127-MZC5.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -2718,7 +2718,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="59" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-59-127-5OEY.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="59" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-59-127-5OEY.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -2738,7 +2738,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="60" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-60-127-9XMW.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="60" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-60-127-9XMW.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -2758,7 +2758,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="61" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-61-127-V7PF.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="61" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-61-127-V7PF.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -2778,7 +2778,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="62" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-62-127-YMRF.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="62" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-62-127-YMRF.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -2798,7 +2798,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="63" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-63-127-43IZ.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="63" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-63-127-43IZ.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -2818,7 +2818,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="64" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-64-127-3CW5.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="64" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-64-127-3CW5.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -2838,7 +2838,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="65" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-65-127-Z63K.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="65" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-65-127-Z63K.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -2858,7 +2858,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="66" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-66-127-OMWW.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="66" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-66-127-OMWW.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -2878,7 +2878,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="67" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-67-127-MY6R.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="67" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-67-127-MY6R.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -2898,7 +2898,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="68" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-68-127-DYWB.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="68" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-68-127-DYWB.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -2918,7 +2918,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="69" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-69-127-T48Z.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="69" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-69-127-T48Z.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -2938,7 +2938,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="70" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-70-127-452O.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="70" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-70-127-452O.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -2958,7 +2958,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="71" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-71-127-9QJP.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="71" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-71-127-9QJP.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>
@@ -2978,7 +2978,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="72" DisplayName="Oscillator 1" SamplePath="./../../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-72-127-7WNC.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="72" DisplayName="Oscillator 1" SamplePath="./../../../sys100Audio/Bonus Audio/Wobbly Thing 4/mod101-72-127-7WNC.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                 </Connections>

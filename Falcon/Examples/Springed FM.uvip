@@ -41,7 +41,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="0.9065761" Pitch="0" NoteTracking="1" BaseNote="60" DisplayName="Oscillator 1" SamplePath="./../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C3-95-UP8E.wav" SampleStart="0" InterpolationMode="2" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="0.9065761" Pitch="0" NoteTracking="1" BaseNote="60" DisplayName="Oscillator 1" SamplePath="./../../sys100Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C3-95-UP8E.wav" SampleStart="0" InterpolationMode="2" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="SignalConnection 0" Ratio="0.58337826" Source="$Keygroup/DAHDSR 1" Destination="Gain" Mapper="Mapper 5" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
@@ -63,7 +63,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="0.9065761" Pitch="0" NoteTracking="1" BaseNote="60" DisplayName="Oscillator 1" SamplePath="./../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C3-64-K7NS.wav" SampleStart="0" InterpolationMode="2" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="0.9065761" Pitch="0" NoteTracking="1" BaseNote="60" DisplayName="Oscillator 1" SamplePath="./../../sys100Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C3-64-K7NS.wav" SampleStart="0" InterpolationMode="2" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="SignalConnection 0" Ratio="0.58337826" Source="$Keygroup/DAHDSR 1" Destination="Gain" Mapper="Mapper 3" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
@@ -85,7 +85,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="0.9065761" Pitch="0" NoteTracking="1" BaseNote="60" DisplayName="Oscillator 1" SamplePath="./../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C3-16-NC3U.wav" SampleStart="0" InterpolationMode="2" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="0.9065761" Pitch="0" NoteTracking="1" BaseNote="60" DisplayName="Oscillator 1" SamplePath="./../../sys100Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C3-16-NC3U.wav" SampleStart="0" InterpolationMode="2" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="SignalConnection 0" Ratio="0.58337826" Source="$Keygroup/DAHDSR 1" Destination="Gain" Mapper="Mapper 0" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
@@ -107,7 +107,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="0.9065761" Pitch="0" NoteTracking="1" BaseNote="60" DisplayName="Oscillator 1" SamplePath="./../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C3-127-2MFT.wav" SampleStart="0" InterpolationMode="2" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="0.9065761" Pitch="0" NoteTracking="1" BaseNote="60" DisplayName="Oscillator 1" SamplePath="./../../sys100Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C3-127-2MFT.wav" SampleStart="0" InterpolationMode="2" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="SignalConnection 0" Ratio="0.58337826" Source="$Keygroup/DAHDSR 1" Destination="Gain" Mapper="Mapper 7" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
@@ -129,7 +129,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="0.9065761" Pitch="0" NoteTracking="1" BaseNote="60" DisplayName="Oscillator 1" SamplePath="./../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C3-48-IKYJ.wav" SampleStart="0" InterpolationMode="2" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="0.9065761" Pitch="0" NoteTracking="1" BaseNote="60" DisplayName="Oscillator 1" SamplePath="./../../sys100Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C3-48-IKYJ.wav" SampleStart="0" InterpolationMode="2" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="SignalConnection 0" Ratio="0.58337826" Source="$Keygroup/DAHDSR 1" Destination="Gain" Mapper="Mapper 2" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
@@ -151,7 +151,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="0.9065761" Pitch="0" NoteTracking="1" BaseNote="60" DisplayName="Oscillator 1" SamplePath="./../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C3-32-GTUZ.wav" SampleStart="0" InterpolationMode="2" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="0.9065761" Pitch="0" NoteTracking="1" BaseNote="60" DisplayName="Oscillator 1" SamplePath="./../../sys100Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C3-32-GTUZ.wav" SampleStart="0" InterpolationMode="2" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="SignalConnection 0" Ratio="0.58337826" Source="$Keygroup/DAHDSR 1" Destination="Gain" Mapper="Mapper 1" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
@@ -173,7 +173,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="0.9065761" Pitch="0" NoteTracking="1" BaseNote="60" DisplayName="Oscillator 1" SamplePath="./../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C3-111-J5N1.wav" SampleStart="0" InterpolationMode="2" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="0.9065761" Pitch="0" NoteTracking="1" BaseNote="60" DisplayName="Oscillator 1" SamplePath="./../../sys100Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C3-111-J5N1.wav" SampleStart="0" InterpolationMode="2" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="SignalConnection 0" Ratio="0.58337826" Source="$Keygroup/DAHDSR 1" Destination="Gain" Mapper="Mapper 6" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
@@ -195,7 +195,7 @@
                         </ControlSignalSources>
                         <BusRouters/>
                         <Oscillators>
-                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="0.9065761" Pitch="0" NoteTracking="1" BaseNote="60" DisplayName="Oscillator 1" SamplePath="./../../../../../../Dropbox/Samples/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C3-79-WJEX.wav" SampleStart="0" InterpolationMode="2" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="0.9065761" Pitch="0" NoteTracking="1" BaseNote="60" DisplayName="Oscillator 1" SamplePath="./../../sys100Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C3-79-WJEX.wav" SampleStart="0" InterpolationMode="2" AllowStreaming="1" Reverse="0" SamplePurged="0">
                                 <Connections>
                                     <SignalConnection Name="SignalConnection 0" Ratio="0.58337826" Source="$Keygroup/DAHDSR 1" Destination="Gain" Mapper="Mapper 4" ConnectionMode="0" Bypass="0" Inverted="0"/>
                                     <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>

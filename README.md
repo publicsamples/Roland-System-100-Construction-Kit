@@ -38,5 +38,5 @@ A construction kit recorded with this 70s semi-modular. Includes a Kontakt instr
 [Report issues](/issues) - [Buy a Sample Library](https://gumroad.com/modularsamples) - [Become a Patreon](https://www.patreon.com/modularsamples) - [Add new patches & Formats](/pulls)
 
 [
-![Waveform Library](http://www.modularsamples.com/samples/product/waveformlibrary/wl.jpg)
-](https://gum.co/HyCRq)
+![dx15](https://www.modularsamples.com/samples/product/dx-15/dxx.jpg?raw=true)
+](https://modularsamples.gumroad.com/l/ZheoA?_ga=2.45787239.258770942.1631102835-235093083.1631102835)

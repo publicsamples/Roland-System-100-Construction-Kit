@@ -8,9 +8,7 @@ A construction kit recorded with this 70s semi-modular. Includes a Kontakt instr
 -   **Info:** [Wikipedia](https://en.wikipedia.org/wiki/Roland_System_100)
 - [Web Audio Demo](https://www.modularsamples.com/Demos/demos/sys101.html)
 
-**This collection requires you to download the audio seperately**
-
-[Download Audio from Dropbox](https://www.dropbox.com/sh/quuxgpyqd8bbba8/AADagGRUP6UGlLYKOklm7o03a?dl=0)
+**[Download Audio](https://github.com/publicsamples/Roland-System-100-Construction-Kit/releases/tag/1.0)**
 
 # Loading
 

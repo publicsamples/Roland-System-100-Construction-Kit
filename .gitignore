@@ -2,3 +2,4 @@
 *.ndx
 *.wav
 *.asd
+.DS_Store
